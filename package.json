@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev buddhism-library",
+    "docs:build": "vitepress build buddhism-library",
+    "docs:preview": "vitepress preview buddhism-library"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
