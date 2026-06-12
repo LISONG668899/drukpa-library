@@ -1,31 +1,35 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: '竹巴噶举法藏',
-  description: '汇集古吉·钦哲译传之竹巴噶举法教资源',
+  title: '竹巴噶举教法宝藏',
+  description: 'འབྲུག་པའི་ཆོས་མཛོད།',
 
   themeConfig: {
+    logo: '/logo.jpg',
+
     nav: [
-      { text: '首页', link: '/' },
-      { text: '关于我们', link: '/about' },
-      { text: '联络方式', link: '/contact' }
+      { text: '主页', link: '/' },
+      { text: '竹巴噶举简介', link: '/drukpa/' },
+      { text: '联络方式', link: '/contact/' }
     ],
 
     sidebar: [
       {
-        text: '传承祖师',
+        text: '教法分类',
         items: [
-          { text: '金刚总持', link: '/传承祖师/金刚总持/传记' },
-          { text: '帝洛巴', link: '/传承祖师/帝洛巴/传记' },
-          { text: '那洛巴', link: '/传承祖师/那洛巴/传记' },
-          { text: '玛尔巴', link: '/传承祖师/玛尔巴/传记' },
-          { text: '密勒日巴', link: '/传承祖师/密勒日巴/传记' },
-          { text: '冈波巴', link: '/传承祖师/冈波巴/传记' },
-          { text: '帕木竹巴', link: '/传承祖师/帕木竹巴/传记' },
-          { text: '林热巴', link: '/传承祖师/林热巴/传记' },
-          { text: '藏巴嘉热', link: '/传承祖师/藏巴嘉热/传记' }
+          { text: '祖师简介', link: '/祖师简介/' },
+          { text: '祖师教言', link: '/祖师教言/' },
+          { text: '皈依发心', link: '/皈依发心/' },
+          { text: '大手印引导', link: '/大手印引导/' },
+          { text: '达波四法（道次第）', link: '/达波四法（道次第）/' },
+          { text: '六类一味法', link: '/六类一味法/' },
+          { text: '中阴与破瓦', link: '/中阴与破瓦/' },
+          { text: '修法仪轨', link: '/修法仪轨/' },
+          { text: '祈祷发愿文', link: '/祈祷发愿文/' }
         ]
       }
-    ]
+    ],
+
+    socialLinks: []
   }
 })
