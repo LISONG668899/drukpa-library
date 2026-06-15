@@ -13,7 +13,7 @@ export default defineConfig({
 
     nav: [
       { text: '主页', link: '/' },
-      { text: '竹巴噶举简介', link: '/drukpa/' },
+      { text: '竹巴噶举简介', link: '/zhukagyu/' },
       { text: '联络方式', link: '/contact/' }
     ],
 
