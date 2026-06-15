@@ -4,6 +4,7 @@ export default defineConfig({
   base: '/',
   lang: 'zh-CN',
   title: '竹巴噶举教法宝藏',
+  ignoreDeadLinks: true,
 
   themeConfig: {
     nav: [
