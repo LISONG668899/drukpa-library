@@ -10,11 +10,11 @@ title: 首页
 
   <a class="dz-card" href="/祖师简介/">祖师简介</a>
   <a class="dz-card" href="/祖师教言/">祖师教言</a>
+  <a class="dz-card" href="/皈依发心/">皈依发心</a>
+  <a class="dz-card" href="/达波四法/">达波四法</a>
   <a class="dz-card" href="/大手印引导/">大手印引导</a>
   <a class="dz-card" href="/六类一味法/">六类一味法</a>
-  <a class="dz-card" href="/达波四法/">达波四法</a>
   <a class="dz-card" href="/中阴与破瓦/">中阴与破瓦</a>
-  <a class="dz-card" href="/皈依发心/">皈依发心</a>
   <a class="dz-card" href="/修法仪轨/">修法仪轨</a>
   <a class="dz-card" href="/祈祷发愿文/">祈祷发愿文</a>
   <a class="dz-card" href="/其他/">其他资料</a>
