@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '竹巴噶举简介', link: '/zhukagyu/' }
+      { text: '竹巴噶举简介', link: '/docs/zhukagyu/' }
     ]
   }
 })
