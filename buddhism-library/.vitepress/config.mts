@@ -2,11 +2,13 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'zh-CN',
+
   title: '竹巴噶举教法宝藏',
   description: 'འབྲུག་པའི་ཆོས་མཛོད།',
 
   themeConfig: {
     logo: '/logo.jpg',
+
     siteTitle: '竹巴噶举教法宝藏',
 
     nav: [
