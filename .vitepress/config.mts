@@ -4,13 +4,13 @@ export default defineConfig({
   base: '/',
   lang: 'zh-CN',
 
-  title: '竹巴噶举教法宝藏',
+  title: '竹巴噶举妙法宝箧',
   description: '竹巴噶举法教资料整理',
 
   themeConfig: {
-    siteTitle: '竹巴噶举教法宝藏',
+    siteTitle: '竹巴噶举妙法宝箧',
 
-    logo: '/logo.jpg',
+    logo: '/logo.png',
 
     nav: [
       { text: '首页', link: '/' },
@@ -52,7 +52,7 @@ export default defineConfig({
 
     footer: {
       message: '',
-      copyright: '© 2026 竹巴噶举教法宝藏'
+      copyright: '竹巴噶举妙法宝箧'
     }
   }
 })

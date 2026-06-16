@@ -5,21 +5,23 @@ title: 首页
 
 <div class="dz-home">
 
-  <h1 class="dz-title">竹巴噶举教法宝藏</h1>
-  <div class="dz-tibetan">འབྲུག་པའི་ཆོས་མཛོད།</div>
+  <img class="dz-zang" src="/zang.png" alt="竹巴噶举妙法宝箧" />
+  <h1 class="dz-title">竹巴噶举妙法宝箧</h1>
 
   <a class="dz-card" href="/祖师简介/">祖师简介</a>
   <a class="dz-card" href="/祖师教言/">祖师教言</a>
   <a class="dz-card" href="/皈依发心/">皈依发心</a>
   <a class="dz-card" href="/达波四法/">达波四法</a>
-  <a class="dz-card" href="/大手印引导/">大手印引导</a>
-  <a class="dz-card" href="/六类一味法/">六类一味法</a>
-  <a class="dz-card" href="/中阴与破瓦/">中阴与破瓦</a>
+  <a class="dz-card" href="/大手印法/">大手印法</a>
+  <a class="dz-card" href="/中阴教法/">中阴教法</a>
   <a class="dz-card" href="/修法仪轨/">修法仪轨</a>
-  <a class="dz-card" href="/祈祷发愿文/">祈祷发愿文</a>
-  <a class="dz-card" href="/其他/">其他资料</a>
+  <a class="dz-card" href="/祈祷发愿/">祈祷发愿</a>
+  <a class="dz-card" href="/其他资料/">其他资料</a>
 
-  <div class="dz-copyright">© 2026 竹巴噶举教法宝藏</div>
+  <div class="dz-footer">
+    <img class="dz-copyicon" src="/copy.png" alt="" />
+    <div class="dz-copyright">竹巴噶举妙法宝箧</div>
+  </div>
 
 </div>
 
@@ -27,22 +29,22 @@ title: 首页
 .dz-home {
   max-width: 760px;
   margin: 0 auto;
-  padding: 36px 20px 64px;
+  padding: 40px 20px 64px;
+}
+.dz-zang {
+  display: block;
+  width: 260px;
+  max-width: 70%;
+  height: auto;
+  margin: 0 auto 14px;
 }
 .dz-title {
   text-align: center;
   font-size: 32px;
   font-weight: 700;
-  margin: 0 0 6px;
+  margin: 0 0 40px;
   border: 0;
-  letter-spacing: 2px;
-}
-.dz-tibetan {
-  text-align: center;
-  font-size: 24px;
-  line-height: 1.6;
-  color: var(--vp-c-text-2);
-  margin-bottom: 40px;
+  letter-spacing: 3px;
 }
 .dz-card {
   display: block;
@@ -64,16 +66,26 @@ title: 首页
   transform: translateY(-2px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, .08);
 }
-.dz-copyright {
-  margin-top: 52px;
+.dz-footer {
+  margin-top: 56px;
   text-align: center;
+}
+.dz-copyicon {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  margin-bottom: 8px;
+  opacity: .85;
+}
+.dz-copyright {
   font-size: 13px;
   color: var(--vp-c-text-3);
+  letter-spacing: 1px;
 }
 @media (max-width: 640px) {
   .dz-home { padding: 28px 16px 48px; }
-  .dz-title { font-size: 26px; }
-  .dz-tibetan { font-size: 20px; }
+  .dz-zang { width: 200px; }
+  .dz-title { font-size: 26px; margin-bottom: 32px; }
   .dz-card { font-size: 17px; padding: 16px 18px; border-radius: 14px; }
 }
 </style>
