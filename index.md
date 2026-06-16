@@ -5,7 +5,7 @@ title: 首页
 
 <div class="dz-home">
 
-  <div class="dz-zang">འབྲུག་པོ་བཀའ་རྒྱུད་ཆོས་ཀྱི་བང་མཛོད།</div>
+  <div class="dz-zang">འབྲུག་པ་བཀའ་བརྒྱུད་ཆོས་ཀྱི་ཟ་མ་ཏོག</div>
   <h1 class="dz-title">竹巴噶举妙法宝箧</h1>
 
   <a class="dz-card" href="/祖师简介/">祖师简介</a>
@@ -19,7 +19,7 @@ title: 首页
   <a class="dz-card" href="/其他资料/">其他资料</a>
 
   <div class="dz-footer">
-    <img class="dz-copyicon" src="/copy.png" alt="" />
+    <img class="dz-copyicon" src="/copy.jpg" alt="" />
     <div class="dz-copyright">© 2026 竹巴噶举妙法宝箧</div>
   </div>
 
@@ -75,11 +75,12 @@ title: 首页
   text-align: center;
 }
 .dz-copyicon {
-  width: 40px;
-  height: 40px;
+  height: 44px;
+  width: auto;
+  max-width: 80%;
   display: inline-block;
   margin-bottom: 8px;
-  opacity: .85;
+  opacity: .9;
 }
 .dz-copyright {
   font-size: 13px;
