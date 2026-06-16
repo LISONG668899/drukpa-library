@@ -5,7 +5,7 @@ title: 首页
 
 <div class="dz-home">
 
-  <img class="dz-zang" src="/zang.png" alt="竹巴噶举妙法宝箧" />
+  <div class="dz-zang">འབྲུག་པོ་བཀའ་རྒྱུད་ཆོས་ཀྱི་བང་མཛོད།</div>
   <h1 class="dz-title">竹巴噶举妙法宝箧</h1>
 
   <a class="dz-card" href="/祖师简介/">祖师简介</a>
@@ -20,23 +20,27 @@ title: 首页
 
   <div class="dz-footer">
     <img class="dz-copyicon" src="/copy.png" alt="" />
-    <div class="dz-copyright">竹巴噶举妙法宝箧</div>
+    <div class="dz-copyright">© 2026 竹巴噶举妙法宝箧</div>
   </div>
 
 </div>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Tibetan:wght@400;500&display=swap');
+
 .dz-home {
   max-width: 760px;
   margin: 0 auto;
   padding: 40px 20px 64px;
 }
 .dz-zang {
-  display: block;
-  width: 260px;
-  max-width: 70%;
-  height: auto;
-  margin: 0 auto 14px;
+  text-align: center;
+  font-family: 'Noto Serif Tibetan', 'Microsoft Himalaya', 'Kailasa', 'Jomolhari', serif;
+  font-size: 26px;
+  line-height: 2;
+  color: var(--vp-c-text-1);
+  margin-bottom: 10px;
+  word-break: break-word;
 }
 .dz-title {
   text-align: center;
@@ -84,7 +88,7 @@ title: 首页
 }
 @media (max-width: 640px) {
   .dz-home { padding: 28px 16px 48px; }
-  .dz-zang { width: 200px; }
+  .dz-zang { font-size: 21px; }
   .dz-title { font-size: 26px; margin-bottom: 32px; }
   .dz-card { font-size: 17px; padding: 16px 18px; border-radius: 14px; }
 }
