@@ -1,8 +1,9 @@
+/* 悬浮回主页按钮 */
 .back-to-home {
   position: fixed;
   right: 24px;
   bottom: 24px;
-  z-index: 100;
+  z-index: 200;
   display: inline-flex;
   align-items: center;
   gap: 6px;
@@ -24,6 +25,26 @@
   box-shadow: 0 8px 22px rgba(0, 0, 0, .18);
 }
 .back-to-home svg { display: block; }
+
+/* 全站统一页脚 copyright */
+.site-footer {
+  margin-top: 64px;
+  padding: 28px 20px 44px;
+  border-top: 1px solid var(--vp-c-divider);
+  text-align: center;
+}
+.site-footer-icon {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  margin-bottom: 8px;
+  opacity: .85;
+}
+.site-footer-text {
+  font-size: 13px;
+  color: var(--vp-c-text-3);
+  letter-spacing: 1px;
+}
 
 @media (max-width: 640px) {
   .back-to-home {

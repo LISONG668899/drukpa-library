@@ -4,7 +4,6 @@ import { useRoute, withBase } from 'vitepress'
 
 const route = useRoute()
 const home = withBase('/')
-// 仅在非主页显示
 const show = computed(() => {
   const p = decodeURIComponent(route.path)
   return p !== '/' && p !== '/index.html'

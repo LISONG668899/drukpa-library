@@ -48,11 +48,6 @@ export default defineConfig({
           }
         }
       }
-    },
-
-    footer: {
-      message: '',
-      copyright: '© 2026 竹巴噶举妙法宝箧'
     }
   }
 })

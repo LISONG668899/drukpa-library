@@ -18,11 +18,6 @@ title: 首页
   <a class="dz-card" href="/祈祷发愿/">祈祷发愿</a>
   <a class="dz-card" href="/其他资料/">其他资料</a>
 
-  <div class="dz-footer">
-    <img class="dz-copyicon" src="/copy.jpg" alt="" />
-    <div class="dz-copyright">© 2026 竹巴噶举妙法宝箧</div>
-  </div>
-
 </div>
 
 <style>
