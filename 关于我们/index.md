@@ -50,11 +50,11 @@ layout: page
 }
 .about-intro {
   font-size: 16px;
-  line-height: 1.9;
-  text-align: center;
+  line-height: 2;
+  text-align: left;
+  text-indent: 2em;
   color: var(--vp-c-text-1);
-  max-width: 600px;
-  margin: 0 auto 32px;
+  margin: 0 0 32px;
 }
 .about-h2 {
   text-align: center;
