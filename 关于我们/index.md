@@ -4,13 +4,13 @@ title: 关于我们
 
 <div class="about-page">
 
-<img class="about-logo" src="/logo2.png" alt="竹巴噶举译经办公室" />
+<img class="about-logo" src="/copy.png" alt="竹巴噶举译经办公室" />
 
 <p class="about-intro">竹巴噶举译经办公室成立于 2021 年，受嘉旺竹巴法王嘱托，主要翻译竹巴噶举教法与历代传承上师窍诀。</p>
 
 <h2 class="about-h2">尊贵嘉旺竹巴法王授权书</h2>
 
-<img class="about-pic" src="/women.jpg" alt="尊贵嘉旺竹巴法王授权书" />
+<img class="about-pic" src="/women.jpg" alt="尊贵嘉旺竹巴法王授权书" loading="lazy" decoding="async" width="1376" height="1967" />
 
 <div class="about-letter">
 
@@ -28,6 +28,11 @@ title: 关于我们
 
 </div>
 
+<div class="about-contact">
+竹巴噶举译经办公室<br>
+电子邮件：<a href="mailto:drukpatrove@gmail.com">drukpatrove@gmail.com</a>
+</div>
+
 </div>
 
 <style>
@@ -38,10 +43,9 @@ title: 关于我们
 }
 .about-logo {
   display: block;
-  width: 200px;
-  max-width: 50%;
+  width: 96px;
   height: auto;
-  margin: 8px auto 24px;
+  margin: 8px auto 32px;
 }
 .about-intro {
   font-size: 16px;
@@ -49,13 +53,13 @@ title: 关于我们
   text-align: center;
   color: var(--vp-c-text-1);
   max-width: 600px;
-  margin: 0 auto 8px;
+  margin: 0 auto 32px;
 }
 .about-h2 {
   text-align: center;
   border: 0;
   font-size: 22px;
-  margin: 40px 0 24px;
+  margin: 32px 0;
   padding-top: 0;
 }
 .about-pic {
@@ -63,22 +67,33 @@ title: 关于我们
   width: 420px;
   max-width: 100%;
   height: auto;
-  margin: 0 auto 36px;
+  margin: 0 auto 32px;
   border-radius: 8px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, .12);
+  background: var(--vp-c-bg-soft);
 }
 .about-letter {
   font-size: 16px;
   line-height: 2;
 }
 .about-letter p {
-  margin: 18px 0;
+  margin: 0 0 32px;
   text-indent: 2em;
 }
 .about-sign {
   text-align: right;
   text-indent: 0 !important;
-  margin-top: 28px !important;
+  margin-top: 32px !important;
+  margin-bottom: 0 !important;
+  color: var(--vp-c-text-2);
+}
+.about-contact {
+  margin-top: 32px;
+  padding-top: 24px;
+  border-top: 1px solid var(--vp-c-divider);
+  text-align: center;
+  font-size: 15px;
+  line-height: 1.9;
   color: var(--vp-c-text-2);
 }
 @media (max-width: 640px) {
