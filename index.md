@@ -36,16 +36,17 @@ title: 首页
 .dz-zang {
   text-align: center;
   font-family: 'Noto Serif Tibetan', 'Microsoft Himalaya', 'Kailasa', 'Jomolhari', serif;
-  font-size: 22px;
-  line-height: 1.9;
+  font-size: 15px;
+  line-height: 1.45;
   color: var(--vp-c-text-1);
-  margin-bottom: 10px;
+  margin-bottom: 2px;
   white-space: nowrap;
 }
 .dz-title {
   text-align: center;
   font-size: 32px;
   font-weight: 700;
+  line-height: 1.2;
   margin: 0 0 40px;
   border: 0;
   letter-spacing: 3px;
@@ -89,7 +90,7 @@ title: 首页
 }
 @media (max-width: 640px) {
   .dz-home { padding: 28px 16px 48px; }
-  .dz-zang { font-size: 18px; }
+  .dz-zang { font-size: 12px; }
   .dz-title { font-size: 26px; margin-bottom: 32px; }
   .dz-card { font-size: 17px; padding: 16px 18px; border-radius: 14px; }
 }
