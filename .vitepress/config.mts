@@ -13,16 +13,16 @@ export default defineConfig({
     logo: '/logo.png',
 
     nav: [
-      { text: '首页', link: '/' },
-      { text: '噶举教法简介', link: '/docs/zhukagyu/' },
-      { text: '联络我们', link: '/contact/' }
+      { text: '主页', link: '/' },
+      { text: '关于我们', link: '/关于我们/' },
+      { text: '竹巴噶举简介', link: '/竹巴噶举简介/' }
     ],
 
     sidebar: [
       {
         text: '内容导航',
         items: [
-          { text: '噶举教法简介', link: '/docs/zhukagyu/' }
+          { text: '竹巴噶举简介', link: '/竹巴噶举简介/' }
         ]
       }
     ],
@@ -52,7 +52,7 @@ export default defineConfig({
 
     footer: {
       message: '',
-      copyright: '竹巴噶举妙法宝箧'
+      copyright: '© 2026 竹巴噶举妙法宝箧'
     }
   }
 })
