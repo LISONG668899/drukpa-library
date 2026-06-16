@@ -40,11 +40,11 @@ layout: page
 .about-page {
   max-width: 720px;
   margin: 0 auto;
-  padding-bottom: 48px;
+  padding: 24px 28px 48px;
 }
 .about-logo {
   display: block;
-  width: 96px;
+  width: 180px;
   height: auto;
   margin: 8px auto 32px;
 }
@@ -98,6 +98,7 @@ layout: page
   color: var(--vp-c-text-2);
 }
 @media (max-width: 640px) {
+  .about-page { padding: 20px 20px 40px; }
   .about-intro, .about-letter { font-size: 15px; }
   .about-pic { width: 100%; }
 }
