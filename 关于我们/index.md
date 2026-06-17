@@ -7,29 +7,11 @@ layout: page
 
 <img class="about-logo" src="/copy.png" alt="竹巴噶举译经办公室" />
 
-<p class="about-intro">竹巴噶举译经办公室成立于 2021 年，受嘉旺竹巴法王嘱托，主要翻译竹巴噶举教法与历代传承上师窍诀。</p>
+<p class="about-intro">竹巴噶举译经办公室成立于 2021 年，受尊贵嘉旺竹巴法王嘱托，主要翻译藏传佛教竹巴噶举派教法与历代传承上师窍诀。</p>
 
-<p class="about-intro">为使这些译作不致散佚、并能利益更多有缘者，竹巴噶举译经办公室特建立「竹巴噶举妙法宝箧」（drukpatrove.org），将历年译稿与相关法藏资料在此结集、长期保存、公开流通。</p>
+<p class="about-intro">为方便广大修学者研读、实修竹巴噶举殊胜妙法，本办公室特建立网站——竹巴噶举妙法宝箧（drukpatrove.org）。网站持续校勘、整理译稿，收录传承教法、祖师言教与实修窍诀，完整留存竹巴传承清净法要；法本面向海内外竹巴弟子及十方修学者免费阅览、研习，祈愿清净法脉长久住世、广利有情。</p>
 
-<h2 class="about-h2">尊贵嘉旺竹巴法王授权书</h2>
-
-<img class="about-pic" src="/women.jpg" alt="尊贵嘉旺竹巴法王授权书" loading="lazy" decoding="async" width="1376" height="1967" />
-
-<div class="about-letter">
-
-遍智者·竹巴白玛嘎波尊者所著《六类一味法》秘诀，由古普钦哲仁波切翻译成中文，如此承侍于竹巴传承，本人由衷敬佩、随喜，并深表谢意。
-
-此书预将出版、发行，为了协助和谢意，本人敬献此段前言。
-
-仁波切所译经文不只于此书，之前亦有翻译、出版《大手印引导笔记》等重要经文。
-
-钦哲仁波切，在竹巴翻译小组中任翻译工作，尽心尽力，我对此赞叹，并随喜功德。
-
-望仁波切持之以恒翻译竹巴传承迫切需要的其它法本。最后，希望与仁波切尽快相会。
-
-<p class="about-sign">——嘉旺竹巴法王亲笔于三安曲林寺</p>
-
-</div>
+<p class="about-intro">本站所有译本著作严禁商用。个人研习、自行存阅可自由取用，无需另行注明；若公开转载或学术引用，请注明出处，并请勿篡改、删减译文。</p>
 
 <div class="about-contact">
 竹巴噶举译经办公室<br>
@@ -46,49 +28,17 @@ layout: page
 }
 .about-logo {
   display: block;
-  width: 180px;
+  width: 120px;
   height: auto;
   margin: 8px auto 32px;
 }
 .about-intro {
-  font-size: 16px;
-  line-height: 2;
-  text-align: left;
+  font-size: 17px;
+  line-height: 1.9;
+  text-align: justify;
   text-indent: 2em;
   color: var(--vp-c-text-1);
-  margin: 0 0 32px;
-}
-.about-h2 {
-  text-align: center;
-  border: 0;
-  font-size: 22px;
-  margin: 32px 0;
-  padding-top: 0;
-}
-.about-pic {
-  display: block;
-  width: 420px;
-  max-width: 100%;
-  height: auto;
-  margin: 0 auto 32px;
-  border-radius: 8px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, .12);
-  background: var(--vp-c-bg-soft);
-}
-.about-letter {
-  font-size: 16px;
-  line-height: 2;
-}
-.about-letter p {
-  margin: 0 0 32px;
-  text-indent: 2em;
-}
-.about-sign {
-  text-align: right;
-  text-indent: 0 !important;
-  margin-top: 32px !important;
-  margin-bottom: 0 !important;
-  color: var(--vp-c-text-2);
+  margin: 0 0 16px;
 }
 .about-contact {
   margin-top: 32px;
@@ -101,7 +51,7 @@ layout: page
 }
 @media (max-width: 640px) {
   .about-page { padding: 20px 20px 40px; }
-  .about-intro, .about-letter { font-size: 15px; }
-  .about-pic { width: 100%; }
+  .about-intro { font-size: 16px; }
+  .about-logo { width: 100px; }
 }
 </style>

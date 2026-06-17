@@ -74,12 +74,12 @@ layout: page
   margin: 0 0 40px;
 }
 .intro-body {
-  font-size: 16px;
-  line-height: 2;
+  font-size: 17px;
+  line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
   color: var(--vp-c-text-1);
-  margin: 0 0 28px;
+  margin: 0 0 16px;
 }
 .intro-sign {
   text-align: right;
@@ -91,6 +91,6 @@ layout: page
 @media (max-width: 640px) {
   .intro-page { padding: 20px 20px 40px; }
   .intro-title { font-size: 22px; }
-  .intro-body, .intro-verse { font-size: 15px; }
+  .intro-body, .intro-verse { font-size: 16px; }
 }
 </style>
