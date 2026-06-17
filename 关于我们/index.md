@@ -9,6 +9,8 @@ layout: page
 
 <p class="about-intro">竹巴噶举译经办公室成立于 2021 年，受嘉旺竹巴法王嘱托，主要翻译竹巴噶举教法与历代传承上师窍诀。</p>
 
+<p class="about-intro">为使这些译作不致散佚、并能利益更多有缘者，竹巴噶举译经办公室特建立「竹巴噶举妙法宝箧」（drukpatrove.org），将历年译稿与相关法藏资料在此结集、长期保存、公开流通。</p>
+
 <h2 class="about-h2">尊贵嘉旺竹巴法王授权书</h2>
 
 <img class="about-pic" src="/women.jpg" alt="尊贵嘉旺竹巴法王授权书" loading="lazy" decoding="async" width="1376" height="1967" />
@@ -31,7 +33,7 @@ layout: page
 
 <div class="about-contact">
 竹巴噶举译经办公室<br>
-电子邮件：<a href="mailto:drukpatrove@gmail.com">drukpatrove@gmail.com</a>
+电子邮件：<a href="mailto:contact@drukpatrove.org">contact@drukpatrove.org</a>
 </div>
 
 </div>
