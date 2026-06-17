@@ -15,14 +15,14 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '关于我们', link: '/关于我们/' },
-      { text: '竹巴噶举简介', link: '/竹巴噶举简介/' }
+      { text: '竹巴噶举', link: '/竹巴噶举简介/' }
     ],
 
     sidebar: [
       {
         text: '内容导航',
         items: [
-          { text: '竹巴噶举简介', link: '/竹巴噶举简介/' }
+          { text: '竹巴噶举', link: '/竹巴噶举简介/' }
         ]
       }
     ],
