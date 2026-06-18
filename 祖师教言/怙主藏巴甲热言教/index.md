@@ -1,0 +1,129 @@
+---
+layout: page
+title: 怙主藏巴甲热言教
+---
+
+<div class="jy-page">
+
+<p class="jy-title-bo">༈ འགྲོ་མགོན་གཙང་པ་རྒྱ་རས་ཀྱི་ཞལ་གདམས།</p>
+<h1 class="intro-title">怙主藏巴甲热言教</h1>
+<p class="intro-author">藏巴甲热</p>
+
+<p class="bo">ནོར་འཚོལ་བ་ལས་ཀྱང་ཉ་ར་དཀའ།།</p>
+<p class="bo">དད་རྫས་ཆུད་ཟོས་སུ་སོང་བ་ཨ་ཙ་མ།།</p>
+<p class="intro-verse">找财不难管财难<br>
+可惜浪费信众财</p>
+<p class="bo">འཁོར་འདུ་བ་ལས་ཀྱང་སྐྱོང་བ་དཀའ།།</p>
+<p class="bo">སློབ་མ་ཁ་སྟོང་དུ་གཏོང་བ་ཨ་ཙ་མ།།</p>
+<p class="intro-verse">收徒不难教徒难<br>
+可惜徒儿无教诲</p>
+<p class="bo">སྒོམ་སྐྱེ་བ་ལས་ཀྱང་སྐྱོང་བ་དཀའ།།</p>
+<p class="bo">དྲེད་པོར་སོང་བ་ཨ་ཙ་མ།།</p>
+<p class="intro-verse">坐禅不难护禅难<br>
+可惜成了法油子</p>
+<p class="bo">གདམས་པ་ཤེས་པ་བས་ཀྱང་ཉམས་ལེན་དཀའ།།</p>
+<p class="bo">ཚིག་ཏུ་ཤོར་བ་ཨ་ཙ་མ།།</p>
+<p class="intro-verse">懂法不难修法难<br>
+可惜成了口头禅</p>
+<p class="bo">རྟེན་འབྲེལ་འཆར་བ་བས་ཀྱང་ལག་ལེན་དཀའ།།</p>
+<p class="bo">གོ་ཐོག་ཏུ་ལུས་པ་ཨ་ཙ་མ།།</p>
+<p class="intro-verse">如是缘起实践难<br>
+可惜能解无其境</p>
+
+</div>
+
+<style>
+.jy-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 48px 24px 48px;
+  --bo-color: #5d4a37;
+}
+.dark .jy-page { --bo-color: #d8c4a8; }
+.jy-title-bo {
+  text-align: center;
+  font-size: 19px;
+  line-height: 1.9;
+  color: var(--bo-color);
+  margin: 0 0 6px;
+  font-family: "Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
+}
+.intro-title {
+  text-align: center;
+  border: 0;
+  font-size: 26px;
+  margin: 6px 0 6px;
+  padding-top: 0;
+}
+.jy-subtitle {
+  text-align: center;
+  font-size: 16px;
+  color: var(--vp-c-text-2);
+  letter-spacing: 2px;
+  margin: 0 0 10px;
+}
+.intro-author {
+  text-align: center;
+  font-size: 15px;
+  color: var(--vp-c-text-2);
+  margin: 0 0 36px;
+}
+.bo {
+  font-size: 21px;
+  line-height: 2.0;
+  text-align: left;
+  color: var(--bo-color);
+  margin: 0 0 6px;
+  font-family: "Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
+}
+.bo-verse {
+  font-size: 21px;
+  line-height: 2.0;
+  text-align: center;
+  color: var(--bo-color);
+  margin: 0 0 6px;
+  font-family: "Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
+}
+.intro-body {
+  font-size: 18px;
+  line-height: 1.9;
+  text-align: justify;
+  text-indent: 2em;
+  color: var(--vp-c-text-1);
+  margin: 0 0 18px;
+}
+.intro-verse {
+  text-align: center;
+  font-size: 16px;
+  line-height: 2.2;
+  color: var(--vp-c-text-1);
+  letter-spacing: 1px;
+  margin: 0 0 30px;
+}
+.sec-label {
+  text-align: center;
+  text-indent: 0;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  color: #b06a43;
+  margin: 26px 0 14px;
+}
+.intro-sign {
+  text-align: right;
+  text-indent: 0;
+  font-size: 14px;
+  line-height: 1.9;
+  color: var(--vp-c-text-2);
+  margin: 8px 0 0;
+}
+.intro-sign.first { margin-top: 32px; }
+@media (max-width: 640px) {
+  .jy-page { padding: 22px 20px 40px; }
+  .intro-title { font-size: 22px; }
+  .jy-title-bo { font-size: 17px; }
+  .bo, .bo-verse { font-size: 19px; }
+  .intro-body { font-size: 17px; }
+  .intro-verse { font-size: 16px; }
+}
+</style>

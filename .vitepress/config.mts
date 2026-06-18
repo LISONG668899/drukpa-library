@@ -15,14 +15,18 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '关于我们', link: '/关于我们/' },
-      { text: '竹巴噶举', link: '/竹巴噶举简介/' }
+      { text: '竹巴噶举', link: '/竹巴噶举简介/' },
+      { text: '祖师简介', link: '/祖师简介/' },
+      { text: '祖师教言', link: '/祖师教言/' }
     ],
 
     sidebar: [
       {
         text: '内容导航',
         items: [
-          { text: '竹巴噶举', link: '/竹巴噶举简介/' }
+          { text: '竹巴噶举', link: '/竹巴噶举简介/' },
+          { text: '祖师简介', link: '/祖师简介/' },
+          { text: '祖师教言', link: '/祖师教言/' }
         ]
       }
     ],
