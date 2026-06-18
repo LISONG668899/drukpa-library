@@ -10,7 +10,7 @@ title: 祖师简介
 
 <div class="ph-grid">
   <a class="ph-card" href="/祖师简介/帕摩竹巴/"><span class="ph-name">帕摩竹巴</span><span class="ph-desc">帕竹噶举开山祖师</span></a>
-  <a class="ph-card" href="/祖师简介/岭钦日巴/"><span class="ph-name">岭钦日巴</span><span class="ph-desc">岭钦噶举创始人</span></a>
+  <a class="ph-card" href="/祖师简介/岭钦日巴/"><span class="ph-name">岭钦日巴</span><span class="ph-desc">岭日噶举创始人</span></a>
   <a class="ph-card" href="/祖师简介/藏巴甲热/"><span class="ph-name">藏巴甲热</span><span class="ph-desc">第一世嘉旺竹巴法王</span></a>
   <a class="ph-card" href="/祖师简介/白玛嘎波/"><span class="ph-name">白玛嘎波</span><span class="ph-desc">第四世嘉旺竹巴法王</span></a>
   <a class="ph-card" href="/祖师简介/郭仓巴/"><span class="ph-name">郭仓巴</span><span class="ph-desc">上竹巴噶举创始人</span></a>
