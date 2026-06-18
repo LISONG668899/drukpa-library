@@ -69,19 +69,19 @@ title: 十句修行者誓言
   margin: 0 0 36px;
 }
 .bo {
-  font-size: 21px;
-  line-height: 2.0;
+  font-size: 13px;
+  line-height: 1.6;
   text-align: left;
   color: var(--bo-color);
-  margin: 0 0 6px;
+  margin: 0 0 4px;
   font-family: "Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
 }
 .bo-verse {
-  font-size: 21px;
-  line-height: 2.0;
+  font-size: 13px;
+  line-height: 1.6;
   text-align: center;
   color: var(--bo-color);
-  margin: 0 0 6px;
+  margin: 0 0 4px;
   font-family: "Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
 }
 .intro-body {
@@ -90,7 +90,7 @@ title: 十句修行者誓言
   text-align: justify;
   text-indent: 2em;
   color: var(--vp-c-text-1);
-  margin: 0 0 18px;
+  margin: 0 0 16px;
 }
 .intro-verse {
   text-align: center;
@@ -98,7 +98,7 @@ title: 十句修行者誓言
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
-  margin: 0 0 30px;
+  margin: 0 0 40px;
 }
 .sec-label {
   text-align: center;
@@ -112,7 +112,7 @@ title: 十句修行者誓言
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -122,7 +122,7 @@ title: 十句修行者誓言
   .jy-page { padding: 22px 20px 40px; }
   .intro-title { font-size: 22px; }
   .jy-title-bo { font-size: 17px; }
-  .bo, .bo-verse { font-size: 19px; }
+  .bo, .bo-verse { font-size: 12px; }
   .intro-body { font-size: 17px; }
   .intro-verse { font-size: 16px; }
 }
