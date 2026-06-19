@@ -9,7 +9,7 @@ title: 十句修行者誓言
 <h1 class="intro-title">十句修行者誓言</h1>
 <p class="intro-author">法王藏巴甲热</p>
 
-<p class="bo">ཞབས་ཏོག་མ་འགྲུབ་ཀྱང་ཞབས་འདྲེན་མི་བྱེད་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས། བླ་མ་ལ་མོས་གུས་མ་སྐྱེས་ཀྱང་ལོག་ལྟ་མི་བསྒོམ་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས། མཆེད་གྲོགས་ལ་བརྩེ་གདུང་མ་སྐྱེས་ཀྱང་འཕྱར་ཀ་མི་གཏོང་བའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས། སྦྱིན་པ་མ་ཐོང་ཡང་གཞན་གྱི་རྙེད་པ་ལ་ཕྲག་དོག་མི་བྱེད་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས། རང་གིས་ཆོས་གཤའ་མ་མ་བྱུང་ཡང་གཞན་ལ་མི་བགྲང་བའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས། བདེན་འཛིན་མ་ལོག་ཀྱང་རྟག་པར་མི་འཛིན་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས། རབ་མ་བྱུང་ཡང་ཐ་མར་མི་སྡོད་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས། ཞེན་པ་མ་ལོག་ཀྱང་ཕ་ཡུལ་དུ་མི་སྡོད་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས། མགོ་ཐོན་མ་བྱུང་ཡང་བླ་འཚོང་མི་བྱེད་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས། འགྲོ་དོན་མ་འགྲུབ་ཀྱང་སྨོན་ལམ་འདེབས་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས།</p>
+<p class="bo">ཞབས་ཏོག་མ་འགྲུབ་ཀྱང་ཞབས་འདྲེན་མི་བྱེད་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས།བླ་མ་ལ་མོས་གུས་མ་སྐྱེས་ཀྱང་ལོག་ལྟ་མི་བསྒོམ་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས།མཆེད་གྲོགས་ལ་བརྩེ་གདུང་མ་སྐྱེས་ཀྱང་འཕྱར་ཀ་མི་གཏོང་བའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས།སྦྱིན་པ་མ་ཐོང་ཡང་གཞན་གྱི་རྙེད་པ་ལ་ཕྲག་དོག་མི་བྱེད་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས།རང་གིས་ཆོས་གཤའ་མ་མ་བྱུང་ཡང་གཞན་ལ་མི་བགྲང་བའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས།བདེན་འཛིན་མ་ལོག་ཀྱང་རྟག་པར་མི་འཛིན་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས།རབ་མ་བྱུང་ཡང་ཐ་མར་མི་སྡོད་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས།ཞེན་པ་མ་ལོག་ཀྱང་ཕ་ཡུལ་དུ་མི་སྡོད་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས།མགོ་ཐོན་མ་བྱུང་ཡང་བླ་འཚོང་མི་བྱེད་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས།འགྲོ་དོན་མ་འགྲུབ་ཀྱང་སྨོན་ལམ་འདེབས་པའི་ཞེ་དམ་བྱེད་པ་ཞིག་དགོས།</p>
 <p class="intro-verse">虽然无有侍奉之能力，但要立誓绝不做丢脸之事。<br>
 对师虽无虔敬之心，但要立誓绝不生起邪见。<br>
 佛友之间虽无感情，但要立誓绝不互相讥诽。<br>
@@ -48,27 +48,27 @@ title: 十句修行者誓言
 .intro-title {
   text-align: center;
   border: 0;
-  font-size: 26px;
+  font-size: 30px;
   margin: 6px 0 6px;
   padding-top: 0;
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 17px;
+  font-size: 18px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 16px;
+  font-size: 17px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
 .bo {
   font-size: 17px;
   line-height: 2.0;
-  text-align: justify;
+  text-align: left;
   color: var(--vp-c-text-1);
   margin: 0 0 6px;
 }
@@ -80,7 +80,7 @@ title: 十句修行者誓言
   margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 22px;
+  font-size: 26px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -89,7 +89,7 @@ title: 十句修行者誓言
 }
 .intro-verse {
   text-align: center;
-  font-size: 20px;
+  font-size: 24px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
@@ -98,7 +98,7 @@ title: 十句修行者誓言
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -107,7 +107,7 @@ title: 十句修行者誓言
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -115,11 +115,11 @@ title: 十句修行者誓言
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 23px; }
+  .intro-title { font-size: 26px; }
   .jy-title-bo { font-size: 18px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 20px; }
-  .intro-verse { font-size: 18px; }
+  .intro-body { font-size: 24px; }
+  .intro-verse { font-size: 22px; }
 }
 </style>

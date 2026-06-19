@@ -9,19 +9,19 @@ title: 拉泽瓦尊者道歌
 <h1 class="intro-title">拉泽瓦尊者道歌</h1>
 <p class="intro-author">拉泽瓦尊者</p>
 
-<p class="bo">ལེགས་བྱས་བསོད་ནམས་ལ་འབད་པས།། དལ་འབྱོར་སྐྱོན་མེད་དང་མཇལ་བྱུང་།། འཁོར་བ་སྡུག་བསྔལ་དུ་གོ་ནས།། དམ་པའི་ལྷ་ཆོས་ལ་ཆས་སོང་།།</p>
+<p class="bo">ལེགས་བྱས་བསོད་ནམས་ལ་འབད་པས།།དལ་འབྱོར་སྐྱོན་མེད་དང་མཇལ་བྱུང་།།འཁོར་བ་སྡུག་བསྔལ་དུ་གོ་ནས།།དམ་པའི་ལྷ་ཆོས་ལ་ཆས་སོང་།།</p>
 <p class="intro-verse">精勤积德行善故 今得暇满人身宝<br>
 认识轮回诸痛苦 前往修学胜妙法</p>
-<p class="bo">ངེས་འབྱུང་སྐྱོ་ཤས་ཀྱིས་བསྐུལ་བས།། བསྟན་རྩ་སོ་ཐར་དང་མཇལ་བྱུང་།། འགྲོ་དྲུག་ཕ་མ་རུ་གོ་ནས།། ཐེག་ཆེན་སེམས་བསྐྱེད་ལ་ཞུགས་སོང་།།</p>
+<p class="bo">ངེས་འབྱུང་སྐྱོ་ཤས་ཀྱིས་བསྐུལ་བས།།བསྟན་རྩ་སོ་ཐར་དང་མཇལ་བྱུང་།།འགྲོ་དྲུག་ཕ་མ་རུ་གོ་ནས།།ཐེག་ཆེན་སེམས་བསྐྱེད་ལ་ཞུགས་སོང་།།</p>
 <p class="intro-verse">出离哀伤所策励 直遇别别解脱法<br>
 六道众生为父母 进入大乘菩提行</p>
-<p class="bo">ལམ་མཁན་ཕྱོགས་མེད་དུ་བཙལ་བས། ཀུན་མཁྱེན་འབྲུག་པ་དང་མཇལ་བྱུང་།། ཉམས་ལེན་མོས་གུས་སུ་གོ་ནས།། གཅིག་ཤེས་ཀུན་གྲོལ་དེ་ལོན་སོང་།།</p>
+<p class="bo">ལམ་མཁན་ཕྱོགས་མེད་དུ་བཙལ་བས།ཀུན་མཁྱེན་འབྲུག་པ་དང་མཇལ་བྱུང་།།ཉམས་ལེན་མོས་གུས་སུ་གོ་ནས།།གཅིག་ཤེས་ཀུན་གྲོལ་དེ་ལོན་སོང་།།</p>
 <p class="intro-verse">四方寻找引导师 遇见遍智竹巴尊<br>
 了知修行即虔敬 取得一懂悉解脱</p>
-<p class="bo">དྭགས་པོའི་ཁྱད་ཆོས་ལ་འབད་པས།། རྒྱུད་སྡེའི་ཁོང་སྙིང་དང་མཇལ་བྱུང་།། དབང་བཞི་གདམས་ངག་ཏུ་གོ་ནས།། མཁའ་འགྲོའི་སྙན་རྒྱུད་དེ་ཐོབ་སོང་།།</p>
+<p class="bo">དྭགས་པོའི་ཁྱད་ཆོས་ལ་འབད་པས།།རྒྱུད་སྡེའི་ཁོང་སྙིང་དང་མཇལ་བྱུང་།།དབང་བཞི་གདམས་ངག་ཏུ་གོ་ནས།།མཁའ་འགྲོའི་སྙན་རྒྱུད་དེ་ཐོབ་སོང་།།</p>
 <p class="intro-verse">精勤达波差别法 得见密续心要义<br>
 得知四灌即窍诀 得闻空行母耳传</p>
-<p class="bo">ཡེངས་མེད་དྲན་པ་ལ་འབད་པས། བདེ་གསལ་ཉམས་མྱོང་དང་མཇལ་བྱུང་།། འགྱུ་བྱེད་རྩ་བྲལ་དུ་གོ་ནས། དྲན་ཡེངས་མེད་པ་ཞིག་ལོན་སོང་།།</p>
+<p class="bo">ཡེངས་མེད་དྲན་པ་ལ་འབད་པས།བདེ་གསལ་ཉམས་མྱོང་དང་མཇལ་བྱུང་།།འགྱུ་བྱེད་རྩ་བྲལ་དུ་གོ་ནས།དྲན་ཡེངས་མེད་པ་ཞིག་ལོན་སོང་།།</p>
 <p class="intro-verse">精勤无散正念定 得见乐明无念受<br>
 了悟寻思本无根 得获无散正念心</p>
 
@@ -52,27 +52,27 @@ title: 拉泽瓦尊者道歌
 .intro-title {
   text-align: center;
   border: 0;
-  font-size: 26px;
+  font-size: 30px;
   margin: 6px 0 6px;
   padding-top: 0;
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 17px;
+  font-size: 18px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 16px;
+  font-size: 17px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
 .bo {
   font-size: 17px;
   line-height: 2.0;
-  text-align: justify;
+  text-align: left;
   color: var(--vp-c-text-1);
   margin: 0 0 6px;
 }
@@ -84,7 +84,7 @@ title: 拉泽瓦尊者道歌
   margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 22px;
+  font-size: 26px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -93,7 +93,7 @@ title: 拉泽瓦尊者道歌
 }
 .intro-verse {
   text-align: center;
-  font-size: 20px;
+  font-size: 24px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
@@ -102,7 +102,7 @@ title: 拉泽瓦尊者道歌
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -111,7 +111,7 @@ title: 拉泽瓦尊者道歌
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -119,11 +119,11 @@ title: 拉泽瓦尊者道歌
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 23px; }
+  .intro-title { font-size: 26px; }
   .jy-title-bo { font-size: 18px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 20px; }
-  .intro-verse { font-size: 18px; }
+  .intro-body { font-size: 24px; }
+  .intro-verse { font-size: 22px; }
 }
 </style>

@@ -9,29 +9,29 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 <h1 class="intro-title">金刚持拉泽瓦昂旺桑波十二誓言</h1>
 <p class="intro-author">金刚持拉泽瓦·昂旺桑波</p>
 
-<p class="bo">༡༽ འདི་ཕྱིར་འདུན་མ་ལེགས་ཉེས་ཅི་བྱུང་ཡང་བླ་མ་དང་དཀོན་མཆོག་མ་གཏོགས་གཞན་ལ་ཆེད་གཉེར་གྱིས་མི་རེ་བ།</p>
+<p class="bo">༡༽འདི་ཕྱིར་འདུན་མ་ལེགས་ཉེས་ཅི་བྱུང་ཡང་བླ་མ་དང་དཀོན་མཆོག་མ་གཏོགས་གཞན་ལ་ཆེད་གཉེར་གྱིས་མི་རེ་བ།</p>
 <p class="intro-body">1、不管命运如何，今生与来世除了上师三宝以外，绝不特意依靠其他人。</p>
-<p class="bo">༢༽ བྱ་བའི་གཙོ་བོར་བླ་མས་ཅི་གསུང་གི་བཀའ་སྒྲུབ་པ།</p>
+<p class="bo">༢༽བྱ་བའི་གཙོ་བོར་བླ་མས་ཅི་གསུང་གི་བཀའ་སྒྲུབ་པ།</p>
 <p class="intro-body">2、上师教诲为首要事情，而依教奉行。</p>
-<p class="bo">༣༽ ལྷག་པའི་བསམ་པ་ལ་བསྐུལ་བའི་མདོ་ལས་གསུངས་པའི་གཉིད་ཀྱི་ཉེས་པ་ཉི་ཤུ་སྤང་ཕྱིར་སྔས་སྤང་བ།</p>
+<p class="bo">༣༽ལྷག་པའི་བསམ་པ་ལ་བསྐུལ་བའི་མདོ་ལས་གསུངས་པའི་གཉིད་ཀྱི་ཉེས་པ་ཉི་ཤུ་སྤང་ཕྱིར་སྔས་སྤང་བ།</p>
 <p class="intro-body">3、为了断除《曾上意乐经》中所说，二十种睡眠之过患，而从不入眠。</p>
-<p class="bo">༤༽ ལངྐར་གཤེགས་པའི་མདོ་ལས་ཤ་ཟ་བའི་ཉེས་པ་མང་དུ་གསུངས་པ་སྤང་ཕྱིར་འཚོ་བ་སྡོར་དཀར་བྱེད་པ།</p>
+<p class="bo">༤༽ལངྐར་གཤེགས་པའི་མདོ་ལས་ཤ་ཟ་བའི་ཉེས་པ་མང་དུ་གསུངས་པ་སྤང་ཕྱིར་འཚོ་བ་སྡོར་དཀར་བྱེད་པ།</p>
 <p class="intro-body">4、为了断除《八楞伽经》中所说，食肉之众多过患，以素食糌粑糊来维持生活。</p>
-<p class="bo">༥༽ སྒྲུབ་རྒྱགས་དང་ཉེར་མཁོའི་ཡོ་བྱད་བག་ཙམ་ལས་ལྷག་པའི་ནོར་རྫས་བདག་གིར་མི་འཛིན་པ།</p>
+<p class="bo">༥༽སྒྲུབ་རྒྱགས་དང་ཉེར་མཁོའི་ཡོ་བྱད་བག་ཙམ་ལས་ལྷག་པའི་ནོར་རྫས་བདག་གིར་མི་འཛིན་པ།</p>
 <p class="intro-body">5、除了修行的口粮和少许生活品之外，绝不贪着任何财物。</p>
-<p class="bo">༦༽ ཀུན་གོང་དུ་ཁུར་བའི་ལྷག་བསམ་གྱིས་རྟ་ཡི་བཞོན་པ་མི་ཞོན་པ།</p>
+<p class="bo">༦༽ཀུན་གོང་དུ་ཁུར་བའི་ལྷག་བསམ་གྱིས་རྟ་ཡི་བཞོན་པ་མི་ཞོན་པ།</p>
 <p class="intro-body">6、由于恭敬之意乐，故而从不骑马。</p>
-<p class="bo">༧༽ ཆོས་པ་སྤྱི་ཡི་སྐྱོན་ནས་མི་བརྗོད་པ།</p>
+<p class="bo">༧༽ཆོས་པ་སྤྱི་ཡི་སྐྱོན་ནས་མི་བརྗོད་པ།</p>
 <p class="intro-body">7、不说其他任何修行人过失。</p>
 <p class="bo-verse">༨༽ གནོད་ལེན་དུ་ཕན་གདགས་པ།</p>
 <p class="intro-body">8、对于仇人，以德报怨。</p>
-<p class="bo">༩༽ ཞག་རེ་བཞིན་ཆོས་སྤྱོད་ཀྱི་དགེ་བ་ཅི་ལྕོགས་བྱེད་པ།</p>
+<p class="bo">༩༽ཞག་རེ་བཞིན་ཆོས་སྤྱོད་ཀྱི་དགེ་བ་ཅི་ལྕོགས་བྱེད་པ།</p>
 <p class="intro-body">9、每天尽力行持善法。</p>
-<p class="bo">༡༠༽ རང་ཐོག་ཏུ་གནམ་ས་བླ་འོག་འགྱུར་ཀྱང་སྡུག་བསྔལ་མི་བྱེད་པ།</p>
+<p class="bo">༡༠༽རང་ཐོག་ཏུ་གནམ་ས་བླ་འོག་འགྱུར་ཀྱང་སྡུག་བསྔལ་མི་བྱེད་པ།</p>
 <p class="intro-body">10、即使于自己已天翻地覆，也绝不自寻苦恼。</p>
-<p class="bo">༡༡༽ རྒས་ཀྱིན་རི་ཁྲོད་ཇེ་མཐོར་གཏོང་བ།</p>
+<p class="bo">༡༡༽རྒས་ཀྱིན་རི་ཁྲོད་ཇེ་མཐོར་གཏོང་བ།</p>
 <p class="intro-body">11、自己越衰老越定居于高山寂静处。</p>
-<p class="bo">༡༢༽ ཐུན་ཞབས་ཐམས་ཅད་དུ་བསྔོ་སྨོན་གྱིས་རྒྱས་འདེབས་པ་དང་བཅུ་གཉིས་ཁྲིགས་སུ་ཚུད་པར་མཛད་པ་ཇི་སྲིད་འཚོའི་བར་དུ་མཐར་ཕྱིན་པའོ།།</p>
+<p class="bo">༡༢༽ཐུན་ཞབས་ཐམས་ཅད་དུ་བསྔོ་སྨོན་གྱིས་རྒྱས་འདེབས་པ་དང་བཅུ་གཉིས་ཁྲིགས་སུ་ཚུད་པར་མཛད་པ་ཇི་སྲིད་འཚོའི་བར་དུ་མཐར་ཕྱིན་པའོ།།</p>
 <p class="intro-body">12、每当于座间进行发愿和回向，并且十二条(誓言)有序地做到今生今世。</p>
 
 </div>
@@ -61,27 +61,27 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 .intro-title {
   text-align: center;
   border: 0;
-  font-size: 26px;
+  font-size: 30px;
   margin: 6px 0 6px;
   padding-top: 0;
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 17px;
+  font-size: 18px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 16px;
+  font-size: 17px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
 .bo {
   font-size: 17px;
   line-height: 2.0;
-  text-align: justify;
+  text-align: left;
   color: var(--vp-c-text-1);
   margin: 0 0 6px;
 }
@@ -93,7 +93,7 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
   margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 22px;
+  font-size: 26px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -102,7 +102,7 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 }
 .intro-verse {
   text-align: center;
-  font-size: 20px;
+  font-size: 24px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
@@ -111,7 +111,7 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -120,7 +120,7 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -128,11 +128,11 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 23px; }
+  .intro-title { font-size: 26px; }
   .jy-title-bo { font-size: 18px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 20px; }
-  .intro-verse { font-size: 18px; }
+  .intro-body { font-size: 24px; }
+  .intro-verse { font-size: 22px; }
 }
 </style>

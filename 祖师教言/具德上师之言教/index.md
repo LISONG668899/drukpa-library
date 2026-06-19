@@ -129,10 +129,10 @@ title: 具德上师之言教
 སྐལ་བཟང་རྣ་བའི་རྒྱན་དུ་ལོངས་ཤིག །</p>
 <p class="intro-verse">具有四种之精华，真诚增上之劝诫，<br>
 展开百瓣之词花，应用有缘耳庄严。</p>
-<p class="bo">དེ་སྐད་མཚན་ལྡན་བླ་མའི་ཞལ་ཆབ།། བདག་བློའི་བུམ་བཟང་བཅུད་དུ་བསྐྱིལ་ལས།། དོན་བཟང་ཟིག་མ་ཅུང་ཟད་འཐོར་འདི།། དད་བཙོན་ཀུན་དའི་འཛུམ་དཀར་གྲོལ་བ།།</p>
+<p class="bo">དེ་སྐད་མཚན་ལྡན་བླ་མའི་ཞལ་ཆབ།།བདག་བློའི་བུམ་བཟང་བཅུད་དུ་བསྐྱིལ་ལས།།དོན་བཟང་ཟིག་མ་ཅུང་ཟད་འཐོར་འདི།།དད་བཙོན་ཀུན་དའི་འཛུམ་དཀར་གྲོལ་བ།།</p>
 <p class="intro-verse">俱德上师教言露，积满自心之妙瓶，<br>
 散发善妙许水花，盛开信勤白莲花。</p>
-<p class="bo">བཙུན་མ་ཚེ་རིང་སྒྲོན་དཀར་བསྐུལ་ངོར།། འཁྲུལ་ཞིག་བརྒྱད་པ་གྲུབ་རིགས་མིང་གིས།། བྲིས་པའི་དགེ་བས་རྣམ་གྲོལ་གླིང་དུ།། གཏན་བདེའི་དགའ་སྟོན་དཔལ་དུ་གྱུར་ཅིག།</p>
+<p class="bo">བཙུན་མ་ཚེ་རིང་སྒྲོན་དཀར་བསྐུལ་ངོར།།འཁྲུལ་ཞིག་བརྒྱད་པ་གྲུབ་རིགས་མིང་གིས།།བྲིས་པའི་དགེ་བས་རྣམ་གྲོལ་གླིང་དུ།།གཏན་བདེའི་དགའ་སྟོན་དཔལ་དུ་གྱུར་ཅིག།</p>
 <p class="intro-verse">尼师才仁卓嘎请，八世持修仲惹名，<br>
 愿以撰写此善根，证得圆满解脱洲。</p>
 
@@ -165,27 +165,27 @@ title: 具德上师之言教
 .intro-title {
   text-align: center;
   border: 0;
-  font-size: 26px;
+  font-size: 30px;
   margin: 6px 0 6px;
   padding-top: 0;
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 17px;
+  font-size: 18px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 16px;
+  font-size: 17px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
 .bo {
   font-size: 17px;
   line-height: 2.0;
-  text-align: justify;
+  text-align: left;
   color: var(--vp-c-text-1);
   margin: 0 0 6px;
 }
@@ -197,7 +197,7 @@ title: 具德上师之言教
   margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 22px;
+  font-size: 26px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -206,7 +206,7 @@ title: 具德上师之言教
 }
 .intro-verse {
   text-align: center;
-  font-size: 20px;
+  font-size: 24px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
@@ -215,7 +215,7 @@ title: 具德上师之言教
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -224,7 +224,7 @@ title: 具德上师之言教
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -232,11 +232,11 @@ title: 具德上师之言教
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 23px; }
+  .intro-title { font-size: 26px; }
   .jy-title-bo { font-size: 18px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 20px; }
-  .intro-verse { font-size: 18px; }
+  .intro-body { font-size: 24px; }
+  .intro-verse { font-size: 22px; }
 }
 </style>

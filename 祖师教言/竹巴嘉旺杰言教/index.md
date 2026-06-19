@@ -11,19 +11,19 @@ title: 竹巴嘉旺杰言教
 
 <p class="bo-verse">ན་མོ་མ་ཧཱ་མུ་དྲཱ་ཡ།</p>
 <p class="intro-body">顶礼大手印！</p>
-<p class="bo">མཚན་ལྡན་བླ་མའི་བཀའ་དྲིན་དྲན་པ་ཡིས།། གསོལ་བ་བཏབ་ན་བདག་གཞན་དོན་གཉིས་འགྲུབ།།</p>
+<p class="bo">མཚན་ལྡན་བླ་མའི་བཀའ་དྲིན་དྲན་པ་ཡིས།།གསོལ་བ་བཏབ་ན་བདག་གཞན་དོན་གཉིས་འགྲུབ།།</p>
 <p class="intro-verse">随念具相上师之恩德<br>
 若敬祈祷能成自他业</p>
-<p class="bo">རང་སེམས་གདོད་ནས་རྣམ་པར་དག་པ་ཡི།། ངང་ལ་བཞག་ན་འཁྲུལ་སྣང་རང་སར་དག།</p>
+<p class="bo">རང་སེམས་གདོད་ནས་རྣམ་པར་དག་པ་ཡི།།ངང་ལ་བཞག་ན་འཁྲུལ་སྣང་རང་སར་དག།</p>
 <p class="intro-verse">自心住于本净境界中<br>
 则能原地清净诸迷乱</p>
-<p class="bo">འགྲོ་དྲུག་སེམས་ཅན་ཕ་མའི་རང་བཞིན་ལ།། བྱམས་པ་བསྒོམས་ན་ཆགས་སྡང་འབྱུང་དོན་མེད།།</p>
+<p class="bo">འགྲོ་དྲུག་སེམས་ཅན་ཕ་མའི་རང་བཞིན་ལ།།བྱམས་པ་བསྒོམས་ན་ཆགས་སྡང་འབྱུང་དོན་མེད།།</p>
 <p class="intro-verse">对于六道父母有情众<br>
 若修慈心不会起贪嗔</p>
-<p class="bo">ཚེ་འདིའི་ཕུན་ཚོགས་སྒྱུ་མའི་བློ་བྲིད་ལ།། ཞེན་པ་མེད་ན་བྱ་བ་ངང་གིས་ཐོངས།།</p>
+<p class="bo">ཚེ་འདིའི་ཕུན་ཚོགས་སྒྱུ་མའི་བློ་བྲིད་ལ།།ཞེན་པ་མེད་ན་བྱ་བ་ངང་གིས་ཐོངས།།</p>
 <p class="intro-verse">今世虚幻富贵之诱惑<br>
 若无贪着自然离琐事</p>
-<p class="bo">སྤྱོད་ལམ་རྣམ་བཞིར་བྱ་བ་ཅི་བྱེད་ཀྱང༌།། མ་ཡེངས་དྲན་པས་ཆོས་དང་མཐུན་པ་གཅེས།།</p>
+<p class="bo">སྤྱོད་ལམ་རྣམ་བཞིར་བྱ་བ་ཅི་བྱེད་ཀྱང༌།།མ་ཡེངས་དྲན་པས་ཆོས་དང་མཐུན་པ་གཅེས།།</p>
 <p class="intro-verse">无论行持任何四威仪<br>
 无散正念如法则为妙</p>
 
@@ -57,27 +57,27 @@ title: 竹巴嘉旺杰言教
 .intro-title {
   text-align: center;
   border: 0;
-  font-size: 26px;
+  font-size: 30px;
   margin: 6px 0 6px;
   padding-top: 0;
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 17px;
+  font-size: 18px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 16px;
+  font-size: 17px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
 .bo {
   font-size: 17px;
   line-height: 2.0;
-  text-align: justify;
+  text-align: left;
   color: var(--vp-c-text-1);
   margin: 0 0 6px;
 }
@@ -89,7 +89,7 @@ title: 竹巴嘉旺杰言教
   margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 22px;
+  font-size: 26px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -98,7 +98,7 @@ title: 竹巴嘉旺杰言教
 }
 .intro-verse {
   text-align: center;
-  font-size: 20px;
+  font-size: 24px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
@@ -107,7 +107,7 @@ title: 竹巴嘉旺杰言教
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -116,7 +116,7 @@ title: 竹巴嘉旺杰言教
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -124,11 +124,11 @@ title: 竹巴嘉旺杰言教
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 23px; }
+  .intro-title { font-size: 26px; }
   .jy-title-bo { font-size: 18px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 20px; }
-  .intro-verse { font-size: 18px; }
+  .intro-body { font-size: 24px; }
+  .intro-verse { font-size: 22px; }
 }
 </style>

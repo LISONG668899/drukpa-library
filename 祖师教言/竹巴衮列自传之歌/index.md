@@ -99,7 +99,7 @@ title: 竹巴衮列自传之歌
 <p class="intro-body">可我浪费其善根，</p>
 <p class="bo">དགེ་བ་བྱང་ཆུབ་མ་བསྔོས་མཐོལ་ལོ་བཤགས།།</p>
 <p class="intro-body">忏悔未回向菩提。</p>
-<p class="bo">ཟེར་ནས་གླུ་བཏང་བྱུང་བས། ལེགས་པོ་འདུག་པས་བྲིས་པ་ཡིན།</p>
+<p class="bo">ཟེར་ནས་གླུ་བཏང་བྱུང་བས།ལེགས་པོ་འདུག་པས་བྲིས་པ་ཡིན།</p>
 <p class="intro-body">在唱出此道歌后，觉得非常殊胜，因此做了笔录。</p>
 
 <p class="intro-sign first">古普·钦哲译，陈润泽居士和朱红霞居士校对汉文。</p>
@@ -131,27 +131,27 @@ title: 竹巴衮列自传之歌
 .intro-title {
   text-align: center;
   border: 0;
-  font-size: 26px;
+  font-size: 30px;
   margin: 6px 0 6px;
   padding-top: 0;
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 17px;
+  font-size: 18px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 16px;
+  font-size: 17px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
 .bo {
   font-size: 17px;
   line-height: 2.0;
-  text-align: justify;
+  text-align: left;
   color: var(--vp-c-text-1);
   margin: 0 0 6px;
 }
@@ -163,7 +163,7 @@ title: 竹巴衮列自传之歌
   margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 22px;
+  font-size: 26px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -172,7 +172,7 @@ title: 竹巴衮列自传之歌
 }
 .intro-verse {
   text-align: center;
-  font-size: 20px;
+  font-size: 24px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
@@ -181,7 +181,7 @@ title: 竹巴衮列自传之歌
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -190,7 +190,7 @@ title: 竹巴衮列自传之歌
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -198,11 +198,11 @@ title: 竹巴衮列自传之歌
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 23px; }
+  .intro-title { font-size: 26px; }
   .jy-title-bo { font-size: 18px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 20px; }
-  .intro-verse { font-size: 18px; }
+  .intro-body { font-size: 24px; }
+  .intro-verse { font-size: 22px; }
 }
 </style>
