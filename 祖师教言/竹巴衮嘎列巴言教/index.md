@@ -9,7 +9,7 @@ title: 竹巴·衮嘎列巴言教
 <h1 class="intro-title">竹巴·衮嘎列巴言教</h1>
 <p class="intro-author">竹巴·衮嘎列巴</p>
 
-<p class="bo-verse">ན་མོ་དགའ་ཡོ།</p>
+<p class="bo">ན་མོ་དགའ་ཡོ།</p>
 <p class="intro-body">拿摩噶夭！</p>
 <p class="bo-verse">ཡིག་ནག་བློ་ལ་ཚུད་ཚད་ལ་མཁས་པ་ཟེར་བ་མིན། །<br>
 ཆོས་ཀྱི་དྲང་ངེས་ཤེས་ན་མཁས་པ་ཟེར་བ་ཡིན། །</p>
@@ -51,10 +51,12 @@ title: 竹巴·衮嘎列巴言教
 ཡེ་ནས་ལྷུན་གྲུབ་ཏུ་རྟོགས་ན་འབྲས་བུ་ཟེར་བ་ཡིན། །</p>
 <p class="intro-verse">造做而改善的不叫果，<br>
 证本来任运成就称果。</p>
-<p class="bo">ཐ་སྙད་རྐྱང་པ་ངོམ་པ་ལ་དགེ་བཤེས་ཟེར་བ་མིན།སྒྲ་ཚད་ནང་དོན་རིག་ན་དགེ་བཤེས་ཟེར་བ་ཡིན།</p>
+<p class="bo-verse">ཐ་སྙད་རྐྱང་པ་ངོམ་པ་ལ་དགེ་བཤེས་ཟེར་བ་མིན།<br>
+སྒྲ་ཚད་ནང་དོན་རིག་ན་དགེ་བཤེས་ཟེར་བ་ཡིན།</p>
 <p class="intro-verse">仅夸耀名词不叫格西，<br>
 见声因内明的称格西。</p>
-<p class="bo">སེར་གཟུགས་ཁོ་ན་སྒྲུབ་པ་ལ་བཙུན་པ་ཟེར་བ་མིན།ལུས་ངག་ཡིད་གསུམ་བསྲུང་བ་ལ་བཙུན་པ་ཟེར་བ་ཡིན།</p>
+<p class="bo-verse">སེར་གཟུགས་ཁོ་ན་སྒྲུབ་པ་ལ་བཙུན་པ་ཟེར་བ་མིན།<br>
+ལུས་ངག་ཡིད་གསུམ་བསྲུང་བ་ལ་བཙུན་པ་ཟེར་བ་ཡིན།</p>
 <p class="intro-verse">仅现僧相的不叫僧人，<br>
 守护身口意的称僧人。</p>
 <p class="bo-verse">འདྲེ་སྲིན་སེམས་རྒྱུད་དཀྲུག་པ་ལ་གཅོད་ཡུལ་ཟེར་བ་མིན།<br>
@@ -85,7 +87,8 @@ title: 竹巴·衮嘎列巴言教
 ཆོས་ཀུན་རྟེན་འབྲེལ་དུ་ཤེས་ན་རྟེན་འབྲེལ་ཟེར་བ་ཡིན། །</p>
 <p class="intro-verse">酒当油灯供不叫缘起，<br>
 了知诸法缘起称缘起。</p>
-<p class="bo">གྱུར་ཅིག་ཤོག་ཅིག་འདོན་ཚད་ལ་སྨོན་ལམ་ཟེར་བ་མིན།།འཁོར་གསུམ་རྣམ་པར་མི་རྟོགས་ན་སྨོན་ལམ་ཟེར་བ་ཡིན།།</p>
+<p class="bo-verse">གྱུར་ཅིག་ཤོག་ཅིག་འདོན་ཚད་ལ་སྨོན་ལམ་ཟེར་བ་མིན།།<br>
+འཁོར་གསུམ་རྣམ་པར་མི་རྟོགས་ན་སྨོན་ལམ་ཟེར་བ་ཡིན།།</p>
 <p class="intro-verse">口念祈愿文不叫发愿，<br>
 不分别三轮则称发愿。</p>
 
@@ -118,20 +121,20 @@ title: 竹巴·衮嘎列巴言教
 .intro-title {
   text-align: center;
   border: 0;
-  font-size: 30px;
+  font-size: 32px;
   margin: 6px 0 6px;
   padding-top: 0;
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 18px;
+  font-size: 20px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 17px;
+  font-size: 19px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
@@ -150,7 +153,7 @@ title: 竹巴·衮嘎列巴言教
   margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 26px;
+  font-size: 28px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -159,7 +162,7 @@ title: 竹巴·衮嘎列巴言教
 }
 .intro-verse {
   text-align: center;
-  font-size: 24px;
+  font-size: 26px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
@@ -168,7 +171,7 @@ title: 竹巴·衮嘎列巴言教
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -177,7 +180,7 @@ title: 竹巴·衮嘎列巴言教
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 17px;
+  font-size: 19px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -185,11 +188,11 @@ title: 竹巴·衮嘎列巴言教
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 26px; }
+  .intro-title { font-size: 28px; }
   .jy-title-bo { font-size: 18px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 24px; }
-  .intro-verse { font-size: 22px; }
+  .intro-body { font-size: 26px; }
+  .intro-verse { font-size: 24px; }
 }
 </style>

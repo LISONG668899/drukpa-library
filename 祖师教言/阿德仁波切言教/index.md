@@ -9,8 +9,7 @@ title: 大恩上师阿德仁波切言教
 <h1 class="intro-title">大恩上师阿德仁波切言教</h1>
 <p class="intro-author">阿德仁波切</p>
 
-<p class="bo-verse">ལམ་གྱི་སྙིང་པོ་བླ་མའི་མོས་གུས། །ཆོས་ཀྱི་སྙིང་པོ་གཞན་ཕན་བྱང་སེམས། །<br>
-གདམས་ངག་སྙིང་པོ་མ་ཡེངས་དྲན་པ། །སྤྱོད་ལམ་སྙིང་པོ་རྒྱུ་འབྲས་བག་ཡོད། །</p>
+<p class="bo">ལམ་གྱི་སྙིང་པོ་བླ་མའི་མོས་གུས།།ཆོས་ཀྱི་སྙིང་པོ་གཞན་ཕན་བྱང་སེམས།།གདམས་ངག་སྙིང་པོ་མ་ཡེངས་དྲན་པ།།སྤྱོད་ལམ་སྙིང་པོ་རྒྱུ་འབྲས་བག་ཡོད།།</p>
 <p class="intro-body">恭敬上师道之要，慈悲菩提法之要，</p>
 <p class="intro-body">无散正念诀之要，取舍因果行之要。</p>
 <p class="intro-body">恭敬上师道之要：在佛法中，上师被视为引导弟子走向解脱道的重要导师。《大手印前行引导文》中详细阐述了弟子对上师应有的恭敬和承事之法，如恭敬心礼拜上师、祈祷上师、侍奉上师、学习上师的意行等。恭敬上师是修行的基础，它能帮助弟子消除傲慢心，获得上师的加持和引导，从而证悟大手印的境界。</p>
@@ -47,20 +46,20 @@ title: 大恩上师阿德仁波切言教
 .intro-title {
   text-align: center;
   border: 0;
-  font-size: 30px;
+  font-size: 32px;
   margin: 6px 0 6px;
   padding-top: 0;
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 18px;
+  font-size: 20px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 17px;
+  font-size: 19px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
@@ -79,7 +78,7 @@ title: 大恩上师阿德仁波切言教
   margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 26px;
+  font-size: 28px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -88,7 +87,7 @@ title: 大恩上师阿德仁波切言教
 }
 .intro-verse {
   text-align: center;
-  font-size: 24px;
+  font-size: 26px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
@@ -97,7 +96,7 @@ title: 大恩上师阿德仁波切言教
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -106,7 +105,7 @@ title: 大恩上师阿德仁波切言教
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 17px;
+  font-size: 19px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -114,11 +113,11 @@ title: 大恩上师阿德仁波切言教
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 26px; }
+  .intro-title { font-size: 28px; }
   .jy-title-bo { font-size: 18px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 24px; }
-  .intro-verse { font-size: 22px; }
+  .intro-body { font-size: 26px; }
+  .intro-verse { font-size: 24px; }
 }
 </style>

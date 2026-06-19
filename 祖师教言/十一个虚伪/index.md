@@ -41,20 +41,20 @@ title: 十一个虚伪
 .intro-title {
   text-align: center;
   border: 0;
-  font-size: 30px;
+  font-size: 32px;
   margin: 6px 0 6px;
   padding-top: 0;
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 18px;
+  font-size: 20px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 17px;
+  font-size: 19px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
@@ -73,7 +73,7 @@ title: 十一个虚伪
   margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 26px;
+  font-size: 28px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -82,7 +82,7 @@ title: 十一个虚伪
 }
 .intro-verse {
   text-align: center;
-  font-size: 24px;
+  font-size: 26px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
@@ -91,7 +91,7 @@ title: 十一个虚伪
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -100,7 +100,7 @@ title: 十一个虚伪
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 17px;
+  font-size: 19px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -108,11 +108,11 @@ title: 十一个虚伪
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 26px; }
+  .intro-title { font-size: 28px; }
   .jy-title-bo { font-size: 18px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 24px; }
-  .intro-verse { font-size: 22px; }
+  .intro-body { font-size: 26px; }
+  .intro-verse { font-size: 24px; }
 }
 </style>

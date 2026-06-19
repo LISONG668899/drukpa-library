@@ -23,7 +23,7 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 <p class="intro-body">6、由于恭敬之意乐，故而从不骑马。</p>
 <p class="bo">༧༽ཆོས་པ་སྤྱི་ཡི་སྐྱོན་ནས་མི་བརྗོད་པ།</p>
 <p class="intro-body">7、不说其他任何修行人过失。</p>
-<p class="bo-verse">༨༽ གནོད་ལེན་དུ་ཕན་གདགས་པ།</p>
+<p class="bo">༨༽གནོད་ལེན་དུ་ཕན་གདགས་པ།</p>
 <p class="intro-body">8、对于仇人，以德报怨。</p>
 <p class="bo">༩༽ཞག་རེ་བཞིན་ཆོས་སྤྱོད་ཀྱི་དགེ་བ་ཅི་ལྕོགས་བྱེད་པ།</p>
 <p class="intro-body">9、每天尽力行持善法。</p>
@@ -61,20 +61,20 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 .intro-title {
   text-align: center;
   border: 0;
-  font-size: 30px;
+  font-size: 32px;
   margin: 6px 0 6px;
   padding-top: 0;
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 18px;
+  font-size: 20px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 17px;
+  font-size: 19px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
@@ -93,7 +93,7 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
   margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 26px;
+  font-size: 28px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -102,7 +102,7 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 }
 .intro-verse {
   text-align: center;
-  font-size: 24px;
+  font-size: 26px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
@@ -111,7 +111,7 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -120,7 +120,7 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 17px;
+  font-size: 19px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -128,11 +128,11 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 26px; }
+  .intro-title { font-size: 28px; }
   .jy-title-bo { font-size: 18px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 24px; }
-  .intro-verse { font-size: 22px; }
+  .intro-body { font-size: 26px; }
+  .intro-verse { font-size: 24px; }
 }
 </style>

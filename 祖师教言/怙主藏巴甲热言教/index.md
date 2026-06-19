@@ -9,19 +9,24 @@ title: 怙主藏巴甲热言教
 <h1 class="intro-title">怙主藏巴甲热言教</h1>
 <p class="intro-author">藏巴甲热</p>
 
-<p class="bo">ནོར་འཚོལ་བ་ལས་ཀྱང་ཉ་ར་དཀའ།།དད་རྫས་ཆུད་ཟོས་སུ་སོང་བ་ཨ་ཙ་མ།།</p>
+<p class="bo-verse">ནོར་འཚོལ་བ་ལས་ཀྱང་ཉ་ར་དཀའ།།<br>
+དད་རྫས་ཆུད་ཟོས་སུ་སོང་བ་ཨ་ཙ་མ།།</p>
 <p class="intro-verse">找财不难管财难<br>
 可惜浪费信众财</p>
-<p class="bo">འཁོར་འདུ་བ་ལས་ཀྱང་སྐྱོང་བ་དཀའ།།སློབ་མ་ཁ་སྟོང་དུ་གཏོང་བ་ཨ་ཙ་མ།།</p>
+<p class="bo-verse">འཁོར་འདུ་བ་ལས་ཀྱང་སྐྱོང་བ་དཀའ།།<br>
+སློབ་མ་ཁ་སྟོང་དུ་གཏོང་བ་ཨ་ཙ་མ།།</p>
 <p class="intro-verse">收徒不难教徒难<br>
 可惜徒儿无教诲</p>
-<p class="bo">སྒོམ་སྐྱེ་བ་ལས་ཀྱང་སྐྱོང་བ་དཀའ།།དྲེད་པོར་སོང་བ་ཨ་ཙ་མ།།</p>
+<p class="bo-verse">སྒོམ་སྐྱེ་བ་ལས་ཀྱང་སྐྱོང་བ་དཀའ།།<br>
+དྲེད་པོར་སོང་བ་ཨ་ཙ་མ།།</p>
 <p class="intro-verse">坐禅不难护禅难<br>
 可惜成了法油子</p>
-<p class="bo">གདམས་པ་ཤེས་པ་བས་ཀྱང་ཉམས་ལེན་དཀའ།།ཚིག་ཏུ་ཤོར་བ་ཨ་ཙ་མ།།</p>
+<p class="bo-verse">གདམས་པ་ཤེས་པ་བས་ཀྱང་ཉམས་ལེན་དཀའ།།<br>
+ཚིག་ཏུ་ཤོར་བ་ཨ་ཙ་མ།།</p>
 <p class="intro-verse">懂法不难修法难<br>
 可惜成了口头禅</p>
-<p class="bo">རྟེན་འབྲེལ་འཆར་བ་བས་ཀྱང་ལག་ལེན་དཀའ།།གོ་ཐོག་ཏུ་ལུས་པ་ཨ་ཙ་མ།།</p>
+<p class="bo-verse">རྟེན་འབྲེལ་འཆར་བ་བས་ཀྱང་ལག་ལེན་དཀའ།།<br>
+གོ་ཐོག་ཏུ་ལུས་པ་ཨ་ཙ་མ།།</p>
 <p class="intro-verse">如是缘起实践难<br>
 可惜能解无其境</p>
 
@@ -52,20 +57,20 @@ title: 怙主藏巴甲热言教
 .intro-title {
   text-align: center;
   border: 0;
-  font-size: 30px;
+  font-size: 32px;
   margin: 6px 0 6px;
   padding-top: 0;
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 18px;
+  font-size: 20px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 17px;
+  font-size: 19px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
@@ -84,7 +89,7 @@ title: 怙主藏巴甲热言教
   margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 26px;
+  font-size: 28px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -93,7 +98,7 @@ title: 怙主藏巴甲热言教
 }
 .intro-verse {
   text-align: center;
-  font-size: 24px;
+  font-size: 26px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
@@ -102,7 +107,7 @@ title: 怙主藏巴甲热言教
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -111,7 +116,7 @@ title: 怙主藏巴甲热言教
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 17px;
+  font-size: 19px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -119,11 +124,11 @@ title: 怙主藏巴甲热言教
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 26px; }
+  .intro-title { font-size: 28px; }
   .jy-title-bo { font-size: 18px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 24px; }
-  .intro-verse { font-size: 22px; }
+  .intro-body { font-size: 26px; }
+  .intro-verse { font-size: 24px; }
 }
 </style>
