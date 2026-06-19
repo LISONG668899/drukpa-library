@@ -9,8 +9,8 @@ title: 竹巴·衮嘎列巴言教
 <h1 class="intro-title">竹巴·衮嘎列巴言教</h1>
 <p class="intro-author">竹巴·衮嘎列巴</p>
 
-<p class="bo">ན་མོ་དགའ་ཡོ།</p>
-<p class="intro-body">拿摩噶夭！</p>
+<p class="bo-verse">ན་མོ་དགའ་ཡོ།</p>
+<p class="intro-verse">拿摩噶夭！</p>
 <p class="bo-verse">ཡིག་ནག་བློ་ལ་ཚུད་ཚད་ལ་མཁས་པ་ཟེར་བ་མིན། །<br>
 ཆོས་ཀྱི་དྲང་ངེས་ཤེས་ན་མཁས་པ་ཟེར་བ་ཡིན། །</p>
 <p class="intro-verse">认识文字的不叫智者，<br>

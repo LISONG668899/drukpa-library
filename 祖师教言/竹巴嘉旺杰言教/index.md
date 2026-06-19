@@ -9,8 +9,8 @@ title: 竹巴嘉旺杰言教
 <h1 class="intro-title">竹巴嘉旺杰言教</h1>
 <p class="intro-author">竹巴嘉旺杰</p>
 
-<p class="bo">ན་མོ་མ་ཧཱ་མུ་དྲཱ་ཡ།</p>
-<p class="intro-body">顶礼大手印！</p>
+<p class="bo-verse">ན་མོ་མ་ཧཱ་མུ་དྲཱ་ཡ།</p>
+<p class="intro-verse">顶礼大手印！</p>
 <p class="bo-verse">མཚན་ལྡན་བླ་མའི་བཀའ་དྲིན་དྲན་པ་ཡིས།།<br>
 གསོལ་བ་བཏབ་ན་བདག་གཞན་དོན་གཉིས་འགྲུབ།།</p>
 <p class="intro-verse">随念具相上师之恩德<br>
