@@ -27,20 +27,26 @@ title: 七个不如
 </div>
 
 <style>
+@font-face {
+  font-family: "Noto Serif Tibetan Web";
+  font-display: swap;
+  src: url("/fonts/NotoSerifTibetan-bo.woff2") format("woff2");
+  unicode-range: U+0F00-0FFF;
+}
 .jy-page {
   max-width: 720px;
   margin: 0 auto;
   padding: 48px 24px 48px;
-  --bo-color: #5d4a37;
 }
-.dark .jy-page { --bo-color: #d8c4a8; }
+.bo, .bo-verse, .jy-title-bo {
+  font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
+}
 .jy-title-bo {
   text-align: center;
-  font-size: 19px;
-  line-height: 1.9;
-  color: var(--bo-color);
-  margin: 0 0 6px;
-  font-family: "Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
+  font-size: 20px;
+  line-height: 1.6;
+  color: var(--vp-c-text-1);
+  margin: 0 0 8px;
 }
 .intro-title {
   text-align: center;
@@ -51,35 +57,33 @@ title: 七个不如
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 16px;
+  font-size: 17px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
 .bo {
-  font-size: 13px;
-  line-height: 1.6;
-  text-align: left;
-  color: var(--bo-color);
-  margin: 0 0 4px;
-  font-family: "Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
+  font-size: 17px;
+  line-height: 2.0;
+  text-align: justify;
+  color: var(--vp-c-text-1);
+  margin: 0 0 6px;
 }
 .bo-verse {
-  font-size: 13px;
-  line-height: 1.6;
+  font-size: 16px;
+  line-height: 2.0;
   text-align: center;
-  color: var(--bo-color);
-  margin: 0 0 4px;
-  font-family: "Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
+  color: var(--vp-c-text-1);
+  margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 18px;
+  font-size: 22px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -88,16 +92,16 @@ title: 七个不如
 }
 .intro-verse {
   text-align: center;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
-  margin: 0 0 40px;
+  margin: 0 0 28px;
 }
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -106,7 +110,7 @@ title: 七个不如
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -114,10 +118,11 @@ title: 七个不如
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 22px; }
-  .jy-title-bo { font-size: 17px; }
-  .bo, .bo-verse { font-size: 12px; }
-  .intro-body { font-size: 17px; }
-  .intro-verse { font-size: 16px; }
+  .intro-title { font-size: 23px; }
+  .jy-title-bo { font-size: 18px; }
+  .bo { font-size: 16px; }
+  .bo-verse { font-size: 14px; }
+  .intro-body { font-size: 20px; }
+  .intro-verse { font-size: 18px; }
 }
 </style>

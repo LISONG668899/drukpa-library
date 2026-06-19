@@ -9,34 +9,16 @@ title: 竹巴《三猛咒》
 <h1 class="intro-title">竹巴《三猛咒》</h1>
 <p class="intro-author">藏巴嘉热·益西多杰</p>
 
-<p class="bo">ཅི་ཡོང་བར་ཤོག</p>
-<p class="bo">རྣམ་རྟོག་ཅི་ཡོང་བར་ཤོག་ཅིག ཉོན་མོངས་པ་ཅི་ཡོང་བར་ཤོག་ཅིག ལྷ་འདྲེ་ཅི་ཡོང་བར་ཤོག་ཅིག</p>
-<p class="bo">སྡུག་བསྔལ་ཅི་ཡོང་བར་ཤོག་ཅིག ན་ཚ་ཅི་ཡོང་བར་ཤོག་ཅིག འཆི་རྐྱེན་ཅི་ཡོང་བར་ཤོག་ཅིག</p>
-<p class="bo">མི་རྙེད་པ་ཅི་ཡོང་བར་ཤོག་ཅིག མི་བདེ་བ་ཅི་ཡོང་བར་ཤོག་ཅིག མི་སྙན་པ་ཅི་ཡོང་བར་ཤོག་ཅིག</p>
-<p class="bo">སྨད་པ་ཅི་ཡོང་བར་ཤོག་ཅིག རྐྱེན་ངན་ཅི་ཡོང་བར་ཤོག་ཅིག བར་ཆད་ཅི་ཡོང་བར་ཤོག་ཅིག</p>
-<p class="bo">ལེགས་ཉེས་ཅི་ཡོང་བར་ཤོག་ཅིག །</p>
+<p class="bo">ཅི་ཡོང་བར་ཤོག རྣམ་རྟོག་ཅི་ཡོང་བར་ཤོག་ཅིག ཉོན་མོངས་པ་ཅི་ཡོང་བར་ཤོག་ཅིག ལྷ་འདྲེ་ཅི་ཡོང་བར་ཤོག་ཅིག སྡུག་བསྔལ་ཅི་ཡོང་བར་ཤོག་ཅིག ན་ཚ་ཅི་ཡོང་བར་ཤོག་ཅིག འཆི་རྐྱེན་ཅི་ཡོང་བར་ཤོག་ཅིག མི་རྙེད་པ་ཅི་ཡོང་བར་ཤོག་ཅིག མི་བདེ་བ་ཅི་ཡོང་བར་ཤོག་ཅིག མི་སྙན་པ་ཅི་ཡོང་བར་ཤོག་ཅིག སྨད་པ་ཅི་ཡོང་བར་ཤོག་ཅིག རྐྱེན་ངན་ཅི་ཡོང་བར་ཤོག་ཅིག བར་ཆད་ཅི་ཡོང་བར་ཤོག་ཅིག ལེགས་ཉེས་ཅི་ཡོང་བར་ཤོག་ཅིག །</p>
 <p class="sec-label">【让它来】</p>
 <p class="intro-body">寻思让它来，烦恼让它来，鬼神让它来，痛苦让它来，疾病让它来，死亡让它来，衰败让它来，痛苦让它来，毁谤让它来，讥讽让它来，违缘让它来，障碍让它来，好事坏事让它来。</p>
-<p class="bo">གང་ལྟར་འགྲོ་བར་སོང་།</p>
-<p class="bo">རྙེད་པ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། བདེ་བ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། སྙན་པ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་།</p>
-<p class="bo">བསྟོད་པ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ལུས་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། སྲོག་གང་ལྟར་འགྲོ་བར་སོང་ངོ་།</p>
-<p class="bo">ལང་ཚོ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། མཛའ་བཤེས་གང་ལྟར་འགྲོ་བར་སོང་ངོ་།</p>
-<p class="bo">ནོར་རྫས་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ཚེ་འདིར་གང་ལྟར་འགྲོ་བར་སོང་ངོ་།</p>
-<p class="bo">ཕྱི་མར་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། རེ་འདོད་ཐམས་ཅད་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། །</p>
+<p class="bo">གང་ལྟར་འགྲོ་བར་སོང་། རྙེད་པ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། བདེ་བ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། སྙན་པ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། བསྟོད་པ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ལུས་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། སྲོག་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ལང་ཚོ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། མཛའ་བཤེས་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ནོར་རྫས་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ཚེ་འདིར་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ཕྱི་མར་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། རེ་འདོད་ཐམས་ཅད་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། །</p>
 <p class="sec-label">【随它去】</p>
 <p class="intro-body">利益随它去，快乐随它去，赞誉随它去，称赞随它去，身体随它去，寿命随它去，青春随它去，友情随它去，财物随它去，今世随它去，来世随它去，一切期望随它去。</p>
-<p class="bo">ཅིས་ཀྱང་དགོས་པ་མེད།</p>
-<p class="bo">ཟས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། གོས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ནོར་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ།</p>
-<p class="bo">ཁང་ཁྱིམ་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཡོ་བྱད་ཀྱིས་ཅི་ཀྱང་དགོས་པ་མེད་དོ།</p>
-<p class="bo">གཉེན་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། གྲོགས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ།</p>
-<p class="bo">དགའ་གྲོགས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། འཁོར་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ།</p>
-<p class="bo">ཐོབ་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། སྙན་པས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ།</p>
-<p class="bo">ཐམས་ཅད་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། །</p>
+<p class="bo">ཅིས་ཀྱང་དགོས་པ་མེད། ཟས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། གོས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ནོར་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཁང་ཁྱིམ་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཡོ་བྱད་ཀྱིས་ཅི་ཀྱང་དགོས་པ་མེད་དོ། གཉེན་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། གྲོགས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། དགའ་གྲོགས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། འཁོར་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཐོབ་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། སྙན་པས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཐམས་ཅད་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། །</p>
 <p class="sec-label">【无所求】</p>
 <p class="intro-body">饮食无所求，衣物无所求，财富无所求，房屋无所求，器具无所求，亲情无所求，友情无所求，爱情无所求，眷属无所求，权势无所求，名闻无所求，一切无所求。</p>
-<p class="bo">བཟང་ངན་ལ་རོ་སྙོམས་པར་ཤོག་ཅིག །རེ་དོགས་ཐམས་ཅད་མེད་པར་ཤོག་ཅིག །</p>
-<p class="bo">བདག་འཛིན་རྩད་ནས་ཆོད་པར་ཤོག་ཅིག །རང་སེམས་ལ་དབང་ཐུབ་པར་ཤོག་ཅིག །</p>
-<p class="bo">གུ་ཕུ་མཁྱེན་བརྩེ་ནས།</p>
+<p class="bo">བཟང་ངན་ལ་རོ་སྙོམས་པར་ཤོག་ཅིག །རེ་དོགས་ཐམས་ཅད་མེད་པར་ཤོག་ཅིག ། བདག་འཛིན་རྩད་ནས་ཆོད་པར་ཤོག་ཅིག །རང་སེམས་ལ་དབང་ཐུབ་པར་ཤོག་ཅིག ། གུ་ཕུ་མཁྱེན་བརྩེ་ནས།</p>
 <p class="intro-verse">祈愿一味好与坏，祈愿无有希忧心，<br>
 祈愿根除诸我执，祈愿自心得自在。</p>
 
@@ -45,20 +27,26 @@ title: 竹巴《三猛咒》
 </div>
 
 <style>
+@font-face {
+  font-family: "Noto Serif Tibetan Web";
+  font-display: swap;
+  src: url("/fonts/NotoSerifTibetan-bo.woff2") format("woff2");
+  unicode-range: U+0F00-0FFF;
+}
 .jy-page {
   max-width: 720px;
   margin: 0 auto;
   padding: 48px 24px 48px;
-  --bo-color: #5d4a37;
 }
-.dark .jy-page { --bo-color: #d8c4a8; }
+.bo, .bo-verse, .jy-title-bo {
+  font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
+}
 .jy-title-bo {
   text-align: center;
-  font-size: 19px;
-  line-height: 1.9;
-  color: var(--bo-color);
-  margin: 0 0 6px;
-  font-family: "Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
+  font-size: 20px;
+  line-height: 1.6;
+  color: var(--vp-c-text-1);
+  margin: 0 0 8px;
 }
 .intro-title {
   text-align: center;
@@ -69,35 +57,33 @@ title: 竹巴《三猛咒》
 }
 .jy-subtitle {
   text-align: center;
-  font-size: 16px;
+  font-size: 17px;
   color: var(--vp-c-text-2);
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
 .intro-author {
   text-align: center;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--vp-c-text-2);
   margin: 0 0 36px;
 }
 .bo {
-  font-size: 13px;
-  line-height: 1.6;
-  text-align: left;
-  color: var(--bo-color);
-  margin: 0 0 4px;
-  font-family: "Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
+  font-size: 17px;
+  line-height: 2.0;
+  text-align: justify;
+  color: var(--vp-c-text-1);
+  margin: 0 0 6px;
 }
 .bo-verse {
-  font-size: 13px;
-  line-height: 1.6;
+  font-size: 16px;
+  line-height: 2.0;
   text-align: center;
-  color: var(--bo-color);
-  margin: 0 0 4px;
-  font-family: "Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
+  color: var(--vp-c-text-1);
+  margin: 0 0 8px;
 }
 .intro-body {
-  font-size: 18px;
+  font-size: 22px;
   line-height: 1.9;
   text-align: justify;
   text-indent: 2em;
@@ -106,16 +92,16 @@ title: 竹巴《三猛咒》
 }
 .intro-verse {
   text-align: center;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
-  margin: 0 0 40px;
+  margin: 0 0 28px;
 }
 .sec-label {
   text-align: center;
   text-indent: 0;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 600;
   letter-spacing: 2px;
   color: #b06a43;
@@ -124,7 +110,7 @@ title: 竹巴《三猛咒》
 .intro-sign {
   text-align: right;
   text-indent: 0;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.9;
   color: var(--vp-c-text-2);
   margin: 8px 0 0;
@@ -132,10 +118,11 @@ title: 竹巴《三猛咒》
 .intro-sign.first { margin-top: 32px; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 22px; }
-  .jy-title-bo { font-size: 17px; }
-  .bo, .bo-verse { font-size: 12px; }
-  .intro-body { font-size: 17px; }
-  .intro-verse { font-size: 16px; }
+  .intro-title { font-size: 23px; }
+  .jy-title-bo { font-size: 18px; }
+  .bo { font-size: 16px; }
+  .bo-verse { font-size: 14px; }
+  .intro-body { font-size: 20px; }
+  .intro-verse { font-size: 18px; }
 }
 </style>
