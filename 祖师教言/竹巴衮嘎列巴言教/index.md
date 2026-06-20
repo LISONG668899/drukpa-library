@@ -178,7 +178,7 @@ title: 竹巴·衮嘎列巴言教
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: center;
+  text-align: center !important;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;

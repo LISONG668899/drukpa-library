@@ -120,7 +120,7 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: center;
+  text-align: center !important;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;
