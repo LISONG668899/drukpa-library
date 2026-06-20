@@ -30,6 +30,8 @@ title: 拉泽瓦尊者道歌
 <p class="intro-verse">精勤无散正念定 得见乐明无念受<br>
 了悟寻思本无根 得获无散正念心</p>
 
+<p class="intro-sign first">古普·钦哲仁波切译</p>
+
 </div>
 
 <style>
@@ -114,7 +116,7 @@ title: 拉泽瓦尊者道歌
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: right;
+  text-align: center;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;

@@ -34,6 +34,8 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
 <p class="bo">༡༢༽ཐུན་ཞབས་ཐམས་ཅད་དུ་བསྔོ་སྨོན་གྱིས་རྒྱས་འདེབས་པ་དང་བཅུ་གཉིས་ཁྲིགས་སུ་ཚུད་པར་མཛད་པ་ཇི་སྲིད་འཚོའི་བར་དུ་མཐར་ཕྱིན་པའོ།།</p>
 <p class="intro-body">12、每当于座间进行发愿和回向，并且十二条(誓言)有序地做到今生今世。</p>
 
+<p class="intro-sign first">古普·钦哲仁波切译</p>
+
 </div>
 
 <style>
@@ -118,7 +120,7 @@ title: 金刚持拉泽瓦昂旺桑波十二誓言
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: right;
+  text-align: center;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;

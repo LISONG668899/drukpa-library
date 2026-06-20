@@ -24,6 +24,8 @@ title: 嘉瓦郭仓巴言教
 <p class="intro-body">我们应当要随喜并赞叹所有的修行人，若不这样，很容易产生嫉妒和攀比之心。比如说，当你看到周边某同修已获得成就，而自己却没有什么成绩时，若你看不惯或者产生了不愉快的心情，这就是你的嫉妒心所带来的过患。</p>
 <p class="intro-body">此时，若能随喜这同修的成就，你自己也能够获得相等的福报。</p>
 
+<p class="intro-sign first">古普·钦哲仁波切译</p>
+
 </div>
 
 <style>
@@ -108,7 +110,7 @@ title: 嘉瓦郭仓巴言教
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: right;
+  text-align: center;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;

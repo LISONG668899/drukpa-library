@@ -30,6 +30,8 @@ title: 怙主藏巴甲热言教
 <p class="intro-verse">如是缘起实践难<br>
 可惜能解无其境</p>
 
+<p class="intro-sign first">古普·钦哲仁波切译</p>
+
 </div>
 
 <style>
@@ -114,7 +116,7 @@ title: 怙主藏巴甲热言教
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: right;
+  text-align: center;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;

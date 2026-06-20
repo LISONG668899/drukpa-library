@@ -187,7 +187,7 @@ title: 具德上师之言教
 愿以撰写此善根，<br>
 证得圆满解脱洲。</p>
 
-<p class="intro-sign first">古普·钦哲译，陈润泽居士校对汉文。愿一切吉祥！</p>
+<p class="intro-sign first">古普·钦哲仁波切译，陈润泽居士校对汉文</p>
 
 </div>
 
@@ -273,7 +273,7 @@ title: 具德上师之言教
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: right;
+  text-align: center;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;

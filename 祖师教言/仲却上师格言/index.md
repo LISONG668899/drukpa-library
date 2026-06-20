@@ -123,7 +123,7 @@ title: 仲却上师格言
 所积即是耗子财。</p>
 
 <p class="intro-sign first">大恩上师阿德仁波切 著</p>
-<p class="intro-sign">古普·钦哲 译</p>
+<p class="intro-sign">古普·钦哲仁波切译</p>
 
 </div>
 
@@ -209,7 +209,7 @@ title: 仲却上师格言
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: right;
+  text-align: center;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;

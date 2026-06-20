@@ -26,7 +26,8 @@ title: 竹巴《三猛咒》
 祈愿根除诸我执，<br>
 祈愿自心得自在。</p>
 
-<p class="intro-sign first">藏巴嘉热·益西多杰 著。古普·钦哲译释。</p>
+<p class="intro-sign first">藏巴嘉热·益西多杰 著</p>
+<p class="intro-sign">古普·钦哲仁波切译</p>
 
 </div>
 
@@ -112,7 +113,7 @@ title: 竹巴《三猛咒》
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: right;
+  text-align: center;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;

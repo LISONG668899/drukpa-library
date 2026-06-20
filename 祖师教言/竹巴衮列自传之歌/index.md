@@ -104,7 +104,7 @@ title: 竹巴衮列自传之歌
 觉得非常殊胜，<br>
 因此做了笔录。</p>
 
-<p class="intro-sign first">古普·钦哲译，陈润泽居士和朱红霞居士校对汉文。</p>
+<p class="intro-sign first">古普·钦哲仁波切译，陈润泽居士和朱红霞居士校对汉文</p>
 
 </div>
 
@@ -190,7 +190,7 @@ title: 竹巴衮列自传之歌
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: right;
+  text-align: center;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;

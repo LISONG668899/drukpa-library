@@ -34,6 +34,7 @@ title: 竹巴嘉旺杰言教
 <p class="bo-verse">ཞེས་པ་འདི་གྲ་རྒྱལ་ཆེན་གླིང་གི་གཟིམ་ཆུང་ལྷོ་མར་གསུངས་པའོ།།</p>
 
 <p class="intro-sign first">此乃扎加钦岭之寝室中教言</p>
+<p class="intro-sign">古普·钦哲仁波切译</p>
 
 </div>
 
@@ -119,7 +120,7 @@ title: 竹巴嘉旺杰言教
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: right;
+  text-align: center;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;

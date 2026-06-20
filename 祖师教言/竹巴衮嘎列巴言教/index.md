@@ -92,7 +92,7 @@ title: 竹巴·衮嘎列巴言教
 <p class="intro-verse">口念祈愿文不叫发愿，<br>
 不分别三轮则称发愿。</p>
 
-<p class="intro-sign first">古普·钦哲译，陈润泽居士和朱红霞居士校对汉文。</p>
+<p class="intro-sign first">古普·钦哲仁波切译，陈润泽居士和朱红霞居士校对汉文</p>
 
 </div>
 
@@ -178,7 +178,7 @@ title: 竹巴·衮嘎列巴言教
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: right;
+  text-align: center;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;

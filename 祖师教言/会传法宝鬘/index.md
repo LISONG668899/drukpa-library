@@ -167,7 +167,7 @@ title: 会传法思得宝鬘论
 །ཤུ་བྷ།། །།</p>
 
 <p class="intro-sign first">此众生怙主仁波切教言《宝鬘论》，由觉尊扎西仁钦反复请法后笔录而成。愿一切吉祥！</p>
-<p class="intro-sign">2021年10月24日（农历九月十九）观世音菩萨涅槃纪念日，古普·钦哲翻译，陈润泽居士汉文校对。</p>
+<p class="intro-sign">古普·钦哲仁波切译，陈润泽居士汉文校对</p>
 
 </div>
 
@@ -253,7 +253,7 @@ title: 会传法思得宝鬘论
   margin: 26px 0 14px;
 }
 .intro-sign {
-  text-align: right;
+  text-align: center;
   text-indent: 0;
   font-size: 19px;
   line-height: 1.9;
