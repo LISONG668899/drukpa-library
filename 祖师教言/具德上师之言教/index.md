@@ -7,7 +7,7 @@ title: 具德上师之言教
 
 <p class="jy-title-bo">༄༅། །རྒྱུད་ལྡན་བླ་མའི་ཞལ་གདམས། །</p>
 <h1 class="intro-title">具德上师之言教</h1>
-<p class="intro-author">阿德仁波切</p>
+<p class="intro-author">阿德仁波切 著</p>
 
 <p class="bo-verse">ཚད་མེད་མཁྱེན་པའི་ཀུན་གསལ་ཡངས་པར། །<br>
 བརྩེ་ཆེན་ཐུགས་རྗེའི་འོད་སྟོང་འཛུམ་གྱིས། །<br>

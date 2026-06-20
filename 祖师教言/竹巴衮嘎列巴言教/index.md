@@ -7,7 +7,7 @@ title: 竹巴·衮嘎列巴言教
 
 <p class="jy-title-bo">༈ འབྲུག་པ་ཀུན་ལེགས་ཀྱི་ཞལ་གདམས།</p>
 <h1 class="intro-title">竹巴·衮嘎列巴言教</h1>
-<p class="intro-author">竹巴·衮嘎列巴</p>
+<p class="intro-author">竹巴·衮嘎列巴 著</p>
 
 <p class="bo-verse">ན་མོ་དགའ་ཡོ།</p>
 <p class="intro-verse">拿摩噶夭！</p>

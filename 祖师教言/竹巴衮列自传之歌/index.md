@@ -7,7 +7,7 @@ title: 竹巴衮列自传之歌
 
 <p class="jy-title-bo">༈ ཆོས་རྗེ་འབྲུག་པ་ཀུན་ལེགས་ཀྱི་རྣམ་ཐར་ལས་བྱུང་བའི་གླུ།</p>
 <h1 class="intro-title">竹巴衮列自传之歌</h1>
-<p class="intro-author">竹巴·衮嘎列巴</p>
+<p class="intro-author">竹巴·衮嘎列巴 著</p>
 
 <p class="bo-verse">ཡང་མོན་བུམ་ཐང་ལ་ཕྱིན་པས།</p>
 <p class="intro-verse">再次到了门布塘</p>

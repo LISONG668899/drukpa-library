@@ -7,7 +7,7 @@ title: 怙主藏巴甲热言教
 
 <p class="jy-title-bo">༈ འགྲོ་མགོན་གཙང་པ་རྒྱ་རས་ཀྱི་ཞལ་གདམས།</p>
 <h1 class="intro-title">怙主藏巴甲热言教</h1>
-<p class="intro-author">藏巴甲热</p>
+<p class="intro-author">藏巴甲热 著</p>
 
 <p class="bo-verse">ནོར་འཚོལ་བ་ལས་ཀྱང་ཉ་ར་དཀའ།།<br>
 དད་རྫས་ཆུད་ཟོས་སུ་སོང་བ་ཨ་ཙ་མ།།</p>

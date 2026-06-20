@@ -6,7 +6,7 @@ title: 修行者誓言
 <div class="jy-page">
 
 <h1 class="intro-title">修行者誓言</h1>
-<p class="intro-author">法王藏巴甲热</p>
+<p class="intro-author">法王藏巴甲热 著</p>
 
 <p class="sec-bo first">༈ ཉམས་སུ་ལེན་པ་ལ་དགོས་པའི་ཆོས་བཅུ།</p>
 <p class="sec-zh">十句修行者誓言</p>

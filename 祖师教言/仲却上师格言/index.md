@@ -7,7 +7,7 @@ title: 仲却上师格言
 
 <p class="jy-title-bo">༈ གྲུབ་མཆོག་བླ་མའི་ལེགས་བཤད།</p>
 <h1 class="intro-title">仲却上师格言</h1>
-<p class="intro-author">大恩上师阿德仁波切</p>
+<p class="intro-author">大恩上师阿德仁波切 著</p>
 
 <p class="bo-verse">མཆོག་ལ་བཀུར་ཞིང་དམ་པར་བསྟེན་པ་དང་།།<br>
 དམན་ལ་བརྩེ་ཞིང་མཉམ་པར་བསྟུན་ལ་མཁས།།<br>
@@ -122,8 +122,7 @@ title: 仲却上师格言
 经常吝啬不施者，<br>
 所积即是耗子财。</p>
 
-<p class="intro-sign first">大恩上师阿德仁波切 著</p>
-<p class="intro-sign">古普·钦哲仁波切译</p>
+<p class="intro-sign first">古普·钦哲仁波切译</p>
 
 </div>
 

@@ -7,7 +7,7 @@ title: 竹巴嘉旺杰言教
 
 <p class="jy-title-bo">༈ རྒྱལ་དབང་རྗེའི་ཞལ་གདམས།</p>
 <h1 class="intro-title">竹巴嘉旺杰言教</h1>
-<p class="intro-author">竹巴嘉旺杰</p>
+<p class="intro-author">竹巴嘉旺杰 著</p>
 
 <p class="bo-verse">ན་མོ་མ་ཧཱ་མུ་དྲཱ་ཡ།</p>
 <p class="intro-verse">顶礼大手印！</p>
