@@ -184,7 +184,7 @@ title: 会传法宝鬘
   margin: 0 auto;
   padding: 48px 24px 48px;
 }
-.bo, .bo-verse, .jy-title-bo {
+.bo, .bo-verse, .jy-title-bo, .sec-bo {
   font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
 }
 .jy-title-bo {
@@ -262,10 +262,29 @@ title: 会传法宝鬘
   margin: 8px 0 0;
 }
 .intro-sign.first { margin-top: 32px; }
+.sec-bo {
+  text-align: center;
+  font-size: 20px;
+  line-height: 1.6;
+  color: var(--vp-c-text-1);
+  margin: 56px 0 2px;
+  padding-top: 32px;
+  border-top: 1px solid var(--vp-c-divider);
+}
+.sec-bo.first { border-top: 0; padding-top: 0; margin-top: 10px; }
+.sec-zh {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  margin: 2px 0 24px;
+}
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
   .intro-title { font-size: 28px; }
   .jy-title-bo { font-size: 18px; }
+  .sec-bo { font-size: 18px; margin-top: 44px; }
+  .sec-zh { font-size: 26px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
   .intro-body { font-size: 26px; }

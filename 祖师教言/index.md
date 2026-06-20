@@ -13,15 +13,11 @@ title: 祖师教言
   <a class="jy-card" href="/祖师教言/米拉日巴尊者道歌/"><span class="jy-name">米拉日巴道歌</span></a>
   <a class="jy-card" href="/祖师教言/照鉴自我过失之明镜/"><span class="jy-name">甘露鬘教言</span></a>
   <a class="jy-card" href="/祖师教言/会传法宝鬘/"><span class="jy-name">思得宝鬘论</span></a>
-  <a class="jy-card" href="/祖师教言/竹巴三猛咒/"><span class="jy-name">竹巴《三猛咒》</span></a>
+  <a class="jy-card" href="/祖师教言/竹巴三猛咒/"><span class="jy-name">竹巴三猛咒</span></a>
   <a class="jy-card" href="/祖师教言/怙主藏巴甲热言教/"><span class="jy-name">藏巴甲热言教</span></a>
-  <a class="jy-card" href="/祖师教言/七个不如/"><span class="jy-name">七个不如</span></a>
-  <a class="jy-card" href="/祖师教言/十句修行者誓言/"><span class="jy-name">十句修行者誓言</span></a>
-  <a class="jy-card" href="/祖师教言/七个要诀/"><span class="jy-name">七个要诀</span></a>
-  <a class="jy-card" href="/祖师教言/五个根本/"><span class="jy-name">五个根本</span></a>
-  <a class="jy-card" href="/祖师教言/十一个虚伪/"><span class="jy-name">十一个虚伪</span></a>
+  <a class="jy-card" href="/祖师教言/修行者誓言/"><span class="jy-name">修行者誓言</span></a>
   <a class="jy-card" href="/祖师教言/嘉瓦郭仓巴言教/"><span class="jy-name">嘉瓦郭仓巴言教</span></a>
-  <a class="jy-card" href="/祖师教言/竹巴嘉旺杰言教/"><span class="jy-name">竹巴嘉旺杰言教</span></a>
+  <a class="jy-card" href="/祖师教言/竹巴嘉旺杰言教/"><span class="jy-name">嘉旺杰言教</span></a>
   <a class="jy-card" href="/祖师教言/竹巴衮嘎列巴言教/"><span class="jy-name">竹巴衮列言教</span></a>
   <a class="jy-card" href="/祖师教言/竹巴衮列自传之歌/"><span class="jy-name">竹巴衮列道歌</span></a>
   <a class="jy-card" href="/祖师教言/拉泽瓦尊者道歌/"><span class="jy-name">拉泽瓦尊者道歌</span></a>
