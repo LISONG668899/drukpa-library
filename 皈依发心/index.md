@@ -6,7 +6,7 @@ aside: false
 <div class="cat-page">
 
 <h1 class="cat-h1">皈依发心</h1>
-<p class="cat-lead">竹巴噶举皈依、发心、受戒仪轨</p>
+<p class="cat-lead">噶举派皈依、发心、受戒仪轨</p>
 
 <div class="cat-grid">
   <a class="cat-card" href="/皈依发心/授三皈戒仪轨/">
