@@ -7,7 +7,7 @@ aside: false
 
 <h1 class="intro-title">略说三皈依、发心、三殊胜</h1>
 
-<p class="intro-author last">伊噶堪布 著</p>
+<p class="intro-author">伊噶堪布 著</p>
 
 <p class="intro-body">无皈依则非佛教徒，无发心则非大乘行者。因此一切道无论如何要圆满于皈依和发心当中。</p>
 
@@ -52,7 +52,7 @@ aside: false
 
 <p class="intro-body">（3）后行殊胜回向：无论行持的善根大还是小，将立刻回向，为了一切众生获得圆满佛果，即如同文殊菩萨和普贤菩萨等为众生如何回向，我亦将如实地回向，并念诵：《普贤菩萨行愿品》等回向文。</p>
 
-<p class="intro-verse">离心安于本性为法身，碌无休琐事为轮回因，<br>故有轮回涅磐边界处，意向朝于善法瑜伽士。</p>
+<p class="intro-verse">离心安于本性为法身，碌无休琐事为轮回因，<br>故有轮回涅槃边界处，意向朝于善法瑜伽士。</p>
 
 <p class="intro-sign">此乃，应法王噶玛巴之眷属一位僧徒之请求，此略说学处（戒律），由伊培南哇简著。古普·钦哲仁波切译汉。</p>
 
@@ -65,34 +65,33 @@ aside: false
   src: url("/fonts/NotoSerifTibetan-bo.woff2") format("woff2");
   unicode-range: U+0F00-0FFF;
 }
-.jy-page { max-width: 720px; margin: 0 auto; padding: 48px 24px 56px; }
-.jy-title-bo, .bo, .bo-verse {
+.jy-page { max-width: 720px; margin: 0 auto; padding: 48px 24px 48px; }
+.jy-title-bo, .bo, .bo-verse, .sec-bo-head {
   font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
 }
-.jy-title-bo { text-align: center; font-size: 20px; line-height: 1.7; color: var(--vp-c-text-1); margin: 0 0 8px; }
-.intro-title { text-align: center; border: 0; font-size: 26px; margin: 6px 0 8px; padding-top: 0; }
-.intro-author { text-align: center; font-size: 16px; color: var(--vp-c-text-2); margin: 0 0 4px; }
-.intro-author.bo { font-size: 17px; color: var(--vp-c-text-1); margin: 0 0 4px; }
-.intro-author.last { margin: 0 0 34px; }
-.bo { font-size: 16px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
-.bo-verse { font-size: 15px; line-height: 2.0 !important; text-align: center; color: var(--vp-c-text-1); margin: 0 0 12px; }
-.intro-body { font-size: 18px; line-height: 1.95; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
-.intro-verse { text-align: center; font-size: 17px; line-height: 1.95 !important; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 16px; }
-.sec-label { text-align: center; text-indent: 0; font-size: 17px; font-weight: 600; letter-spacing: 2px; color: #b06a43; margin: 30px 0 16px; }
-.sec-bo-head { font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari",serif; text-align: center; font-size: 15px; line-height: 2.0 !important; color: var(--vp-c-text-1); margin: 30px 0 2px; }
-.sec-label.tight { margin: 2px 0 16px; }
-.note-head { text-indent: 0; font-size: 16px; font-weight: 600; color: var(--vp-c-text-1); margin: 18px 0 8px; }
-.note-item { font-size: 15px; line-height: 1.9; text-indent: 0; color: var(--vp-c-text-2); margin: 0 0 6px; padding-left: 1.5em; }
-.intro-sign { text-align: center !important; text-indent: 0; font-size: 16px; line-height: 1.9; color: var(--vp-c-text-2); margin: 38px 0 0; }
+.jy-title-bo { text-align: center; font-size: 20px; line-height: 1.6; color: var(--vp-c-text-1); margin: 0 0 8px; }
+.intro-title { text-align: center; border: 0; font-size: 26px; margin: 6px 0 6px; padding-top: 0; }
+.intro-author { text-align: center; font-size: 16px; color: var(--vp-c-text-2); margin: 0 0 36px; }
+.intro-author.bo { font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari",serif; font-size: 18px; color: var(--vp-c-text-1); margin: 0 0 4px; }
+.bo { font-size: 17px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
+.bo-verse { font-size: 16px; line-height: 2.0; text-align: center; color: var(--vp-c-text-1); margin: 0 0 8px; }
+.intro-body { font-size: 26px; line-height: 1.9; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
+.intro-verse { text-align: center; font-size: 24px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 28px; }
+.sec-label { text-align: center; text-indent: 0; font-size: 20px; font-weight: 600; letter-spacing: 2px; color: #b06a43; margin: 26px 0 14px; }
+.sec-bo-head { text-align: center; font-size: 16px; line-height: 2.0; color: var(--vp-c-text-1); margin: 26px 0 2px; }
+.sec-label.tight { margin: 2px 0 14px; }
+.note-head { text-indent: 0; font-size: 17px; font-weight: 600; color: var(--vp-c-text-1); margin: 18px 0 8px; }
+.note-item { font-size: 16px; line-height: 1.9; text-indent: 0; color: var(--vp-c-text-2); margin: 0 0 6px; padding-left: 1.5em; }
+.intro-sign { text-align: center !important; text-indent: 0; font-size: 17px; line-height: 1.9; color: var(--vp-c-text-2); margin: 32px 0 0; }
 @media (max-width: 640px) {
-  .jy-page { padding: 24px 20px 44px; }
-  .intro-title { font-size: 22px; }
+  .jy-page { padding: 22px 20px 40px; }
+  .intro-title { font-size: 26px; }
   .jy-title-bo { font-size: 18px; }
-  .bo { font-size: 15px; }
+  .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 17px; }
-  .intro-verse { font-size: 16px; }
-  .sec-label { font-size: 16px; }
+  .intro-body { font-size: 24px; }
+  .intro-verse { font-size: 22px; }
+  .sec-label { font-size: 18px; }
 }
 </style>
 
