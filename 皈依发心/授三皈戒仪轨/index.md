@@ -39,67 +39,29 @@ aside: false
 <p class="intro-body">但是，这仅仅是皈依三宝之学处，即三皈居士。</p>
 <p class="intro-body">阿阇黎：“乐意剃发否？”，弟子：“乐意。”，旋即予以剃发，赐法名。</p>
 
-<p class="bo-verse">ཐར་པའི་རྒྱལ་མཚན་བརྟན་པར་གྱུར་ཅིག །</p>
-<p class="bo-verse">ཚངས་པར་སྤྱོད་པའི་ཚེ་མཐར་ཕྱིན་པར་གྱུར་ཅིག །</p>
-<p class="bo-verse">ཚུལ་ཁྲིམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་རྫོགས་པར་གྱུར་ཅིག །</p>
-<p class="bo-verse">སྐྱེ་བ་འདི་དང་ཚེ་རབས་ཐམས་ཅད་དུ་རབ་ཏུ་བྱུང་བའི་སྐལ་པ་རྒྱུད་ལ་སྐྱེ་བ་དང་མི་འབྲལ་བར་གྱུར་ཅིག །</p>
-<p class="bo-verse last">ལན་གསུམ།</p>
+<p class="bo-verse">ཐར་པའི་རྒྱལ་མཚན་བརྟན་པར་གྱུར་ཅིག །<br>ཚངས་པར་སྤྱོད་པའི་ཚེ་མཐར་ཕྱིན་པར་གྱུར་ཅིག །<br>ཚུལ་ཁྲིམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་རྫོགས་པར་གྱུར་ཅིག །<br>སྐྱེ་བ་འདི་དང་ཚེ་རབས་ཐམས་ཅད་དུ་རབ་ཏུ་བྱུང་བའི་སྐལ་པ་རྒྱུད་ལ་སྐྱེ་བ་དང་མི་འབྲལ་བར་གྱུར་ཅིག །<br>ལན་གསུམ།</p>
 
-<p class="intro-verse">祈愿坚固解脱幢，</p>
-<p class="intro-verse">祈愿梵净行一生，</p>
-<p class="intro-verse">祈愿圆满诸戒蕴，</p>
-<p class="intro-verse">祈愿永世不离于相续中生起出家之因缘。</p>
-<p class="intro-verse last">念三遍</p>
+<p class="intro-verse">祈愿坚固解脱幢，<br>祈愿梵净行一生，<br>祈愿圆满诸戒蕴，<br>祈愿永世不离于相续中生起出家之因缘。<br>念三遍</p>
 
-<p class="bo-verse">ཁྲིམས་ཀྱི་ཚུལ་ཁྲིམས་སྐྱོན་མེད་ཅིང༌། །</p>
-<p class="bo-verse">ཚུལ་ཁྲིམས་རྣམ་པར་དག་དང་ལྡན། །</p>
-<p class="bo-verse">རློམ་སེམས་མེད་པའི་ཚུལ་ཁྲིམས་ཀྱིས། །</p>
-<p class="bo-verse last">ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་རྫོགས་ཤོག །</p>
+<p class="bo-verse">ཁྲིམས་ཀྱི་ཚུལ་ཁྲིམས་སྐྱོན་མེད་ཅིང༌། །<br>ཚུལ་ཁྲིམས་རྣམ་པར་དག་དང་ལྡན། །<br>རློམ་སེམས་མེད་པའི་ཚུལ་ཁྲིམས་ཀྱིས། །<br>ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་རྫོགས་ཤོག །</p>
 
-<p class="intro-verse">持戒无缺减，</p>
-<p class="intro-verse">得佛净尸罗，</p>
-<p class="intro-verse">以无所住故，</p>
-<p class="intro-verse last">具戒波罗蜜。</p>
+<p class="intro-verse">持戒无缺减，<br>得佛净尸罗，<br>以无所住故，<br>具戒波罗蜜。</p>
 
-<p class="bo-verse">རྒྱལ་བ་ཀུན་གྱི་རྗེས་སུ་སློབ་གྱུར་ཏེ། །</p>
-<p class="bo-verse">བཟང་པོ་སྤྱོད་པ་ཡོངས་སུ་རྗོགས་བྱེད་ཅིང༌། །</p>
-<p class="bo-verse">ཚུལ་ཁྲིམས་སྤྱོད་པ་དྲི་མེད་ཡོངས་དག་པ། །</p>
-<p class="bo-verse last">རྟག་ཏུ་མ་ཉམས་སྐྱོན་མེད་སྤྱོད་པར་ཤོག །</p>
+<p class="bo-verse">རྒྱལ་བ་ཀུན་གྱི་རྗེས་སུ་སློབ་གྱུར་ཏེ། །<br>བཟང་པོ་སྤྱོད་པ་ཡོངས་སུ་རྗོགས་བྱེད་ཅིང༌། །<br>ཚུལ་ཁྲིམས་སྤྱོད་པ་དྲི་མེད་ཡོངས་དག་པ། །<br>རྟག་ཏུ་མ་ཉམས་སྐྱོན་མེད་སྤྱོད་པར་ཤོག །</p>
 
-<p class="intro-verse">我为菩提修行时，</p>
-<p class="intro-verse">一切趣中成宿命，</p>
-<p class="intro-verse">常得出家修净戒，</p>
-<p class="intro-verse last">无垢无破无穿漏。</p>
+<p class="intro-verse">我为菩提修行时，<br>一切趣中成宿命，<br>常得出家修净戒，<br>无垢无破无穿漏。</p>
 
-<p class="bo-verse">ལུས་ལ་ཆོས་གོས་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །</p>
-<p class="bo-verse">ངག་ལ་སྡེ་སྣོད་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །</p>
-<p class="bo-verse">སེམས་ལ་བསླབ་པ་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །</p>
-<p class="bo-verse last">ཀུན་ལ་དཀོན་མཆོག་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །</p>
+<p class="bo-verse">ལུས་ལ་ཆོས་གོས་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །<br>ངག་ལ་སྡེ་སྣོད་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །<br>སེམས་ལ་བསླབ་པ་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །<br>ཀུན་ལ་དཀོན་མཆོག་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །</p>
 
-<p class="intro-verse">于身法衣愿吉祥，</p>
-<p class="intro-verse">于语三藏愿吉祥，</p>
-<p class="intro-verse">于意三学愿吉祥，</p>
-<p class="intro-verse last">于诸三宝愿吉祥。</p>
+<p class="intro-verse">于身法衣愿吉祥，<br>于语三藏愿吉祥，<br>于意三学愿吉祥，<br>于诸三宝愿吉祥。</p>
 
-<p class="bo-verse">འགྲོ་བའི་སྡུག་བསྔལ་སྨན་གཅིག་པུ། །</p>
-<p class="bo-verse">བདེ་བ་ཐམས་ཅད་འབྱུང་བའི་གནས། །</p>
-<p class="bo-verse">བསྟན་པ་རྙེད་དང་བཀུར་སྟི་དང༌། །</p>
-<p class="bo-verse last">བཅས་ཏེ་ཡུན་རིང་གནས་གྱུར་ཅིག །</p>
+<p class="bo-verse">འགྲོ་བའི་སྡུག་བསྔལ་སྨན་གཅིག་པུ། །<br>བདེ་བ་ཐམས་ཅད་འབྱུང་བའི་གནས། །<br>བསྟན་པ་རྙེད་དང་བཀུར་སྟི་དང༌། །<br>བཅས་ཏེ་ཡུན་རིང་གནས་གྱུར་ཅིག །</p>
 
-<p class="intro-verse">愿除苦良药，</p>
-<p class="intro-verse">一切安乐源，</p>
-<p class="intro-verse">教法伴利敬，</p>
-<p class="intro-verse last">长久住世间。</p>
+<p class="intro-verse">愿除苦良药，<br>一切安乐源，<br>教法伴利敬，<br>长久住世间。</p>
 
-<p class="bo-verse">སྟོན་པ་འཇིག་རྟེན་ཁམས་སུ་བྱོན་པ་དང༌། །</p>
-<p class="bo-verse">བསྟན་པ་ཉི་འོད་བཞིན་དུ་གསལ་བ་དང༌། །</p>
-<p class="bo-verse">བསྟན་འཛིན་དཔོན་སློབ་བཤད་སྒྲུབ་རྒྱས་པ་ཡིས། །</p>
-<p class="bo-verse last">བསྟན་པ་ཡུན་རིང་གནས་པའི་བཀྲ་ཤིས་ཤོག།</p>
+<p class="bo-verse">སྟོན་པ་འཇིག་རྟེན་ཁམས་སུ་བྱོན་པ་དང༌། །<br>བསྟན་པ་ཉི་འོད་བཞིན་དུ་གསལ་བ་དང༌། །<br>བསྟན་འཛིན་དཔོན་སློབ་བཤད་སྒྲུབ་རྒྱས་པ་ཡིས། །<br>བསྟན་པ་ཡུན་རིང་གནས་པའི་བཀྲ་ཤིས་ཤོག།</p>
 
-<p class="intro-verse">佛陀出生于世间，</p>
-<p class="intro-verse">佛法亮如日光芒，</p>
-<p class="intro-verse">师徒弘扬讲修法，</p>
-<p class="intro-verse last">佛法常住愿吉祥。</p>
+<p class="intro-verse">佛陀出生于世间，<br>佛法亮如日光芒，<br>师徒弘扬讲修法，<br>佛法常住愿吉祥。</p>
 
 <p class="bo-verse">༈  སྐྱབས་འགྲོའི་བསླབ་བྱ་ལ།</p>
 <p class="sec-label">皈依之学处</p>
@@ -164,11 +126,9 @@ aside: false
 .intro-author.bo { font-size: 17px; color: var(--vp-c-text-1); margin: 0 0 4px; }
 .intro-author.last { margin: 0 0 34px; }
 .bo { font-size: 16px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
-.bo-verse { font-size: 15px; line-height: 2.0; text-align: center; color: var(--vp-c-text-1); margin: 0 0 4px; }
-.bo-verse.last { margin: 0 0 14px; }
+.bo-verse { font-size: 15px; line-height: 2.0 !important; text-align: center; color: var(--vp-c-text-1); margin: 0 0 12px; }
 .intro-body { font-size: 18px; line-height: 1.95; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
-.intro-verse { text-align: center; font-size: 17px; line-height: 1.95; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0; }
-.intro-verse.last { margin: 0 0 16px; }
+.intro-verse { text-align: center; font-size: 17px; line-height: 1.95 !important; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 16px; }
 .sec-label { text-align: center; text-indent: 0; font-size: 17px; font-weight: 600; letter-spacing: 2px; color: #b06a43; margin: 30px 0 16px; }
 .note-head { text-indent: 0; font-size: 16px; font-weight: 600; color: var(--vp-c-text-1); margin: 18px 0 8px; }
 .note-item { font-size: 15px; line-height: 1.9; text-indent: 0; color: var(--vp-c-text-2); margin: 0 0 6px; padding-left: 1.5em; }

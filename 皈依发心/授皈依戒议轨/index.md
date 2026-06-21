@@ -9,10 +9,7 @@ aside: false
 
 <p class="intro-author last">昂旺求巴嘉措 著</p>
 
-<p class="intro-verse">茫茫苦海之彼岸，</p>
-<p class="intro-verse">顺利能度众生怙，</p>
-<p class="intro-verse">顶礼皈依随三宝，</p>
-<p class="intro-verse last">并当宣说其方法。</p>
+<p class="intro-verse">茫茫苦海之彼岸，<br>顺利能度众生怙，<br>顶礼皈依随三宝，<br>并当宣说其方法。</p>
 
 <p class="intro-body">希求三皈律仪者，应当在具足圆满戒体的一位大德座前，摄受三皈戒律。首先将住处打扫干净，而后，以供奉我等导师释迦牟尼佛身像为主，三宝之身、语、意所依。并在身语意所依前，力所能及地供养各种清净美好的供品。</p>
 <p class="intro-body">之后，向所修导师释迦牟尼佛身像和佛经顶礼三拜。而后向上师亦顶礼三拜。随即，在坐前合掌，并䇯立（端坐）而坐。</p>
@@ -34,51 +31,33 @@ aside: false
 
 <p class="sec-label">发愿文</p>
 
-<p class="bo-verse">ཁྲིམས་ཀྱི་ཚུལ་ཁྲིམས་སྐྱོན་མེད་ཅིང་། །</p>
-<p class="bo-verse">ཚུལ་ཁྲིམས་རྣམ་པར་དག་དང་ལྡན། །</p>
-<p class="bo-verse">རློམ་སེམས་མེད་པའི་ཚུལ་ཁྲིམས་ཀྱིས། །</p>
-<p class="bo-verse last">ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་རྫོགས་ཤོག །</p>
+<p class="bo-verse">ཁྲིམས་ཀྱི་ཚུལ་ཁྲིམས་སྐྱོན་མེད་ཅིང་། །<br>ཚུལ་ཁྲིམས་རྣམ་པར་དག་དང་ལྡན། །<br>རློམ་སེམས་མེད་པའི་ཚུལ་ཁྲིམས་ཀྱིས། །<br>ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་རྫོགས་ཤོག །</p>
 
-<p class="intro-verse last">持戒无缺减 得佛净尸罗 以无所住故 具戒波罗蜜</p>
+<p class="intro-verse">持戒无缺减 得佛净尸罗 以无所住故 具戒波罗蜜</p>
 
-<p class="bo-verse">ཐར་བའི་རྒྱལ་མཚན་བརྟན་པར་གྱུར་ཅིག །</p>
-<p class="bo-verse">ཚངས་པར་སྤྱོད་པ་ཚེ་མཐར་ཕྱིན་པར་གྱུར་ཅིག །</p>
-<p class="bo-verse">ཚུལ་ཁྲིམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་རྫོགས་པར་གྱུར་ཅིག །</p>
-<p class="bo-verse last">ཚེ་རབས་ཐམས་ཅད་དུ་རབ་ཏུ་བྱུང་བ་ཐོབ་པར་གྱུར་ཅིག །</p>
+<p class="bo-verse">ཐར་བའི་རྒྱལ་མཚན་བརྟན་པར་གྱུར་ཅིག །<br>ཚངས་པར་སྤྱོད་པ་ཚེ་མཐར་ཕྱིན་པར་གྱུར་ཅིག །<br>ཚུལ་ཁྲིམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་རྫོགས་པར་གྱུར་ཅིག །<br>ཚེ་རབས་ཐམས་ཅད་དུ་རབ་ཏུ་བྱུང་བ་ཐོབ་པར་གྱུར་ཅིག །</p>
 
-<p class="intro-verse last">祈愿长住解脱幢 祈愿一生梵净行 祈愿圆满诸净戒 祈愿永世得出家</p>
+<p class="intro-verse">祈愿长住解脱幢 祈愿一生梵净行 祈愿圆满诸净戒 祈愿永世得出家</p>
 
-<p class="bo-verse">རྒྱལ་བ་ཀུན་གྱི་རྗེས་སུ་སློབ་གྱུར་ཏེ། །</p>
-<p class="bo-verse">བཟང་པོ་སྤྱོད་པ་ཡོངས་སུ་རྫོགས་བྱེད་ཅིང་། །</p>
-<p class="bo-verse">ཚུལ་ཁྲིམས་སྤྱོད་པ་དྲི་མེད་ཡོངས་དག་པར། །</p>
-<p class="bo-verse last">རྟག་ཏུ་མ་ཉམས་སྐྱོན་མེད་སྤྱོད་པར་ཤོག །</p>
+<p class="bo-verse">རྒྱལ་བ་ཀུན་གྱི་རྗེས་སུ་སློབ་གྱུར་ཏེ། །<br>བཟང་པོ་སྤྱོད་པ་ཡོངས་སུ་རྫོགས་བྱེད་ཅིང་། །<br>ཚུལ་ཁྲིམས་སྤྱོད་པ་དྲི་མེད་ཡོངས་དག་པར། །<br>རྟག་ཏུ་མ་ཉམས་སྐྱོན་མེད་སྤྱོད་པར་ཤོག །</p>
 
-<p class="intro-verse last">我为菩提修行时 一切趣中成宿命 常得出家修净戒 无垢无破无穿漏</p>
+<p class="intro-verse">我为菩提修行时 一切趣中成宿命 常得出家修净戒 无垢无破无穿漏</p>
 
-<p class="bo-verse">བདེ་གཤེགས་སྟོན་པའི་བསྟན་པ་མཆོག་གི་མཚོ། །</p>
-<p class="bo-verse">སྙན་པའི་འབྲུག་སྒྲ་སྒྲོགས་པའི་སྤྲིན་ཕྲེང་གི །</p>
-<p class="bo-verse">བཤད་སྒྲུབ་ཆར་གྱིས་ཉིན་བཞིན་རྣམ་སྤེལ་བས། །</p>
-<p class="bo-verse last">ཡངས་པའི་རྒྱལ་ཁམས་ཐམས་ཅད་འགེངས་གྱུར་ཅིག །</p>
+<p class="bo-verse">བདེ་གཤེགས་སྟོན་པའི་བསྟན་པ་མཆོག་གི་མཚོ། །<br>སྙན་པའི་འབྲུག་སྒྲ་སྒྲོགས་པའི་སྤྲིན་ཕྲེང་གི །<br>བཤད་སྒྲུབ་ཆར་གྱིས་ཉིན་བཞིན་རྣམ་སྤེལ་བས། །<br>ཡངས་པའི་རྒྱལ་ཁམས་ཐམས་ཅད་འགེངས་གྱུར་ཅིག །</p>
 
-<p class="intro-verse last">善逝所宣妙法海 悦耳龙称云朵之 讲修雨雪与日增 愿其遍满于世间</p>
+<p class="intro-verse">善逝所宣妙法海 悦耳龙称云朵之 讲修雨雪与日增 愿其遍满于世间</p>
 
 <p class="sec-label">吉祥颂</p>
 
-<p class="bo-verse">ལུས་ལ་ཆོས་གོས་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །</p>
-<p class="bo-verse">ངག་ལ་སྡེ་སྣོད་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །</p>
-<p class="bo-verse">ཡིད་ལ་བསླབ་པ་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །</p>
-<p class="bo-verse last">ཀུན་ལ་དཀོན་མཆོག་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །</p>
+<p class="bo-verse">ལུས་ལ་ཆོས་གོས་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །<br>ངག་ལ་སྡེ་སྣོད་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །<br>ཡིད་ལ་བསླབ་པ་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །<br>ཀུན་ལ་དཀོན་མཆོག་གསུམ་གྱི་བཀྲ་ཤིས་ཤོག །</p>
 
-<p class="intro-verse last">于身法衣愿吉祥 于语三藏愿吉祥 于意三学愿吉祥 于诸三宝愿吉祥</p>
+<p class="intro-verse">于身法衣愿吉祥 于语三藏愿吉祥 于意三学愿吉祥 于诸三宝愿吉祥</p>
 
 <p class="sec-label">回向文</p>
 
-<p class="bo-verse">བསོད་ནམས་འདི་ཡིས་ཐམས་ཅད་གཟིགས་པ་ཉིད། །</p>
-<p class="bo-verse">ཐོབ་ནས་ཉེས་པའི་དགྲ་རྣམས་ཕམ་བྱས་ནས། །</p>
-<p class="bo-verse">སྐྱེ་རྒ་ན་འཆིའི་རྦ་རླབས་འཁྲུག་པ་ཡི། །</p>
-<p class="bo-verse last">སྲིད་པའི་མཚོ་ལས་འགྲོ་བ་སྒྲོལ་བར་ཤོག །</p>
+<p class="bo-verse">བསོད་ནམས་འདི་ཡིས་ཐམས་ཅད་གཟིགས་པ་ཉིད། །<br>ཐོབ་ནས་ཉེས་པའི་དགྲ་རྣམས་ཕམ་བྱས་ནས། །<br>སྐྱེ་རྒ་ན་འཆིའི་རྦ་རླབས་འཁྲུག་པ་ཡི། །<br>སྲིད་པའི་མཚོ་ལས་འགྲོ་བ་སྒྲོལ་བར་ཤོག །</p>
 
-<p class="intro-verse last">此福已得一切智 摧伏一切过患敌 生老病死犹波涛 愿度有海诸有情</p>
+<p class="intro-verse">此福已得一切智 摧伏一切过患敌 生老病死犹波涛 愿度有海诸有情</p>
 
 <p class="intro-sign">此《传授三皈戒议轨希求解脱者宝梯》，应尊贵的大知者美旁格勒求珠仁波切之要求，并随念三宝的功德与慈悲恩德。由释迦弟子昂旺求巴嘉措撰著于圆满法轮洲（康巴葛寺）大经堂中。愿以此功德，佛、法、僧三宝将慈悲摄受于一切有情众生。古普·钦哲仁波切译汉。</p>
 
@@ -101,11 +80,9 @@ aside: false
 .intro-author.bo { font-size: 17px; color: var(--vp-c-text-1); margin: 0 0 4px; }
 .intro-author.last { margin: 0 0 34px; }
 .bo { font-size: 16px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
-.bo-verse { font-size: 15px; line-height: 2.0; text-align: center; color: var(--vp-c-text-1); margin: 0 0 4px; }
-.bo-verse.last { margin: 0 0 14px; }
+.bo-verse { font-size: 15px; line-height: 2.0 !important; text-align: center; color: var(--vp-c-text-1); margin: 0 0 12px; }
 .intro-body { font-size: 18px; line-height: 1.95; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
-.intro-verse { text-align: center; font-size: 17px; line-height: 1.95; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0; }
-.intro-verse.last { margin: 0 0 16px; }
+.intro-verse { text-align: center; font-size: 17px; line-height: 1.95 !important; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 16px; }
 .sec-label { text-align: center; text-indent: 0; font-size: 17px; font-weight: 600; letter-spacing: 2px; color: #b06a43; margin: 30px 0 16px; }
 .note-head { text-indent: 0; font-size: 16px; font-weight: 600; color: var(--vp-c-text-1); margin: 18px 0 8px; }
 .note-item { font-size: 15px; line-height: 1.9; text-indent: 0; color: var(--vp-c-text-2); margin: 0 0 6px; padding-left: 1.5em; }

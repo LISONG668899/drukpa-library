@@ -36,10 +36,7 @@ aside: false
 <p class="intro-body">如果不重视皈依，连声闻的信受（希求）都不会有的。同样，如果不重视菩提心，即便观修密宗的生圆次第，也决不能成为大乘道，因此，明白这个道理非常重要。</p>
 <p class="intro-body">如果相续中生起了无为的菩提心，此时便踏上了菩萨道。生生世世便能够被善知识所摄持，最终将会获得圆满菩提。此时便已建立了菩提之行如同大海一般的基础，因此，当恒时为众生而念诵，《普贤菩萨行愿品》、龙树菩萨所著的《二十大愿》、阿阇梨马鸣[⑤]所著的《七十大愿》等发愿文。</p>
 
-<p class="intro-verse">此能贤善之内容，</p>
-<p class="intro-verse">于请求者领悟后，</p>
-<p class="intro-verse">三门修持于善法，</p>
-<p class="intro-verse last">愿终身修法而尽。</p>
+<p class="intro-verse">此能贤善之内容，<br>于请求者领悟后，<br>三门修持于善法，<br>愿终身修法而尽。</p>
 
 <p class="sec-label">第三、三殊胜</p>
 
@@ -55,10 +52,7 @@ aside: false
 
 <p class="intro-body">（3）后行殊胜回向：无论行持的善根大还是小，将立刻回向，为了一切众生获得圆满佛果，即如同文殊菩萨和普贤菩萨等为众生如何回向，我亦将如实地回向，并念诵：《普贤菩萨行愿品》等回向文。</p>
 
-<p class="intro-verse">离心安于本性为法身，</p>
-<p class="intro-verse">碌无休琐事为轮回因，</p>
-<p class="intro-verse">故有轮回涅磐边界处，</p>
-<p class="intro-verse last">意向朝于善法瑜伽士。</p>
+<p class="intro-verse">离心安于本性为法身，<br>碌无休琐事为轮回因，<br>故有轮回涅磐边界处，<br>意向朝于善法瑜伽士。</p>
 
 <p class="intro-sign">此乃，应法王噶玛巴之眷属一位僧徒之请求，此略说学处（戒律），由伊培南哇简著。古普·钦哲仁波切译汉。</p>
 
@@ -81,11 +75,9 @@ aside: false
 .intro-author.bo { font-size: 17px; color: var(--vp-c-text-1); margin: 0 0 4px; }
 .intro-author.last { margin: 0 0 34px; }
 .bo { font-size: 16px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
-.bo-verse { font-size: 15px; line-height: 2.0; text-align: center; color: var(--vp-c-text-1); margin: 0 0 4px; }
-.bo-verse.last { margin: 0 0 14px; }
+.bo-verse { font-size: 15px; line-height: 2.0 !important; text-align: center; color: var(--vp-c-text-1); margin: 0 0 12px; }
 .intro-body { font-size: 18px; line-height: 1.95; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
-.intro-verse { text-align: center; font-size: 17px; line-height: 1.95; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0; }
-.intro-verse.last { margin: 0 0 16px; }
+.intro-verse { text-align: center; font-size: 17px; line-height: 1.95 !important; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 16px; }
 .sec-label { text-align: center; text-indent: 0; font-size: 17px; font-weight: 600; letter-spacing: 2px; color: #b06a43; margin: 30px 0 16px; }
 .note-head { text-indent: 0; font-size: 16px; font-weight: 600; color: var(--vp-c-text-1); margin: 18px 0 8px; }
 .note-item { font-size: 15px; line-height: 1.9; text-indent: 0; color: var(--vp-c-text-2); margin: 0 0 6px; padding-left: 1.5em; }
