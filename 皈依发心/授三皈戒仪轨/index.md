@@ -167,8 +167,8 @@ aside: false
 .bo-verse { font-size: 15px; line-height: 2.0; text-align: center; color: var(--vp-c-text-1); margin: 0 0 4px; }
 .bo-verse.last { margin: 0 0 14px; }
 .intro-body { font-size: 18px; line-height: 1.95; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
-.intro-verse { text-align: center; font-size: 17px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 6px; }
-.intro-verse.last { margin: 0 0 22px; }
+.intro-verse { text-align: center; font-size: 17px; line-height: 1.95; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0; }
+.intro-verse.last { margin: 0 0 16px; }
 .sec-label { text-align: center; text-indent: 0; font-size: 17px; font-weight: 600; letter-spacing: 2px; color: #b06a43; margin: 30px 0 16px; }
 .note-head { text-indent: 0; font-size: 16px; font-weight: 600; color: var(--vp-c-text-1); margin: 18px 0 8px; }
 .note-item { font-size: 15px; line-height: 1.9; text-indent: 0; color: var(--vp-c-text-2); margin: 0 0 6px; padding-left: 1.5em; }
