@@ -1,0 +1,246 @@
+---
+layout: page
+aside: false
+---
+
+<div class="jy-page">
+
+<p class="jy-title-bo">༄༅། །དབུ་མ་ལུགས་ཀྱི་སེམས་བསྐྱེད་ལེན་པའི་ ཆོ་ག་བཞུགས་སོ། །</p>
+
+<h1 class="intro-title">中观派受菩萨戒仪轨</h1>
+
+<p class="intro-author bo">བྱང་ཆུབ་སེམས་དཔའ་པདྨ་དཀར་པོ།</p>
+
+<p class="intro-author last">白玛嘎波菩萨 著</p>
+
+<p class="bo-verse">སྲིད་པའི་ཕན་བདེའི་ཡལ་འདབ་ཀུན་གྱི་གཞི། །</p>
+<p class="bo-verse">རྫོགས་པའི་སངས་རྒྱས་ས་བོན་དྲུང་པོ་བ། །</p>
+<p class="bo-verse">གང་ཞིག་སེམས་ཀྱི་དམ་པའི་པདྨ་ནི། །</p>
+<p class="bo-verse last">སྐྱེས་པའི་ཡིད་རྫིང་ཐམས་ཅད་ཕྱག་བྱའི་གནས། །</p>
+
+<p class="intro-verse">有之利乐枝叶根，</p>
+<p class="intro-verse">圆满正觉近种子，</p>
+<p class="intro-verse">何者心开胜莲花，</p>
+<p class="intro-verse last">意池皆是应礼处。</p>
+
+<p class="bo">འདིར་དབུ་མ་ལུགས་ཀྱི་སེམས་བསྐྱེད་ལེན་པའི་ཆོ་ག །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་འཇུག་ལས་ཇི་ལྟར་གསུངས་པ་བྲི་བར་བྱ་སྟེ། སྦྱོར་བ་དང༌། དངོས་གཞི་དང༌། རྗེས་སོ། །དང་པོ་ནི།</p>
+
+<p class="intro-body">此《中观派受菩萨戒仪轨》，以《入菩萨行论》中所讲的内容如是进行编写。</p>
+<p class="intro-body">全文分三：一、加行；二、正行；三、后行。</p>
+
+<p class="sec-label">一、加行</p>
+
+<p class="bo-verse">བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར། །</p>
+<p class="bo-verse">སངས་རྒྱས་རྣམས་ལ་སྐྱབས་སུ་མཆི། །</p>
+<p class="bo-verse">ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཡི། །</p>
+<p class="bo-verse">ཚོགས་ལའང་དེ་བཞིན་སྐྱབས་སུ་མཆི། །</p>
+<p class="bo-verse last">ལན་གསུམ།</p>
+
+<p class="intro-verse">乃至菩提果，</p>
+<p class="intro-verse">皈依诸如来，</p>
+<p class="intro-verse">正法菩萨众，</p>
+<p class="intro-verse">如是亦皈依。</p>
+<p class="intro-verse last">念三遍</p>
+
+<p class="bo-verse">སྔོན་ཆད་ཁྱེད་ཀྱི་བཀའ་ལས་འདས། །</p>
+<p class="bo-verse">ད་ནི་འཇིགས་པ་ཆེར་མཐོང་ནས། །</p>
+<p class="bo-verse">ཁྱེད་ལ་སྐྱབས་སུ་མཆི་ལགས་ཀྱིས། །</p>
+<p class="bo-verse">འཇིགས་པ་མྱུར་དུ་བསལ་དུ་གསོལ། །</p>
+<p class="bo-verse last">ཞེས་སྐྱབས་འགྲོ།</p>
+
+<p class="intro-verse">昔违尊圣教，</p>
+<p class="intro-verse">今生大忧惧，</p>
+<p class="intro-verse">愿以皈命尊，</p>
+<p class="intro-verse">求速除怖畏。</p>
+<p class="intro-verse last">如此皈依</p>
+
+<p class="bo">དེ་ནས་ཕྱག་དང་དངོས་སུ་འབྱོར་པའི་མཆོད་པ་བསྟར་ཏེ། ཇི་སྙེད་སུ་དག་སོགས། ཡན་ལག་བདུན་པ་བྱའོ། །གཉིས་པ་ནི། བྱང་ཆུབ་ཀྱི་སེམས་ནི་རྣམ་པ་གཉིས་ཏེ། སྨོན་པ་དང་འཇུག་པ་སྟེ། བྱང་ཆུབ་སེམས་དེ་མདོར་བསྡུ་ན། །བྱང་ཆུབ་སྨོན་པའི་སེམས་དང་ནི། །བྱང་ཆུབ་འཇུག་པ་ཉིད་ཡིན་ནོ། །ཞེས་པས་སོ། །དེ་གཉིས་ཀྱང༌། ལམ་དུ་འགྲོ་འདོད་པ་དང་འགྲོ་བཞིན་པའི་ཁྱད་ལྟ་བུར་གསུངས་ཏེ། འགྲོ་བར་འདོད་དང་འགྲོ་བ་ཡི། །བྱེ་བྲག་ཇི་ལྟར་ཤེས་པ་ལྟར། །དེ་བཞིན་མཁས་པས་འདི་གཉིས་ཀྱི། །བྱེ་བྲག་རིམ་བཞིན་ཤེས་པར་བྱ། །ཞེས་སོ། །དེ་བས་ན་དེ་གཉིས་ཀྱི་ཕན་ཡོན་ལ་ཡང༌། བྱང་ཆུབ་སྨོན་པའི་སེམས་ལས་ནི། །འཁོར་ཚེ་འབྲས་བུ་ཆེ་འབྱུང་ཡང༌། །ཇི་ལྟར་འཇུག་པའི་སེམས་བཞིན་དུ། །བསོད་ནམས་རྒྱུན་ཆགས་འབྱུང་བ་མིན། །གང་ནས་བཟུང་སྟེ་སེམས་ཅན་ཁམས། །མཐའ་ཡས་རབ་ཏུ་སྒྲོལ་བའི་ཕྱིར། །མི་ལྡོག་པ་ཡི་སེམས་ཀྱིས་སུ། །སེམས་དེ་ཡང་དག་བླངས་གྱུར་པ། །དེ་ནས་བཟུང་སྟེ་གཉིད་ལོག་གམ། །བག་མེད་གྱུར་ཀྱང་བསོད་ནམས་ཤུགས། །རྒྱུན་མི་འཆད་པ་དུ་མ་ཞིག །ནམ་མཁའ་མཉམ་པར་རབ་ཏུ་འབྱུང༌། །ཞེས་གསུངས་པ་བླ་ན་མེད་པའི་བྱང་ཆུབ་ཏུ་སྨོན་པ་ཙམ་ཡང་ཕན་ཡོན་དཔག་ཏུ་མེད་ན། བྱང་ཆུབ་ཏུ་ཞུགས་ནས་སྤྱད་པ་སྤྱོད་པ་ལྟ་ཅི་སྨོས་སྙམ་སེམས་ལ་གཞོག་ཅིག །ཅེས་སྐབས་དང་བསྟུན་པའི་བཤད་པ་བྱ། རང་ཉིད་ཀྱིས་ལེན་པ་ལ་བཤད་པ་འདི་དག་མི་དགོས།</p>
+
+<p class="intro-body">于是进行顶礼和真实之供养，如《所有十方世界中》等七支供。</p>
+
+<p class="sec-label">二、正行</p>
+
+<p class="intro-body">菩提心分两种，即愿菩提心和行菩提心，如云：“略摄菩提心，当知有二种，愿求菩提心，趣行菩提心。”此两种菩提心的差别，比如，在某路上欲行和正在行一样，如云：“如人尽了知，欲行正行别，如是智者知，二心次第别。”此两种菩提心的功德，如云：“愿心于生死，虽生广大果，犹不如行心，相续增福德，何时为度尽，无边众有情，立志不退转，受持此行心，即自彼时起，纵眠或放逸，福德相续生，量多等虚空。”</p>
+<p class="intro-body">应当了知，仅仅发愿无上菩提心具有如此之无量功德，何况真正的行持菩提行的功德呢。以上内容，根据实际情况决定是否需要讲解，在自己受戒时不需要此等讲解。</p>
+
+<p class="bo">སྔོན་གྱི་དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱིས་བྱང་ཆུབ་ཏུ་ཐུགས་བསྐྱེད་དེ་བསླབ་པ་ལ་ཇི་ལྟར་བསླབས་པ་དེ་བཞིན་དུ་བདག་གིས་ཀྱང་སེམས་ཅན་ཐམས་ཅད་རྫོགས་པའི་སངས་རྒྱས་སུ་གཞག་པའི་ཕྱིར་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་ཅིང་བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ་རིམ་པ་བཞིན་སློབ་པར་བྱའོ། །སྙམ་པས།</p>
+
+<p class="intro-body">过去之诸如来如何发菩提心，如何修学诸学处。为了一切有情安置于圆满正等觉果位，我也如是发菩提心，并次第修学诸菩萨之学处。如此心想并念诵：</p>
+
+<p class="bo-verse">ཇི་ལྟར་སྔོན་གྱི་བདེ་གཤེགས་ཀྱིས། །</p>
+<p class="bo-verse">བྱང་ཆུབ་ཐུགས་ནི་བསྐྱེད་པ་དང༌། །</p>
+<p class="bo-verse">བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ། །</p>
+<p class="bo-verse">དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར། །</p>
+<p class="bo-verse">དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ། །</p>
+<p class="bo-verse">བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་བགྱི་ཞིང༌། །</p>
+<p class="bo-verse">དེ་བཞིན་དུ་ནི་བསླབ་པ་ལའང༌། །</p>
+<p class="bo-verse">རིམ་པ་བཞིན་དུ་བསླབ་པར་བགྱི། །</p>
+<p class="bo-verse last">ཞེས་ལན་གསུམ།</p>
+
+<p class="intro-verse">如昔诸善逝，</p>
+<p class="intro-verse">先发菩提心。</p>
+<p class="intro-verse">复此循序住，</p>
+<p class="intro-verse">菩萨诸学处。</p>
+<p class="intro-verse">如是为利生，</p>
+<p class="intro-verse">我发菩提心。</p>
+<p class="intro-verse">复于诸学处，</p>
+<p class="intro-verse">次第勤修学。</p>
+<p class="intro-verse last">念三遍</p>
+
+<p class="sec-label">三、后行</p>
+
+<p class="bo">རྗེས་ནི། བདག་གི་སེམས་གཟེངས་བསྟོད་པའི་ཕྱིར།</p>
+
+<p class="intro-body">为了赞扬自心：</p>
+
+<p class="bo-verse">དེང་དུས་བདག་ཚེ་འབྲས་བུ་ཡོད། །</p>
+<p class="bo-verse">མི་ཡི་སྲིད་པ་ལེགས་པར་ཐོབ། །</p>
+<p class="bo-verse">དེ་རིང་སངས་རྒྱས་རིགས་སུ་སྐྱེས། །</p>
+<p class="bo-verse">སངས་རྒྱས་སྲས་སུ་ད་གྱུར་ཏོ། །</p>
+<p class="bo-verse">ད་ནི་བདག་གིས་ཅི་ནས་ཀྱང༌། །</p>
+<p class="bo-verse">རིགས་དང་མཐུན་པའི་ལས་བརྩམས་ཏེ། །</p>
+<p class="bo-verse">སྐྱོན་མེད་བཙུན་པའི་རིགས་འདི་ལ། །</p>
+<p class="bo-verse last">རྙོག་པར་མི་འགྱུར་དེ་ལྟར་བྱ། །</p>
+
+<p class="intro-verse">今生吾获福，</p>
+<p class="intro-verse">善得此人身，</p>
+<p class="intro-verse">复生佛家族，</p>
+<p class="intro-verse">今成如来子。</p>
+<p class="intro-verse">尔后吾当为，</p>
+<p class="intro-verse">宜乎佛族业，</p>
+<p class="intro-verse">慎莫染污此，</p>
+<p class="intro-verse last">无垢尊贵种。</p>
+
+<p class="bo">གཞན་དག་དགའ་བ་བསྐྱེད་པའི་ཕྱིར་དུ་ནི།</p>
+
+<p class="intro-body">为了令自他欢喜：</p>
+
+<p class="bo-verse">བདག་གིས་དེ་རིང་སྐྱོབ་པ་ཐམས་ཅད་ཀྱི། །</p>
+<p class="bo-verse">སྤྱན་སྔར་འགྲོ་བ་བདེ་གཤེགས་ཉིད་དང་ནི། །</p>
+<p class="bo-verse">བར་དུ་བདེ་ལ་མགྲོན་དུ་བོས་ཟིན་གྱིས། །</p>
+<p class="bo-verse">ལྷ་དང་ལྷ་མིན་ལ་སོགས་དགའ་བར་གྱིས། །</p>
+<p class="bo-verse last">ཞེས་ལན་གཅིག་བརྗོད་པར་བྱའོ། །</p>
+
+<p class="intro-verse">今于怙主前，</p>
+<p class="intro-verse">筵众为上宾，</p>
+<p class="intro-verse">宴飨成佛乐，</p>
+<p class="intro-verse">普愿皆欢喜。</p>
+<p class="intro-verse last">念一遍</p>
+
+<p class="bo">བྱང་ཆུབ་སེམས་དཔའི་སྡོམ་པ་ནོད་ནས་རྩ་བའི་ལྟུང་བ་རྒྱལ་པོ་ལ་འབྱུང་ཉེ་བ་ལྔ། བློན་པོ་ལ་འབྱུང་ཉེ་བ་ལྔ། ཕལ་པ་ལ་འབྱུང་ཉེ་བ་བརྒྱད་དེ་བཅོ་བརྒྱད། རྫས་ཀྱི་སྒོ་ནས་བློན་པོའི་རྣམས་གཅིག་ཏུ་འདུས་པས་བཅུ་བཞི། བྱང་ས་ནས་བཤད་པའི་ཕམ་བཞི་དང་ཉན་རང་དུ་སེམས་བསྐྱེད་རྣམས་བསྲུང༌། གང་ལས་ལྟུང་བ་དང་ལྟུང་བའི་གཟུགས་བརྙན། གང་ལས་ལྟུང་མེད་དང་ལྟུང་མེད་ཀྱི་གཟུགས་བརྙན་དུ་འགྱུར་བའི་གནད་བཤད་པར་བྱ་སྟེ། བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པའི་ཁོག་པ་འདི་ཡིན་པའི་ཕྱིར་རོ། །ཞེས་བྱང་ཆུབ་སེམས་དཔའ་པདྨ་དཀར་པོས་མཛད་པའི་སེམས་བསྐྱེད་ཆོ་ག་ཤིན་ཏུ་རྒྱས་པའི་མདོའི་སྙིང་པོ་ལས་ཁོལ་དུ་ཕྱུང་བའོ།།</p>
+
+<p class="intro-body">获得菩萨戒之后，不可违犯诸定罪，即：国王①容易违犯之五种堕罪、大臣②容易违犯之五种堕罪、平凡人③容易违犯之八种堕罪，总共十八种堕罪，大臣堕罪中住处破坏之外，前面四条与国王堕罪一样的，如此计算，总共为十四种堕罪；还有《菩萨地论》中所说的四根本堕罪，以及慕求声闻和圆觉等堕罪。</p>
+<p class="intro-body">应当宣讲何为堕罪及堕罪之形象，以及何为无堕罪及无堕罪之形象等要点，因为此等便是菩萨学处之主要内容。</p>
+<p class="intro-body">此《中观派受菩萨戒仪轨》乃白玛嘎波菩萨所著，《受菩萨戒仪轨广说经典要诀》中抽出。</p>
+
+<p class="bo-verse">བྱང་ཆུབ་སེམས་མཆོག་རིན་པོ་ཆེ། །</p>
+<p class="bo-verse">མ་སྐྱེས་པ་རྣམས་སྐྱེ་གྱུར་ཅིག །</p>
+<p class="bo-verse">སྐྱེས་པ་ཉམས་པ་མེད་པར་ཡང༌། །</p>
+<p class="bo-verse last">གོང་ནས་གོང་དུ་འཕེལ་བར་ཤོག །</p>
+
+<p class="intro-verse">菩提心妙宝，</p>
+<p class="intro-verse">未生者当生，</p>
+<p class="intro-verse">已生勿退失，</p>
+<p class="intro-verse last">辗转益增长。</p>
+
+<p class="bo-verse">བྱང་ཆུབ་སེམས་དང་མི་འབྲལ་ཞིང༌། །</p>
+<p class="bo-verse">བྱང་ཆུབ་སྤྱོད་ལ་གཞོལ་བ་དང༌། །</p>
+<p class="bo-verse">སངས་རྒྱས་རྣམས་ཀྱིས་ཡོངས་བཟུང་ཞིང༌། །</p>
+<p class="bo-verse last">བདུད་ཀྱི་ལས་རྣམས་སྤོང་བར་ཤོག །</p>
+
+<p class="intro-verse">愿不舍觉心，</p>
+<p class="intro-verse">委身菩提行，</p>
+<p class="intro-verse">诸佛恒提携，</p>
+<p class="intro-verse last">断尽诸魔业。</p>
+
+<p class="bo-verse">བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་ནི། །</p>
+<p class="bo-verse">འགྲོ་དོན་ཐུགས་ལ་དགོངས་འགྲུབ་ཤོག །</p>
+<p class="bo-verse">མགོན་པོ་ཡིས་ནི་གང་དགོངས་པ། །</p>
+<p class="bo-verse last">སེམས་ཅན་རྣམས་ལའང་དེ་འབྱོར་ཤོག །</p>
+
+<p class="intro-verse">愿菩萨如意，</p>
+<p class="intro-verse">成办众生利，</p>
+<p class="intro-verse">愿有情悉得，</p>
+<p class="intro-verse last">怙主慈护念。</p>
+
+<p class="bo-verse">སེམས་ཅན་ཐམས་ཅད་བདེ་དང་ལྡན་གྱུར་ཅིག །</p>
+<p class="bo-verse">ངན་འགྲོ་ཐམས་ཅད་རྟག་ཏུ་སྟོང་པར་ཤོག །</p>
+<p class="bo-verse">བྱང་ཆུབ་སེམས་དཔའ་གང་དག་སར་བཞུགས་པ། །</p>
+<p class="bo-verse last">དེ་དག་ཀུན་གྱིས་སྨོན་ལམ་འགྲུབ་པར་ཤོག །</p>
+
+<p class="intro-verse">愿众生得乐，</p>
+<p class="intro-verse">诸恶趣永尽，</p>
+<p class="intro-verse">愿登地菩萨，</p>
+<p class="intro-verse last">彼愿皆成就。</p>
+
+<p class="intro-sign">古普·钦哲译，陈润泽居士和朱红霞居士校对汉文。</p>
+
+<p class="sec-label">注解</p>
+
+<p class="note-head">①国王五种堕罪：</p>
+
+<p class="note-item">1、强行掠夺、盗窃或令他人盗窃三宝的财物；</p>
+<p class="note-item">2、毁谤、舍弃三乘佛法；</p>
+<p class="note-item">3、以嗔恨心殴打、抢劫比丘、沙弥，或让别人这样做；</p>
+<p class="note-item">4、造五无间罪中的任何一种；</p>
+<p class="note-item">5、相续中产生邪见，不承认善有善报、恶有恶报的因果之理。</p>
+
+<p class="note-head">②大臣五种堕罪：</p>
+
+<p class="note-item">1、强行掠夺、盗窃或令他人盗窃三宝的财物；</p>
+<p class="note-item">2、毁谤、舍弃三乘佛法，比如对别人说：“你学这些法没有意义，不能获得解脱。”</p>
+<p class="note-item">3、以嗔恨心殴打、抢劫比丘、沙弥，或让别人这样做；</p>
+<p class="note-item">4、造五无间罪中的任何一种；</p>
+<p class="note-item">5、以嗔恨之心毁坏住处、村落、城镇、城市等。</p>
+
+<p class="note-head">③平凡人八种堕罪：</p>
+
+<p class="note-item">1、对智慧没有成熟者宣说大乘空性法门，令对方生起畏惧之心；</p>
+<p class="note-item">2、令别人退失大乘发心而趋入小乘；</p>
+<p class="note-item">3、令他人舍弃别解脱戒而趋入大乘；</p>
+<p class="note-item">4、声称声缘道不能断除烦恼，不管自己受持还是让他人受持这种观点，都将犯菩萨戒；</p>
+<p class="note-item">5、以嫉妒心自赞毁他；</p>
+<p class="note-item">6、为获得名闻利养而宣称自己证悟了空性；</p>
+<p class="note-item">7、令比丘受惩罚并暗中收取贿赂；</p>
+<p class="note-item">8、把修行者的受用送给求学者，促使对方舍弃修行。</p>
+
+</div>
+
+<style>
+@font-face {
+  font-family: "Noto Serif Tibetan Web";
+  font-display: swap;
+  src: url("/fonts/NotoSerifTibetan-bo.woff2") format("woff2");
+  unicode-range: U+0F00-0FFF;
+}
+.jy-page { max-width: 720px; margin: 0 auto; padding: 48px 24px 56px; }
+.jy-title-bo, .bo, .bo-verse {
+  font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari","Qomolangma-Uchen Sarchen",serif;
+}
+.jy-title-bo { text-align: center; font-size: 20px; line-height: 1.7; color: var(--vp-c-text-1); margin: 0 0 8px; }
+.intro-title { text-align: center; border: 0; font-size: 26px; margin: 6px 0 8px; padding-top: 0; }
+.intro-author { text-align: center; font-size: 16px; color: var(--vp-c-text-2); margin: 0 0 4px; }
+.intro-author.bo { font-size: 17px; color: var(--vp-c-text-1); margin: 0 0 4px; }
+.intro-author.last { margin: 0 0 34px; }
+.bo { font-size: 16px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
+.bo-verse { font-size: 15px; line-height: 2.0; text-align: center; color: var(--vp-c-text-1); margin: 0 0 4px; }
+.bo-verse.last { margin: 0 0 14px; }
+.intro-body { font-size: 18px; line-height: 1.95; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
+.intro-verse { text-align: center; font-size: 17px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 6px; }
+.intro-verse.last { margin: 0 0 22px; }
+.sec-label { text-align: center; text-indent: 0; font-size: 17px; font-weight: 600; letter-spacing: 2px; color: #b06a43; margin: 30px 0 16px; }
+.note-head { text-indent: 0; font-size: 16px; font-weight: 600; color: var(--vp-c-text-1); margin: 18px 0 8px; }
+.note-item { font-size: 15px; line-height: 1.9; text-indent: 0; color: var(--vp-c-text-2); margin: 0 0 6px; padding-left: 1.5em; }
+.intro-sign { text-align: center !important; text-indent: 0; font-size: 16px; line-height: 1.9; color: var(--vp-c-text-2); margin: 38px 0 0; }
+@media (max-width: 640px) {
+  .jy-page { padding: 24px 20px 44px; }
+  .intro-title { font-size: 22px; }
+  .jy-title-bo { font-size: 18px; }
+  .bo { font-size: 15px; }
+  .bo-verse { font-size: 14px; }
+  .intro-body { font-size: 17px; }
+  .intro-verse { font-size: 16px; }
+  .sec-label { font-size: 16px; }
+}
+</style>
+
