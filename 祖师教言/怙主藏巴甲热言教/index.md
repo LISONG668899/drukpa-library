@@ -11,24 +11,19 @@ title: 怙主藏巴甲热言教
 
 <p class="bo-verse">ནོར་འཚོལ་བ་ལས་ཀྱང་ཉ་ར་དཀའ།།<br>
 དད་རྫས་ཆུད་ཟོས་སུ་སོང་བ་ཨ་ཙ་མ།།</p>
-<p class="intro-verse">找财不难管财难<br>
-可惜浪费信众财</p>
+<p class="intro-verse">找财不难管财难<br>可惜浪费信众财</p>
 <p class="bo-verse">འཁོར་འདུ་བ་ལས་ཀྱང་སྐྱོང་བ་དཀའ།།<br>
 སློབ་མ་ཁ་སྟོང་དུ་གཏོང་བ་ཨ་ཙ་མ།།</p>
-<p class="intro-verse">收徒不难教徒难<br>
-可惜徒儿无教诲</p>
+<p class="intro-verse">收徒不难教徒难<br>可惜徒儿无教诲</p>
 <p class="bo-verse">སྒོམ་སྐྱེ་བ་ལས་ཀྱང་སྐྱོང་བ་དཀའ།།<br>
 དྲེད་པོར་སོང་བ་ཨ་ཙ་མ།།</p>
-<p class="intro-verse">坐禅不难护禅难<br>
-可惜成了法油子</p>
+<p class="intro-verse">坐禅不难护禅难<br>可惜成了法油子</p>
 <p class="bo-verse">གདམས་པ་ཤེས་པ་བས་ཀྱང་ཉམས་ལེན་དཀའ།།<br>
 ཚིག་ཏུ་ཤོར་བ་ཨ་ཙ་མ།།</p>
-<p class="intro-verse">懂法不难修法难<br>
-可惜成了口头禅</p>
+<p class="intro-verse">懂法不难修法难<br>可惜成了口头禅</p>
 <p class="bo-verse">རྟེན་འབྲེལ་འཆར་བ་བས་ཀྱང་ལག་ལེན་དཀའ།།<br>
 གོ་ཐོག་ཏུ་ལུས་པ་ཨ་ཙ་མ།།</p>
-<p class="intro-verse">如是缘起实践难<br>
-可惜能解无其境</p>
+<p class="intro-verse">如是缘起实践难<br>可惜能解无其境</p>
 
 <p class="intro-sign first">古普·钦哲仁波切译</p>
 

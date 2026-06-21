@@ -100,9 +100,7 @@ title: 竹巴衮列自传之歌
 <p class="bo-verse">དགེ་བ་བྱང་ཆུབ་མ་བསྔོས་མཐོལ་ལོ་བཤགས།།</p>
 <p class="intro-verse">忏悔未回向菩提。</p>
 <p class="bo-verse">ཟེར་ནས་གླུ་བཏང་བྱུང་བས། ལེགས་པོ་འདུག་པས་བྲིས་པ་ཡིན།</p>
-<p class="intro-verse">在唱出此道歌后，<br>
-觉得非常殊胜，<br>
-因此做了笔录。</p>
+<p class="intro-verse">在唱出此道歌后，<br>觉得非常殊胜，<br>因此做了笔录。</p>
 
 <p class="intro-sign first">古普·钦哲仁波切译，陈润泽居士和朱红霞居士校对汉文</p>
 
