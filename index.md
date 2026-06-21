@@ -13,6 +13,7 @@ title: 首页
   <a class="dz-card" href="/皈依发心/">皈依发心</a>
   <a class="dz-card" href="/达波四法/">达波四法</a>
   <a class="dz-card" href="/大手印法/">大手印法</a>
+  <a class="dz-card" href="/不共引导/">不共引导</a>
   <a class="dz-card" href="/中阴教法/">中阴教法</a>
   <a class="dz-card" href="/修法仪轨/">修法仪轨</a>
   <a class="dz-card" href="/祈祷发愿/">祈祷发愿</a>
