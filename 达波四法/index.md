@@ -10,19 +10,19 @@ aside: false
 
 <div class="cat-grid">
   <a class="cat-card" href="/达波四法/宝鬘论根本颂/">
-    <span class="cat-title">宝鬘论根本颂</span>
+    <span class="cat-title">达波四法本颂</span>
     <span class="cat-sub">冈波巴大师</span>
   </a>
   <a class="cat-card" href="/达波四法/宝鬘论释/">
-    <span class="cat-title">宝鬘论释</span>
-    <span class="cat-sub">遍知·白玛嘎波</span>
+    <span class="cat-title">达波四法论释</span>
+    <span class="cat-sub">遍知白玛嘎波</span>
   </a>
   <a class="cat-card" href="/达波四法/达波四法释要/">
     <span class="cat-title">达波四法释要</span>
-    <span class="cat-sub">达波拉杰</span>
+    <span class="cat-sub">冈波巴大师</span>
   </a>
   <a class="cat-card" href="/达波四法/无等达波四法之言教/">
-    <span class="cat-title">无等达波四法言教</span>
+    <span class="cat-title">达波四法言教</span>
     <span class="cat-sub">嘉旺棍嘎巴觉</span>
   </a>
 </div>

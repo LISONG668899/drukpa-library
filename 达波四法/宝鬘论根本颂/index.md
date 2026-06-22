@@ -52,42 +52,42 @@ aside: false
 }
 .jy-title-bo { text-align: center; font-size: 20px; line-height: 1.6; color: var(--vp-c-text-1); margin: 0 0 8px; }
 .intro-title { text-align: center; border: 0; font-size: 26px; margin: 6px 0 6px; padding-top: 0; }
+.jy-subtitle { text-align: center; font-size: 17px; color: var(--vp-c-text-2); letter-spacing: 3px; margin: 0 0 14px; }
 .intro-author { text-align: center; font-size: 16px; color: var(--vp-c-text-2); margin: 0 0 36px; }
-.jy-subtitle { text-align: center; font-size: 19px; color: var(--vp-c-text-2); letter-spacing: 3px; margin: 0 0 14px; }
-.kp { text-indent: 0; line-height: 1.6; }
-.kp1 { text-align: left; font-size: 24px; font-weight: 700; color: #b06a43; letter-spacing: 1px; margin: 40px 0 12px; padding-bottom: 8px; border-bottom: 1px solid var(--vp-c-divider); }
-.kp2 { text-align: left; font-size: 23px; font-weight: 700; color: var(--vp-c-text-1); margin: 30px 0 10px; }
-.kp3 { text-align: left; font-size: 22px; font-weight: 600; color: var(--vp-c-text-1); margin: 24px 0 8px; }
-.kp4 { text-align: left; font-size: 21px; font-weight: 600; color: var(--vp-c-text-1); margin: 20px 0 8px; }
-.kp5 { text-align: left; font-size: 20px; font-weight: 600; color: var(--vp-c-text-2); margin: 18px 0 6px; }
-.kp6 { text-align: left; font-size: 20px; font-weight: 600; color: var(--vp-c-text-2); margin: 16px 0 6px; }
-.kp7 { text-align: left; font-size: 19px; font-weight: 600; color: var(--vp-c-text-2); margin: 14px 0 6px; }
-.kp-enum { text-indent: 0; font-size: 18px; line-height: 1.7; color: var(--vp-c-text-2); margin: 0 0 14px; }
-.intro-author.bo { font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari",serif; font-size: 18px; color: var(--vp-c-text-1); margin: 0 0 4px; }
-.bo { font-size: 17px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
+.intro-author.bo { font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari",serif; font-size: 17px; color: var(--vp-c-text-1); margin: 0 0 4px; }
+.bo { font-size: 16px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
 .bo.center { text-align: center; }
+.bo-verse { font-size: 15px; line-height: 2.0; text-align: center; color: var(--vp-c-text-1); margin: 0 0 8px; }
+.intro-body { font-size: 18px; line-height: 1.95; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
 .intro-body.center { text-align: center; text-indent: 0; }
-.bo-verse { font-size: 16px; line-height: 2.0; text-align: center; color: var(--vp-c-text-1); margin: 0 0 8px; }
-.intro-body { font-size: 26px; line-height: 1.9; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
-.intro-verse { text-align: center; font-size: 24px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 28px; }
-.sec-label { text-align: center; text-indent: 0; font-size: 20px; font-weight: 600; letter-spacing: 2px; color: #b06a43; margin: 26px 0 14px; }
-.sec-bo-head { text-align: center; font-size: 16px; line-height: 2.0; color: var(--vp-c-text-1); margin: 26px 0 2px; }
+.intro-verse { text-align: center; font-size: 16px; line-height: 1.95; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 16px; }
+.sec-label { text-align: center; text-indent: 0; font-size: 17px; font-weight: 600; letter-spacing: 2px; color: #b06a43; margin: 26px 0 14px; }
+.sec-bo-head { text-align: center; font-size: 15px; line-height: 2.0; color: var(--vp-c-text-1); margin: 26px 0 2px; }
 .sec-label.tight { margin: 2px 0 14px; }
-.note-head { text-indent: 0; font-size: 17px; font-weight: 600; color: var(--vp-c-text-1); margin: 18px 0 8px; }
-.note-item { font-size: 16px; line-height: 1.9; text-indent: 0; color: var(--vp-c-text-2); margin: 0 0 6px; padding-left: 1.5em; }
-.intro-sign { text-align: center !important; text-indent: 0; font-size: 17px; line-height: 1.9; color: var(--vp-c-text-2); margin: 32px 0 0; }
+.kp { text-indent: 0; line-height: 1.6; }
+.kp1 { text-align: left; font-size: 20px; font-weight: 700; color: #b06a43; letter-spacing: 1px; margin: 36px 0 12px; padding-bottom: 8px; border-bottom: 1px solid var(--vp-c-divider); }
+.kp2 { text-align: left; font-size: 19px; font-weight: 700; color: var(--vp-c-text-1); margin: 28px 0 10px; }
+.kp3 { text-align: left; font-size: 18px; font-weight: 600; color: var(--vp-c-text-1); margin: 22px 0 8px; }
+.kp4 { text-align: left; font-size: 18px; font-weight: 600; color: var(--vp-c-text-1); margin: 18px 0 8px; }
+.kp5 { text-align: left; font-size: 18px; font-weight: 600; color: var(--vp-c-text-2); margin: 16px 0 6px; }
+.kp6 { text-align: left; font-size: 18px; font-weight: 600; color: var(--vp-c-text-2); margin: 16px 0 6px; }
+.kp7 { text-align: left; font-size: 18px; font-weight: 600; color: var(--vp-c-text-2); margin: 14px 0 6px; }
+.kp-enum { text-indent: 0; font-size: 15px; line-height: 1.7; color: var(--vp-c-text-2); margin: 0 0 14px; }
+.note-head { text-indent: 0; font-size: 16px; font-weight: 600; color: var(--vp-c-text-1); margin: 18px 0 8px; }
+.note-item { font-size: 15px; line-height: 1.9; text-indent: 0; color: var(--vp-c-text-2); margin: 0 0 6px; padding-left: 1.5em; }
+.intro-sign { text-align: center !important; text-indent: 0; font-size: 16px; line-height: 1.9; color: var(--vp-c-text-2); margin: 32px 0 0; }
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 26px; }
+  .intro-title { font-size: 22px; }
   .jy-title-bo { font-size: 18px; }
-  .bo { font-size: 16px; }
+  .jy-subtitle { font-size: 16px; }
+  .bo { font-size: 15px; }
   .bo-verse { font-size: 14px; }
-  .intro-body { font-size: 24px; }
-  .intro-verse { font-size: 22px; }
-  .sec-label { font-size: 18px; }
-  .jy-subtitle { font-size: 17px; }
-  .kp1 { font-size: 22px; } .kp2 { font-size: 21px; } .kp3 { font-size: 20px; }
-  .kp4 { font-size: 20px; } .kp5,.kp6,.kp7 { font-size: 19px; } .kp-enum { font-size: 16px; }
+  .intro-body { font-size: 17px; }
+  .intro-verse { font-size: 15px; }
+  .sec-label { font-size: 16px; }
+  .kp1 { font-size: 19px; } .kp2 { font-size: 18px; } .kp3,.kp4,.kp5,.kp6,.kp7 { font-size: 17px; }
+  .kp-enum { font-size: 14px; }
 }
 </style>
 
