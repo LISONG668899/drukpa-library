@@ -9,7 +9,7 @@ aside: false
 
 <h1 class="intro-title">传授三皈戒仪轨</h1>
 
-<p class="intro-author">法王·白玛嘎波 著</p>
+<p class="intro-author">法王白玛嘎波 著</p>
 
 <p class="bo">འོ། ཁྱོད་སངས་རྒྱས་ཀྱི་བསྟན་པ་ལ་འཇུག་འདོད་པ་དེ་ཤིན་ཏུ་སྐལ་པ་བཟང༌། དེ་ཡང་བསྟན་པ་ལ་རིམ་གྱིས་འཇུག་དགོས་ཏེ། རི་ཆེན་པོ་ལ་རིམ་གྱིས་འཛེག །རྒྱ་མཚོ་ཆེན་པོ་ལ་བགས་ཀྱིས་གཞོལ་ཟེར་བ་ལྟ་བུ། མདོ་རྩར། དགེ་བསྙེན་ཉིད་དང༌། དགེ་ཚུལ་ཉིད་དང༌། དགེ་སློང་ཉིད་དག་གིས་སྔ་མ་བསྙེན་པར་མ་རྫོགས་པ་ལ་ཕྱི་མ་མི་བྱའོ། །ཞེས་གསུངས་པས་ཐོག་མར་དགེ་བསྙེན་གྱི་སྡོམ་པ་བླང་དགོས།</p>
 
@@ -125,6 +125,8 @@ aside: false
 .intro-author { text-align: center; font-size: 16px; color: var(--vp-c-text-2); margin: 0 0 36px; }
 .intro-author.bo { font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari",serif; font-size: 18px; color: var(--vp-c-text-1); margin: 0 0 4px; }
 .bo { font-size: 17px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
+.bo.center { text-align: center; }
+.intro-body.center { text-align: center; text-indent: 0; }
 .bo-verse { font-size: 16px; line-height: 2.0; text-align: center; color: var(--vp-c-text-1); margin: 0 0 8px; }
 .intro-body { font-size: 26px; line-height: 1.9; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
 .intro-verse { text-align: center; font-size: 24px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 28px; }

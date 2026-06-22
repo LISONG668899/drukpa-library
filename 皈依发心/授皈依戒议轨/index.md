@@ -79,6 +79,8 @@ aside: false
 .intro-author { text-align: center; font-size: 16px; color: var(--vp-c-text-2); margin: 0 0 36px; }
 .intro-author.bo { font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari",serif; font-size: 18px; color: var(--vp-c-text-1); margin: 0 0 4px; }
 .bo { font-size: 17px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
+.bo.center { text-align: center; }
+.intro-body.center { text-align: center; text-indent: 0; }
 .bo-verse { font-size: 16px; line-height: 2.0; text-align: center; color: var(--vp-c-text-1); margin: 0 0 8px; }
 .intro-body { font-size: 26px; line-height: 1.9; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
 .intro-verse { text-align: center; font-size: 24px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 28px; }
