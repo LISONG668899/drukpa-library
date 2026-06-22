@@ -22,7 +22,7 @@ aside: false
     <span class="cat-sub">达波拉杰</span>
   </a>
   <a class="cat-card" href="/达波四法/无等达波四法之言教/">
-    <span class="cat-title">无等达波四法之言教</span>
+    <span class="cat-title">无等达波四法言教</span>
     <span class="cat-sub">嘉旺棍嘎巴觉</span>
   </a>
 </div>
