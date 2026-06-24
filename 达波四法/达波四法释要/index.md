@@ -59,7 +59,7 @@ aside: false
 }
 .jy-title-bo { text-align: center; font-size: 20px; line-height: 1.6; color: var(--vp-c-text-1); margin: 0 0 8px; }
 .intro-title { text-align: center; border: 0; font-size: 26px; margin: 6px 0 6px; padding-top: 0; }
-.jy-subtitle { text-align: center; font-size: 17px; color: var(--vp-c-text-2); letter-spacing: 3px; margin: 0 0 14px; }
+.jy-subtitle { text-align: center; font-size: 26px; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 2px 0 10px; }
 .intro-author { text-align: center; font-size: 16px; color: var(--vp-c-text-2); margin: 0 0 36px; }
 .intro-author.bo { font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari",serif; text-align: center; font-size: 17px; color: var(--vp-c-text-1); margin: 0 0 4px; }
 .bo { font-size: 16px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
@@ -72,7 +72,7 @@ aside: false
 .sec-bo-head { text-align: center; font-size: 15px; line-height: 2.0; color: var(--vp-c-text-1); margin: 26px 0 2px; }
 .sec-label.tight { margin: 2px 0 14px; }
 .kp { text-indent: 0; line-height: 1.6; }
-.kp1 { text-align: left; font-size: 20px; font-weight: 700; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 36px 0 12px; padding-bottom: 8px; border-bottom: 1px solid var(--vp-c-divider); }
+.kp1 { text-align: left; font-size: 20px; font-weight: 700; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 36px 0 12px; }
 .kp2 { text-align: left; font-size: 19px; font-weight: 700; color: var(--vp-c-text-1); margin: 28px 0 10px; }
 .kp3 { text-align: left; font-size: 18px; font-weight: 600; color: var(--vp-c-text-1); margin: 22px 0 8px; }
 .kp4 { text-align: left; font-size: 18px; font-weight: 600; color: var(--vp-c-text-1); margin: 18px 0 8px; }
@@ -87,7 +87,7 @@ aside: false
   .jy-page { padding: 22px 20px 40px; }
   .intro-title { font-size: 22px; }
   .jy-title-bo { font-size: 18px; }
-  .jy-subtitle { font-size: 16px; }
+  .jy-subtitle { font-size: 22px; }
   .bo { font-size: 15px; }
   .bo-verse { font-size: 14px; }
   .intro-body { font-size: 17px; }
