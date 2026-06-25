@@ -49,32 +49,28 @@ title: 大手印简易引导
 <style>
 @font-face{font-family:"Noto Serif Tibetan Web";src:url("/fonts/NotoSerifTibetan-bo.woff2") format("woff2");unicode-range:U+0F00-0FFF;font-display:swap}
 .jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
-.jy-page .bo,.jy-page .bo-verse{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
-.jy-title-bo{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",serif;text-align:center;font-size:20px;line-height:1.6;margin:0 0 8px}
-.intro-title{text-align:center;border:0;font-size:26px;line-height:1.4;margin:6px 0 6px;padding:0}
-.jy-subtitle{text-align:center;font-size:17px;color:var(--vp-c-text-2);letter-spacing:3px;margin:0 0 14px}
-.intro-author{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 4px}
-.intro-author.bo{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",serif;text-align:center;font-size:17px;color:var(--vp-c-text-1);margin:0 0 4px}
-.intro-author.last{margin:0 0 36px}
-.bo{font-size:16px;line-height:2.0;text-align:justify;margin:0 0 6px}
-.bo.center{text-align:center}
-.bo-verse{font-size:15px;line-height:2.0;text-align:center;margin:0 0 8px}
-.intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 16px}
+.jy-page p,.jy-page h1{font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
+.jy-page .bo,.jy-page .bo-verse{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif}
+.jy-title-bo{text-align:center;font-size:20px;line-height:1.6;margin:0 0 8px;font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
+.intro-title{text-align:center;border:0;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
+.jy-subtitle{text-align:center;font-size:20px;color:var(--vp-c-text-2);letter-spacing:2px;margin:0 0 12px}
+.intro-author{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
+.intro-author.bo{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px;font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
+.intro-author.last{margin-bottom:34px}
+.bo{font-size:16px;line-height:1.95;text-align:justify;margin:0 0 14px}
+.bo-verse{font-size:16px;line-height:1.95;text-align:center;margin:0 0 14px}
+.intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 14px}
 .intro-body.center{text-align:center;text-indent:0}
-.intro-verse{font-size:16px;line-height:1.95;text-align:center;letter-spacing:1px;text-indent:0;margin:0 0 16px}
-.kp1{text-align:left;font-size:20px;font-weight:700;color:var(--vp-c-text-1);letter-spacing:1px;border-bottom:1px solid var(--vp-c-divider);padding-bottom:6px;margin:36px 0 12px}
-.kp2{text-align:left;font-size:19px;font-weight:700;color:var(--vp-c-text-1);margin:28px 0 10px}
-.kp3,.kp4,.kp5,.kp6,.kp7{text-align:left;font-size:18px;font-weight:600;color:var(--vp-c-text-1);margin:22px 0 10px}
-.intro-sign{text-align:center !important;font-size:16px;line-height:1.9;color:var(--vp-c-text-2);text-indent:0;margin:32px 0 0}
+.intro-verse{font-size:18px;line-height:1.95;text-align:center;text-indent:0;margin:0 0 14px}
+.kp{font-size:18px;font-weight:700;color:var(--vp-c-text-1);text-align:left;text-indent:0;margin:26px 0 12px}
+.intro-sign{font-size:15px;line-height:1.85;color:var(--vp-c-text-2);text-align:center;text-indent:0;margin:34px 0 0}
 @media (max-width:640px){
-.jy-page{padding:22px 20px 40px}
+.jy-page{padding:24px 18px 40px}
 .jy-title-bo{font-size:18px}
 .intro-title{font-size:22px}
-.jy-subtitle{font-size:16px}
-.bo{font-size:15px}
-.bo-verse{font-size:14px}
-.intro-body{font-size:17px}
-.intro-verse{font-size:15px}
-.kp1{font-size:19px}.kp2{font-size:18px}.kp3,.kp4,.kp5,.kp6,.kp7{font-size:17px}
+.jy-subtitle{font-size:18px}
+.bo,.bo-verse{font-size:15px}
+.intro-body,.intro-verse,.kp{font-size:17px}
+.intro-sign{font-size:14px}
 }
 </style>
