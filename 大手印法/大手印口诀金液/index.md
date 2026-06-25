@@ -52,7 +52,7 @@ title: 大手印口诀金液
 <p class="intro-verse">彼当不忘常持念，而应保持于正念；<br>彼因反复地熟练，应修行获得串习；<br>若彼义长得串习，修无座间之间断，</p>
 <p class="intro-body">乃是河流般缘起。</p>
 <p class="bo">ཀརྨ་བསྟན་འཕེལ་གྱི་སྐྱེས་མཐའ་ཁམས་པ་ངག་དབང་ཀུན་དགའ་བསྟན་འཛིན་དགེ་ལེགས་དཔལ་བཟང་པོའི་ཞལ་གདམས་གསེར་ཞུན་མ་འདྲ་བ་སེར་སྐྱ་ཕོ་མོ་སྐལ་པ་དང་ལྡན་པ་རྣམས་ལ་གདམས་པའོ། ། ། །</p>
-<p class="intro-sign">此如同真金液一般之口诀，乃康嘎玛丹培之转世——康巴昂旺棍嘎定增格来巴桑波，对四众有缘弟子之教言。古普·钦哲仁波切译，陈润泽居士和朱红霞居士校对汉文。</p>
+<p class="intro-body">此如同真金液一般之口诀，乃康嘎玛丹培之转世——康巴昂旺棍嘎定增格来巴桑波，对四众有缘弟子之教言。古普·钦哲仁波切译，陈润泽居士和朱红霞居士校对汉文。</p>
 
 </div>
 
@@ -61,26 +61,26 @@ title: 大手印口诀金液
 .jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
 .jy-page p,.jy-page h1{font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
 .jy-page .bo,.jy-page .bo-verse{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif}
-.jy-title-bo{text-align:center;font-size:20px;line-height:1.6;margin:0 0 8px;font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
-.intro-title{text-align:center;border:0;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
-.jy-subtitle{text-align:center;font-size:20px;color:var(--vp-c-text-2);letter-spacing:2px;margin:0 0 12px}
+.jy-title-bo{text-align:center;font-size:20px;line-height:1.6;margin:0 0 6px}
+.intro-title{text-align:center;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
+.jy-subtitle{text-align:center;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 6px}
 .intro-author{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
-.intro-author.bo{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px;font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
-.intro-author.last{margin-bottom:34px}
-.bo{font-size:16px;line-height:1.95;text-align:justify;margin:0 0 14px}
-.bo-verse{font-size:16px;line-height:1.95;text-align:center;margin:0 0 14px}
-.intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 14px}
+.intro-author.bo{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
+.intro-author.last{margin-bottom:30px}
+.bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
+.bo-verse{font-size:16px;line-height:1.9;text-align:center;text-indent:0;margin:0 0 12px}
+.intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
 .intro-body.center{text-align:center;text-indent:0}
-.intro-verse{font-size:18px;line-height:1.95;text-align:center;text-indent:0;margin:0 0 14px}
-.kp{font-size:18px;font-weight:700;color:var(--vp-c-text-1);text-align:left;text-indent:0;margin:26px 0 12px}
-.intro-sign{font-size:15px;line-height:1.85;color:var(--vp-c-text-2);text-align:center;text-indent:0;margin:34px 0 0}
+.intro-verse{font-size:18px;line-height:1.9;text-align:center;text-indent:0;margin:0 0 12px}
+.kp{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
+.kp.b{font-weight:700;text-align:left}
+.kp-c{font-size:18px;line-height:1.9;text-align:center;text-indent:0;margin:16px 0 12px}
+.kp-c.b{font-weight:700}
 @media (max-width:640px){
 .jy-page{padding:24px 18px 40px}
 .jy-title-bo{font-size:18px}
-.intro-title{font-size:22px}
-.jy-subtitle{font-size:18px}
+.intro-title,.jy-subtitle{font-size:22px}
 .bo,.bo-verse{font-size:15px}
-.intro-body,.intro-verse,.kp{font-size:17px}
-.intro-sign{font-size:14px}
+.intro-body,.intro-verse,.kp,.kp-c{font-size:17px}
 }
 </style>

@@ -42,7 +42,7 @@ title: 大手印简易引导
 <p class="bo-verse">ཐ་མལ་གྱི་ཤེས་པ་གཉུག་མ་འདི། །ཡེ་དག་གི་ཆོས་སྐུ་ལེགས་རྟོགས་པའི། །<br>འབྲས་གཞི་ཐོག་ཕན་པ་འབྱུང་གྱུར་བར། །ཚུལ་འདི་བཞིན་རྩེ་གཅིག་འབད་པར་རིགས། །</p>
 <p class="intro-verse">本性平凡之意识，了知本净之法身，<br>果乃证得基位上，如实专心而精进。</p>
 <p class="bo">དེ་ལྟར་ཕྱག་ཆེན་གྱི་ཁྲིད་རིམ་མདོར་བསྡུས་པའི་སྔོན་འགྲོ་དངོས་གཞི་ཚང་མ་འདོན་བསྒོམ་བྱ་རྒྱུར་དམིགས་ནས་༧ངག་དབང་ཀུན་དགའ་བསྟན་འཛིན་གྱིས་མཛད་པ་དུས་རྣམས་ཀུན་ཏུ་ཉམས་སུ་ལེན་པ་གལ་ཆེ། མངྒ་ལཾ།</p>
-<p class="intro-sign">如此大手印简易引导次第前行与正行之念修文，由昂旺棍嘎定增著作，在日常生活中实际修行尤为重要。愿吉祥！古普·钦哲译汉。</p>
+<p class="intro-body">如此大手印简易引导次第前行与正行之念修文，由昂旺棍嘎定增著作，在日常生活中实际修行尤为重要。愿吉祥！古普·钦哲译汉。</p>
 
 </div>
 
@@ -51,26 +51,26 @@ title: 大手印简易引导
 .jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
 .jy-page p,.jy-page h1{font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
 .jy-page .bo,.jy-page .bo-verse{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif}
-.jy-title-bo{text-align:center;font-size:20px;line-height:1.6;margin:0 0 8px;font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
-.intro-title{text-align:center;border:0;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
-.jy-subtitle{text-align:center;font-size:20px;color:var(--vp-c-text-2);letter-spacing:2px;margin:0 0 12px}
+.jy-title-bo{text-align:center;font-size:20px;line-height:1.6;margin:0 0 6px}
+.intro-title{text-align:center;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
+.jy-subtitle{text-align:center;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 6px}
 .intro-author{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
-.intro-author.bo{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px;font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
-.intro-author.last{margin-bottom:34px}
-.bo{font-size:16px;line-height:1.95;text-align:justify;margin:0 0 14px}
-.bo-verse{font-size:16px;line-height:1.95;text-align:center;margin:0 0 14px}
-.intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 14px}
+.intro-author.bo{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
+.intro-author.last{margin-bottom:30px}
+.bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
+.bo-verse{font-size:16px;line-height:1.9;text-align:center;text-indent:0;margin:0 0 12px}
+.intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
 .intro-body.center{text-align:center;text-indent:0}
-.intro-verse{font-size:18px;line-height:1.95;text-align:center;text-indent:0;margin:0 0 14px}
-.kp{font-size:18px;font-weight:700;color:var(--vp-c-text-1);text-align:left;text-indent:0;margin:26px 0 12px}
-.intro-sign{font-size:15px;line-height:1.85;color:var(--vp-c-text-2);text-align:center;text-indent:0;margin:34px 0 0}
+.intro-verse{font-size:18px;line-height:1.9;text-align:center;text-indent:0;margin:0 0 12px}
+.kp{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
+.kp.b{font-weight:700;text-align:left}
+.kp-c{font-size:18px;line-height:1.9;text-align:center;text-indent:0;margin:16px 0 12px}
+.kp-c.b{font-weight:700}
 @media (max-width:640px){
 .jy-page{padding:24px 18px 40px}
 .jy-title-bo{font-size:18px}
-.intro-title{font-size:22px}
-.jy-subtitle{font-size:18px}
+.intro-title,.jy-subtitle{font-size:22px}
 .bo,.bo-verse{font-size:15px}
-.intro-body,.intro-verse,.kp{font-size:17px}
-.intro-sign{font-size:14px}
+.intro-body,.intro-verse,.kp,.kp-c{font-size:17px}
 }
 </style>

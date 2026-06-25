@@ -20,14 +20,14 @@ title: 降雷大手印引导
 <p class="bo-verse">རྗེ་དུས་གསུམ་མཁྱེན་པའི་ཕྱག་རྒྱ་ཆེན་པོ་ཐོག་བབས་ཞེས་བྱ་བའོ།  །</p>
 <p class="intro-body center">顶礼上师！</p>
 <p class="intro-body">此降雷大手印全文分四：（一）、三自性；（二）、四真义； （三）、三误区；（四）、四安住。</p>
-<p class="kp">（一）、三自性：心无改造；无所精勤；了知所现为心。</p>
+<p class="intro-body">（一）、三自性：心无改造；无所精勤；了知所现为心。</p>
 <p class="intro-body">道位时心无改造即见；无所精勤即修；了知所现为心即行。</p>
 <p class="intro-body">果位时心无改造即法身佛；无所精勤即报身佛；了知所现为心即化身佛。</p>
 <p class="intro-body">心无改造，则如黄金地；无所精勤，则如黄金清净无垢；了知所现为心，则如黄金打造成各种形象，但仍不离于黄金。</p>
-<p class="kp">（二）、四真义：烦恼无所断除，即是自心之缘故；对治法无所依止，即能所不二之缘故；真如本性无所修持，即远离辨认之缘故；了知自心即是智慧，无需别处另寻佛。</p>
-<p class="kp">（三）、三误区：上希求佛果则是误区；下忧虑恶趣则是误区；贪著诸现象则是误区。</p>
-<p class="kp">（四）、四安住：如水不搅则清一般，心无改造而安住；如太阳离云一般，六聚放松而安住；如⻦⻜不留迹一般，内心无缘而安住；如川流不息一般，恒时于一切威仪中不散不乱而安住。</p>
-<p class="intro-sign">云：“比如说，世上若降下雷电，是没有任何办法可以阻挡。同样，自己若证悟了大手印之义，任何有相实物都不能障碍自心。” 由古普·钦哲翻译，陈润泽居士校对汉文。</p>
+<p class="intro-body">（二）、四真义：烦恼无所断除，即是自心之缘故；对治法无所依止，即能所不二之缘故；真如本性无所修持，即远离辨认之缘故；了知自心即是智慧，无需别处另寻佛。</p>
+<p class="intro-body">（三）、三误区：上希求佛果则是误区；下忧虑恶趣则是误区；贪著诸现象则是误区。</p>
+<p class="intro-body">（四）、四安住：如水不搅则清一般，心无改造而安住；如太阳离云一般，六聚放松而安住；如⻦⻜不留迹一般，内心无缘而安住；如川流不息一般，恒时于一切威仪中不散不乱而安住。</p>
+<p class="intro-body">云：“比如说，世上若降下雷电，是没有任何办法可以阻挡。同样，自己若证悟了大手印之义，任何有相实物都不能障碍自心。” 由古普·钦哲翻译，陈润泽居士校对汉文。</p>
 
 </div>
 
@@ -36,26 +36,26 @@ title: 降雷大手印引导
 .jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
 .jy-page p,.jy-page h1{font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
 .jy-page .bo,.jy-page .bo-verse{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif}
-.jy-title-bo{text-align:center;font-size:20px;line-height:1.6;margin:0 0 8px;font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
-.intro-title{text-align:center;border:0;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
-.jy-subtitle{text-align:center;font-size:20px;color:var(--vp-c-text-2);letter-spacing:2px;margin:0 0 12px}
+.jy-title-bo{text-align:center;font-size:20px;line-height:1.6;margin:0 0 6px}
+.intro-title{text-align:center;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
+.jy-subtitle{text-align:center;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 6px}
 .intro-author{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
-.intro-author.bo{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px;font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
-.intro-author.last{margin-bottom:34px}
-.bo{font-size:16px;line-height:1.95;text-align:justify;margin:0 0 14px}
-.bo-verse{font-size:16px;line-height:1.95;text-align:center;margin:0 0 14px}
-.intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 14px}
+.intro-author.bo{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
+.intro-author.last{margin-bottom:30px}
+.bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
+.bo-verse{font-size:16px;line-height:1.9;text-align:center;text-indent:0;margin:0 0 12px}
+.intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
 .intro-body.center{text-align:center;text-indent:0}
-.intro-verse{font-size:18px;line-height:1.95;text-align:center;text-indent:0;margin:0 0 14px}
-.kp{font-size:18px;font-weight:700;color:var(--vp-c-text-1);text-align:left;text-indent:0;margin:26px 0 12px}
-.intro-sign{font-size:15px;line-height:1.85;color:var(--vp-c-text-2);text-align:center;text-indent:0;margin:34px 0 0}
+.intro-verse{font-size:18px;line-height:1.9;text-align:center;text-indent:0;margin:0 0 12px}
+.kp{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
+.kp.b{font-weight:700;text-align:left}
+.kp-c{font-size:18px;line-height:1.9;text-align:center;text-indent:0;margin:16px 0 12px}
+.kp-c.b{font-weight:700}
 @media (max-width:640px){
 .jy-page{padding:24px 18px 40px}
 .jy-title-bo{font-size:18px}
-.intro-title{font-size:22px}
-.jy-subtitle{font-size:18px}
+.intro-title,.jy-subtitle{font-size:22px}
 .bo,.bo-verse{font-size:15px}
-.intro-body,.intro-verse,.kp{font-size:17px}
-.intro-sign{font-size:14px}
+.intro-body,.intro-verse,.kp,.kp-c{font-size:17px}
 }
 </style>
