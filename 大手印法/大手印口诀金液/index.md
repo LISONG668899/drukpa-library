@@ -15,41 +15,152 @@ title: 大手印口诀金液
 
 <p class="bo-verse">ན་མོ་གུ་རུ་པྲ་བྷཀཱ་ར་ཡེ།</p>
 <p class="intro-body">拿摩古如扎巴嘎惹耶！</p>
-<p class="bo-verse">སྐྱབས་གནས་བསླུ་མེད་ཀུན་འདུས་འབྲུག་པ་རྗེ། །ད་ནི་མི་འབྲལ་རྒྱུན་དུ་གསོལ་བ་འདེབས། །<br>ཁྱེད་ཆོས་ལ་བག་ཆགས་བྱེད་པ་རྣམས། །སྙིང་ནས་ཆོས་འབྲེལ་ཚིག་གསུམ་ཞུ། །</p>
-<p class="intro-verse">怙主总集竹巴尊，从此时刻敬祈祷，<br>为汝修学佛法众，由衷宣说三句法。</p>
-<p class="bo-verse">སྤྱིར་མི་ལུས་ཐོབ་པ་ད་རེས་ཙམ། །སྒོས་སྡོམ་གསུམ་ལྡན་པ་ཤིན་ཏུ་དཀོན། །<br>ལུས་འདི་འདྲ་ཐོབ་པའི་དུས་འདི་རུ། །ཆོས་རྣམ་དག་འབད་པར་མ་བྱས་ན། །<br>ལུས་འདི་འདྲ་ཕྱིས་ནས་མི་རྙེད་པས། །དུས་འདི་ལ་ཕྱག་དང་སྐོར་བ་མཛོད། །</p>
-<p class="intro-verse">获得人身唯此时，尤其具备三律难，<br>已得如此人身时，若不勤修清净法，<br>暇满人身难复得，此时当做绕与拜。</p>
-<p class="bo-verse">དགྲ་འཆི་བདག་གཤིན་རྗེ་ཁད་བཙན་པོ། །ཁོ་ནམ་ཡོང་ཏིག་ཏིག་མི་འདུག་པས། །<br>ཆོས་བྱེད་བསམ་ཡོད་ཀྱང་འཆི་བས་གཏུག །ཁྱེད་ད་ནི་སྡིག་སྤོངས་དགེ་བ་སྒྲུབས། །</p>
-<p class="intro-verse">死主阎罗极凶恶，不知何时其降临，<br>想着修行到死亡，汝当断恶并修善。</p>
-<p class="bo-verse">གནས་ངན་སོང་གསུམ་གྱི་སྡུག་བསྔལ་དེ། །ཚིག་རྣ་བས་ཐོས་ཀྱང་གློ་སྙིང་འདར། །<br>འདི་ཐོག་ཏུ་བྱུང་ན་ཇི་ལྟར་བྱེད། །དེ་སོམས་ལ་སྡིག་པ་དུག་ལྟར་འཛེམ། །</p>
-<p class="intro-verse">三恶趣中诸痛苦，仅闻讲述生恐惧，</p>
+<p class="bo-verse">སྐྱབས་གནས་བསླུ་མེད་ཀུན་འདུས་འབྲུག་པ་རྗེ། །</p>
+<p class="bo-verse">ད་ནི་མི་འབྲལ་རྒྱུན་དུ་གསོལ་བ་འདེབས། །</p>
+<p class="bo-verse">ཁྱེད་ཆོས་ལ་བག་ཆགས་བྱེད་པ་རྣམས། །</p>
+<p class="bo-verse">སྙིང་ནས་ཆོས་འབྲེལ་ཚིག་གསུམ་ཞུ། །</p>
+<p class="intro-verse">怙主总集竹巴尊，</p>
+<p class="intro-verse">从此时刻敬祈祷，</p>
+<p class="intro-verse">为汝修学佛法众，</p>
+<p class="intro-verse">由衷宣说三句法。</p>
+<p class="bo-verse">སྤྱིར་མི་ལུས་ཐོབ་པ་ད་རེས་ཙམ། །</p>
+<p class="bo-verse">སྒོས་སྡོམ་གསུམ་ལྡན་པ་ཤིན་ཏུ་དཀོན། །</p>
+<p class="bo-verse">ལུས་འདི་འདྲ་ཐོབ་པའི་དུས་འདི་རུ། །</p>
+<p class="bo-verse">ཆོས་རྣམ་དག་འབད་པར་མ་བྱས་ན། །</p>
+<p class="bo-verse">ལུས་འདི་འདྲ་ཕྱིས་ནས་མི་རྙེད་པས། །</p>
+<p class="bo-verse">དུས་འདི་ལ་ཕྱག་དང་སྐོར་བ་མཛོད། །</p>
+<p class="intro-verse">获得人身唯此时，</p>
+<p class="intro-verse">尤其具备三律难，</p>
+<p class="intro-verse">已得如此人身时，</p>
+<p class="intro-verse">若不勤修清净法，</p>
+<p class="intro-verse">暇满人身难复得，</p>
+<p class="intro-verse">此时当做绕与拜。</p>
+<p class="bo-verse">དགྲ་འཆི་བདག་གཤིན་རྗེ་ཁད་བཙན་པོ། །</p>
+<p class="bo-verse">ཁོ་ནམ་ཡོང་ཏིག་ཏིག་མི་འདུག་པས། །</p>
+<p class="bo-verse">ཆོས་བྱེད་བསམ་ཡོད་ཀྱང་འཆི་བས་གཏུག །ཁྱེད་ད་ནི་སྡིག་སྤོངས་དགེ་བ་སྒྲུབས། །</p>
+<p class="intro-verse">死主阎罗极凶恶，</p>
+<p class="intro-verse">不知何时其降临，</p>
+<p class="intro-verse">想着修行到死亡，</p>
+<p class="intro-verse">汝当断恶并修善。</p>
+<p class="bo-verse">གནས་ངན་སོང་གསུམ་གྱི་སྡུག་བསྔལ་དེ། །</p>
+<p class="bo-verse">ཚིག་རྣ་བས་ཐོས་ཀྱང་གློ་སྙིང་འདར། །</p>
+<p class="bo-verse">འདི་ཐོག་ཏུ་བྱུང་ན་ཇི་ལྟར་བྱེད། །</p>
+<p class="bo-verse">དེ་སོམས་ལ་སྡིག་པ་དུག་ལྟར་འཛེམ། །</p>
+<p class="intro-verse">三恶趣中诸痛苦，</p>
+<p class="intro-verse">仅闻讲述生恐惧，</p>
 <p class="intro-body">若真遭遇怎么办？思而恶业如戒毒。</p>
-<p class="bo-verse">གནས་ཐར་མེད་འཁོར་བའི་སྡུག་བསྔལ་ལས། །སྐྱོབ་ནུས་པར་བྱེད་པ་དཀོན་མཆོག་གསུམ། །<br>ཁྱེད་མི་འབྲལ་སྙིང་ནས་གསོལ་བ་ཐོབ། །</p>
-<p class="intro-verse">无尽轮回痛苦中，救星唯有佛法僧，</p>
+<p class="bo-verse">གནས་ཐར་མེད་འཁོར་བའི་སྡུག་བསྔལ་ལས། །</p>
+<p class="bo-verse">སྐྱོབ་ནུས་པར་བྱེད་པ་དཀོན་མཆོག་གསུམ། །</p>
+<p class="bo-verse">ཁྱེད་མི་འབྲལ་སྙིང་ནས་གསོལ་བ་ཐོབ། །</p>
+<p class="intro-verse">无尽轮回痛苦中，</p>
+<p class="intro-verse">救星唯有佛法僧，</p>
 <p class="intro-body">汝心应恒常祈祷。</p>
-<p class="bo-verse">མ་འགྲོ་དྲུག་སེམས་ཅན་ཐམས་ཅད་ཀུན། །སྔོན་ཚེ་རབས་མང་པོའི་ཕ་མ་ཡིན། །<br>འདི་འཁོར་བའི་གནས་སུ་སྡུག་རེ་བསྔལ། །ཆོས་ཅི་བྱེད་འགྲོ་བའི་དོན་ལ་བསྔོ། །</p>
-<p class="intro-verse">六道一切有情母，皆是过去世父母，<br>彼等遭受轮回苦，故将诸善回向众。</p>
-<p class="bo-verse">རྗེ་མཚན་ལྡན་བླ་མ་སྤྱི་བོར་བསྒོམ། །སྙིང་རུས་པའི་གཏིང་ནས་གསོལ་བ་འདེབས། །<br>དེ་འོད་ཞུ་རང་གི་སེམས་དང་བསྲེ། །དེ་མ་བཅོས་རང་གི་སེམས་ལ་ལྟོས། །<br>ལར་ཕྱི་ནང་གསང་གསུམ་གར་འགྲོ་ལྟོས། །སེམས་མ་བཅོས་དེ་ཡི་ངང་ལ་ཞོག །</p>
-<p class="intro-verse">观想上师于头顶，内心深处敬祈祷，<br>上师融入于自心，彼不改而观自心，<br>观内外密行何处，心应无改造而住。</p>
-<p class="bo-verse">སེམས་ཡོད་པ་མ་ཡིན་དངོས་པོ་མེད། །མེད་པ་མ་ཡིན་ཅི་ཡང་དྲན། །<br>སེམས་རེས་འགའ་གནས་ཏེ་རེས་འགའ་འགྲོ། །ཁྱེད་སེམས་ལ་བྱ་ར་རྒྱུན་དུ་མཛོད། །</p>
-<p class="intro-verse">此心非有无一物，此心非无有杂念，<br>心时而静时而动，汝当恒常观察心。</p>
-<p class="bo-verse">སེམས་ངོ་བོ་སྟོང་པར་འདུག་པ་དེ། །སེམས་ཆོས་སྐུ་སྣང་བ་མཐའ་ཡས་ཡིན། །<br>སེམས་རང་བཞིན་འོད་དུ་གསལ་བ་དེ། །སེམས་ལོངས་སྐུ་ཐུགས་རྗེ་ཆེན་པོ་ཡིན། །<br>སེམས་རྣམ་རྟོག་ཅི་ཡང་འཕྲོ་བ་དེ། །སེམས་སྤྲུལ་སྐུ་པདྨའབྱུང་གནས་ཡིན། །</p>
-<p class="intro-verse">彼心之本性空性，乃心法身无量光；<br>彼心之本性光明，乃心报身观世音；<br>彼所现各种寻思，乃心化身莲花生。</p>
-<p class="bo-verse">སེམས་དུག་ལྔའི་རྟོག་པ་ཅི་ཤར་ཡང་། །ངོ་ཤེས་ན་རྒྱལ་བ་རིགས་ལྔ་ཡིན། །<br>སེམས་གསལ་ན་གསལ་བའི་ངོ་བོར་ལྟོས། །གསལ་སྟོང་ཕྱག་རྒྱ་ཆེན་པོ་ཡིན། །<br>སེམས་བདེ་ན་བདེ་བའི་ངོ་བོར་ལྟོས། །བདེ་སྟོང་རྫོགས་པ་ཆེན་པོ་ཡིན། །</p>
-<p class="intro-verse">心五毒所起寻思，若认识即五方佛；<br>心显则观显自性，乃是明空大手印；<br>心乐则观乐自性，乃是乐空大圆满。</p>
-<p class="bo-verse">སེམས་སྟོང་ན་སྟོང་པའི་རང་ཞལ་ལྟོས། །རིག་སྟོང་དབུ་མ་ཆེན་པོ་ཡིན། །<br>སེམས་སྐྲག་ན་སྐྲག་མཁན་ངོ་བོར་ལྟོས། །དེ་དམ་ཆོས་བདུད་ཀྱི་གཅོད་ཡུལ་ཡིན། །</p>
-<p class="intro-verse">心空则观空之面，乃是明空大中观；<br>心惧则观惧本性，乃是妙法断魔法。</p>
-<p class="bo-verse">སེམས་དངོས་པོ་ཅི་ཡང་མ་མཐོང་ན། །སེམས་སྟོང་ཉིད་ཤེས་རབ་ཕར་ཕྱིན་ཡིན། །<br>ཁྱེད་འགྲོ་ཞིང་འདུག་ཅིང་སེམས་ལ་ལྟོས། །འགྲོ་འདུག་དོན་དམ་གྱི་སྐོར་བ་ཡིན། །</p>
-<p class="intro-verse">若心不见任何物，乃是心智慧彼岸；<br>汝行着住着观心，行住乃了义之绕。</p>
-<p class="bo-verse">བཟའ་ཞིང་བཏུང་ཞིང་སེམས་ལ་ལྟོས། །བཟའ་བཏུང་ཟག་མེད་ཀྱི་ཚོགས་འཁོར་ཡིན། །<br>ཁྱེད་ཉལ་ཞིང་གཉིད་ཅིང་སེམས་ལ་ལྟོས། །གཉིད་འོད་གསལ་ཟིན་པའི་གདམས་ངག་ཡིན། །</p>
-<p class="intro-verse">吃着喝着应观心，吃喝乃无漏荟供；<br>汝卧着睡着观心，乃是睡光明窍诀。</p>
-<p class="bo-verse">ཁྱེད་ཟབ་མོའི་བསྙེན་སྒྲུབ་བྱེད་པའི་དུས། །དོན་ཟབ་མོ་རང་གི་སེམས་ལ་ལྟོས། །<br>བདུད་བར་ཆད་བཟློག་ན་དེ་ཡིས་བཟློག། དུས་ད་ལྟ་འཕྲལ་དུ་གང་དྲན་ཡང་། །<br>ཕུགས་སྒོམ་ཡུན་ཤི་དང་མཉམ་པར་གྱིས། །</p>
-<p class="intro-verse">当汝甚深持咒时，应观甚深之自心，<br>彼能消除诸魔障，无论当下想什么，</p>
+<p class="bo-verse">མ་འགྲོ་དྲུག་སེམས་ཅན་ཐམས་ཅད་ཀུན། །</p>
+<p class="bo-verse">སྔོན་ཚེ་རབས་མང་པོའི་ཕ་མ་ཡིན། །</p>
+<p class="bo-verse">འདི་འཁོར་བའི་གནས་སུ་སྡུག་རེ་བསྔལ། །</p>
+<p class="bo-verse">ཆོས་ཅི་བྱེད་འགྲོ་བའི་དོན་ལ་བསྔོ། །</p>
+<p class="intro-verse">六道一切有情母，</p>
+<p class="intro-verse">皆是过去世父母，</p>
+<p class="intro-verse">彼等遭受轮回苦，</p>
+<p class="intro-verse">故将诸善回向众。</p>
+<p class="bo-verse">རྗེ་མཚན་ལྡན་བླ་མ་སྤྱི་བོར་བསྒོམ། །</p>
+<p class="bo-verse">སྙིང་རུས་པའི་གཏིང་ནས་གསོལ་བ་འདེབས། །</p>
+<p class="bo-verse">དེ་འོད་ཞུ་རང་གི་སེམས་དང་བསྲེ། །</p>
+<p class="bo-verse">དེ་མ་བཅོས་རང་གི་སེམས་ལ་ལྟོས། །</p>
+<p class="bo-verse">ལར་ཕྱི་ནང་གསང་གསུམ་གར་འགྲོ་ལྟོས། །</p>
+<p class="bo-verse">སེམས་མ་བཅོས་དེ་ཡི་ངང་ལ་ཞོག །</p>
+<p class="intro-verse">观想上师于头顶，</p>
+<p class="intro-verse">内心深处敬祈祷，</p>
+<p class="intro-verse">上师融入于自心，</p>
+<p class="intro-verse">彼不改而观自心，</p>
+<p class="intro-verse">观内外密行何处，</p>
+<p class="intro-verse">心应无改造而住。</p>
+<p class="bo-verse">སེམས་ཡོད་པ་མ་ཡིན་དངོས་པོ་མེད། །</p>
+<p class="bo-verse">མེད་པ་མ་ཡིན་ཅི་ཡང་དྲན། །</p>
+<p class="bo-verse">སེམས་རེས་འགའ་གནས་ཏེ་རེས་འགའ་འགྲོ། །</p>
+<p class="bo-verse">ཁྱེད་སེམས་ལ་བྱ་ར་རྒྱུན་དུ་མཛོད། །</p>
+<p class="intro-verse">此心非有无一物，</p>
+<p class="intro-verse">此心非无有杂念，</p>
+<p class="intro-verse">心时而静时而动，</p>
+<p class="intro-verse">汝当恒常观察心。</p>
+<p class="bo-verse">སེམས་ངོ་བོ་སྟོང་པར་འདུག་པ་དེ། །</p>
+<p class="bo-verse">སེམས་ཆོས་སྐུ་སྣང་བ་མཐའ་ཡས་ཡིན། །</p>
+<p class="bo-verse">སེམས་རང་བཞིན་འོད་དུ་གསལ་བ་དེ། །</p>
+<p class="bo-verse">སེམས་ལོངས་སྐུ་ཐུགས་རྗེ་ཆེན་པོ་ཡིན། །</p>
+<p class="bo-verse">སེམས་རྣམ་རྟོག་ཅི་ཡང་འཕྲོ་བ་དེ། །</p>
+<p class="bo-verse">སེམས་སྤྲུལ་སྐུ་པདྨའབྱུང་གནས་ཡིན། །</p>
+<p class="intro-verse">彼心之本性空性，</p>
+<p class="intro-verse">乃心法身无量光；</p>
+<p class="intro-verse">彼心之本性光明，</p>
+<p class="intro-verse">乃心报身观世音；</p>
+<p class="intro-verse">彼所现各种寻思，</p>
+<p class="intro-verse">乃心化身莲花生。</p>
+<p class="bo-verse">སེམས་དུག་ལྔའི་རྟོག་པ་ཅི་ཤར་ཡང་། །</p>
+<p class="bo-verse">ངོ་ཤེས་ན་རྒྱལ་བ་རིགས་ལྔ་ཡིན། །</p>
+<p class="bo-verse">སེམས་གསལ་ན་གསལ་བའི་ངོ་བོར་ལྟོས། །</p>
+<p class="bo-verse">གསལ་སྟོང་ཕྱག་རྒྱ་ཆེན་པོ་ཡིན། །</p>
+<p class="bo-verse">སེམས་བདེ་ན་བདེ་བའི་ངོ་བོར་ལྟོས། །</p>
+<p class="bo-verse">བདེ་སྟོང་རྫོགས་པ་ཆེན་པོ་ཡིན། །</p>
+<p class="intro-verse">心五毒所起寻思，</p>
+<p class="intro-verse">若认识即五方佛；</p>
+<p class="intro-verse">心显则观显自性，</p>
+<p class="intro-verse">乃是明空大手印；</p>
+<p class="intro-verse">心乐则观乐自性，</p>
+<p class="intro-verse">乃是乐空大圆满。</p>
+<p class="bo-verse">སེམས་སྟོང་ན་སྟོང་པའི་རང་ཞལ་ལྟོས། །</p>
+<p class="bo-verse">རིག་སྟོང་དབུ་མ་ཆེན་པོ་ཡིན། །</p>
+<p class="bo-verse">སེམས་སྐྲག་ན་སྐྲག་མཁན་ངོ་བོར་ལྟོས། །</p>
+<p class="bo-verse">དེ་དམ་ཆོས་བདུད་ཀྱི་གཅོད་ཡུལ་ཡིན། །</p>
+<p class="intro-verse">心空则观空之面，</p>
+<p class="intro-verse">乃是明空大中观；</p>
+<p class="intro-verse">心惧则观惧本性，</p>
+<p class="intro-verse">乃是妙法断魔法。</p>
+<p class="bo-verse">སེམས་དངོས་པོ་ཅི་ཡང་མ་མཐོང་ན། །</p>
+<p class="bo-verse">སེམས་སྟོང་ཉིད་ཤེས་རབ་ཕར་ཕྱིན་ཡིན། །</p>
+<p class="bo-verse">ཁྱེད་འགྲོ་ཞིང་འདུག་ཅིང་སེམས་ལ་ལྟོས། །</p>
+<p class="bo-verse">འགྲོ་འདུག་དོན་དམ་གྱི་སྐོར་བ་ཡིན། །</p>
+<p class="intro-verse">若心不见任何物，</p>
+<p class="intro-verse">乃是心智慧彼岸；</p>
+<p class="intro-verse">汝行着住着观心，</p>
+<p class="intro-verse">行住乃了义之绕。</p>
+<p class="bo-verse">བཟའ་ཞིང་བཏུང་ཞིང་སེམས་ལ་ལྟོས། །</p>
+<p class="bo-verse">བཟའ་བཏུང་ཟག་མེད་ཀྱི་ཚོགས་འཁོར་ཡིན། །</p>
+<p class="bo-verse">ཁྱེད་ཉལ་ཞིང་གཉིད་ཅིང་སེམས་ལ་ལྟོས། །</p>
+<p class="bo-verse">གཉིད་འོད་གསལ་ཟིན་པའི་གདམས་ངག་ཡིན། །</p>
+<p class="intro-verse">吃着喝着应观心，</p>
+<p class="intro-verse">吃喝乃无漏荟供；</p>
+<p class="intro-verse">汝卧着睡着观心，</p>
+<p class="intro-verse">乃是睡光明窍诀。</p>
+<p class="bo-verse">ཁྱེད་ཟབ་མོའི་བསྙེན་སྒྲུབ་བྱེད་པའི་དུས། །</p>
+<p class="bo-verse">དོན་ཟབ་མོ་རང་གི་སེམས་ལ་ལྟོས། །</p>
+<p class="bo-verse">བདུད་བར་ཆད་བཟློག་ན་དེ་ཡིས་བཟློག། དུས་ད་ལྟ་འཕྲལ་དུ་གང་དྲན་ཡང་། །</p>
+<p class="bo-verse">ཕུགས་སྒོམ་ཡུན་ཤི་དང་མཉམ་པར་གྱིས། །</p>
+<p class="intro-verse">当汝甚深持咒时，</p>
+<p class="intro-verse">应观甚深之自心，</p>
+<p class="intro-verse">彼能消除诸魔障，</p>
+<p class="intro-verse">无论当下想什么，</p>
 <p class="intro-body">应当终究修到死。</p>
-<p class="bo-verse">མི་མང་པོའི་གཏམ་དང་ལྟད་མོ་དང་། །སེམས་བསླུ་བའི་བྱ་བ་གང་སྒྲུབ་ཀྱང་། །<br>དེར་ཡེངས་པའི་དབང་དུ་མ་སོང་བ། །སྒོམ་ཟབ་མོ་གནད་ཀྱི་ཉམས་ལེན་ཡིན། །</p>
-<p class="intro-verse">众人闲谈和表演，无论何种惑心事，<br>不被散乱所控制，乃是实修之要领。</p>
-<p class="bo-verse">དེ་མ་བརྗེད་ཏུ་རེ་དྲན་པར་གྱིས། །དྲན་ཐོག་ནས་རང་ཚོ་ཐུབ་པར་མཛོད། །<br>དེར་ཡང་ཡང་རང་དབང་འདུས་པ་ཡི། །སྒོམ་ཉམས་ལེན་འདྲིས་གོམས་རེད་པར་གྱིས། །<br>དོན་དེ་ལ་གོམས་ཡུན་རིང་བ་ན། །སྒོམ་ཐུན་མཚམས་འཁོར་ཡུག་རྒྱུན་ཆད་མེད། །<br>ཆུ་བོའི་གཞུང་འདྲ་བ་རྒྱུན་དུ་འབྱུང་བའི་རྟེན་འབྲེལ་ཡིན། །</p>
-<p class="intro-verse">彼当不忘常持念，而应保持于正念；<br>彼因反复地熟练，应修行获得串习；<br>若彼义长得串习，修无座间之间断，</p>
+<p class="bo-verse">མི་མང་པོའི་གཏམ་དང་ལྟད་མོ་དང་། །</p>
+<p class="bo-verse">སེམས་བསླུ་བའི་བྱ་བ་གང་སྒྲུབ་ཀྱང་། །</p>
+<p class="bo-verse">དེར་ཡེངས་པའི་དབང་དུ་མ་སོང་བ། །</p>
+<p class="bo-verse">སྒོམ་ཟབ་མོ་གནད་ཀྱི་ཉམས་ལེན་ཡིན། །</p>
+<p class="intro-verse">众人闲谈和表演，</p>
+<p class="intro-verse">无论何种惑心事，</p>
+<p class="intro-verse">不被散乱所控制，</p>
+<p class="intro-verse">乃是实修之要领。</p>
+<p class="bo-verse">དེ་མ་བརྗེད་ཏུ་རེ་དྲན་པར་གྱིས། །</p>
+<p class="bo-verse">དྲན་ཐོག་ནས་རང་ཚོ་ཐུབ་པར་མཛོད། །</p>
+<p class="bo-verse">དེར་ཡང་ཡང་རང་དབང་འདུས་པ་ཡི། །</p>
+<p class="bo-verse">སྒོམ་ཉམས་ལེན་འདྲིས་གོམས་རེད་པར་གྱིས། །</p>
+<p class="bo-verse">དོན་དེ་ལ་གོམས་ཡུན་རིང་བ་ན། །</p>
+<p class="bo-verse">སྒོམ་ཐུན་མཚམས་འཁོར་ཡུག་རྒྱུན་ཆད་མེད། །</p>
+<p class="bo-verse">ཆུ་བོའི་གཞུང་འདྲ་བ་རྒྱུན་དུ་འབྱུང་བའི་རྟེན་འབྲེལ་ཡིན། །</p>
+<p class="intro-verse">彼当不忘常持念，</p>
+<p class="intro-verse">而应保持于正念；</p>
+<p class="intro-verse">彼因反复地熟练，</p>
+<p class="intro-verse">应修行获得串习；</p>
+<p class="intro-verse">若彼义长得串习，</p>
+<p class="intro-verse">修无座间之间断，</p>
 <p class="intro-body">乃是河流般缘起。</p>
 <p class="bo">ཀརྨ་བསྟན་འཕེལ་གྱི་སྐྱེས་མཐའ་ཁམས་པ་ངག་དབང་ཀུན་དགའ་བསྟན་འཛིན་དགེ་ལེགས་དཔལ་བཟང་པོའི་ཞལ་གདམས་གསེར་ཞུན་མ་འདྲ་བ་སེར་སྐྱ་ཕོ་མོ་སྐལ་པ་དང་ལྡན་པ་རྣམས་ལ་གདམས་པའོ། ། ། །</p>
 <p class="intro-body">此如同真金液一般之口诀，乃康嘎玛丹培之转世——康巴昂旺棍嘎定增格来巴桑波，对四众有缘弟子之教言。古普·钦哲仁波切译，陈润泽居士和朱红霞居士校对汉文。</p>
@@ -60,27 +171,28 @@ title: 大手印口诀金液
 @font-face{font-family:"Noto Serif Tibetan Web";src:url("/fonts/NotoSerifTibetan-bo.woff2") format("woff2");unicode-range:U+0F00-0FFF;font-display:swap}
 .jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
 .jy-page p,.jy-page h1{font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
-.jy-page .bo,.jy-page .bo-verse{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif}
-.jy-title-bo{text-align:center;font-size:20px;line-height:1.6;margin:0 0 6px}
-.intro-title{text-align:center;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
-.jy-subtitle{text-align:center;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 6px}
-.intro-author{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
-.intro-author.bo{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
-.intro-author.last{margin-bottom:30px}
-.bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
-.bo-verse{font-size:16px;line-height:1.9;text-align:center;text-indent:0;margin:0 0 12px}
-.intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
-.intro-body.center{text-align:center;text-indent:0}
-.intro-verse{font-size:18px;line-height:1.9;text-align:center;text-indent:0;margin:0 0 12px}
-.kp{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
-.kp.b{font-weight:700;text-align:left}
-.kp-c{font-size:18px;line-height:1.9;text-align:center;text-indent:0;margin:16px 0 12px}
-.kp-c.b{font-weight:700}
+.jy-page .bo,.jy-page .bo-verse,.jy-page .mantra,.jy-page .jy-title-bo,.jy-page .intro-author.bo{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif}
+.jy-page .jy-title-bo{text-align:center !important;font-size:20px;line-height:1.6;margin:0 0 6px}
+.jy-page .intro-title{text-align:center !important;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
+.jy-page .jy-subtitle{text-align:center !important;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 6px}
+.jy-page .intro-author{text-align:center !important;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
+.jy-page .intro-author.bo{text-align:center !important;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
+.jy-page .intro-author.last{margin-bottom:30px}
+.jy-page .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
+.jy-page .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.jy-page .mantra{font-size:16px;line-height:1.95;text-align:center !important;text-indent:0;margin:6px auto 14px;max-width:90%}
+.jy-page .intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
+.jy-page .intro-body.center{text-align:center !important;text-indent:0}
+.jy-page .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.jy-page .kp{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
+.jy-page .kp.b{font-weight:700;text-align:left}
+.jy-page .kp-c{font-size:18px;line-height:1.9;text-align:center !important;text-indent:0;margin:18px 0 12px}
+.jy-page .kp-c.b{font-weight:700}
 @media (max-width:640px){
 .jy-page{padding:24px 18px 40px}
-.jy-title-bo{font-size:18px}
-.intro-title,.jy-subtitle{font-size:22px}
-.bo,.bo-verse{font-size:15px}
-.intro-body,.intro-verse,.kp,.kp-c{font-size:17px}
+.jy-page .jy-title-bo{font-size:18px}
+.jy-page .intro-title,.jy-page .jy-subtitle{font-size:22px}
+.jy-page .bo,.jy-page .bo-verse,.jy-page .mantra{font-size:15px}
+.jy-page .intro-body,.jy-page .intro-verse,.jy-page .kp,.jy-page .kp-c{font-size:17px}
 }
 </style>

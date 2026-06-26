@@ -15,7 +15,8 @@ title: 大手印正行秘诀
 
 <p class="bo">དེ་ཡང༌། ང་ཚོའི་རྒྱུན་དུ་འདོན་རྒྱུའི་ཁམས་སྤྲུལ་ཀུན་དགའ་བསྟན་འཛིན་གྱིས་མཛད་པའི་སྔོན་འགྲོའི་ངག་འདོན་དེའི་བཞུགས་བྱང་ལའང། དངོས་གཞིའི་རྩ་ཐོ་དང་བཅས་པ་ཞེས་ཕྱག་ཆེན་གྱི་སྔོན་འགྲོ་ཙམ་དུ་མ་ཟད་ཕྱག་ཆེན་གྱི་དངོས་གཞི་ཡང་གསུངས་ཡོད་པ་རེད། དངོས་གཞིའི་རྩ་ཐོ་དེ་ག་རེ་རེད་ཟེར་ན། སྒོམ་པ་ཕྱི་ཡི་གཞི་བཅའ་སོགས་ཀྱིས་ལུས་གནད་དང་ངག་གནད། རང་སེམས་གདོད་དག་སོགས་ཀྱིས་སེམས་གནད་བསྟན་པ་ལྟར།</p>
 <p class="intro-body">平日里我们念诵的，由康楚棍嘎定增所著，《前行念诵文》结语中提到：“正行与正文”，当中不仅仅讲述了大手印的前行，还讲述了大手印正行的部分。那什么是正行正文呢？颂词中云：“观修外之姿势身七要”则阐释了身和语的要领。而颂词又云：“自心本来清净”，则阐释了心的要领。</p>
-<p class="bo-verse">ཕྱག་ཆེན་གྱི་དངོས་གཞི་ཉམས་སུ་ལེན་པར་བྱེད་པ་དེ་ལ་བཅའ་བ་ལུས་ཀྱི་གནད་དང༌། སྒོམ་པ་སེམས་ཀྱི་གནད་གཉིས་ཡོད།<br>བཅའ་བ་ལུས་ཀྱི་གནད་ལ་ཡང་རྩོལ་བཅས་རྣམ་སྣང་ཆོས་བདུན་དང༌། རྩོལ་མེད་སེམས་ཉིད་ངལ་གསོའི་འདུག་སྟངས་གཉིས་ཡོད།</p>
+<p class="bo-verse">ཕྱག་ཆེན་གྱི་དངོས་གཞི་ཉམས་སུ་ལེན་པར་བྱེད་པ་དེ་ལ་བཅའ་བ་ལུས་ཀྱི་གནད་དང༌། སྒོམ་པ་སེམས་ཀྱི་གནད་གཉིས་ཡོད།</p>
+<p class="bo-verse">བཅའ་བ་ལུས་ཀྱི་གནད་ལ་ཡང་རྩོལ་བཅས་རྣམ་སྣང་ཆོས་བདུན་དང༌། རྩོལ་མེད་སེམས་ཉིད་ངལ་གསོའི་འདུག་སྟངས་གཉིས་ཡོད།</p>
 <p class="bo">དང་པོ་རྩོལ་བཅས་ཀྱི་གནད་དེ་ལ། སྒོམ་པ་ཕྱི་ཡི་གཞི་བཅའ་ལུས་གནད་བདུན། །རྐང་པ་སྐྱིལ་ཀྲུང་རེའུ་མིག་བཞིན་བསྣོལ། །</p>
 <p class="kp">实修大手印正行全文分二：甲一、姿势身之要；甲二、观修心之要。</p>
 <p class="kp">乙一、姿势身之要又分二：一、造作毗卢七法；二、不造作心性休息之坐姿。</p>
@@ -127,27 +128,28 @@ title: 大手印正行秘诀
 @font-face{font-family:"Noto Serif Tibetan Web";src:url("/fonts/NotoSerifTibetan-bo.woff2") format("woff2");unicode-range:U+0F00-0FFF;font-display:swap}
 .jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
 .jy-page p,.jy-page h1{font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
-.jy-page .bo,.jy-page .bo-verse{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif}
-.jy-title-bo{text-align:center;font-size:20px;line-height:1.6;margin:0 0 6px}
-.intro-title{text-align:center;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
-.jy-subtitle{text-align:center;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 6px}
-.intro-author{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
-.intro-author.bo{text-align:center;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
-.intro-author.last{margin-bottom:30px}
-.bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
-.bo-verse{font-size:16px;line-height:1.9;text-align:center;text-indent:0;margin:0 0 12px}
-.intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
-.intro-body.center{text-align:center;text-indent:0}
-.intro-verse{font-size:18px;line-height:1.9;text-align:center;text-indent:0;margin:0 0 12px}
-.kp{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
-.kp.b{font-weight:700;text-align:left}
-.kp-c{font-size:18px;line-height:1.9;text-align:center;text-indent:0;margin:16px 0 12px}
-.kp-c.b{font-weight:700}
+.jy-page .bo,.jy-page .bo-verse,.jy-page .mantra,.jy-page .jy-title-bo,.jy-page .intro-author.bo{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif}
+.jy-page .jy-title-bo{text-align:center !important;font-size:20px;line-height:1.6;margin:0 0 6px}
+.jy-page .intro-title{text-align:center !important;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
+.jy-page .jy-subtitle{text-align:center !important;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 6px}
+.jy-page .intro-author{text-align:center !important;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
+.jy-page .intro-author.bo{text-align:center !important;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
+.jy-page .intro-author.last{margin-bottom:30px}
+.jy-page .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
+.jy-page .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.jy-page .mantra{font-size:16px;line-height:1.95;text-align:center !important;text-indent:0;margin:6px auto 14px;max-width:90%}
+.jy-page .intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
+.jy-page .intro-body.center{text-align:center !important;text-indent:0}
+.jy-page .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.jy-page .kp{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
+.jy-page .kp.b{font-weight:700;text-align:left}
+.jy-page .kp-c{font-size:18px;line-height:1.9;text-align:center !important;text-indent:0;margin:18px 0 12px}
+.jy-page .kp-c.b{font-weight:700}
 @media (max-width:640px){
 .jy-page{padding:24px 18px 40px}
-.jy-title-bo{font-size:18px}
-.intro-title,.jy-subtitle{font-size:22px}
-.bo,.bo-verse{font-size:15px}
-.intro-body,.intro-verse,.kp,.kp-c{font-size:17px}
+.jy-page .jy-title-bo{font-size:18px}
+.jy-page .intro-title,.jy-page .jy-subtitle{font-size:22px}
+.jy-page .bo,.jy-page .bo-verse,.jy-page .mantra{font-size:15px}
+.jy-page .intro-body,.jy-page .intro-verse,.jy-page .kp,.jy-page .kp-c{font-size:17px}
 }
 </style>
