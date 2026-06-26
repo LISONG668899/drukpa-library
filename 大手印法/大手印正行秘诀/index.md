@@ -126,6 +126,7 @@ title: 大手印正行秘诀
 
 <style>
 @font-face{font-family:"Noto Serif Tibetan Web";src:url("/fonts/NotoSerifTibetan-bo.woff2") format("woff2");unicode-range:U+0F00-0FFF;font-display:swap}
+.jy-title-bo,.intro-title,.jy-subtitle,.intro-author{text-align:center !important}
 .jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
 .jy-page p,.jy-page h1{font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
 .jy-page .bo,.jy-page .bo-verse,.jy-page .mantra,.jy-page .jy-title-bo,.jy-page .intro-author.bo{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif}
@@ -133,7 +134,7 @@ title: 大手印正行秘诀
 .jy-page .intro-title{text-align:center !important;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
 .jy-page .jy-subtitle{text-align:center !important;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 6px}
 .jy-page .intro-author{text-align:center !important;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
-.jy-page .intro-author.bo{text-align:center !important;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
+.jy-page .intro-author.bo{text-align:center !important;font-size:20px;color:var(--vp-c-text-1);margin:2px 0 2px}
 .jy-page .intro-author.last{margin-bottom:30px}
 .jy-page .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
 .jy-page .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
@@ -150,6 +151,7 @@ title: 大手印正行秘诀
 .jy-page .jy-title-bo{font-size:18px}
 .jy-page .intro-title,.jy-page .jy-subtitle{font-size:22px}
 .jy-page .bo,.jy-page .bo-verse,.jy-page .mantra{font-size:15px}
+.jy-page .intro-author.bo{font-size:18px}
 .jy-page .intro-body,.jy-page .intro-verse,.jy-page .kp,.jy-page .kp-c{font-size:17px}
 }
 </style>
