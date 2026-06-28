@@ -146,3 +146,34 @@
   .dsy-mod .cat-card{padding:20px 10px}
   .dsy-mod .cat-title{font-size:16px}
 }
+
+/* ============================================================
+   大手印法：藏文标题视觉居中补丁（保守追加版）
+   说明：只作用于 .dsy-mod 页面；不改原有规则；可整段删除回退。
+   ============================================================ */
+
+.dsy-mod .jy-title-bo {
+  display: block !important;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 42em;
+  margin: 0.08rem auto 0.38rem !important;
+  padding: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  line-height: 1.75;
+  white-space: normal;
+  word-break: normal;
+  overflow-wrap: normal;
+}
+
+.dsy-mod .jy-title-bo:first-of-type {
+  margin-top: 0 !important;
+}
+
+@media (max-width: 640px) {
+  .dsy-mod .jy-title-bo {
+    max-width: 100%;
+    line-height: 1.85;
+  }
+}
