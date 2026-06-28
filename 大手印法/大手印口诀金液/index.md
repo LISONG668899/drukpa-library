@@ -4,7 +4,7 @@ aside: false
 title: 大手印口诀金液
 ---
 
-<div class="jy-page">
+<div class="jy-page dsy-mod">
 
 <p class="jy-title-bo">༄༅། །ཕྱག་རྒྱ་ཆེན་པོའི་ལྟ་སྒོམ་སྤྱོད་གསུམ་གྱི་</p>
 <p class="jy-title-bo">ཞལ་གདམས་གསེར་ཞུན་མ་བཞུགས་སོ། །</p>
@@ -48,13 +48,13 @@ title: 大手印口诀金液
 <p class="bo-verse">དེ་སོམས་ལ་སྡིག་པ་དུག་ལྟར་འཛེམ། །</p>
 <p class="intro-verse">三恶趣中诸痛苦，</p>
 <p class="intro-verse">仅闻讲述生恐惧，</p>
-<p class="intro-body">若真遭遇怎么办？思而恶业如戒毒。</p>
+<p class="intro-verse">若真遭遇怎么办？思而恶业如戒毒。</p>
 <p class="bo-verse">གནས་ཐར་མེད་འཁོར་བའི་སྡུག་བསྔལ་ལས། །</p>
 <p class="bo-verse">སྐྱོབ་ནུས་པར་བྱེད་པ་དཀོན་མཆོག་གསུམ། །</p>
 <p class="bo-verse">ཁྱེད་མི་འབྲལ་སྙིང་ནས་གསོལ་བ་ཐོབ། །</p>
 <p class="intro-verse">无尽轮回痛苦中，</p>
 <p class="intro-verse">救星唯有佛法僧，</p>
-<p class="intro-body">汝心应恒常祈祷。</p>
+<p class="intro-verse">汝心应恒常祈祷。</p>
 <p class="bo-verse">མ་འགྲོ་དྲུག་སེམས་ཅན་ཐམས་ཅད་ཀུན། །</p>
 <p class="bo-verse">སྔོན་ཚེ་རབས་མང་པོའི་ཕ་མ་ཡིན། །</p>
 <p class="bo-verse">འདི་འཁོར་བའི་གནས་སུ་སྡུག་རེ་བསྔལ། །</p>
@@ -139,7 +139,7 @@ title: 大手印口诀金液
 <p class="intro-verse">应观甚深之自心，</p>
 <p class="intro-verse">彼能消除诸魔障，</p>
 <p class="intro-verse">无论当下想什么，</p>
-<p class="intro-body">应当终究修到死。</p>
+<p class="intro-verse">应当终究修到死。</p>
 <p class="bo-verse">མི་མང་པོའི་གཏམ་དང་ལྟད་མོ་དང་། །</p>
 <p class="bo-verse">སེམས་བསླུ་བའི་བྱ་བ་གང་སྒྲུབ་ཀྱང་། །</p>
 <p class="bo-verse">དེར་ཡེངས་པའི་དབང་དུ་མ་སོང་བ། །</p>
@@ -161,40 +161,8 @@ title: 大手印口诀金液
 <p class="intro-verse">应修行获得串习；</p>
 <p class="intro-verse">若彼义长得串习，</p>
 <p class="intro-verse">修无座间之间断，</p>
-<p class="intro-body">乃是河流般缘起。</p>
+<p class="intro-verse">乃是河流般缘起。</p>
 <p class="bo">ཀརྨ་བསྟན་འཕེལ་གྱི་སྐྱེས་མཐའ་ཁམས་པ་ངག་དབང་ཀུན་དགའ་བསྟན་འཛིན་དགེ་ལེགས་དཔལ་བཟང་པོའི་ཞལ་གདམས་གསེར་ཞུན་མ་འདྲ་བ་སེར་སྐྱ་ཕོ་མོ་སྐལ་པ་དང་ལྡན་པ་རྣམས་ལ་གདམས་པའོ། ། ། །</p>
 <p class="intro-body">此如同真金液一般之口诀，乃康嘎玛丹培之转世——康巴昂旺棍嘎定增格来巴桑波，对四众有缘弟子之教言。古普·钦哲仁波切译，陈润泽居士和朱红霞居士校对汉文。</p>
 
 </div>
-
-<style>
-@font-face{font-family:"Noto Serif Tibetan Web";src:url("/fonts/NotoSerifTibetan-bo.woff2") format("woff2");unicode-range:U+0F00-0FFF;font-display:swap}
-.jy-title-bo,.intro-title,.jy-subtitle,.intro-author{text-align:center !important}
-.jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
-.jy-page p,.jy-page h1{font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
-.jy-page .bo,.jy-page .bo-verse,.jy-page .mantra,.jy-page .jy-title-bo,.jy-page .intro-author.bo{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif}
-.jy-page .jy-title-bo{text-align:center !important;font-size:20px;line-height:1.6;margin:0 0 6px}
-.jy-page .intro-title{text-align:center !important;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
-.jy-page .jy-subtitle{text-align:center !important;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 6px}
-.jy-page .intro-author{text-align:center !important;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
-.jy-page .intro-author.bo{text-align:center !important;font-size:20px;color:var(--vp-c-text-1);margin:2px 0 2px}
-.jy-page .intro-author.last{margin-bottom:30px}
-.jy-page .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
-.jy-page .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
-.jy-page .mantra{font-size:16px;line-height:1.95;text-align:center !important;text-indent:0;margin:6px auto 14px;max-width:90%}
-.jy-page .intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
-.jy-page .intro-body.center{text-align:center !important;text-indent:0}
-.jy-page .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
-.jy-page .kp{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
-.jy-page .kp.b{font-weight:700;text-align:left}
-.jy-page .kp-c{font-size:18px;line-height:1.9;text-align:center !important;text-indent:0;margin:18px 0 12px}
-.jy-page .kp-c.b{font-weight:700}
-@media (max-width:640px){
-.jy-page{padding:24px 18px 40px}
-.jy-page .jy-title-bo{font-size:18px}
-.jy-page .intro-title,.jy-page .jy-subtitle{font-size:22px}
-.jy-page .bo,.jy-page .bo-verse,.jy-page .mantra{font-size:15px}
-.jy-page .intro-author.bo{font-size:18px}
-.jy-page .intro-body,.jy-page .intro-verse,.jy-page .kp,.jy-page .kp-c{font-size:17px}
-}
-</style>

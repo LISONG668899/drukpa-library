@@ -4,7 +4,7 @@ aside: false
 title: 大手印前行简修
 ---
 
-<div class="jy-page">
+<div class="jy-page dsy-mod">
 
 <p class="jy-title-bo">༄༅། །ཕྱག་ཆེན་གྱི་སྔོན་འགྲོའི་ངག་འདོན་ཤིན་ཏུ་</p>
 <p class="jy-title-bo">ཐར་འདོད་འཇུག་ངོགས་ཞེས་བྱ་བ་བཞུགས་སོ། །</p>
@@ -394,35 +394,3 @@ title: 大手印前行简修
 <p class="intro-body">此种子般的大手印四加行念颂文，因多位汉族男女居士强烈要求修持大手印四加行，而且由译师翻译讲解其观修之方法，而后仅仅为了诸修行者便于日常修持，由仲惹却秋（阿德仁波切）以增上意乐心撰著。愿所有初学者均获得广泛利益。古普·钦哲仁波切译汉。愿一切吉祥！</p>
 
 </div>
-
-<style>
-@font-face{font-family:"Noto Serif Tibetan Web";src:url("/fonts/NotoSerifTibetan-bo.woff2") format("woff2");unicode-range:U+0F00-0FFF;font-display:swap}
-.jy-title-bo,.intro-title,.jy-subtitle,.intro-author{text-align:center !important}
-.jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
-.jy-page p,.jy-page h1{font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
-.jy-page .bo,.jy-page .bo-verse,.jy-page .mantra,.jy-page .jy-title-bo,.jy-page .intro-author.bo{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif}
-.jy-page .jy-title-bo{text-align:center !important;font-size:20px;line-height:1.6;margin:0 0 6px}
-.jy-page .intro-title{text-align:center !important;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
-.jy-page .jy-subtitle{text-align:center !important;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 6px}
-.jy-page .intro-author{text-align:center !important;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
-.jy-page .intro-author.bo{text-align:center !important;font-size:20px;color:var(--vp-c-text-1);margin:2px 0 2px}
-.jy-page .intro-author.last{margin-bottom:30px}
-.jy-page .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
-.jy-page .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
-.jy-page .mantra{font-size:16px;line-height:1.95;text-align:center !important;text-indent:0;margin:6px auto 14px;max-width:90%}
-.jy-page .intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
-.jy-page .intro-body.center{text-align:center !important;text-indent:0}
-.jy-page .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
-.jy-page .kp{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
-.jy-page .kp.b{font-weight:700;text-align:left}
-.jy-page .kp-c{font-size:18px;line-height:1.9;text-align:center !important;text-indent:0;margin:18px 0 12px}
-.jy-page .kp-c.b{font-weight:700}
-@media (max-width:640px){
-.jy-page{padding:24px 18px 40px}
-.jy-page .jy-title-bo{font-size:18px}
-.jy-page .intro-title,.jy-page .jy-subtitle{font-size:22px}
-.jy-page .bo,.jy-page .bo-verse,.jy-page .mantra{font-size:15px}
-.jy-page .intro-author.bo{font-size:18px}
-.jy-page .intro-body,.jy-page .intro-verse,.jy-page .kp,.jy-page .kp-c{font-size:17px}
-}
-</style>

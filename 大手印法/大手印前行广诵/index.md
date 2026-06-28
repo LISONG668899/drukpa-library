@@ -4,7 +4,7 @@ aside: false
 title: 大手印前行广诵
 ---
 
-<div class="jy-page">
+<div class="jy-page dsy-mod">
 
 <p class="jy-title-bo">༄༅། །ཕྱག་ཆེན་སྔོན་འགྲོའི་སྒོམ་རིམ་གསལ་འདེབས་</p>
 <p class="jy-title-bo">དངོས་གཞིའི་རྩ་ཐོ་དང་བཅས་པ་ཟབ་དོན་རྒྱ་མཚོའི་</p>
@@ -490,7 +490,7 @@ title: 大手印前行广诵
 <p class="intro-verse">菩提道上不遇诸违缘，</p>
 <p class="intro-verse">圆满三世善逝之密意，</p>
 <p class="intro-verse">不迷轮回亦不住涅槃，</p>
-<p class="intro-body">祈愿能度等空诸有情。</p>
+<p class="intro-verse">祈愿能度等空诸有情。</p>
 <p class="bo-verse">གཉིས་པ་མཆོད་པའི་ཡན་ལག་ནི།</p>
 <p class="kp-c b">丁二、供养支：</p>
 <p class="bo-verse">མེ་ཏོག་དམ་པ་ཕྲེང་བ་དམ་པ་དང༌། །</p>
@@ -806,7 +806,7 @@ title: 大手印前行广诵
 <p class="intro-verse">白玛曲嘉与久美，</p>
 <p class="intro-verse">吉美旺格多杰尊，</p>
 <p class="intro-verse">遍主根本上师尊，</p>
-<p class="intro-body">祈赐得见吾本性。</p>
+<p class="intro-verse">祈赐得见吾本性。</p>
 <p class="bo-verse">གཉིས་པ་བརྒྱུད་པའི་བླ་མ་འོད་ཞུ་ནི།</p>
 <p class="kp-c b">丁二、传承上师化光：</p>
 <p class="bo-verse">དེ་ལྟར་བརྒྱུད་པའི་བླ་མར་གསོལ་བཏབ་པས། །</p>
@@ -906,7 +906,7 @@ title: 大手印前行广诵
 <p class="bo-verse">ས་བཅུའི་མགོན་པོ་འགྲུབ་གྱུར་ཅིག །</p>
 <p class="intro-verse">犹如水入水之中，</p>
 <p class="intro-verse">与我无二合为一，</p>
-<p class="intro-body">愿证十地怙主位。</p>
+<p class="intro-verse">愿证十地怙主位。</p>
 <p class="bo-verse">གཉིས་པ་གསོལ་འདེབས་རྒྱས་པའི་རིམ་པ་ལའང་དྲུག་ལས།</p>
 <p class="kp-c b">丙二、广大祈祷次第亦分六：</p>
 <p class="bo-verse">དང་པོ་བརྒྱུད་པའི་བླ་མ་ལ་གསོལ་བ་གདབ་པ་ནི།</p>
@@ -1571,7 +1571,7 @@ title: 大手印前行广诵
 <p class="bo-verse">ཆོས་རྗེ་སངས་རྒྱས་རིན་པོ་ཆེ་ལ་སྐྱབས་སུ་མཆི། །</p>
 <p class="intro-verse">等虚空一切诸母有情，</p>
 <p class="intro-verse">皈依上师佛陀仁波切，</p>
-<p class="intro-body">皈依法王佛陀仁波切。</p>
+<p class="intro-verse">皈依法王佛陀仁波切。</p>
 <p class="bo-verse">དྲིན་ཅན་རྩ་བའི་བླ་མ་དམ་པ་དང༌། །</p>
 <p class="bo-verse">དངོས་གྲུབ་སྟེར་བའི་ཡི་དམ་ལྷ་ཡི་ཚོགས། །</p>
 <p class="bo-verse">སྐྱབས་གནས་དམ་པ་དཀོན་མཆོག་གསུམ་པོ་ལ། །</p>
@@ -2007,35 +2007,3 @@ title: 大手印前行广诵
 <p class="intro-body">愿以此善聚，以及轮涅三世行善之力，甚深义传精髓之教法兴盛于一切时处、无边无际众生皆入此道、地道功德迅速圆满、证得殊胜金刚之果位。竹巴噶举译经办公室翻译。</p>
 
 </div>
-
-<style>
-@font-face{font-family:"Noto Serif Tibetan Web";src:url("/fonts/NotoSerifTibetan-bo.woff2") format("woff2");unicode-range:U+0F00-0FFF;font-display:swap}
-.jy-title-bo,.intro-title,.jy-subtitle,.intro-author{text-align:center !important}
-.jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
-.jy-page p,.jy-page h1{font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif}
-.jy-page .bo,.jy-page .bo-verse,.jy-page .mantra,.jy-page .jy-title-bo,.jy-page .intro-author.bo{font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif}
-.jy-page .jy-title-bo{text-align:center !important;font-size:20px;line-height:1.6;margin:0 0 6px}
-.jy-page .intro-title{text-align:center !important;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:6px 0 4px;padding:0}
-.jy-page .jy-subtitle{text-align:center !important;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 6px}
-.jy-page .intro-author{text-align:center !important;font-size:16px;color:var(--vp-c-text-2);margin:0 0 2px}
-.jy-page .intro-author.bo{text-align:center !important;font-size:20px;color:var(--vp-c-text-1);margin:2px 0 2px}
-.jy-page .intro-author.last{margin-bottom:30px}
-.jy-page .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
-.jy-page .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
-.jy-page .mantra{font-size:16px;line-height:1.95;text-align:center !important;text-indent:0;margin:6px auto 14px;max-width:90%}
-.jy-page .intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
-.jy-page .intro-body.center{text-align:center !important;text-indent:0}
-.jy-page .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
-.jy-page .kp{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
-.jy-page .kp.b{font-weight:700;text-align:left}
-.jy-page .kp-c{font-size:18px;line-height:1.9;text-align:center !important;text-indent:0;margin:18px 0 12px}
-.jy-page .kp-c.b{font-weight:700}
-@media (max-width:640px){
-.jy-page{padding:24px 18px 40px}
-.jy-page .jy-title-bo{font-size:18px}
-.jy-page .intro-title,.jy-page .jy-subtitle{font-size:22px}
-.jy-page .bo,.jy-page .bo-verse,.jy-page .mantra{font-size:15px}
-.jy-page .intro-author.bo{font-size:18px}
-.jy-page .intro-body,.jy-page .intro-verse,.jy-page .kp,.jy-page .kp-c{font-size:17px}
-}
-</style>

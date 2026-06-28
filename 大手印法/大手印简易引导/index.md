@@ -97,7 +97,7 @@ title: 大手印简易引导
 <p class="intro-verse">心不散漫之正念，</p>
 <p class="intro-verse">即修大手印之道，</p>
 <p class="intro-verse">此境不应它处觅，</p>
-<p class="intro-body">如如不动而安住。</p>
+<p class="intro-verse">如如不动而安住。</p>
 <p class="bo-verse">གཤིས་རྣམ་རྟོག་སྣ་ཚོགས་འཕྲོ་བ་དང་། །</p>
 <p class="bo-verse">ཕྱི་ཡུལ་གྱི་སྣང་བ་འདི་རྣམས་ཀུན། །</p>
 <p class="bo-verse">རང་རིག་པའི་ངོ་དང་རང་མདངས་ལས། །</p>

@@ -4,7 +4,7 @@ aside: false
 title: 大手印法
 ---
 
-<div class="cat-page">
+<div class="cat-page dsy-mod">
 
 <h1 class="cat-h1">大手印法</h1>
 <p class="cat-lead">大手印前行 · 正行引导</p>
@@ -21,15 +21,3 @@ title: 大手印法
 </div>
 
 </div>
-
-<style>
-.cat-page{max-width:720px;margin:0 auto;padding:48px 24px 56px}
-.cat-h1{text-align:center;border:0;font-size:28px;margin:0 0 6px;padding:0}
-.cat-lead{text-align:center;font-size:15px;color:var(--vp-c-text-2);letter-spacing:2px;margin:0 0 32px}
-.cat-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
-.cat-card{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:26px 16px;border:1px solid var(--vp-c-divider);border-radius:12px;background:var(--vp-c-bg-soft);text-decoration:none;transition:border-color .2s,transform .2s}
-.cat-card:hover{border-color:var(--vp-c-brand-1);transform:translateY(-2px)}
-.cat-title{font-size:18px;font-weight:600;color:var(--vp-c-text-1);line-height:1.45}
-.cat-sub{font-size:13px;color:var(--vp-c-text-2);margin-top:8px}
-@media (max-width:640px){.cat-page{padding:24px 16px 40px}.cat-h1{font-size:23px}.cat-grid{gap:12px}.cat-card{padding:20px 10px}.cat-title{font-size:16px}}
-</style>
