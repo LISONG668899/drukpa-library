@@ -49,7 +49,8 @@ title: 大手印口诀金液
 <p class="bo-verse">དེ་སོམས་ལ་སྡིག་པ་དུག་ལྟར་འཛེམ། །</p>
 <p class="intro-verse">三恶趣中诸痛苦，</p>
 <p class="intro-verse">仅闻讲述生恐惧，</p>
-<p class="intro-verse">若真遭遇怎么办？思而恶业如戒毒。</p>
+<p class="intro-verse">若真遭遇怎么办？</p>
+<p class="intro-verse">思而恶业如戒毒。</p>
 <p class="bo-verse">གནས་ཐར་མེད་འཁོར་བའི་སྡུག་བསྔལ་ལས། །</p>
 <p class="bo-verse">སྐྱོབ་ནུས་པར་བྱེད་པ་དཀོན་མཆོག་གསུམ། །</p>
 <p class="bo-verse">ཁྱེད་མི་འབྲལ་སྙིང་ནས་གསོལ་བ་ཐོབ། །</p>

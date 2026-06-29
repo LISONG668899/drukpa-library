@@ -88,7 +88,7 @@
 .dsy-mod .intro-title{text-align:center !important;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:3px 0 3px;padding:0}
 .dsy-mod .jy-subtitle{text-align:center !important;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 3px}
 .dsy-mod .intro-author{text-align:center !important;font-size:16px;line-height:1.45;color:var(--vp-c-text-2);margin:0 0 2px}
-.dsy-mod .intro-author.bo{font-size:15px;line-height:1.4;color:var(--vp-c-text-1);margin-bottom:1px}
+.dsy-mod .intro-author.bo{font-size:13px;line-height:1.35;color:var(--vp-c-text-1);margin-bottom:1px}
 .dsy-mod .intro-author.last{margin-bottom:30px}
 /* 标题区 ↔ 作者区：组间留大距（命中各篇不同的首个作者元素，藏/中/双中文作者均覆盖）*/
 .dsy-mod .intro-title + .intro-author,
@@ -137,7 +137,7 @@
   .dsy-mod.jy-page{padding:24px 18px 40px}
   .dsy-mod .jy-title-bo{font-size:18px}
   .dsy-mod .intro-title,.dsy-mod .jy-subtitle{font-size:22px}
-  .dsy-mod .intro-author.bo{font-size:14px}
+  .dsy-mod .intro-author.bo{font-size:12px}
   .dsy-mod .bo,.dsy-mod .bo-verse,.dsy-mod .mantra{font-size:15px}
   .dsy-mod .intro-body,.dsy-mod .intro-verse,.dsy-mod .kp,.dsy-mod .kp-c{font-size:17px}
   .dsy-mod .v-bo{font-size:15px}
