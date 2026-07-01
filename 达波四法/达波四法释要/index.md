@@ -61,7 +61,7 @@ aside: false
 .intro-title { text-align: center; border: 0; font-size: 26px; margin: 6px 0 6px; padding-top: 0; }
 .jy-subtitle { text-align: center; font-size: 26px; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 2px 0 10px; }
 .intro-author { text-align: center; font-size: 16px; color: var(--vp-c-text-2); margin: 0 0 36px; }
-.intro-author.bo { font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari",serif; text-align: center; font-size: 17px; color: var(--vp-c-text-1); margin: 0 0 4px; }
+.intro-author.bo { font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari",serif; text-align: center; font-size: 13px; line-height: 1.4; color: var(--vp-c-text-1); margin: 30px 0 2px; }
 .bo { font-size: 16px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
 .bo.center { text-align: center; }
 .bo-verse { font-size: 15px; line-height: 2.0; text-align: center; color: var(--vp-c-text-1); margin: 0 0 8px; }
@@ -89,6 +89,7 @@ aside: false
   .jy-title-bo { font-size: 18px; }
   .jy-subtitle { font-size: 22px; }
   .bo { font-size: 15px; }
+  .intro-author.bo { font-size: 12px; }
   .bo-verse { font-size: 14px; }
   .intro-body { font-size: 17px; }
   .intro-verse { font-size: 15px; }
