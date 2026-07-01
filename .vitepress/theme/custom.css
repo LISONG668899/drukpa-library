@@ -149,3 +149,13 @@
   .dsy-mod .cat-card{padding:20px 10px}
   .dsy-mod .cat-title{font-size:16px}
 }
+
+/* ============================================================
+   全站导航栏 · logo 与站名放大（VitePress 默认 24px/16px 偏小）
+   ============================================================ */
+.VPNavBarTitle .VPImage.logo{height:34px !important;width:34px !important;}
+.VPNavBarTitle .title{font-size:18px !important;font-weight:700 !important;letter-spacing:.5px;}
+@media (max-width:640px){
+  .VPNavBarTitle .VPImage.logo{height:28px !important;width:28px !important;}
+  .VPNavBarTitle .title{font-size:16px !important;}
+}

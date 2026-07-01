@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 const SITE_URL = 'https://drukpatrove.org'
 const SITE_TITLE = '竹巴噶举妙法宝箧'
-const SITE_DESCRIPTION = '竹巴噶举法教资料整理'
+const SITE_DESCRIPTION = '竹巴噶举传承 · 藏汉译传法要'
 const OG_IMAGE = `${SITE_URL}/og-cover.png`
 
 function getPageUrl(relativePath: string) {
