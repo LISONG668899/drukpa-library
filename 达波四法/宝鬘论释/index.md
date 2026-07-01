@@ -340,42 +340,55 @@ aside: false
 .intro-author { text-align: center; font-size: 16px; color: var(--vp-c-text-2); margin: 0 0 36px; }
 
 /* 正文：全篇唯一字号，两端对齐，首行缩进2字 */
-.intro-body {
-  font-size: 18px;
-  font-weight: 400;
+.jy-page p.intro-body {
+  font-size: 18px !important;
+  font-weight: 400 !important;
   line-height: 1.95;
   text-align: justify;
-  text-indent: 2em;
+  text-indent: 2em !important;
   color: var(--vp-c-text-1);
   margin: 0 0 16px;
 }
 
 /* 科判：与正文同一字号，唯一区别是加粗；同样首行缩进2字；
    不同层级只用 margin-top 控制段前留白，制造层级感，不影响字号/缩进 */
-.kp {
-  font-size: 18px;
-  font-weight: 700;
+.jy-page p.kp {
+  font-size: 18px !important;
+  font-weight: 700 !important;
   line-height: 1.6;
   text-align: left;
-  text-indent: 2em;
+  text-indent: 2em !important;
   color: var(--vp-c-text-1);
   margin: 0 0 8px;
 }
-.kp1 { margin-top: 36px; }
-.kp2 { margin-top: 28px; }
-.kp3 { margin-top: 22px; }
-.kp4 { margin-top: 18px; }
-.kp5 { margin-top: 16px; }
-.kp6 { margin-top: 16px; }
-.kp7 { margin-top: 14px; }
+.jy-page p.kp1,
+.jy-page p.kp2,
+.jy-page p.kp3,
+.jy-page p.kp4,
+.jy-page p.kp5,
+.jy-page p.kp6,
+.jy-page p.kp7 {
+  font-size: 18px !important;
+  font-weight: 700 !important;
+  text-indent: 2em !important;
+}
+.jy-page p.kp1 { margin-top: 36px; }
+.jy-page p.kp2 { margin-top: 28px; }
+.jy-page p.kp3 { margin-top: 22px; }
+.jy-page p.kp4 { margin-top: 18px; }
+.jy-page p.kp5 { margin-top: 16px; }
+.jy-page p.kp6 { margin-top: 16px; }
+.jy-page p.kp7 { margin-top: 14px; }
 
 .intro-sign { text-align: center !important; text-indent: 0; font-size: 16px; line-height: 1.9; color: var(--vp-c-text-2); margin: 32px 0 0; }
 
 @media (max-width: 640px) {
   .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 22px; }
-  .jy-subtitle { font-size: 22px; }
-  .intro-body { font-size: 17px; }
-  .kp { font-size: 17px; }
+  .jy-page .intro-title { font-size: 22px !important; }
+  .jy-page .jy-subtitle { font-size: 22px !important; }
+  .jy-page p.intro-body { font-size: 17px !important; }
+  .jy-page p.kp,
+  .jy-page p.kp1, .jy-page p.kp2, .jy-page p.kp3, .jy-page p.kp4,
+  .jy-page p.kp5, .jy-page p.kp6, .jy-page p.kp7 { font-size: 17px !important; }
 }
 </style>
