@@ -65,17 +65,17 @@ aside: false
 <p class="kp kp4">丁一、略示：</p>
 <p class="intro-body">如颂词中云：出离行三学。</p>
 <p class="kp kp4">丁二、广说增上戒学分六：对善法生起欲乐心为因，（一）、出家、随学《律经》善说妙法；（二）、修戒律仪；（三）、根戒律；（四）、适当饮食；（五）、不睡上半夜和下半夜而精进随学；（六）、以正知行事。</p>
-<p class="intro-body">（一）、出家、随学《律经》善说妙法。</p>
-<p class="intro-body">（二）、修戒律仪：</p>
+<p class="kp kp7">（一）、出家、随学《律经》善说妙法。</p>
+<p class="kp kp7">（二）、修戒律仪：</p>
 <p class="intro-body">彼出家者具有净戒；以别解脱戒守护根门；仪规圆满；所行圆满；畏惧微罪；如实受持、学习诸基本学处。</p>
-<p class="intro-body">（三）、根戒律：</p>
+<p class="kp kp7">（三）、根戒律：</p>
 <p class="intro-body">依修戒律仪守护正念；精勤正念；以正念守护意识；时而入平等住。</p>
-<p class="intro-body">（四）、适当饮食：</p>
+<p class="kp kp7">（四）、适当饮食：</p>
 <p class="intro-body">以分别观察后食用；不以贪嗔痴而食用；不为骄横而食用；不为体健而食用；不为朗丽而食用。</p>
 <p class="intro-body">为了长住而食用；为了消除饥饿而食用；为了助梵净行而食用；为了消除饮食不当所引起的苦受而食用；为了不再引起饮食不当之苦受而食用；为了⾃⼰生存，并具安康有力⽽食⽤；为了无罪业而食用；为了获得安乐⽽食⽤。</p>
-<p class="intro-body">（五）、不睡上半夜和下半夜而精进随学：</p>
+<p class="kp kp7">（五）、不睡上半夜和下半夜而精进随学：</p>
 <p class="intro-body">只要有时间就不放弃修行；勤修善法；日常修行；恒常精进；适时入睡、非时不睡；无害而睡、无惑而睡；按时睡醒，按时起床。</p>
-<p class="intro-body">（六）、以正知行事：</p>
+<p class="kp kp7">（六）、以正知行事：</p>
 <p class="intro-body">即分别观察身业、语业、意业。分别观察身业：无论自己做任何事情，应观察所做的事情对自己和他人是否有害、是否会造恶业、是否会造成痛苦、异受果报是否是苦果。也同样观察自身的行为对自己和他人是否有利、是否行善、能否带来快乐、其异受果报是否安乐。</p>
 <p class="intro-body">如果发现自身的行为对自己和他人有伤害、是恶业、会带来痛苦、异受果报也是痛苦，那么应该止遮其行为，而且以后也不可做。与此相反，如果是善行，则应当继续去做。</p>
 <p class="intro-body">接着回想过去已做过的事，如果做了善事，为此随喜。若是造了恶业，应当忏悔。以此观察语业和意业，并加以取舍。经过如此的观察和取舍，此生就不再造恶业。因此无有堕罪、无有遗憾、无有愧疚、无所后悔，来世也不会造恶业。因此不会堕入地狱等三恶道当中，而积累了永脱生死轮回之因——随解脱分善根。</p>
@@ -350,7 +350,7 @@ aside: false
 .sec-label { text-align: center; text-indent: 0; font-size: 17px; font-weight: 600; letter-spacing: 2px; color: #b06a43; margin: 26px 0 14px; }
 .sec-bo-head { text-align: center; font-size: 15px; line-height: 2.0; color: var(--vp-c-text-1); margin: 26px 0 2px; }
 .sec-label.tight { margin: 2px 0 14px; }
-.kp { text-indent: 0; line-height: 1.6; }
+.kp { text-indent: 2em; line-height: 1.6; }
 .kp1 { text-align: left; font-size: 18px; font-weight: 700; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 36px 0 12px; }
 .kp2 { text-align: left; font-size: 18px; font-weight: 700; color: var(--vp-c-text-1); margin: 28px 0 10px; }
 .kp3 { text-align: left; font-size: 18px; font-weight: 700; color: var(--vp-c-text-1); margin: 22px 0 8px; }
