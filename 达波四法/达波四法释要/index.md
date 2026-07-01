@@ -15,7 +15,7 @@ aside: false
 
 <p class="bo center">ན་མོ་གུ་རུ། ཆོས་ཆོས་སུ་འགྲོ་བ། ཆོས་ལམ་དུ་འགྲོ་བ། ལམ་འཁྲུལ་པ་སེལ་བ། འཁྲུལ་པ་ཡེ་ཤེས་སུ་འཆར་བ་ཅིག་དགོས་གསུང་།</p>
 
-<p class="intro-body center">顶礼上师！</p>
+<p class="intro-body center" style="text-align: center !important; text-indent: 0 !important;">顶礼上师！</p>
 
 <p class="intro-body center">应将法趋入法，法趋入道，道除迷乱，迷乱转智。</p>
 

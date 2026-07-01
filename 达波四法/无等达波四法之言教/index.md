@@ -15,7 +15,7 @@ aside: false
 
 <p class="bo center">ན་མོ་མ་ཧཱ་མུ་དྲཱ་ཡ།</p>
 
-<p class="intro-body center">顶礼大手印！</p>
+<p class="intro-body center" style="text-align: center !important; text-indent: 0 !important;">顶礼大手印！</p>
 
 <p class="bo-verse">དཀར་བརྒྱུད་ཀུན་གྱི་གཙུག་རྒྱན་སྒམ་པོ་པ། །<br>སྒྲུབ་བརྒྱུད་བསྟན་པའི་སྲོག་ཤིང་ཙཱ་རི་བ། །<br>དོན་བརྒྱུད་གདམས་པའི་མངའ་བདག་འབྲུག་པའི་ཞབས། །<br>རྣམ་གསུམ་དབྱེར་མེད་ཆོས་རྗེའི་ཞབས་ལ་འདུད། །</p>
 
