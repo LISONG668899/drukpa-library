@@ -17,12 +17,12 @@ aside: false
     <span class="cat-title">缘起法修行次第</span>
     <span class="cat-sub">遍知白玛嘎波</span>
   </a>
-  <a class="cat-card" href="/不共引导/六一味法祈请文/">
-    <span class="cat-title">六一味法祈请文</span>
+  <a class="cat-card" href="/不共引导/六类一味法祈请/">
+    <span class="cat-title">六类一味法祈请</span>
     <span class="cat-sub">嘉旺棍嘎巴觉</span>
   </a>
-  <a class="cat-card" href="/不共引导/六类一味实修法/">
-    <span class="cat-title">六类一味实修法</span>
+  <a class="cat-card" href="/不共引导/六类一味法实修/">
+    <span class="cat-title">六类一味法实修</span>
     <span class="cat-sub">遍知白玛嘎波</span>
   </a>
   <a class="cat-card" href="/不共引导/平齐八风引导文/">
