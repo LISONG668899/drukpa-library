@@ -351,13 +351,13 @@ aside: false
 .sec-bo-head { text-align: center; font-size: 15px; line-height: 2.0; color: var(--vp-c-text-1); margin: 26px 0 2px; }
 .sec-label.tight { margin: 2px 0 14px; }
 .kp { text-indent: 0; line-height: 1.6; }
-.kp1 { text-align: left; font-size: 19px; font-weight: 700; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 36px 0 12px; }
-.kp2 { text-align: left; font-size: 19px; font-weight: 700; color: var(--vp-c-text-1); margin: 28px 0 10px; }
-.kp3 { text-align: left; font-size: 19px; font-weight: 700; color: var(--vp-c-text-1); margin: 22px 0 8px; }
-.kp4 { text-align: left; font-size: 19px; font-weight: 700; color: var(--vp-c-text-1); margin: 18px 0 8px; }
-.kp5 { text-align: left; font-size: 19px; font-weight: 700; color: var(--vp-c-text-1); margin: 16px 0 6px; }
-.kp6 { text-align: left; font-size: 19px; font-weight: 700; color: var(--vp-c-text-1); margin: 16px 0 6px; }
-.kp7 { text-align: left; font-size: 19px; font-weight: 700; color: var(--vp-c-text-1); margin: 14px 0 6px; }
+.kp1 { text-align: left; font-size: 18px; font-weight: 700; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 36px 0 12px; }
+.kp2 { text-align: left; font-size: 18px; font-weight: 700; color: var(--vp-c-text-1); margin: 28px 0 10px; }
+.kp3 { text-align: left; font-size: 18px; font-weight: 700; color: var(--vp-c-text-1); margin: 22px 0 8px; }
+.kp4 { text-align: left; font-size: 18px; font-weight: 700; color: var(--vp-c-text-1); margin: 18px 0 8px; }
+.kp5 { text-align: left; font-size: 18px; font-weight: 700; color: var(--vp-c-text-1); margin: 16px 0 6px; }
+.kp6 { text-align: left; font-size: 18px; font-weight: 700; color: var(--vp-c-text-1); margin: 16px 0 6px; }
+.kp7 { text-align: left; font-size: 18px; font-weight: 700; color: var(--vp-c-text-1); margin: 14px 0 6px; }
 .kp-enum { text-indent: 0; font-size: 15px; line-height: 1.7; color: var(--vp-c-text-2); margin: 0 0 14px; }
 .note-head { text-indent: 0; font-size: 16px; font-weight: 600; color: var(--vp-c-text-1); margin: 18px 0 8px; }
 .note-item { font-size: 15px; line-height: 1.9; text-indent: 0; color: var(--vp-c-text-2); margin: 0 0 6px; padding-left: 1.5em; }
@@ -372,7 +372,7 @@ aside: false
   .intro-body { font-size: 17px; }
   .intro-verse { font-size: 15px; }
   .sec-label { font-size: 16px; }
-  .kp1,.kp2,.kp3,.kp4,.kp5,.kp6,.kp7 { font-size: 18px; }
+  .kp1,.kp2,.kp3,.kp4,.kp5,.kp6,.kp7 { font-size: 17px; }
   .kp-enum { font-size: 14px; }
 }
 </style>
