@@ -1,21 +1,46 @@
 ---
 layout: page
-title: 不共引导
+aside: false
 ---
 
-<div class="jy-page">
+<div class="cat-page">
 
-<h1 class="intro-title">不共引导</h1>
-<p class="intro-note">内容整理中，敬请期待。</p>
+<h1 class="cat-h1">不共引导</h1>
+<p class="cat-lead">竹巴噶举传乘不共引导文集</p>
 
+<div class="cat-grid">
+  <a class="cat-card" href="/不共引导/论缘起根本心经/">
+    <span class="cat-title">论缘起根本心经</span>
+    <span class="cat-sub">娑婆过去七佛</span>
+  </a>
+  <a class="cat-card" href="/不共引导/缘起法修行次第/">
+    <span class="cat-title">缘起法修行次第</span>
+    <span class="cat-sub">遍知白玛嘎波</span>
+  </a>
+  <a class="cat-card" href="/不共引导/六一味法祈请文/">
+    <span class="cat-title">六一味法祈请文</span>
+    <span class="cat-sub">嘉旺棍嘎巴觉</span>
+  </a>
+  <a class="cat-card" href="/不共引导/六类一味实修法/">
+    <span class="cat-title">六类一味实修法</span>
+    <span class="cat-sub">遍知白玛嘎波</span>
+  </a>
+  <a class="cat-card" href="/不共引导/平齐八风引导文/">
+    <span class="cat-title">平齐八风引导文</span>
+    <span class="cat-sub">嘉瓦郭仓巴</span>
+  </a>
+  <a class="cat-card" href="/不共引导/平齐八法引导文/">
+    <span class="cat-title">平齐八法引导文</span>
+    <span class="cat-sub">嘉旺棍嘎巴觉</span>
+  </a>
+  <a class="cat-card" href="/不共引导/慈悲菩提心引导/">
+    <span class="cat-title">慈悲菩提心引导</span>
+    <span class="cat-sub">嘉旺棍嘎巴觉</span>
+  </a>
+  <a class="cat-card" href="/不共引导/净修刹土引导文/">
+    <span class="cat-title">净修刹土引导文</span>
+    <span class="cat-sub">嘉旺棍嘎巴觉</span>
+  </a>
 </div>
 
-<style>
-.jy-page { max-width: 720px; margin: 0 auto; padding: 48px 24px 48px; }
-.intro-title { text-align: center; border: 0; font-size: 26px; margin: 6px 0 16px; padding-top: 0; }
-.intro-note { text-align: center; font-size: 16px; color: var(--vp-c-text-2); margin: 0; }
-@media (max-width: 640px) {
-  .jy-page { padding: 22px 20px 40px; }
-  .intro-title { font-size: 22px; }
-}
-</style>
+</div>
