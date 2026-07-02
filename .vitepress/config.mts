@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-const SITE_URL = 'https://drukpatrove.org'
+const SITE_URL = 'https://DrukpaTrove.org'
 const SITE_TITLE = '竹巴噶举妙法宝箧'
 const SITE_DESCRIPTION = '竹巴噶举 · 藏汉译传法要'
 const OG_IMAGE = `${SITE_URL}/og-cover.png`
