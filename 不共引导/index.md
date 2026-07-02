@@ -6,7 +6,7 @@ aside: false
 <div class="cat-page">
 
 <h1 class="cat-h1">不共引导</h1>
-<p class="cat-lead">竹巴噶举传乘不共引导文集</p>
+<p class="cat-lead">竹巴噶举传承不共引导文集</p>
 
 <div class="cat-grid">
   <a class="cat-card" href="/不共引导/论缘起根本心经/">
