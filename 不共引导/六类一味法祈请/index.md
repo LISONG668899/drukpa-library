@@ -15,7 +15,7 @@ aside: false
 <p class="v-bo">བླ་མ་ལ་གསོལ་བ་འདེབས། །རྡོ་རྗེ་ཕག་མོས་བྱིན་གྱིས་རློབས། །</p>
 <p class="v-zh" style="margin-bottom:4px">法身金刚总持佛，祈请大悲摄受吾，</p>
 <p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh hm">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh hm" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ཏི་ཤེས་རབ་བཟང་པོ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
 <p class="v-zh" style="margin-bottom:4px">帝洛西热松波尊，祈请大悲摄受吾，</p>
