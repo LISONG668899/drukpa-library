@@ -5,7 +5,8 @@ aside: false
 
 <div class="jy-page bgyd-mod">
 
-<span class="jy-title-bo">༄༅། །རྟེན་འབྲེལ་གྱི་སྒོམ་རིམ་དམ་པའི་ཆོས་ཀྱི་ཟ་མ་ཏོག་བཞུགས་སོ།།</span>
+<span class="jy-title-bo" style="font-size:16px">༄༅། །རྟེན་འབྲེལ་གྱི་སྒོམ་རིམ་དམ་པའི་ཆོས་ཀྱི་</span>
+<span class="jy-title-bo" style="font-size:16px">ཟ་མ་ཏོག་བཞུགས་སོ།།</span>
 
 <h1 class="intro-title">缘起法修行次第</h1>
 <p class="jy-subtitle">妙法宝箧</p>
@@ -107,7 +108,5 @@ aside: false
 <p class="intro-body">最后回向：祈愿以此修持，以及我于三时中所积累的一切善根、福德之力，愿自他（她）一切众生摆脱轮回之苦，获得圆满正等觉果位。并同时念诵弥勒菩萨和普贤菩萨等发愿文。</p>
 
 <p class="intro-body">此《缘起法修行次第妙法宝箧》秘诀是为了首领第司帕莫竹巴仁波切禅修，噶举派尊者遍知·白玛嘎波著作，2020年1月古普·钦哲译于西宁。陈润泽居士和朱红霞居士校对。愿一切吉祥如意！</p>
-
-<p class="signoff">遍知·白玛嘎波 著，古普·钦哲译，陈润泽居士、朱红霞居士校对</p>
 
 </div>
