@@ -13,245 +13,236 @@ aside: false
 <p class="v-bo">ཆོས་སྐུ་རྡོ་རྗེ་འཆང་ཆེན་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
 <p class="v-bo">རྐྱེན་ངན་ལམ་དུ་ལོངས་པ་དང་། །འབྱུང་བ་རོ་སྙོམས་བྱིན་གྱིས་རློབས། །</p>
 <p class="v-bo">བླ་མ་ལ་གསོལ་བ་འདེབས། །རྡོ་རྗེ་ཕག་མོས་བྱིན་གྱིས་རློབས། །</p>
-<p class="v-zh">法身金刚总持佛，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:4px">法身金刚总持佛，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
 <p class="v-zh hm">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ཏི་ཤེས་རབ་བཟང་པོ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">帝洛西热松波尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">帝洛西热松波尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">མཁས་པ་ནཱ་རོ་པཎ་ཆེན་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">智者那若班钦尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">智者那若班钦尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ཏི་ཕུ་གསང་སྔགས་སྡོང་པོ་ལ། གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">帝普桑昂东波尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">帝普桑昂东波尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">རས་ཆུང་རྡོ་རྗེ་གྲགས་པ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">日琼多杰扎巴尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">日琼多杰扎巴尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">རྒྱལ་བ་ལོ་དང་སུམ་པ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">嘉瓦罗与松巴尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">嘉瓦罗与松巴尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">གྲུབ་ཐོབ་གླིང་ཆེན་རས་པ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">大德岭钦日巴尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">大德岭钦日巴尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">འགྲོ་མགོན་གཙང་པ་རྒྱ་རས་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">怙主藏巴甲热尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">怙主藏巴甲热尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">དབོན་རས་དར་མ་སེང་གེ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">嗡日达玛森格尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">嗡日达玛森格尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ཆོས་རྗེ་གཞོན་ནུ་སེང་གེ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">曲杰雄努森格尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">曲杰雄努森格尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">བྱང་སེམས་ཉི་མ་སེང་གེ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">桑森尼玛森格尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">桑森尼玛森格尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">རྒྱལ་སྲས་སེང་གེ་ཤེས་རབ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">嘉赛森格西热尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">嘉赛森格西热尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ཆོས་རྗེ་སེང་གེ་རིན་ཆེན་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">曲杰森格仁钦尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">曲杰森格仁钦尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ཆོས་རྗེ་སེང་གེ་རྒྱལ་པོ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">曲杰森格嘉波尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">曲杰森格嘉波尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">འཇམ་དབྱངས་ཀུན་དགའ་སེང་གེ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">降阳棍嘎森格尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">降阳棍嘎森格尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">མཁན་ཆེན་རྡོ་རྗེ་རིན་ཆེན་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">堪钦多杰仁钦尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">堪钦多杰仁钦尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">འཇམ་དབྱངས་བློ་གྲོས་སེང་གེ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">降阳罗珠森格尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">降阳罗珠森格尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">མཉམ་མེད་མཁྱེན་བརྩེ་རྟོགས་ལྡན་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">娘美钦则多登尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">娘美钦则多登尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">མཁས་གྲུབ་ལེགས་པ་རིན་ཆེན་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">凯珠来巴仁钦尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">凯珠来巴仁钦尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">འཁྲུལ་ཞིག་ནམ་མཁའི་རྣལ་འབྱོར་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">楚谢囊克南觉尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">楚谢囊克南觉尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">མཚུངས་མེད་རྒྱལ་དབང་ཆོས་རྗེ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">从美嘉旺曲杰尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">从美嘉旺曲杰尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">གྲུབ་ཆེན་ཤཱཀྱའི་མཚན་ཅན་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">珠钦夏迦培尊者，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">珠钦夏迦培尊者，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ངག་དབང་ཆོས་ཀྱི་རྒྱལ་པོ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">昂旺曲吉嘉波尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">昂旺曲吉嘉波尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">འཇམ་དབྱངས་ཆོས་ཀྱི་གྲགས་པ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">降阳曲吉扎巴尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">降阳曲吉扎巴尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ཀུན་སྤངས་ཤེས་རབ་རྒྱ་མཚོ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">棍邦西热加措尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">棍邦西热加措尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">རྒྱལ་སྲས་ངག་གི་དབང་ཕྱུག་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">嘉赛昂格旺素尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">嘉赛昂格旺素尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ཀུན་མཁྱེན་ངག་དབང་ནོར་བུ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">棍钦昂旺诺布尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">棍钦昂旺诺布尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">མཉམ་མེད་ངག་དབང་བཟང་པོ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">娘美昂旺桑波尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">娘美昂旺桑波尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">རྒྱལ་དབང་དཔག་བསམ་དབང་པོ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">嘉旺巴桑旺波尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">嘉旺巴桑旺波尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">གྲུབ་མཆོག་མི་ཕམ་བློ་གྲོས་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">珠秋米旁罗珠尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">珠秋米旁罗珠尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ཡོངས་འཛིན་ཀུན་དགའ་ལྷུན་གྲུབ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">永增棍嘎伦珠尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">永增棍嘎伦珠尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">མི་ཕམ་ཆོས་ཀྱི་དབང་ཕྱུག་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">米旁曲吉旺素尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">米旁曲吉旺素尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">རྗེ་བཙུན་དགེ་ལེགས་བཞད་པ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">杰尊格来以巴尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">杰尊格来以巴尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ངག་དབང་ཀུན་དགའ་བསྟན་འཛིན་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">昂旺棍嘎定增尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">昂旺棍嘎定增尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ལྷན་སྐྱེས་བདེ་ཆེན་རྡོ་རྗེ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">林吉德钦多杰尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">林吉德钦多杰尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ཁྱབ་བདག་འཇམ་དཔལ་དཔའ་བོ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">恰达降巴八沃尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">恰达降巴八沃尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">ཀུན་གཟིགས་ཆོས་ཀྱི་སྣང་བ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">棍赛秋吉南瓦尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">棍赛秋吉南瓦尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">འཇམ་དཔལ་ཡེ་ཤེས་གྲུབ་པ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">降巴耶西珠巴尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">降巴耶西珠巴尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">འབྲུག་ཆེན་མི་འགྱུར་དབང་རྒྱལ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">竹钦米久旺嘉尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">竹钦米久旺嘉尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">བཤད་སྒྲུབ་ཆོས་ཀྱི་ཉིན་བྱེད་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">谢珠秋吉尼赛尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">谢珠秋吉尼赛尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">མི་ཕམ་བསྟན་པའི་ཉི་མ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">米旁丹贝尼玛尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">米旁丹贝尼玛尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">མཁས་གྲུབ་འཇམ་དབྱངས་གྲགས་པ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">凯珠降阳扎巴尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">凯珠降阳扎巴尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">གྲུབ་བརྙེས་ཤེས་རབ་བློ་བཟང་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">珠尼西热罗桑尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">珠尼西热罗桑尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">མཆོག་གཟིགས་གྲུབ་རིགས་ཁྱུ་མཆོག་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">秋赛仲惹却秋尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">秋赛仲惹却秋尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
 <p class="v-bo">དྲིན་ཅན་རྩ་བའི་བླ་མ་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
-<p class="v-zh">大恩根本上师尊，祈请大悲摄受吾，</p>
-<p class="v-zh">违缘转变为道用，大种一味祈加持，</p>
-<p class="v-zh">祈祷根本上师尊，金刚亥母赐加持。</p>
+<p class="v-zh" style="margin-bottom:4px">大恩根本上师尊，祈请大悲摄受吾，</p>
+<p class="v-zh" style="margin-bottom:4px">违缘转变为道用，大种一味祈加持，</p>
+<p class="v-zh" style="margin-bottom:10px">祈祷根本上师尊，金刚亥母赐加持。</p>
 
-<p class="v-bo bo-only">རྣམ་རྟོག་ལམ་དུ་ལོངས་པར་བྱིན་གྱིས་རློབས། །</p>
-<p class="v-bo bo-only">ཉོན་མོངས་ལམ་དུ་ལོངས་པར་བྱིན་གྱིས་རློབས། །</p>
-<p class="v-bo bo-only">ལྷ་འདྲེ་ལམ་དུ་ལོངས་པར་བྱིན་གྱིས་རློབས། །</p>
-<p class="v-bo bo-only">སྡུག་བསྔལ་ལམ་ལོངས་པར་བྱིན་གྱིས་རློབས། །</p>
-<p class="v-bo bo-only">ན་ཚ་ལམ་ལོངས་པར་བྱིན་གྱིས་རློབས། །</p>
-<p class="v-bo bo-only">འཆི་བ་ལམ་དུ་ལོངས་པར་ལོངས་པར་བྱིན་གྱིས་རློབས། །</p>
-<p class="v-bo bo-only">བདག་འཛིན་རྩད་ནས་གཅོད་པར་ལོངས་པར་བྱིན་གྱིས་རློབས། །</p>
-<p class="v-bo bo-only">དགོས་མེད་རྒྱུད་ལ་སྐྱེ་བར་ལོངས་པར་བྱིན་གྱིས་རློབས། །</p>
-<p class="v-bo bo-only">མཆོག་གི་དངོས་གྲུབ་ཐོབ་པར་བྱིན་གྱིས་རློབས། །</p>
-<p class="v-bo bo-only">དགེའོ། །</p>
-<p class="v-zh">加持寻思为道用，加持烦恼为道用，</p>
-<p class="v-zh">加持鬼神为道用，加持痛苦为道用，</p>
-<p class="v-zh">加持疾病为道用，加持死亡为道用，</p>
-<p class="v-zh">加持彻底断我执，加持相续无贪着，</p>
-<p class="v-zh">加持获得胜悉地。</p>
+<p class="v-bo bo-only">རྣམ་རྟོག་ལམ་དུ་ལོངས་པར་བྱིན་གྱིས་རློབས། །ཉོན་མོངས་ལམ་དུ་ལོངས་པར་བྱིན་གྱིས་རློབས། །ལྷ་འདྲེ་ལམ་དུ་ལོངས་པར་བྱིན་གྱིས་རློབས། །སྡུག་བསྔལ་ལམ་ལོངས་པར་བྱིན་གྱིས་རློབས། །ན་ཚ་ལམ་ལོངས་པར་བྱིན་གྱིས་རློབས། །འཆི་བ་ལམ་དུ་ལོངས་པར་ལོངས་པར་བྱིན་གྱིས་རློབས། །བདག་འཛིན་རྩད་ནས་གཅོད་པར་ལོངས་པར་བྱིན་གྱིས་རློབས། །དགོས་མེད་རྒྱུད་ལ་སྐྱེ་བར་ལོངས་པར་བྱིན་གྱིས་རློབས། །མཆོག་གི་དངོས་གྲུབ་ཐོབ་པར་བྱིན་གྱིས་རློབས། །དགེའོ། །</p>
+<p class="v-zh" style="margin-bottom:4px">加持寻思为道用，加持烦恼为道用，</p>
+<p class="v-zh" style="margin-bottom:4px">加持鬼神为道用，加持痛苦为道用，</p>
+<p class="v-zh" style="margin-bottom:4px">加持疾病为道用，加持死亡为道用，</p>
+<p class="v-zh" style="margin-bottom:4px">加持彻底断我执，加持相续无贪着，</p>
+<p class="v-zh" style="margin-bottom:10px">加持获得胜悉地。</p>
 
 <p class="intro-body">此无等嘉旺曲杰大德所著，非常具有加持的祈请文为基础，按次第补充了后期诸上师的祈请文。</p>
 
