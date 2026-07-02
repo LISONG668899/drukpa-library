@@ -5,10 +5,10 @@ aside: false
 
 <div class="jy-page bgyd-mod">
 
-<span class="jy-title-bo">༄༅། །རོ་སྙོམས་སྐོར་དྲུག་གི་ཉམས་ལེན་སྒང་དུ་དྲིལ་བ་ཞེས་བྱ་བ་བཞུགས་སོ།།</span>
+<span class="jy-title-bo">༄༅། །རོ་སྙོམས་སྐོར་དྲུག་གི་</span>
+<span class="jy-title-bo">ཉམས་ལེན་སྒང་དུ་དྲིལ་བ་ཞེས་བྱ་བ་བཞུགས་སོ།།</span>
 
-<h1 class="intro-title">六类一味法实修</h1>
-<p class="jy-subtitle">秘诀</p>
+<h1 class="intro-title">六类一味法实修秘诀</h1>
 
 <p class="v-bo bo-only">བླ་མ་དམ་པ་རྣམས་ལ་ཕྱག་འཚལ་ལོ། །</p>
 <p class="v-zh hm">顶礼诸殊胜上师！</p>
