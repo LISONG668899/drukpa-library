@@ -12,11 +12,12 @@ aside: false
 <p class="intro-author bo">རྒྱལ་དབང་ཀུན་དགའ་དཔལ་འབྱོར།</p>
 <p class="intro-author last">嘉旺棍嘎巴觉 著</p>
 
-<p class="mantra">ན་མོ་མ་ཧཱ་མུ་དྲཱ་ཡ།</p>
-<p class="mantra">拿摩嘛哈木扎耶！</p>
+<p class="v-bo">ན་མོ་མ་ཧཱ་མུ་དྲཱ་ཡ།</p>
+<p class="v-zh">拿摩嘛哈木扎耶！</p>
 
 <p class="jy-subtitle bo">བྱམས་སྙིང་རྗེའི་ཁྲིད་ཀྱི་རིམ་པ་སྐལ་ལྡན་དགའ་བ་པདྨའི་ཆུན་པོ་ཞེས་བྱ་བ།</p>
-<p class="jy-subtitle">慈悲心引导次第——有缘者所喜莲花束</p>
+<p class="jy-subtitle">慈悲心引导次第</p>
+<p class="jy-subtitle">——有缘者所喜莲花束</p>
 
 <p class="v-bo">འགྲོ་བ་ཀུན་གྱི་སྙིང་ལས་བྱུང་བའི་དགའ་མའི་རོལ་རྩེད་སྙིང་པོ་འདི། །</p>
 <p class="v-zh">一切有情心所空行母乐髓，</p>
