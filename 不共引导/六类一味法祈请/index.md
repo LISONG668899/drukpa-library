@@ -7,8 +7,7 @@ aside: false
 
 <span class="jy-title-bo">༄༅། །རོ་སྙོམས་བརྒྱུད་པའི་གསོལ་འདེབས་བཞུགས་སོ། །</span>
 
-<h1 class="intro-title">六类一味法</h1>
-<p class="jy-subtitle" style="margin-bottom:34px">传承上师祈请文</p>
+<h1 class="intro-title">六类一味法传承上师祈请文</h1>
 
 <p class="v-bo">ཆོས་སྐུ་རྡོ་རྗེ་འཆང་ཆེན་ལ། །གསོལ་བ་འདེབས་སོ་ཐུགས་རྗེས་ཟུངས། །</p>
 <p class="v-bo">རྐྱེན་ངན་ལམ་དུ་ལོངས་པ་དང་། །འབྱུང་བ་རོ་སྙོམས་བྱིན་གྱིས་རློབས། །</p>
