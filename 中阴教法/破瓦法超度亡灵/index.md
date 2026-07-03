@@ -8,7 +8,7 @@ aside: false
 <span class="jy-title-bo">༈ གསང་ལམ་འཕོ་བའི་གདམས་པ་ལས་གཞན་འཕོ་</span>
 <span class="jy-title-bo">ཐུགས་རྗེའི་ལྕགས་ཀྱུ་བཞུགས་སོ། །</span>
 
-<p class="v-zh" style="text-align:center;color:var(--vp-c-text-2);font-size:15px;margin:0 0 4px;">密道破瓦法窍诀超度亡灵之</p>
+<p class="intro-author">密道破瓦法窍诀超度亡灵之</p>
 <h1 class="intro-title">大悲铁钩</h1>
 
 <p class="v-bo">གསང་ལམ་འཕོ་བའི་གདམས་པ་ལས། གཞན་ཕན་ཐུགས་རྗེའི་ལྕགས་ཀྱུས་འཛིན་པ་ནི།</p>
@@ -35,6 +35,6 @@ aside: false
 
 <p class="intro-body">先做无缘之皈依和发心，然后反复祈祷于现心无别之形象、诸佛总集之自性、诸噶举上师。于是亡者的意识和自心融为一体后，念一声“呸”的当下自心与金刚总持的智慧合二为一，之后恒常安住于空性法身的境界当中。最后做无缘之发愿和回向极为重要。</p>
 
-<p class="intro-body">古普·钦哲仁波切译汉。陈润泽居士和朱红霞居士校对汉文。</p>
+<p class="signoff">古普·钦哲仁波切译汉。陈润泽居士和朱红霞居士校对汉文。</p>
 
 </div>

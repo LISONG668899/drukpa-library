@@ -57,6 +57,6 @@ aside: false
 
 <p class="v-zh">捷径破瓦无劳得娴熟，决定加持成就空行刹。</p>
 
-<p class="v-zh">古普·钦哲仁波切译汉。</p>
+<p class="signoff">古普·钦哲仁波切译汉。</p>
 
 </div>

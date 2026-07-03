@@ -8,10 +8,10 @@ aside: false
 <span class="jy-title-bo">༄༅། །མྱུར་ལམ་འཕོ་བའི་རྣལ་འབྱོར་དཔལ་འབྲུག་པའི་ཉམས་</span>
 <span class="jy-title-bo">བཞེས་འཇག་ཚུགས་མ་བཞུགས་སོ།།</span>
 
-<p class="v-zh" style="text-align:center;color:var(--vp-c-text-2);font-size:15px;margin:0 0 4px;">吉祥竹巴噶举实修密法</p>
+<p class="intro-author">吉祥竹巴噶举实修密法</p>
 <h1 class="intro-title">直入茅草破瓦法</h1>
-<p class="v-bo" style="text-align:center;color:var(--vp-c-text-2);font-size:15px;margin:2px 0;">མི་ཕམ་ཡར་འཕེལ་དབང་པོ།</p>
-<p class="v-zh" style="text-align:center;color:var(--vp-c-text-2);font-size:15px;margin:2px 0;">米旁雅培旺波</p>
+<p class="intro-author bo">མི་ཕམ་ཡར་འཕེལ་དབང་པོ།</p>
+<p class="intro-author last">米旁雅培旺波</p>
 
 <p class="v-bo">དཔལ་ལྡན་བླ་མ་དམ་པའི་ཞབས་ལ་ཕྱག་འཚལ་ལོ། །</p>
 

@@ -8,12 +8,12 @@ aside: false
 <span class="jy-title-bo">༄༅། །སྙན་རྒྱུད་གསང་བའི་མཐར་ཐུག་ཟབ་ལམ་འཕོ་བའི་གདམས་པ་</span>
 <span class="jy-title-bo">སྙིང་གི་ཐིག་ལེ་ཞེས་བྱ་བ་བཞུགས་སོ།།</span>
 
-<p class="v-zh" style="text-align:center;color:var(--vp-c-text-2);font-size:15px;margin:0 0 4px;">耳传究竟密法—深道破瓦窍诀</p>
+<p class="intro-author">耳传究竟密法—深道破瓦窍诀</p>
 <h1 class="intro-title">心之明点</h1>
-<p class="v-bo" style="text-align:center;color:var(--vp-c-text-2);font-size:15px;margin:2px 0;">ཟབ་ལམ་འཕོ་བའི་གདམས་པ་སྙིང་གི་ཐིག་ལེ་ལས།</p>
-<p class="v-zh" style="text-align:center;color:var(--vp-c-text-2);font-size:15px;margin:2px 0;">深道破瓦法窍诀心之明点</p>
-<p class="v-bo" style="text-align:center;color:var(--vp-c-text-2);font-size:15px;margin:2px 0;">གྲུབ་དབང་ཤཱཀྱ་ཤྲཱི།</p>
-<p class="v-zh" style="text-align:center;color:var(--vp-c-text-2);font-size:15px;margin:2px 0;">夏加师利瑜伽士  著</p>
+<p class="intro-author bo">ཟབ་ལམ་འཕོ་བའི་གདམས་པ་སྙིང་གི་ཐིག་ལེ་ལས།</p>
+<p class="intro-author">深道破瓦法窍诀心之明点</p>
+<p class="intro-author bo">གྲུབ་དབང་ཤཱཀྱ་ཤྲཱི།</p>
+<p class="intro-author last">夏加师利瑜伽士  著</p>
 
 <p class="v-bo">ཐོག་མར་སྐྱབས་འགྲོ་ནི།</p>
 
@@ -281,6 +281,6 @@ aside: false
 
 <p class="intro-body">如此著作破瓦法的因缘，是我以前闭关持咒时，在光明中多次面见了米拉日巴尊者，而尊者以净相的方式给我传授了许多深甚密法窍诀。之后一位金黄色眉毛和胡须的老妇人跟我说：“我的哥，请您给我传授破瓦法窍诀吧！”说完就消失的无影无踪了。当时为了满足江普向秋活佛之请求，疯子乞讨僧·夏加师利随即讲解。</p>
 
-<p class="intro-body">古普·钦哲仁波切译汉。陈润泽居士和朱红霞居士校对汉文。</p>
+<p class="signoff">古普·钦哲仁波切译汉。陈润泽居士和朱红霞居士校对汉文。</p>
 
 </div>

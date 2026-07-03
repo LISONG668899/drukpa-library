@@ -9,7 +9,7 @@ aside: false
 <span class="jy-title-bo">བར་དོའི་གསོལ་འདེབས་བཞུགས་སོ། །</span>
 
 <h1 class="intro-title">幻化中阴祈请文</h1>
-<p class="v-zh" style="text-align:center;color:var(--vp-c-text-2);font-size:15px;margin:2px 0;">嘉旺更嘎巴觉 著</p>
+<p class="intro-author last">嘉旺更嘎巴觉 著</p>
 
 <p class="v-bo">ན་མོ་མ་ཧཱ་མུ་དྲཱ་ཡ།</p>
 
@@ -263,6 +263,6 @@ aside: false
 
 <p class="v-zh">吾之增上意乐故，祈愿如是皆成就。</p>
 
-<p class="v-zh">古普·钦哲仁波切译汉。</p>
+<p class="signoff">古普·钦哲仁波切译汉。</p>
 
 </div>
