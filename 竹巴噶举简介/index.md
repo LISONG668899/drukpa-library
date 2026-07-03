@@ -54,7 +54,7 @@ layout: page
   text-align: center;
   border: 0;
   font-size: 26px;
-  margin: 8px 0 40px;
+  margin: 8px 0 80px;
   padding-top: 0;
 }
 .intro-author {
