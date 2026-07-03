@@ -275,7 +275,12 @@
 .zyjf-mod .jy-subtitle{text-align:center !important;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 3px}
 .zyjf-mod .intro-author{text-align:center !important;font-size:16px;line-height:1.45;color:var(--vp-c-text-2);margin:0 0 2px}
 .zyjf-mod .intro-author.bo{font-size:13px;line-height:1.35;text-indent:0 !important;color:var(--vp-c-text-1);margin-bottom:1px}
-.zyjf-mod .intro-author.last{margin-bottom:30px}
+.zyjf-mod .intro-author.last{margin-bottom:34px}
+/* 标题 ↔ 正文统一间距标准：无作者行时h1直接接正文，也保持同样34px */
+.zyjf-mod .intro-title + .v-bo,
+.zyjf-mod .intro-title + .v-zh,
+.zyjf-mod .intro-title + .bo,
+.zyjf-mod .intro-title + .intro-body{margin-top:34px}
 /* 标题区 ↔ 作者区：组间留大距 */
 .zyjf-mod .intro-title + .intro-author,
 .zyjf-mod .jy-subtitle + .intro-author{margin-top:34px}

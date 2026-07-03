@@ -8,8 +8,8 @@ aside: false
 <span class="jy-title-bo">༈ གསང་ལམ་འཕོ་བའི་གདམས་པ་ལས་གཞན་འཕོ་</span>
 <span class="jy-title-bo">ཐུགས་རྗེའི་ལྕགས་ཀྱུ་བཞུགས་སོ། །</span>
 
-<p class="jy-subtitle">密道破瓦法窍诀</p>
-<h1 class="intro-title">超度亡灵之大悲铁钩</h1>
+<p class="jy-subtitle">密道破瓦法窍诀超度亡灵之</p>
+<h1 class="intro-title">大悲铁钩</h1>
 
 <p class="bo">གསང་ལམ་འཕོ་བའི་གདམས་པ་ལས། གཞན་ཕན་ཐུགས་རྗེའི་ལྕགས་ཀྱུས་འཛིན་པ་ནི།</p>
 

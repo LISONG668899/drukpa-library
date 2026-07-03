@@ -15,7 +15,7 @@ aside: false
   </a>
   <a class="cat-card" href="/中阴教法/茅草破瓦法念诵/">
     <span class="cat-title">茅草破瓦法念诵</span>
-    <span class="cat-sub">噶举传承祈请</span>
+    <span class="cat-sub">米旁雅培旺波</span>
   </a>
   <a class="cat-card" href="/中阴教法/破瓦法接引净土/">
     <span class="cat-title">破瓦法接引净土</span>
