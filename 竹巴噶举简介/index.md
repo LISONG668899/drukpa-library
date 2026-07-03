@@ -7,7 +7,7 @@ layout: page
 
 <h1 class="intro-title" style="margin-bottom:32px">竹巴噶举传承简介</h1>
 
-<img src="/logo.png" alt="竹巴噶举" style="display:block;width:56px;height:56px;margin:0 0 20px 0">
+<img src="/logo.png" alt="竹巴噶举" style="display:block;width:56px;height:56px;margin:0 auto 20px">
 
 <div class="intro-verse" style="margin-bottom:32px">
 因智不堕有，因悲不住寂。<br>
