@@ -5,7 +5,7 @@ layout: page
 
 <div class="intro-page">
 
-<h1 class="intro-title">竹巴噶举传承简介</h1>
+<h1 class="intro-title" style="border:4px solid red!important;margin-bottom:80px!important">竹巴噶举传承简介</h1>
 
 <div class="intro-verse">
 因智不堕有，因悲不住寂。<br>
