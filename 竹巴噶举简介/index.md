@@ -8,8 +8,8 @@ layout: page
 <h1 class="intro-title">竹巴噶举传承简介</h1>
 
 <div class="intro-verse">
-因智不堕有　因悲不住寂<br>
-善巧立缘起　顶礼竹巴尊
+因智不堕有，因悲不住寂。<br>
+善巧立缘起，顶礼竹巴尊。
 </div>
 
 <p class="intro-body">殊胜的噶举派传承发端于印度，兴盛于西藏。其传承源自于法身金刚总持亲自将教法传予伟大的印度大成就者帝洛巴。所以在印度，以帝洛巴尊者为第一代祖师，那若巴尊者为第二代祖师。</p>
@@ -52,7 +52,7 @@ layout: page
 }
 .intro-title {
   text-align: center;
-  border: 0;
+  border: 4px solid red;
   font-size: 26px;
   margin: 8px 0 80px;
   padding-top: 0;
