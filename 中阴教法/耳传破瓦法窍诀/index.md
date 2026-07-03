@@ -8,7 +8,7 @@ aside: false
 <span class="jy-title-bo">༄༅། །སྙན་རྒྱུད་གསང་བའི་མཐར་ཐུག་ཟབ་ལམ་འཕོ་བའི་གདམས་པ་</span>
 <span class="jy-title-bo">སྙིང་གི་ཐིག་ལེ་ཞེས་བྱ་བ་བཞུགས་སོ།།</span>
 
-<p class="intro-author">耳传究竟密法—深道破瓦窍诀</p>
+<p class="jy-subtitle">耳传究竟密法—深道破瓦窍诀</p>
 <h1 class="intro-title">心之明点</h1>
 <p class="intro-author bo">ཟབ་ལམ་འཕོ་བའི་གདམས་པ་སྙིང་གི་ཐིག་ལེ་ལས།</p>
 <p class="intro-author">深道破瓦法窍诀心之明点</p>
