@@ -3,7 +3,7 @@ layout: page
 aside: false
 ---
 
-<div class="cat-page">
+<div class="cat-page zyjf-mod">
 
 <h1 class="cat-h1">中阴教法</h1>
 <p class="cat-lead">竹巴噶举传承中阴破瓦法文集</p>

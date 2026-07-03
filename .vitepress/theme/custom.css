@@ -248,6 +248,7 @@
   .VPNavBarTitle .title{font-size:16px !important;}
 }
 
+
 /* ============================================================
    ↓↓↓ 「中阴教法模块」排版总闸（有限全局 · 独立围栏版）↓↓↓
    ------------------------------------------------------------
@@ -306,6 +307,8 @@
 .zyjf-mod .v-bo.bo-only{margin:26px 0 4px}
 .zyjf-mod .v-zh.tr{font-size:16px;color:var(--vp-c-text-2);margin-top:26px}
 .zyjf-mod .signoff{font-size:14px;color:var(--vp-c-text-2);text-align:center !important;text-indent:0;margin:18px 0 0}
+/* 一首偈颂内部（同组）中文行收紧间距，只有该组最后一句保留20px大间距分隔下一组 */
+.zyjf-mod .v-zh.tight{margin-bottom:3px}
 
 /* 目录页 */
 .zyjf-mod.cat-page{max-width:720px;margin:0 auto;padding:48px 24px 56px}
