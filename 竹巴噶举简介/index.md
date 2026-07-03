@@ -7,8 +7,6 @@ layout: page
 
 <h1 class="intro-title">竹巴噶举传承简介</h1>
 
-<p class="intro-author">古普·钦哲 编译</p>
-
 <div class="intro-verse">
 因智不堕有　因悲不住寂<br>
 善巧立缘起　顶礼竹巴尊
