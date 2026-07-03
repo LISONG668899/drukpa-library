@@ -54,7 +54,7 @@ layout: page
   text-align: center;
   border: 0;
   font-size: 26px;
-  margin: 8px 0 24px;
+  margin: 8px 0 32px;
   padding-top: 0;
 }
 .intro-author {
@@ -69,7 +69,7 @@ layout: page
   line-height: 2.2;
   color: var(--vp-c-text-1);
   letter-spacing: 1px;
-  margin: 0 0 40px;
+  margin: 0 0 32px;
 }
 .intro-body {
   font-size: 17px;
