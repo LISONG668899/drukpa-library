@@ -38,6 +38,15 @@ export default defineConfig({
   title: SITE_TITLE,
   description: SITE_DESCRIPTION,
 
+  // 让搜索引擎爬虫能一次性找到全站所有页面（不影响读者，纯技术文件）
+  // 构建后会在网站根目录自动生成 sitemap.xml
+  sitemap: {
+    hostname: SITE_URL
+  },
+
+  // 让 sitemap.xml 里的 <lastmod> 标签反映每页最后更新时间
+  lastUpdated: true,
+
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }]
