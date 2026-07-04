@@ -96,7 +96,7 @@
 
 /* 散文 */
 .dsy-mod .intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
-.dsy-mod .intro-body.center{text-align:center !important;text-indent:0}
+.dsy-mod.jy-page p.intro-body.center,.dsy-mod .jy-page p.intro-body.center,.dsy-mod p.intro-body.center{text-align:center !important;text-indent:0 !important;display:block !important;width:100% !important}
 .dsy-mod .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
 
 /* 偈颂（一句一行居中）*/
