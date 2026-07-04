@@ -111,6 +111,8 @@
 .dsy-mod .kp.b{font-weight:700;text-align:left}
 .dsy-mod .kp-c{font-size:18px;font-weight:700;line-height:1.9;text-align:center !important;text-indent:0;margin:18px 0 12px}
 .dsy-mod .kp-c.b{font-weight:700}
+/* 藏文引导句（如"第四、发露忏悔"）紧跟其后的中文科判标题：收紧成一组，与上文内容保持大间距 */
+.dsy-mod .bo-verse + .kp-c{margin-top:4px !important}
 
 /* 藏汉逐句交替（降雷范本；广诵等升级后复用）*/
 .dsy-mod .v-bo{text-align:center !important;font-size:16px;line-height:1.75;margin:0 0 3px}
