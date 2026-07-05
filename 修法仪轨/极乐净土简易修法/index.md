@@ -9,7 +9,7 @@ aside: false
 <span class="jy-title-bo">གསེང་ལམ་བཞུགས།།</span>
 
 <h1 class="intro-title">极乐净土简易修法</h1>
-<p class="intro-author last">菩提捷径之道</p>
+<p class="jy-subtitle last">菩提捷径之道</p>
 
 <p class="v-bo">ན་མོ་གུ་རུ་ཨ་མི་ཏ་བྷ་ཡེ།</p>
 

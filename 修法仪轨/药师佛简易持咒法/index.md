@@ -9,7 +9,7 @@ aside: false
 <span class="jy-title-bo">ཞེས་བྱ་བ་བཞུགས་སོ།།</span>
 
 <h1 class="intro-title">药师佛简易持咒方法</h1>
-<p class="intro-author last">除病冰片之滴</p>
+<p class="jy-subtitle last">除病冰片之滴</p>
 
 <p class="v-bo">རྒྱལ་བ་སྨན་གྱི་དབང་པོ་ལ་ཕྱག་འཚལ་ལོ།།</p>
 

@@ -76,11 +76,11 @@
 /* —— 正文页容器 —— */
 .dsy-mod.jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
 .dsy-mod.jy-page p,.dsy-mod.jy-page h1{
-  font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif;
+  font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web",serif;
 }
 .dsy-mod .bo,.dsy-mod .bo-verse,.dsy-mod .mantra,
 .dsy-mod .v-bo,.dsy-mod .jy-title-bo,.dsy-mod .intro-author.bo{
-  font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif;
+  font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;
 }
 
 /* 标题区（全居中）*/
@@ -166,11 +166,11 @@
 /* —— 正文页容器 —— */
 .bgyd-mod.jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
 .bgyd-mod.jy-page p,.bgyd-mod.jy-page h1{
-  font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif;
+  font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web",serif;
 }
 .bgyd-mod .bo,.bgyd-mod .bo-verse,.bgyd-mod .mantra,
 .bgyd-mod .v-bo,.bgyd-mod .jy-title-bo,.bgyd-mod .intro-author.bo{
-  font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif;
+  font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;
 }
 
 /* 标题区（全居中）*/
@@ -264,11 +264,11 @@
 /* —— 正文页容器 —— */
 .zyjf-mod.jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
 .zyjf-mod.jy-page p,.zyjf-mod.jy-page h1{
-  font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif;
+  font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web",serif;
 }
 .zyjf-mod .bo,.zyjf-mod .bo-verse,.zyjf-mod .mantra,
 .zyjf-mod .v-bo,.zyjf-mod .jy-title-bo,.zyjf-mod .intro-author.bo{
-  font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif;
+  font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;
 }
 
 /* 标题区（全居中）*/
@@ -359,11 +359,11 @@
 /* —— 正文页容器 —— */
 .xfyg-mod.jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
 .xfyg-mod.jy-page p,.xfyg-mod.jy-page h1{
-  font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web","Noto Serif Tibetan",serif;
+  font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web",serif;
 }
 .xfyg-mod .bo,.xfyg-mod .bo-verse,.xfyg-mod .mantra,
 .xfyg-mod .v-bo,.xfyg-mod .jy-title-bo,.xfyg-mod .intro-author.bo{
-  font-family:"Noto Serif Tibetan Web","Noto Serif Tibetan",var(--vp-font-family-base),serif;
+  font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;
 }
 
 /* 标题区（全居中）*/

@@ -9,7 +9,7 @@ aside: false
 <span class="jy-title-bo">ཕྲིན་ལས་མྱུར་འགྲུབ་ཅེས་བྱ་བ།།</span>
 
 <h1 class="intro-title">金刚降敌大居士之简易桑供</h1>
-<p class="intro-author last">事业速成</p>
+<p class="jy-subtitle last">事业速成</p>
 
 <p class="v-bo">དག་ཅིང་གཙང་བའི་བསང་རྫས་རྣམས་ནམ་མཁའི་མཛོད་ཀྱི་སྔགས་རྒྱས་དགྱེས་རྒུའི་སྤྲིན་དུ་སྤེལ་ནས།</p>
 

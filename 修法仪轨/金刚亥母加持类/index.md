@@ -9,7 +9,7 @@ aside: false
 <span class="jy-title-bo">བྱིན་རླབས་ཆར་རྒྱུན་བཞུགས།།</span>
 
 <h1 class="intro-title">出有坏金刚亥母传承祈祷文</h1>
-<p class="intro-author last">加持之雨</p>
+<p class="jy-subtitle last">加持之雨</p>
 
 <p class="v-bo">ན་མོ་གུ་རུ་བཛྲ་ཝཱ་ར་ཧི།</p>
 

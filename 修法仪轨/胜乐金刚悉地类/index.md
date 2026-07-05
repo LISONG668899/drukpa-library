@@ -9,7 +9,7 @@ aside: false
 <span class="jy-title-bo">ཡང་ཟབ་ཤིང་རྟའི་ཁ་ལོ།།</span>
 
 <h1 class="intro-title">惹琼巴父经耳传法祈请文</h1>
-<p class="intro-author last">甚深车夫</p>
+<p class="jy-subtitle last">甚深车夫</p>
 
 <p class="v-bo">རྡོ་རྗེ་འཆང་ཆེན་རྣལ་འབྱོར་མ། །དེ་སྲས་ཏིལླི་ནཱ་རོ་དང༌། །</p>
 

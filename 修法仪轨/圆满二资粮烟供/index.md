@@ -9,7 +9,7 @@ aside: false
 
 <h1 class="intro-title">圆满二资粮烟供</h1>
 <p class="intro-author bo">ཀུན་དགའ་བསྟན་འཛིན་གྱིས་མཛད།</p>
-<p class="intro-author last">昂旺衮嘎定增  著</p>
+<p class="jy-subtitle last">昂旺衮嘎定增  著</p>
 
 <p class="v-bo">སངས་རྒྱས་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་རྣམས་ལ། །</p>
 

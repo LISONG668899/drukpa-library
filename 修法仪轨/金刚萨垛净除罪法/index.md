@@ -10,10 +10,10 @@ aside: false
 <span class="jy-title-bo">༄༅། །དཔལ་རྡོ་རྗེ་སེམས་དཔའ་ཕྱག་རྒྱ་གཅིག་པའི་སྒྲུབ་ཐབས་</span>
 <span class="jy-title-bo">སྙིང་པོ་ངེས་གསལ་བཞུགས་སོ།།</span>
 
-<p class="intro-author">义传竹巴传承四部急需实修法之一</p>
-<p class="intro-author">——金刚萨垛净除堕罪法</p>
+<p class="jy-subtitle">义传竹巴传承四部急需实修法之一</p>
+<p class="jy-subtitle">——金刚萨垛净除堕罪法</p>
 <h1 class="intro-title">具德金刚萨垛一法印修法</h1>
-<p class="intro-author last">明确精髓</p>
+<p class="jy-subtitle last">明确精髓</p>
 
 <p class="v-bo">བླ་མ་དང་དཔལ་རྡོ་རྗེ་སེམས་དཔའ་ལ་ཕྱག་འཚལ་ལོ།།</p>
 

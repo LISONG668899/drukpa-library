@@ -9,7 +9,7 @@ aside: false
 <span class="jy-title-bo">ཞེས་བྱ་བ་བཞུགས་སོ།།</span>
 
 <h1 class="intro-title">阿底峡传承白藏巴拉修法</h1>
-<p class="intro-author last">成就妙瓶</p>
+<p class="jy-subtitle last">成就妙瓶</p>
 
 <p class="v-bo">ཨོཾ་སྭ་སྟི། འཇིག་རྟེན་མགོན་པོ་ལ་བཏུད་ནས། །དེ་ཡི་རྣམ་སྤྲུལ་ནོར་ལྷའི་གཙོ། །</p>
 

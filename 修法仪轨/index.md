@@ -6,7 +6,7 @@ aside: false
 <div class="cat-page xfyg-mod">
 
 <h1 class="cat-h1">修法仪轨</h1>
-<p class="cat-lead">竹巴噶举传承本尊修法仪轨文集</p>
+<p class="cat-lead">竹巴噶举传承本尊修法与仪轨</p>
 
 <div class="cat-grid">
   <a class="cat-card" href="/修法仪轨/文殊师利菩萨赞修/">

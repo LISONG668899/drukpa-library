@@ -10,10 +10,10 @@ aside: false
 <span class="jy-title-bo">༄༅། །ཐུགས་རྗེ་ཆེན་པོའི་སྒྲུབ་ཐབས་བྱིན་རླབས་བུམ་བཟང་</span>
 <span class="jy-title-bo">ཞེས་བྱ་བ་བཞུགས་སོ།།</span>
 
-<p class="intro-author">义传竹巴传承四部急需实修法之四</p>
-<p class="intro-author">——大悲观音相续加持法</p>
+<p class="jy-subtitle">义传竹巴传承四部急需实修法之四</p>
+<p class="jy-subtitle">——大悲观音相续加持法</p>
 <h1 class="intro-title">大悲观世音菩萨修法</h1>
-<p class="intro-author last">加持妙瓶</p>
+<p class="jy-subtitle last">加持妙瓶</p>
 
 <p class="v-bo">དེང་ནས་བྱང་ཆུབ་སྙིང་པོའི་བར། །དཀོན་མཆོག་གསུམ་ལ་སྐྱབས་སུ་མཆི། །</p>
 

@@ -10,10 +10,10 @@ aside: false
 <span class="jy-title-bo">༄༅། །རྡོ་རྗེ་མི་འཁྲུགས་པའི་བསྐྱེད་བཟླས་ཉུང་ངུ་</span>
 <span class="jy-title-bo">ཐར་པའི་ལྕགས་ཀྱུ་བཞུགས། །</span>
 
-<p class="intro-author">义传竹巴传承四部急需实修法之二</p>
-<p class="intro-author">——不动佛消除恶趣法</p>
+<p class="jy-subtitle">义传竹巴传承四部急需实修法之二</p>
+<p class="jy-subtitle">——不动佛消除恶趣法</p>
 <h1 class="intro-title">金刚不动佛简易观修法</h1>
-<p class="intro-author last">度脱铁钩</p>
+<p class="jy-subtitle last">度脱铁钩</p>
 
 <p class="v-bo">སྐྱབས་སེམས་སོགས་ཚད་མེད་བསྒོམ་པ་སྔོན་དུ་བཏང་ནས།</p>
 

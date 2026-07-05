@@ -10,8 +10,8 @@ aside: false
 <span class="jy-title-bo">༄༅། །ཚེ་དཔག་མེད་ཀྱི་སྒྲུབ་ཐབས་མདོར་བསྡུས་</span>
 <span class="jy-title-bo">བཞུགས་སོ།།</span>
 
-<p class="intro-author">义传竹巴传承四部急需实修法之三</p>
-<p class="intro-author">——无量寿佛修长寿法</p>
+<p class="jy-subtitle">义传竹巴传承四部急需实修法之三</p>
+<p class="jy-subtitle">——无量寿佛修长寿法</p>
 <h1 class="intro-title">无量寿佛之简易修法</h1>
 
 <p class="v-bo">སངས་རྒྱས་ཆོས་དང་ཚོགས་མཆོག་ལ། །བྱང་ཆུབ་བར་དུ་སྐྱབས་སུ་མཆི། །</p>
