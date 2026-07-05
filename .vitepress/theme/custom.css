@@ -350,10 +350,14 @@
    ------------------------------------------------------------
    ★ 围栏：每条规则带前缀 .xfyg-mod（修法仪轨），与 .dsy-mod（大手印
      法）、.bgyd-mod（不共引导）、.zyjf-mod（中阴教法）完全独立、互
-     不影响。当前数值抄自 zyjf-mod（含标题↔正文统一间距、偈颂组内收
-     紧间距等最新规则），以后若修法仪轨需要单独调整，直接改这一段，
-     不会波及其它模块。
+     不影响。当前数值抄自 zyjf-mod 并叠加本模块专属修正（标题↔正文
+     统一34px改用直接类而非相邻选择器、偈颂组内收紧等），以后若修法
+     仪轨需要单独调整，直接改这一段，不会波及其它模块。
    ★ 静躺：未给页面贴标签前，本段对任何页面都不生效，可安全加入。
+   ★ 重要教训：本模块曾因"+"相邻选择器在本站渲染环境下不可靠，导致
+     部分页面标题-正文间距失效；修复方式统一改为"直接给最后一个标题
+     元素加 .last / .solo 类，该类自带 margin-bottom"，不再依赖相邻
+     选择器决定关键间距。以后如遇类似间距问题，优先怀疑相邻选择器。
    ============================================================ */
 
 /* —— 正文页容器 —— */
@@ -368,20 +372,21 @@
 
 /* 标题区（全居中）*/
 .xfyg-mod .jy-title-bo{display:block;width:100%;text-align:center !important;font-size:20px;line-height:1.6;margin:0 0 3px}
+
+/* h1主标题：默认小间距(3px，用于后面还有副标题/作者行的情况)；
+   若h1本身就是标题区最后一个元素(无副标题跟随)，生成时加 .solo，直接给34px */
 .xfyg-mod .intro-title{text-align:center !important;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:3px 0 3px;padding:0}
 .xfyg-mod .intro-title.solo{margin-bottom:34px}
+
+/* 大字副标题(jy-subtitle)：默认小间距(3px，标题区内部紧凑堆叠)；
+   若是标题区最后一个元素，生成时加 .last，直接给34px */
 .xfyg-mod .jy-subtitle{text-align:center !important;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 3px}
+.xfyg-mod .jy-subtitle.last{margin-bottom:34px}
+
+/* 小字作者/说明行(intro-author)：默认极小间距；结尾同样用 .last 给34px */
 .xfyg-mod .intro-author{text-align:center !important;font-size:16px;line-height:1.45;color:var(--vp-c-text-2);margin:0 0 2px}
 .xfyg-mod .intro-author.bo{font-size:13px;line-height:1.35;text-indent:0 !important;color:var(--vp-c-text-1);margin-bottom:1px}
 .xfyg-mod .intro-author.last{margin-bottom:34px}
-/* 标题 ↔ 正文统一间距标准：无作者行时h1直接接正文，也保持同样34px */
-.xfyg-mod .intro-title + .v-bo,
-.xfyg-mod .intro-title + .v-zh,
-.xfyg-mod .intro-title + .bo,
-.xfyg-mod .intro-title + .intro-body{margin-top:34px}
-/* 标题区 ↔ 作者区：组间留大距 */
-.xfyg-mod .intro-title + .intro-author,
-.xfyg-mod .jy-subtitle + .intro-author{margin-top:34px}
 
 /* 散文 */
 .xfyg-mod .intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
@@ -401,19 +406,17 @@
 .xfyg-mod .kp-c{font-size:18px;font-weight:700;line-height:1.9;text-align:center !important;text-indent:0;margin:18px 0 12px}
 .xfyg-mod .kp-c.b{font-weight:700}
 
-/* 藏汉逐句交替 */
+/* 藏汉逐句交替：藏文默认紧凑(3px)；中文默认20px(组间大间距)，
+   同组内非末尾中文行生成时加 .tight 收紧到3px，只有组末保留20px */
 .xfyg-mod .v-bo{text-align:center !important;font-size:16px;line-height:1.75;margin:0 0 3px}
 .xfyg-mod .v-zh{text-align:center !important;font-size:18px;line-height:1.8;margin:0 0 20px}
+.xfyg-mod .v-zh.tight{margin-bottom:3px}
 .xfyg-mod .v-zh.b{font-weight:700}
 .xfyg-mod .v-zh.hm{margin-bottom:30px}
 .xfyg-mod .v-bo.h{margin-top:24px}
 .xfyg-mod .v-bo.bo-only{margin:26px 0 4px}
 .xfyg-mod .v-zh.tr{font-size:16px;color:var(--vp-c-text-2);margin-top:26px}
 .xfyg-mod .signoff{font-size:14px;color:var(--vp-c-text-2);text-align:center !important;text-indent:0;margin:18px 0 0}
-/* 一组偈颂内部（同组）中文行收紧间距，只有该组最后一句保留20px大间距分隔下一组 */
-.xfyg-mod .v-zh.tight{margin-bottom:3px}
-/* 一首偈颂内部（同组）中文行收紧间距，只有该组最后一句保留20px大间距分隔下一组 */
-.xfyg-mod .v-zh.tight{margin-bottom:3px}
 
 /* 目录页 */
 .xfyg-mod.cat-page{max-width:720px;margin:0 auto;padding:48px 24px 56px}
