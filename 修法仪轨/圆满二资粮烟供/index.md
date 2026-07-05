@@ -21,11 +21,11 @@ aside: false
 
 <p class="v-bo">ལན་གསུམ།</p>
 
-<p class="v-zh">诸佛正法圣僧众，直至菩提我皈依，</p>
+<p class="v-zh tight">诸佛正法圣僧众，直至菩提我皈依，</p>
 
-<p class="v-zh">以我布施等功德，为利众生愿成佛。</p>
+<p class="v-zh tight">以我布施等功德，为利众生愿成佛。</p>
 
-<p class="v-zh">念三遍</p>
+<p class="v-zh tight">念三遍</p>
 
 <p class="v-bo">ཨོཾ་ཨཱཿ  ཧཱུྃ་ཧ་ཧོ་ཧྲཱིཿ</p>
 
@@ -39,17 +39,17 @@ aside: false
 
 <p class="v-bo">ཕྱི་ནང་གསང་བའི་མཆོད་པ་འབུལ། །བསྟོད་པ་དམ་པས་ཡོངས་སུ་བསྟོད།།</p>
 
-<p class="v-zh">嗡啊吽哈伙舍</p>
+<p class="v-zh tight">嗡啊吽哈伙舍</p>
 
 <p class="v-zh">念三遍</p>
 
-<p class="v-zh">加持净垢烟供品，变为无尽供养云，</p>
+<p class="v-zh tight">加持净垢烟供品，变为无尽供养云，</p>
 
-<p class="v-zh">三宝根本传承师，本尊勇士空行母，</p>
+<p class="v-zh tight">三宝根本传承师，本尊勇士空行母，</p>
 
-<p class="v-zh">守誓护法财神部，现有神鬼地神众，</p>
+<p class="v-zh tight">守誓护法财神部，现有神鬼地神众，</p>
 
-<p class="v-zh">六趣中阴魔类等，恭迎五宾祈安住，</p>
+<p class="v-zh tight">六趣中阴魔类等，恭迎五宾祈安住，</p>
 
 <p class="v-zh">敬献外内密供养，以胜称赞一切赞。</p>
 
@@ -81,29 +81,29 @@ aside: false
 
 <p class="kp">烟供者：</p>
 
-<p class="v-zh">拿嘛萨瓦达它嘎达、啊瓦罗格带、</p>
+<p class="v-zh tight">拿嘛萨瓦达它嘎达、啊瓦罗格带、</p>
 
-<p class="v-zh">嗡桑巴然桑巴然吽。</p>
+<p class="v-zh tight">嗡桑巴然桑巴然吽。</p>
 
-<p class="v-zh">念七遍</p>
+<p class="v-zh tight">念七遍</p>
 
-<p class="v-zh">食品天衣饰宝聚，燃火化为妙甘露，</p>
+<p class="v-zh tight">食品天衣饰宝聚，燃火化为妙甘露，</p>
 
-<p class="v-zh">圆满味之烟精华，供众宾客请享用；</p>
+<p class="v-zh tight">圆满味之烟精华，供众宾客请享用；</p>
 
-<p class="v-zh">尤其漂游中阴境，无量意成身众生，</p>
+<p class="v-zh tight">尤其漂游中阴境，无量意成身众生，</p>
 
-<p class="v-zh">烟味令足且满愿，愿诸妙欲无间断；</p>
+<p class="v-zh tight">烟味令足且满愿，愿诸妙欲无间断；</p>
 
-<p class="v-zh">息灭恐怖等痛苦，永无昔造恶异熟，</p>
+<p class="v-zh tight">息灭恐怖等痛苦，永无昔造恶异熟，</p>
 
-<p class="v-zh">圆满觉醒善业道，中阴愿得报身果；</p>
+<p class="v-zh tight">圆满觉醒善业道，中阴愿得报身果；</p>
 
-<p class="v-zh">如是贡献此烟供，欢喜满足诸所愿，</p>
+<p class="v-zh tight">如是贡献此烟供，欢喜满足诸所愿，</p>
 
-<p class="v-zh">一切共胜诸悉地，祈请无余赐予吾；</p>
+<p class="v-zh tight">一切共胜诸悉地，祈请无余赐予吾；</p>
 
-<p class="v-zh">诸众暂时具安乐，究竟愿得决定胜，</p>
+<p class="v-zh tight">诸众暂时具安乐，究竟愿得决定胜，</p>
 
 <p class="v-zh">宾众回归各自地，善根回向证菩提。</p>
 
@@ -115,7 +115,7 @@ aside: false
 
 <p class="v-bo">བཟང་པོ་སྤྱོད་ཕྱིར་རབ་ཏུ་བསྔོ་བར་བགྱི། །</p>
 
-<p class="v-zh">三世诸佛咸称赞，如是回向最殊胜，</p>
+<p class="v-zh tight">三世诸佛咸称赞，如是回向最殊胜，</p>
 
 <p class="v-zh">我亦普以此善根，回向为令依贤行。</p>
 

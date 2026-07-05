@@ -369,6 +369,7 @@
 /* 标题区（全居中）*/
 .xfyg-mod .jy-title-bo{display:block;width:100%;text-align:center !important;font-size:20px;line-height:1.6;margin:0 0 3px}
 .xfyg-mod .intro-title{text-align:center !important;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:3px 0 3px;padding:0}
+.xfyg-mod .intro-title.solo{margin-bottom:34px}
 .xfyg-mod .jy-subtitle{text-align:center !important;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 3px}
 .xfyg-mod .intro-author{text-align:center !important;font-size:16px;line-height:1.45;color:var(--vp-c-text-2);margin:0 0 2px}
 .xfyg-mod .intro-author.bo{font-size:13px;line-height:1.35;text-indent:0 !important;color:var(--vp-c-text-1);margin-bottom:1px}
@@ -409,6 +410,8 @@
 .xfyg-mod .v-bo.bo-only{margin:26px 0 4px}
 .xfyg-mod .v-zh.tr{font-size:16px;color:var(--vp-c-text-2);margin-top:26px}
 .xfyg-mod .signoff{font-size:14px;color:var(--vp-c-text-2);text-align:center !important;text-indent:0;margin:18px 0 0}
+/* 一组偈颂内部（同组）中文行收紧间距，只有该组最后一句保留20px大间距分隔下一组 */
+.xfyg-mod .v-zh.tight{margin-bottom:3px}
 /* 一首偈颂内部（同组）中文行收紧间距，只有该组最后一句保留20px大间距分隔下一组 */
 .xfyg-mod .v-zh.tight{margin-bottom:3px}
 

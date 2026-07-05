@@ -23,7 +23,7 @@ aside: false
 
 <p class="v-bo">བྱང་ཆུབ་ཆེན་པོར་སེམས་བསྐྱེད་དོ།།</p>
 
-<p class="v-zh">直至菩提果，皈依佛法僧，</p>
+<p class="v-zh tight">直至菩提果，皈依佛法僧，</p>
 
 <p class="v-zh">为度等空众，发大菩提心。</p>
 
@@ -55,17 +55,17 @@ aside: false
 
 <p class="v-bo">གཉིས་སུ་མེད་པར་གྱུར། །</p>
 
-<p class="v-zh">自之心间啊变月轮上，蓝色嗡字发光与收光，</p>
+<p class="v-zh tight">自之心间啊变月轮上，蓝色嗡字发光与收光，</p>
 
-<p class="v-zh">清净不净蕴界自我心，智身药师琉璃光如来，</p>
+<p class="v-zh tight">清净不净蕴界自我心，智身药师琉璃光如来，</p>
 
-<p class="v-zh">身色深蓝相好威严相，出家装束右手供施印，</p>
+<p class="v-zh tight">身色深蓝相好威严相，出家装束右手供施印，</p>
 
-<p class="v-zh">持拿尊胜诃子树枝干，左手平等住之手印上，</p>
+<p class="v-zh tight">持拿尊胜诃子树枝干，左手平等住之手印上，</p>
 
-<p class="v-zh">持拿满智甘露琉璃钵，莲月垫上金刚跏趺坐，</p>
+<p class="v-zh tight">持拿满智甘露琉璃钵，莲月垫上金刚跏趺坐，</p>
 
-<p class="v-zh">心间月上蓝色嗡字中，照耀犹如钩与羂之光，</p>
+<p class="v-zh tight">心间月上蓝色嗡字中，照耀犹如钩与羂之光，</p>
 
 <p class="v-zh">智慧萨埵呗杂萨嘛咋，咋吽班伙成无二无别。</p>
 
@@ -87,21 +87,21 @@ aside: false
 
 <p class="v-bo">ཞེས་བཟླས་སོ།།</p>
 
-<p class="v-zh">左右啊和芒字两菩萨，月光遍照菩萨合掌相，</p>
+<p class="v-zh tight">左右啊和芒字两菩萨，月光遍照菩萨合掌相，</p>
 
-<p class="v-zh">日光遍照菩萨亦合掌，自之三处嗡啊吽字标。</p>
+<p class="v-zh tight">日光遍照菩萨亦合掌，自之三处嗡啊吽字标。</p>
 
-<p class="v-zh">如此观想后持念咒语。</p>
+<p class="v-zh tight">如此观想后持念咒语。</p>
 
-<p class="v-zh">嗡拿摩巴嘎瓦喋，</p>
+<p class="v-zh tight">嗡拿摩巴嘎瓦喋，</p>
 
-<p class="v-zh">呗堪则咕如呗哲亚扎巴冉杂呀，</p>
+<p class="v-zh tight">呗堪则咕如呗哲亚扎巴冉杂呀，</p>
 
-<p class="v-zh">达他嘎达呀，啊哈喋，萨酿桑布达呀，</p>
+<p class="v-zh tight">达他嘎达呀，啊哈喋，萨酿桑布达呀，</p>
 
-<p class="v-zh">喋雅他 ，嗡呗堪则呗堪则，玛哈呗堪则，</p>
+<p class="v-zh tight">喋雅他 ，嗡呗堪则呗堪则，玛哈呗堪则，</p>
 
-<p class="v-zh">冉杂萨目嘎喋梭哈。</p>
+<p class="v-zh tight">冉杂萨目嘎喋梭哈。</p>
 
 <p class="v-zh">如此尽力念诵咒语。</p>
 
@@ -111,9 +111,9 @@ aside: false
 
 <p class="v-bo">བཟང་སྤྱོད་ལས་བྱུང་བའི་ཡན་ལག་བདུན་པ་བྱ།</p>
 
-<p class="v-zh">将咒语完成十万遍念诵后，</p>
+<p class="v-zh tight">将咒语完成十万遍念诵后，</p>
 
-<p class="v-zh">观想智慧者安住于前方，</p>
+<p class="v-zh tight">观想智慧者安住于前方，</p>
 
 <p class="v-zh">于是念诵《普贤行愿品》当中的《七支供》。</p>
 
@@ -135,13 +135,13 @@ aside: false
 
 <p class="v-bo">ཅེས་གསོལ་བ་བཏབ། ཡིག་བརྒྱ་བརྗོད།</p>
 
-<p class="v-zh">吾等一切有情之，疾病痛苦心不安，</p>
+<p class="v-zh tight">吾等一切有情之，疾病痛苦心不安，</p>
 
-<p class="v-zh">恶业罪障无一余，悉皆消除并清净，</p>
+<p class="v-zh tight">恶业罪障无一余，悉皆消除并清净，</p>
 
-<p class="v-zh">直至轮回终止间，广大如海之愿行，</p>
+<p class="v-zh tight">直至轮回终止间，广大如海之愿行，</p>
 
-<p class="v-zh">圆成无数利他事，愿得无上菩提果。</p>
+<p class="v-zh tight">圆成无数利他事，愿得无上菩提果。</p>
 
 <p class="v-zh">如此祈祷，并念诵百字明咒。</p>
 
@@ -151,9 +151,9 @@ aside: false
 
 <p class="v-bo">དགེ་བ་བསྔོ། བཀྲ་ཤིས་ཅི་རིགས་བརྗོད་པར་བྱའོ། །</p>
 
-<p class="v-zh">呗杂目、智慧者回归自性，</p>
+<p class="v-zh tight">呗杂目、智慧者回归自性，</p>
 
-<p class="v-zh">自生起融入于空性。</p>
+<p class="v-zh tight">自生起融入于空性。</p>
 
 <p class="v-zh">之后回向善根，念诵各种吉祥颂。</p>
 

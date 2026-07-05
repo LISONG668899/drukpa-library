@@ -7,7 +7,7 @@ aside: false
 
 <span class="jy-title-bo">༄༅།།ཇ་མཆོད་བྱིན་རླབས་མཆོག་སྩོལ།།</span>
 
-<h1 class="intro-title">茶供祈请殊胜加持颂</h1>
+<h1 class="intro-title solo">茶供祈请殊胜加持颂</h1>
 
 <p class="v-bo">ཨོཾ་ཨཱཿཧཱུྃ།</p>
 
