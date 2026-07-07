@@ -384,7 +384,7 @@
 .xfyg-mod .jy-subtitle.last{margin-bottom:34px}
 
 /* 小字作者/说明行(intro-author)：默认极小间距；结尾同样用 .last 给34px */
-.xfyg-mod .intro-author{text-align:center !important;font-size:16px;line-height:1.45;color:var(--vp-c-text-2);margin:0 0 2px}
+.xfyg-mod .intro-author{text-align:center !important;font-size:18px;line-height:1.6;color:var(--vp-c-text-2);margin:0 0 2px}
 .xfyg-mod .intro-author.bo{font-size:13px;line-height:1.35;text-indent:0 !important;color:var(--vp-c-text-1);margin-bottom:1px}
 .xfyg-mod .intro-author.last{margin-bottom:34px}
 
