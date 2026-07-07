@@ -5,15 +5,12 @@ aside: false
 
 <div class="jy-page xfyg-mod">
 
-<p class="v-bo">༈ བཞི་པ་གཏུམ་པོ་ནུས་མཐུའི་སྐོར་ལས།</p>
+<span class="jy-title-bo">༈ བཞི་པ་གཏུམ་པོ་ནུས་མཐུའི་སྐོར་ལས།</span>
+<p class="intro-author">竹巴噶举修法五类之四</p>
+<p class="intro-author last">忿怒猛力类</p>
 
-<p class="v-bo">༈ གཏུམ་པོ་ནུས་མཐུའི་སྐོར་གྱི་བརྒྱུད་པའི་གསོལ་འདེབས།</p>
-
-<p class="v-zh tight">竹巴噶举修法五类之四</p>
-
-<p class="v-zh">忿怒猛力类</p>
-
-<p class="v-zh tight">忿怒猛力类传承上师祈祷文</p>
+<span class="jy-title-bo">༈ གཏུམ་པོ་ནུས་མཐུའི་སྐོར་གྱི་བརྒྱུད་པའི་གསོལ་འདེབས།</span>
+<h1 class="intro-title solo">忿怒猛力类传承上师祈祷文</h1>
 
 <p class="v-bo">རྡོ་རྗེ་འཆང་དབང་གསང་བདག་རྡོ་རྗེ་འཛིན། །ལས་ཀྱི་རྡོ་རྗེ་ཐང་ལོ་ཤིང་ལོ་པ། །</p>
 

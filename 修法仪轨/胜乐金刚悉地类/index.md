@@ -107,21 +107,15 @@ aside: false
 
 <p class="v-zh">祈愿垢身能转成，无价之宝佛陀身。</p>
 
-<p class="v-bo">༈ དཔལ་འབྲུག་པའི་སྒྲུབ་ཐབས་སྐོར་ལྔ་ལས་དང་པོ་</p>
+<span class="jy-title-bo">༈ དཔལ་འབྲུག་པའི་སྒྲུབ་ཐབས་སྐོར་ལྔ་ལས་དང་པོ་</span>
+<span class="jy-title-bo">བདེ་མཆོག་དངོས་གྲུབ་ཀྱི་སྐོར་ནི།</span>
+<p class="intro-author">竹巴噶举修法五类之一</p>
+<p class="intro-author last">胜乐金刚悉地类</p>
 
-<p class="v-bo">བདེ་མཆོག་དངོས་གྲུབ་ཀྱི་སྐོར་ནི།</p>
-
-<p class="v-zh tight">竹巴噶举修法五类之一</p>
-
-<p class="v-zh">胜乐金刚悉地类</p>
-
-<p class="v-bo">༄༅།།དཔལ་འཁོར་ལོ་སྡོམ་པའི་བསྐྱེད་བཟླས་ཉུང་ངུ་</p>
-
-<p class="v-bo">མཁའ་སྤྱོད་ཉེ་ལམ་བཞུགས་སོ།།</p>
-
-<p class="v-zh tight">吉祥胜乐金刚简易观修法</p>
-
-<p class="v-zh">空行捷径之道</p>
+<span class="jy-title-bo">༄༅།།དཔལ་འཁོར་ལོ་སྡོམ་པའི་བསྐྱེད་བཟླས་ཉུང་ངུ་</span>
+<span class="jy-title-bo">མཁའ་སྤྱོད་ཉེ་ལམ་བཞུགས་སོ།།</span>
+<h1 class="intro-title">吉祥胜乐金刚简易观修法</h1>
+<p class="jy-subtitle last">空行捷径之道</p>
 
 <p class="v-bo">སངས་རྒྱས་ཆོས་དང་ཚོགས་མཆོག་བླ་མར་བཅས། །ཡི་དམ་མཁའ་འགྲོར་སྐྱབས་མཆི་སེམས་བསྐྱེད་བྱ། །</p>
 
