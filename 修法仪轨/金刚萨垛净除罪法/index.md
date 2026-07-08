@@ -5,8 +5,8 @@ aside: false
 
 <div class="jy-page xfyg-mod">
 
-<span class="jy-title-bo">༈ དོན་བརྒྱུད་འབྲུག་པའི་འཕྲལ་དགོས་ཆོས་བཞི་ལས་ཐོག་མར་</span>
-<span class="jy-title-bo">རྡོ་རྗེ་སེམས་དཔའ་ཉེས་ལྟུང་འཁྲུད་པའི་ཆོས་ནི།</span>
+<span class="jy-title-bo" style="font-size:16px;">༈ དོན་བརྒྱུད་འབྲུག་པའི་འཕྲལ་དགོས་ཆོས་བཞི་ལས་ཐོག་མར་</span>
+<span class="jy-title-bo" style="font-size:16px;">རྡོ་རྗེ་སེམས་དཔའ་ཉེས་ལྟུང་འཁྲུད་པའི་ཆོས་ནི།</span>
 <p class="intro-author">义传竹巴传承四部急需实修法之一</p>
 <p class="intro-author last">——金刚萨垛净除堕罪法</p>
 

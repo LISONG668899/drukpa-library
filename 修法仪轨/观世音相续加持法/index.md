@@ -5,8 +5,8 @@ aside: false
 
 <div class="jy-page xfyg-mod">
 
-<span class="jy-title-bo">༈ དོན་བརྒྱུད་འབྲུག་པའི་འཕྲལ་དགོས་ཆོས་བཞི་ལས་བཞི་པ་</span>
-<span class="jy-title-bo">ཐུགས་རྗེ་ཆེན་པོ་རྒྱུད་བྱིན་གྱིས་རློབ་པའི་ཆོ་ག་ནི།</span>
+<span class="jy-title-bo" style="font-size:16px;">༈ དོན་བརྒྱུད་འབྲུག་པའི་འཕྲལ་དགོས་ཆོས་བཞི་ལས་བཞི་པ་</span>
+<span class="jy-title-bo" style="font-size:16px;">ཐུགས་རྗེ་ཆེན་པོ་རྒྱུད་བྱིན་གྱིས་རློབ་པའི་ཆོ་ག་ནི།</span>
 <p class="intro-author">义传竹巴传承四部急需实修法之四</p>
 <p class="intro-author last">——大悲观音相续加持法</p>
 

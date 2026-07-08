@@ -5,8 +5,8 @@ aside: false
 
 <div class="jy-page xfyg-mod">
 
-<span class="jy-title-bo">༈ དོན་བརྒྱུད་འབྲུག་པའི་འཕྲལ་དགོས་ཆོས་བཞི་ལས་གཉིས་པ་</span>
-<span class="jy-title-bo">མི་འཁྲུགས་པ་ངན་སོང་སྦྱོང་བའི་ཆོས་ནི།</span>
+<span class="jy-title-bo" style="font-size:16px;">༈ དོན་བརྒྱུད་འབྲུག་པའི་འཕྲལ་དགོས་ཆོས་བཞི་ལས་གཉིས་པ་</span>
+<span class="jy-title-bo" style="font-size:16px;">མི་འཁྲུགས་པ་ངན་སོང་སྦྱོང་བའི་ཆོས་ནི།</span>
 <p class="intro-author">义传竹巴传承四部急需实修法之二</p>
 <p class="intro-author last">——不动佛消除恶趣法</p>
 
