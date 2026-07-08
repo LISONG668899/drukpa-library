@@ -19,7 +19,7 @@ aside: false
   </a>
   <a class="cat-card" href="/修法仪轨/药师佛简易持咒法/">
     <span class="cat-title">药师佛简易持咒法</span>
-    <span class="cat-sub">智美勒罗著</span>
+    <span class="cat-sub">智美勒悲罗珠</span>
   </a>
   <a class="cat-card" href="/修法仪轨/极乐净土简易修法/">
     <span class="cat-title">极乐净土简易修法</span>
