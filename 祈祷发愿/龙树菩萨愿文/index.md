@@ -5,14 +5,11 @@ aside: false
 
 <div class="jy-page qdfy-mod">
 
-<span class="jy-title-bo">༄༅། །འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱི་སྨོན་ལམ་ཞེས་བྱ་བ་བཞུགས་སོ།།</span>
-
-<h1 class="intro-title">圣龙树菩萨发愿文</h1>
-
 <span class="jy-title-bo">༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ནཱ་གཱ་རྫུ་ན་པྲ་ཎི་དྷཱ་ན་ནཱ་མ།</span>
 <span class="jy-title-bo">བོད་སྐད་དུ། འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱི་སྨོན་ལམ་ཞེས་བྱ་བ།</span>
-<p class="intro-author">梵语：阿亚那咖祖呐、扎讷达呐拿嘛</p>
-<p class="intro-author last">汉语：圣龙树菩萨祈愿文</p>
+
+<p class="jy-subtitle">梵语：阿亚那咖祖呐、扎讷达呐拿嘛</p>
+<h1 class="intro-title solo">汉语：圣龙树菩萨祈愿文</h1>
 
 <p class="v-bo">དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ།</p>
 
