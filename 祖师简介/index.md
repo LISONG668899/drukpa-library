@@ -9,12 +9,12 @@ title: 祖师简介
 <p class="ph-sub">竹巴噶举传承上师简介</p>
 
 <div class="ph-grid">
-  <a class="ph-card" href="/祖师简介/帕摩竹巴/"><span class="ph-name">帕摩竹巴</span><span class="ph-desc">帕竹噶举开山祖师</span></a>
-  <a class="ph-card" href="/祖师简介/岭钦日巴/"><span class="ph-name">岭钦日巴</span><span class="ph-desc">岭日噶举创始人</span></a>
-  <a class="ph-card" href="/祖师简介/藏巴甲热/"><span class="ph-name">藏巴甲热</span><span class="ph-desc">第一世嘉旺竹巴法王</span></a>
-  <a class="ph-card" href="/祖师简介/白玛嘎波/"><span class="ph-name">白玛嘎波</span><span class="ph-desc">第四世嘉旺竹巴法王</span></a>
-  <a class="ph-card" href="/祖师简介/郭仓巴/"><span class="ph-name">郭仓巴</span><span class="ph-desc">上竹巴噶举创始人</span></a>
-  <a class="ph-card" href="/祖师简介/阿德仁波切/"><span class="ph-name">阿德仁波切</span><span class="ph-desc">当代竹巴传承持有者</span></a>
+  <a class="ph-card" href="/祖师简介/帕摩竹巴/"><span class="ph-tib">ཕག་མོ་གྲུ་པ་རྡོ་རྗེ་རྒྱལ་པོ</span><span class="ph-name">帕摩竹巴</span></a>
+  <a class="ph-card" href="/祖师简介/岭钦日巴/"><span class="ph-tib">གླིང་ཆེན་རས་པ་པདྨ་རྡོ་རྗེ</span><span class="ph-name">岭钦日巴</span></a>
+  <a class="ph-card" href="/祖师简介/藏巴甲热/"><span class="ph-tib">གཙང་པ་རྒྱ་རས་ཡེ་ཤེས་རྡོ་རྗེ</span><span class="ph-name">藏巴甲热</span></a>
+  <a class="ph-card" href="/祖师简介/白玛嘎波/"><span class="ph-tib">ཀུན་མཁྱེན་པདྨ་དཀར་པོ</span><span class="ph-name">白玛嘎波</span></a>
+  <a class="ph-card" href="/祖师简介/郭仓巴/"><span class="ph-tib">རྒོད་ཚང་པ་མགོན་པོ་རྡོ་རྗེ</span><span class="ph-name">郭仓巴</span></a>
+  <a class="ph-card" href="/祖师简介/阿德仁波切/"><span class="ph-tib">（藏文名待核实）</span><span class="ph-name">阿德仁波切</span></a>
 </div>
 
 </div>
@@ -70,11 +70,14 @@ title: 祖师简介
 .ph-card:hover .ph-name {
   color: #b06a43;
 }
-.ph-desc {
-  margin-top: 8px;
+.ph-tib {
+  display: block;
+  font-family: "Noto Serif Tibetan Web", "Noto Serif Tibetan", serif;
   font-size: 13px;
+  line-height: 1.4;
   color: var(--vp-c-text-3);
-  letter-spacing: .5px;
+  margin-bottom: 4px;
+  letter-spacing: 0;
 }
 @media (max-width: 640px) {
   .patriarch-home { padding: 28px 16px 48px; }
@@ -83,6 +86,6 @@ title: 祖师简介
   .ph-grid { gap: 12px; }
   .ph-card { padding: 22px 12px; border-radius: 14px; }
   .ph-name { font-size: 18px; }
-  .ph-desc { font-size: 12px; }
+  .ph-tib { font-size: 11px; }
 }
 </style>
