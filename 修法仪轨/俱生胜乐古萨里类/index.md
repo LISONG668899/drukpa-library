@@ -6,7 +6,8 @@ aside: false
 <div class="jy-page xfyg-mod">
 
 <span class="jy-title-bo">༄༅། །གསུམ་པ་ལྷན་སྐྱེས་ཀུ་སཱ་ལིའི་སྐོར་ལས་</span>
-<p class="intro-author last">竹巴噶举修法五类之三，俱生胜乐金刚古萨里类</p>
+<p class="intro-author">竹巴噶举修法五类之三</p>
+<p class="intro-author last">俱生胜乐金刚古萨里类</p>
 
 <span class="jy-title-bo">དཔལ་འཁོར་ལོ་སྡོམ་པ་ལྷན་ཅིག་སྐྱེས་པའི་སྒྲུབ་ཐབས་བཞུགས་སོ།།</span>
 <h1 class="intro-title solo">吉祥俱生胜乐金刚修法</h1>
