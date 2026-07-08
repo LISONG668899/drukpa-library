@@ -181,8 +181,8 @@ aside: false
 
 <p class="intro-body">祈愿获得所依暇满人身宝、入学三律仪、净修二次第、了义净化心相续、速得无上正等正觉之果位。</p>
 
-<span class="jy-title-bo">༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ནཱ་གཱ་རྫུ་ན་པྲ་ཎི་དྷཱ་ན་ནཱ་མ།</span>
-<span class="jy-title-bo">བོད་སྐད་དུ། འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱི་སྨོན་ལམ་ཞེས་བྱ་བ།</span>
+<span class="jy-title-bo" style="font-size:16px;margin-top:40px;">༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ནཱ་གཱ་རྫུ་ན་པྲ་ཎི་དྷཱ་ན་ནཱ་མ།</span>
+<span class="jy-title-bo" style="font-size:16px;">བོད་སྐད་དུ། འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱི་སྨོན་ལམ་ཞེས་བྱ་བ།</span>
 <p class="intro-author">梵语：阿亚那咖祖呐、扎讷达呐拿嘛</p>
 <p class="intro-author last">汉语：圣龙树菩萨祈愿文</p>
 
