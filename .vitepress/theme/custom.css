@@ -538,3 +538,84 @@
   .qdfy-mod .cat-card{padding:20px 10px}
   .qdfy-mod .cat-title{font-size:16px}
 }
+
+/* ============================================================
+   ↓↓↓ 「其他资料模块」排版总闸（有限全局 · 独立围栏版）↓↓↓
+   ------------------------------------------------------------
+   ★ 围栏：每条规则带前缀 .qtzl-mod（其他资料），与其余五个模块完全
+     独立、互不影响。当前基础数值抄自 qdfy-mod 最新版，另外新增：
+     目录卡片无小字时的紧凑样式、标题下方插图样式、章节小标题
+     （kp-c）、小字注释（note）等本模块专属规则。
+   ★ 静躺：未给页面贴标签前，本段对任何页面都不生效，可安全加入。
+   ============================================================ */
+
+/* —— 正文页容器 —— */
+.qtzl-mod.jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
+.qtzl-mod.jy-page p,.qtzl-mod.jy-page h1{
+  font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web",serif;
+}
+.qtzl-mod .bo,.qtzl-mod .bo-verse,.qtzl-mod .mantra,
+.qtzl-mod .v-bo,.qtzl-mod .jy-title-bo,.qtzl-mod .intro-author.bo{
+  font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;
+}
+
+/* 标题区（全居中）*/
+.qtzl-mod .jy-title-bo{display:block;width:100%;text-align:center !important;font-size:20px;line-height:1.6;margin:0 0 3px}
+.qtzl-mod .intro-title{text-align:center !important;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:3px 0 3px;padding:0}
+.qtzl-mod .intro-title.solo{margin-bottom:34px}
+.qtzl-mod .jy-subtitle{text-align:center !important;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 3px}
+.qtzl-mod .jy-subtitle.last{margin-bottom:34px}
+.qtzl-mod .intro-author{text-align:center !important;font-size:18px;line-height:1.6;color:var(--vp-c-text-2);margin:0 0 2px}
+.qtzl-mod .intro-author.bo{font-size:13px;line-height:1.35;text-indent:0 !important;color:var(--vp-c-text-1);margin-bottom:1px}
+.qtzl-mod .intro-author.last{margin-bottom:34px}
+
+/* 标题下方插图 */
+.qtzl-mod .title-img{display:block;margin:12px auto 34px;max-width:220px;width:60%;height:auto}
+
+/* 散文 */
+.qtzl-mod .intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
+.qtzl-mod .intro-body.center{text-align:center !important;text-indent:0}
+.qtzl-mod .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
+
+/* 偈颂（一句一行居中）*/
+.qtzl-mod .v-bo{text-align:center !important;font-size:16px;line-height:1.75;margin:0 0 3px}
+.qtzl-mod .v-zh{text-align:center !important;font-size:18px;line-height:1.8;margin:0 0 20px}
+.qtzl-mod .v-zh.tight{margin-bottom:3px}
+.qtzl-mod .v-bo.tight{margin-bottom:3px}
+.qtzl-mod .signoff{font-size:14px;color:var(--vp-c-text-2);text-align:center !important;text-indent:0;margin:18px 0 0}
+
+/* 章节小标题（分类大纲用，居中加粗，段落之间大间距分组）*/
+.qtzl-mod .kp-c{font-size:19px;font-weight:700;line-height:1.7;text-align:center !important;text-indent:0;margin:36px 0 4px;color:var(--vp-c-text-1)}
+.qtzl-mod .kp-c.first{margin-top:0}
+
+/* 小字注释（如"均属圆满次第的范畴。"），藏文版复用同一class需要藏文字体 */
+.qtzl-mod .note{font-size:15px;line-height:1.7;color:var(--vp-c-text-2);text-align:center !important;text-indent:0;margin:8px 0 0}
+.qtzl-mod .note.bo{font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif}
+
+/* 目录页 */
+.qtzl-mod.cat-page{max-width:720px;margin:0 auto;padding:48px 24px 56px}
+.qtzl-mod .cat-h1{text-align:center;border:0;font-size:28px;margin:0 0 6px;padding:0}
+.qtzl-mod .cat-lead{text-align:center;font-size:15px;color:var(--vp-c-text-2);letter-spacing:2px;margin:0 0 32px}
+.qtzl-mod .cat-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+/* 无小字时卡片更矮：去掉小字预留的空间和多余上下padding */
+.qtzl-mod .cat-card{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:20px 16px;border:1px solid var(--vp-c-divider);border-radius:12px;background:var(--vp-c-bg-soft);text-decoration:none;transition:border-color .2s,transform .2s;min-height:0}
+.qtzl-mod .cat-card:hover{border-color:var(--vp-c-brand-1);transform:translateY(-2px)}
+.qtzl-mod .cat-title{font-size:18px;font-weight:600;color:var(--vp-c-text-1);line-height:1.45}
+
+/* 移动端（≤640px）*/
+@media (max-width:640px){
+  .qtzl-mod.jy-page{padding:24px 18px 40px}
+  .qtzl-mod .jy-title-bo{font-size:18px}
+  .qtzl-mod .intro-title,.qtzl-mod .jy-subtitle{font-size:22px}
+  .qtzl-mod .intro-author.bo{font-size:12px}
+  .qtzl-mod .bo{font-size:15px}
+  .qtzl-mod .intro-body,.qtzl-mod .kp-c{font-size:17px}
+  .qtzl-mod .v-bo{font-size:15px}
+  .qtzl-mod .v-zh{font-size:17px}
+  .qtzl-mod .title-img{max-width:160px}
+  .qtzl-mod.cat-page{padding:24px 16px 40px}
+  .qtzl-mod .cat-h1{font-size:23px}
+  .qtzl-mod .cat-grid{gap:12px}
+  .qtzl-mod .cat-card{padding:16px 10px}
+  .qtzl-mod .cat-title{font-size:16px}
+}
