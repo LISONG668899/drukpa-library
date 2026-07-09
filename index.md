@@ -8,7 +8,10 @@ title: 首页
   <div class="dz-zang">དཔལ་འབྲུག་པའི་དམ་ཆོས་ཟ་མ་ཏོག</div>
   <h1 class="dz-title">竹巴噶举妙法宝箧</h1>
 
-  <a class="dz-card" href="/祖师简介/">祖师简介</a>
+  <a class="dz-card" href="/祖师简介/">
+    <span class="dz-card-tib">བླ་མ་གོང་མའི་རྣམ་ཐར</span>
+    <span class="dz-card-zh">祖师简介</span>
+  </a>
   <a class="dz-card" href="/祖师教言/">
     <span class="dz-card-tib">བླ་མ་གོང་མའི་ཞལ་གདམས</span>
     <span class="dz-card-zh">祖师教言</span>
