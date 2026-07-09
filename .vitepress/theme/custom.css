@@ -126,12 +126,14 @@
 
 /* 目录页 */
 .dsy-mod.cat-page{max-width:720px;margin:0 auto;padding:48px 24px 56px}
-.dsy-mod .cat-h1{text-align:center;border:0;font-size:28px;margin:0 0 6px;padding:0}
+.dsy-mod .cat-tib{text-align:center;font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;font-size:18px;line-height:1.5;color:var(--vp-c-text-2);margin:0 0 6px}
+.dsy-mod .cat-h1{text-align:center;border:0;font-size:28px;margin:0 0 32px;padding:0}
 .dsy-mod .cat-lead{text-align:center;font-size:15px;color:var(--vp-c-text-2);letter-spacing:2px;margin:0 0 32px}
 .dsy-mod .cat-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
 .dsy-mod .cat-card{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:26px 16px;border:1px solid var(--vp-c-divider);border-radius:12px;background:var(--vp-c-bg-soft);text-decoration:none;transition:border-color .2s,transform .2s}
 .dsy-mod .cat-card:hover{border-color:var(--vp-c-brand-1);transform:translateY(-2px)}
 .dsy-mod .cat-title{font-size:18px;font-weight:600;color:var(--vp-c-text-1);line-height:1.45}
+.dsy-mod .cat-tib-sm{display:block;font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;font-size:12px;color:var(--vp-c-text-2);line-height:1.4;margin-bottom:4px}
 .dsy-mod .cat-sub{font-size:13px;color:var(--vp-c-text-2);margin-top:8px}
 
 /* 移动端（≤640px）*/
@@ -146,7 +148,9 @@
   .dsy-mod .v-zh{font-size:17px}
   .dsy-mod .v-zh.tr{font-size:14px}
   .dsy-mod.cat-page{padding:24px 16px 40px}
+  .dsy-mod .cat-tib{font-size:16px}
   .dsy-mod .cat-h1{font-size:23px}
+  .dsy-mod .cat-tib-sm{font-size:11px}
   .dsy-mod .cat-grid{gap:12px}
   .dsy-mod .cat-card{padding:20px 10px}
   .dsy-mod .cat-title{font-size:16px}
@@ -618,4 +622,97 @@
   .qtzl-mod .cat-grid{gap:12px}
   .qtzl-mod .cat-card{padding:16px 10px}
   .qtzl-mod .cat-title{font-size:16px}
+}
+
+/* ============================================================
+   ↓↓↓ 「祈祷发愿模块」排版总闸（有限全局 · 独立围栏版）↓↓↓
+   ------------------------------------------------------------
+   ★ 围栏：每条规则带前缀 .qdfy-mod（祈祷发愿），与 .dsy-mod（大手印
+     法）、.bgyd-mod（不共引导）、.zyjf-mod（中阴教法）、.xfyg-mod
+     （修法仪轨）完全独立、互不影响。当前数值抄自 xfyg-mod 最新版
+     （含标题-正文34px统一间距用直接类而非相邻选择器实现、偈颂组内
+     收紧等经验教训），以后若祈祷发愿需要单独调整，直接改这一段，
+     不会波及其它模块。
+   ★ 静躺：未给页面贴标签前，本段对任何页面都不生效，可安全加入。
+   ============================================================ */
+
+/* —— 正文页容器 —— */
+.qdfy-mod.jy-page{max-width:720px;margin:0 auto;padding:48px 24px 48px}
+.qdfy-mod.jy-page p,.qdfy-mod.jy-page h1{
+  font-family:var(--vp-font-family-base),"Noto Serif Tibetan Web",serif;
+}
+.qdfy-mod .bo,.qdfy-mod .bo-verse,.qdfy-mod .mantra,
+.qdfy-mod .v-bo,.qdfy-mod .jy-title-bo,.qdfy-mod .intro-author.bo{
+  font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;
+}
+
+/* 标题区（全居中）*/
+.qdfy-mod .jy-title-bo{display:block;width:100%;text-align:center !important;font-size:20px;line-height:1.6;margin:0 0 3px}
+
+.qdfy-mod .intro-title{text-align:center !important;border:0;font-weight:700;font-size:26px;line-height:1.45;margin:3px 0 3px;padding:0}
+.qdfy-mod .intro-title.solo{margin-bottom:34px}
+
+.qdfy-mod .jy-subtitle{text-align:center !important;font-weight:700;font-size:26px;line-height:1.45;margin:0 0 3px}
+.qdfy-mod .jy-subtitle.last{margin-bottom:34px}
+
+.qdfy-mod .intro-author{text-align:center !important;font-size:18px;line-height:1.6;color:var(--vp-c-text-2);margin:0 0 2px}
+.qdfy-mod .intro-author.bo{font-size:13px;line-height:1.35;text-indent:0 !important;color:var(--vp-c-text-1);margin-bottom:1px}
+.qdfy-mod .intro-author.last{margin-bottom:34px}
+
+/* 散文 */
+.qdfy-mod .intro-body{font-size:18px;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
+.qdfy-mod .intro-body.center{text-align:center !important;text-indent:0}
+.qdfy-mod .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
+
+/* 偈颂（一句一行居中）*/
+.qdfy-mod .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.qdfy-mod .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+
+/* 咒语（连续无空格、居中）*/
+.qdfy-mod .mantra{font-size:16px;line-height:1.95;text-align:center !important;text-indent:0;margin:6px auto 14px;max-width:90%}
+
+/* 科判（：粗 / 。正常，黑色）*/
+.qdfy-mod .kp{font-size:18px;font-weight:700;line-height:1.95;text-align:justify;text-indent:2em;margin:0 0 15px}
+.qdfy-mod .kp.b{font-weight:700;text-align:left}
+.qdfy-mod .kp-c{font-size:18px;font-weight:700;line-height:1.9;text-align:center !important;text-indent:0;margin:18px 0 12px}
+.qdfy-mod .kp-c.b{font-weight:700}
+
+/* 藏汉逐句交替：藏文默认紧凑(3px)；中文默认20px(组间大间距)，
+   同组内非末尾中文行生成时加 .tight 收紧到3px，只有组末保留20px */
+.qdfy-mod .v-bo{text-align:center !important;font-size:16px;line-height:1.75;margin:0 0 3px}
+.qdfy-mod .v-zh{text-align:center !important;font-size:18px;line-height:1.8;margin:0 0 20px}
+.qdfy-mod .v-zh.tight{margin-bottom:3px}
+.qdfy-mod .v-zh.b{font-weight:700}
+.qdfy-mod .v-zh.hm{margin-bottom:30px}
+.qdfy-mod .v-bo.h{margin-top:24px}
+.qdfy-mod .v-bo.bo-only{margin:26px 0 4px}
+.qdfy-mod .v-zh.tr{font-size:16px;color:var(--vp-c-text-2);margin-top:26px}
+.qdfy-mod .signoff{font-size:14px;color:var(--vp-c-text-2);text-align:center !important;text-indent:0;margin:18px 0 0}
+
+/* 目录页 */
+.qdfy-mod.cat-page{max-width:720px;margin:0 auto;padding:48px 24px 56px}
+.qdfy-mod .cat-h1{text-align:center;border:0;font-size:28px;margin:0 0 6px;padding:0}
+.qdfy-mod .cat-lead{text-align:center;font-size:15px;color:var(--vp-c-text-2);letter-spacing:2px;margin:0 0 32px}
+.qdfy-mod .cat-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+.qdfy-mod .cat-card{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:26px 16px;border:1px solid var(--vp-c-divider);border-radius:12px;background:var(--vp-c-bg-soft);text-decoration:none;transition:border-color .2s,transform .2s}
+.qdfy-mod .cat-card:hover{border-color:var(--vp-c-brand-1);transform:translateY(-2px)}
+.qdfy-mod .cat-title{font-size:18px;font-weight:600;color:var(--vp-c-text-1);line-height:1.45}
+.qdfy-mod .cat-sub{font-size:13px;color:var(--vp-c-text-2);margin-top:8px}
+
+/* 移动端（≤640px）*/
+@media (max-width:640px){
+  .qdfy-mod.jy-page{padding:24px 18px 40px}
+  .qdfy-mod .jy-title-bo{font-size:18px}
+  .qdfy-mod .intro-title,.qdfy-mod .jy-subtitle{font-size:22px}
+  .qdfy-mod .intro-author.bo{font-size:12px}
+  .qdfy-mod .bo,.qdfy-mod .bo-verse,.qdfy-mod .mantra{font-size:15px}
+  .qdfy-mod .intro-body,.qdfy-mod .intro-verse,.qdfy-mod .kp,.qdfy-mod .kp-c{font-size:17px}
+  .qdfy-mod .v-bo{font-size:15px}
+  .qdfy-mod .v-zh{font-size:17px}
+  .qdfy-mod .v-zh.tr{font-size:14px}
+  .qdfy-mod.cat-page{padding:24px 16px 40px}
+  .qdfy-mod .cat-h1{font-size:23px}
+  .qdfy-mod .cat-grid{gap:12px}
+  .qdfy-mod .cat-card{padding:20px 10px}
+  .qdfy-mod .cat-title{font-size:16px}
 }
