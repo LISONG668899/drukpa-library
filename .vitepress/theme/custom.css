@@ -218,12 +218,14 @@
 
 /* 目录页 */
 .bgyd-mod.cat-page{max-width:720px;margin:0 auto;padding:48px 24px 56px}
-.bgyd-mod .cat-h1{text-align:center;border:0;font-size:28px;margin:0 0 6px;padding:0}
+.bgyd-mod .cat-tib{text-align:center;font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;font-size:18px;line-height:1.5;color:var(--vp-c-text-2);margin:0 0 6px}
+.bgyd-mod .cat-h1{text-align:center;border:0;font-size:28px;margin:0 0 32px;padding:0}
 .bgyd-mod .cat-lead{text-align:center;font-size:15px;color:var(--vp-c-text-2);letter-spacing:2px;margin:0 0 32px}
 .bgyd-mod .cat-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
 .bgyd-mod .cat-card{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:26px 16px;border:1px solid var(--vp-c-divider);border-radius:12px;background:var(--vp-c-bg-soft);text-decoration:none;transition:border-color .2s,transform .2s}
 .bgyd-mod .cat-card:hover{border-color:var(--vp-c-brand-1);transform:translateY(-2px)}
 .bgyd-mod .cat-title{font-size:18px;font-weight:600;color:var(--vp-c-text-1);line-height:1.45}
+.bgyd-mod .cat-tib-sm{display:block;font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;font-size:12px;color:var(--vp-c-text-2);line-height:1.4;margin-bottom:4px}
 .bgyd-mod .cat-sub{font-size:13px;color:var(--vp-c-text-2);margin-top:8px}
 
 /* 移动端（≤640px）*/
@@ -238,7 +240,9 @@
   .bgyd-mod .v-zh{font-size:17px}
   .bgyd-mod .v-zh.tr{font-size:14px}
   .bgyd-mod.cat-page{padding:24px 16px 40px}
+  .bgyd-mod .cat-tib{font-size:16px}
   .bgyd-mod .cat-h1{font-size:23px}
+  .bgyd-mod .cat-tib-sm{font-size:11px}
   .bgyd-mod .cat-grid{gap:12px}
   .bgyd-mod .cat-card{padding:20px 10px}
   .bgyd-mod .cat-title{font-size:16px}
@@ -323,12 +327,14 @@
 
 /* 目录页 */
 .zyjf-mod.cat-page{max-width:720px;margin:0 auto;padding:48px 24px 56px}
-.zyjf-mod .cat-h1{text-align:center;border:0;font-size:28px;margin:0 0 6px;padding:0}
+.zyjf-mod .cat-tib{text-align:center;font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;font-size:18px;line-height:1.5;color:var(--vp-c-text-2);margin:0 0 6px}
+.zyjf-mod .cat-h1{text-align:center;border:0;font-size:28px;margin:0 0 32px;padding:0}
 .zyjf-mod .cat-lead{text-align:center;font-size:15px;color:var(--vp-c-text-2);letter-spacing:2px;margin:0 0 32px}
 .zyjf-mod .cat-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
 .zyjf-mod .cat-card{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:26px 16px;border:1px solid var(--vp-c-divider);border-radius:12px;background:var(--vp-c-bg-soft);text-decoration:none;transition:border-color .2s,transform .2s}
 .zyjf-mod .cat-card:hover{border-color:var(--vp-c-brand-1);transform:translateY(-2px)}
 .zyjf-mod .cat-title{font-size:18px;font-weight:600;color:var(--vp-c-text-1);line-height:1.45}
+.zyjf-mod .cat-tib-sm{display:block;font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;font-size:12px;color:var(--vp-c-text-2);line-height:1.4;margin-bottom:4px}
 .zyjf-mod .cat-sub{font-size:13px;color:var(--vp-c-text-2);margin-top:8px}
 
 /* 移动端（≤640px）*/
@@ -343,7 +349,9 @@
   .zyjf-mod .v-zh{font-size:17px}
   .zyjf-mod .v-zh.tr{font-size:14px}
   .zyjf-mod.cat-page{padding:24px 16px 40px}
+  .zyjf-mod .cat-tib{font-size:16px}
   .zyjf-mod .cat-h1{font-size:23px}
+  .zyjf-mod .cat-tib-sm{font-size:11px}
   .zyjf-mod .cat-grid{gap:12px}
   .zyjf-mod .cat-card{padding:20px 10px}
   .zyjf-mod .cat-title{font-size:16px}
@@ -424,12 +432,14 @@
 
 /* 目录页 */
 .xfyg-mod.cat-page{max-width:720px;margin:0 auto;padding:48px 24px 56px}
-.xfyg-mod .cat-h1{text-align:center;border:0;font-size:28px;margin:0 0 6px;padding:0}
+.xfyg-mod .cat-tib{text-align:center;font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;font-size:18px;line-height:1.5;color:var(--vp-c-text-2);margin:0 0 6px}
+.xfyg-mod .cat-h1{text-align:center;border:0;font-size:28px;margin:0 0 32px;padding:0}
 .xfyg-mod .cat-lead{text-align:center;font-size:15px;color:var(--vp-c-text-2);letter-spacing:2px;margin:0 0 32px}
 .xfyg-mod .cat-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
 .xfyg-mod .cat-card{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:26px 16px;border:1px solid var(--vp-c-divider);border-radius:12px;background:var(--vp-c-bg-soft);text-decoration:none;transition:border-color .2s,transform .2s}
 .xfyg-mod .cat-card:hover{border-color:var(--vp-c-brand-1);transform:translateY(-2px)}
 .xfyg-mod .cat-title{font-size:18px;font-weight:600;color:var(--vp-c-text-1);line-height:1.45}
+.xfyg-mod .cat-tib-sm{display:block;font-family:"Noto Serif Tibetan Web",var(--vp-font-family-base),serif;font-size:12px;color:var(--vp-c-text-2);line-height:1.4;margin-bottom:4px}
 .xfyg-mod .cat-sub{font-size:13px;color:var(--vp-c-text-2);margin-top:8px}
 
 /* 移动端（≤640px）*/
@@ -444,7 +454,9 @@
   .xfyg-mod .v-zh{font-size:17px}
   .xfyg-mod .v-zh.tr{font-size:14px}
   .xfyg-mod.cat-page{padding:24px 16px 40px}
+  .xfyg-mod .cat-tib{font-size:16px}
   .xfyg-mod .cat-h1{font-size:23px}
+  .xfyg-mod .cat-tib-sm{font-size:11px}
   .xfyg-mod .cat-grid{gap:12px}
   .xfyg-mod .cat-card{padding:20px 10px}
   .xfyg-mod .cat-title{font-size:16px}
