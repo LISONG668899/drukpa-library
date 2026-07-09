@@ -14,7 +14,7 @@ title: 祖师简介
   <a class="ph-card" href="/祖师简介/藏巴甲热/"><span class="ph-tib">གཙང་པ་རྒྱ་རས་ཡེ་ཤེས་རྡོ་རྗེ</span><span class="ph-name">藏巴甲热</span></a>
   <a class="ph-card" href="/祖师简介/白玛嘎波/"><span class="ph-tib">ཀུན་མཁྱེན་པདྨ་དཀར་པོ</span><span class="ph-name">白玛嘎波</span></a>
   <a class="ph-card" href="/祖师简介/郭仓巴/"><span class="ph-tib">རྒོད་ཚང་པ་མགོན་པོ་རྡོ་རྗེ</span><span class="ph-name">郭仓巴</span></a>
-  <a class="ph-card" href="/祖师简介/阿德仁波切/"><span class="ph-tib">（藏文名待核实）</span><span class="ph-name">阿德仁波切</span></a>
+  <a class="ph-card" href="/祖师简介/阿德仁波切/"><span class="ph-tib">ཨ་ལྡེའུ་རིན་པོ་ཆེ</span><span class="ph-name">阿德仁波切</span></a>
 </div>
 
 </div>
