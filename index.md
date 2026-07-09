@@ -9,15 +9,42 @@ title: 首页
   <h1 class="dz-title">竹巴噶举妙法宝箧</h1>
 
   <a class="dz-card" href="/祖师简介/">祖师简介</a>
-  <a class="dz-card" href="/祖师教言/">祖师教言</a>
-  <a class="dz-card" href="/皈依发心/">皈依发心</a>
-  <a class="dz-card" href="/达波四法/">达波四法</a>
-  <a class="dz-card" href="/大手印法/">大手印法</a>
-  <a class="dz-card" href="/不共引导/">不共引导</a>
-  <a class="dz-card" href="/中阴教法/">中阴教法</a>
-  <a class="dz-card" href="/修法仪轨/">修法仪轨</a>
-  <a class="dz-card" href="/祈祷发愿/">祈祷发愿</a>
-  <a class="dz-card" href="/其他资料/">其他资料</a>
+  <a class="dz-card" href="/祖师教言/">
+    <span class="dz-card-tib">བླ་མ་གོང་མའི་ཞལ་གདམས</span>
+    <span class="dz-card-zh">祖师教言</span>
+  </a>
+  <a class="dz-card" href="/皈依发心/">
+    <span class="dz-card-tib">སྐྱབས་སེམས་ལེན་ཆོག་སྐོར</span>
+    <span class="dz-card-zh">皈依发心</span>
+  </a>
+  <a class="dz-card" href="/达波四法/">
+    <span class="dz-card-tib">དྭགས་པོའི་ཆོས་བཞི་སྐོར</span>
+    <span class="dz-card-zh">达波四法</span>
+  </a>
+  <a class="dz-card" href="/大手印法/">
+    <span class="dz-card-tib">ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྐོར</span>
+    <span class="dz-card-zh">大手印法</span>
+  </a>
+  <a class="dz-card" href="/不共引导/">
+    <span class="dz-card-tib">ཐུན་མོང་མ་ཡིན་པ་ཁྲིད་ཀྱི་སྐོར</span>
+    <span class="dz-card-zh">不共引导</span>
+  </a>
+  <a class="dz-card" href="/中阴教法/">
+    <span class="dz-card-tib">བར་དོ་དང་འཕོ་བའི་སྐོར</span>
+    <span class="dz-card-zh">中阴教法</span>
+  </a>
+  <a class="dz-card" href="/修法仪轨/">
+    <span class="dz-card-tib">སྒྲུབ་ཐབས་དང་ཆོ་གའི་སྐོར</span>
+    <span class="dz-card-zh">修法仪轨</span>
+  </a>
+  <a class="dz-card" href="/祈祷发愿/">
+    <span class="dz-card-tib">གསོལ་འདེབས་སྨོན་ལམ་སྐོར</span>
+    <span class="dz-card-zh">祈祷发愿</span>
+  </a>
+  <a class="dz-card" href="/其他资料/">
+    <span class="dz-card-tib">གཞན་དག་རྒྱུན་ཤེས་ཀྱི་སྐོར</span>
+    <span class="dz-card-zh">其他资料</span>
+  </a>
 
 </div>
 
@@ -67,6 +94,20 @@ title: 首页
   transform: translateY(-2px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, .08);
 }
+.dz-card-tib {
+  display: block;
+  font-family: 'Noto Serif Tibetan', 'Microsoft Himalaya', 'Kailasa', 'Jomolhari', serif;
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--vp-c-text-2);
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+.dz-card-zh {
+  display: block;
+  font-size: 19px;
+  font-weight: 600;
+}
 .dz-footer {
   margin-top: 56px;
   text-align: center;
@@ -89,5 +130,7 @@ title: 首页
   .dz-zang { font-size: 13px; }
   .dz-title { font-size: 26px; margin-bottom: 32px; }
   .dz-card { font-size: 17px; padding: 16px 18px; border-radius: 14px; }
+  .dz-card-tib { font-size: 12px; }
+  .dz-card-zh { font-size: 17px; }
 }
 </style>
