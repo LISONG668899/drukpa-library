@@ -6,8 +6,8 @@ title: 大手印前行简修
 
 <div class="jy-page dsy-mod">
 
-<p class="jy-title-bo">༄༅། །ཕྱག་ཆེན་གྱི་སྔོན་འགྲོའི་ངག་འདོན་ཤིན་ཏུ་བསྡུས་པར་བཀོད་པ་</p>
-<p class="jy-title-bo">ཐར་འདོད་འཇུག་ངོགས་ཞེས་བྱ་བ་བཞུགས་སོ། །</p>
+<p class="jy-title-bo">༄༅། །ཕྱག་ཆེན་གྱི་སྔོན་འགྲོའི་ངག་འདོན་ཤིན་ཏུ་བསྡུས་པར་</p>
+<p class="jy-title-bo">བཀོད་པ་ཐར་འདོད་འཇུག་ངོགས་ཞེས་བྱ་བ་བཞུགས་སོ། །</p>
 <h1 class="intro-title">大手印前行简修念诵文</h1>
 <p class="jy-subtitle">欲解脱者之道</p>
 <p class="intro-author">阿德仁波切 著</p>
