@@ -5,8 +5,8 @@ aside: false
 
 <div class="jy-page">
 
-<span class="jy-title-bo">༄༅། །དབུ་མ་ལུགས་ཀྱི་སེམས་བསྐྱེད་ལེན་པའི་</span>
-<span class="jy-title-bo">ཆོ་ག་བཞུགས་སོ། །</span>
+<p class="jy-title-bo">༄༅། །དབུ་མ་ལུགས་ཀྱི་སེམས་བསྐྱེད་ལེན་པའི་</p>
+<p class="jy-title-bo">ཆོ་ག་བཞུགས་སོ། །</p>
 
 <h1 class="intro-title">中观派受菩萨戒仪轨</h1>
 
