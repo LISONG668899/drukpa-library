@@ -5,8 +5,8 @@ aside: false
 
 <div class="jy-page xfyg-mod">
 
-<span class="jy-title-bo">༄༅། །ཛམྦྷ་ལ་དཀར་པོ་ཇོ་བོ་ལུགས་ཀྱི་སྒྲུབ་ཐབས་དངོས་གྲུབ་བུམ་</span>
-<span class="jy-title-bo">བཟང་ཞེས་བྱ་བ་བཞུགས་སོ།།</span>
+<span class="jy-title-bo">༄༅། །ཛམྦྷ་ལ་དཀར་པོ་ཇོ་བོ་ལུགས་ཀྱི་སྒྲུབ་ཐབས་དངོས་གྲུབ་་</span>
+<span class="jy-title-bo">བུམབཟང་ཞེས་བྱ་བ་བཞུགས་སོ།།</span>
 
 <h1 class="intro-title">阿底峡传承白藏巴拉修法</h1>
 <p class="jy-subtitle last">成就妙瓶</p>
