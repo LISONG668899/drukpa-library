@@ -5,8 +5,8 @@ aside: false
 
 <div class="jy-page qdfy-mod">
 
-<span class="jy-title-bo">༄༅། །ཚེ་རབས་ཐམས་ཅད་དུ་དཀོན་མཆོག་གསུམ་གྱིས་རྗེས་སུ་</span>
-<span class="jy-title-bo">འཛིན་པའི་སྨོན་ལམ་བཞུགས་སོ།།</span>
+<span class="jy-title-bo">༄༅། །ཚེ་རབས་ཐམས་ཅད་དུ་དཀོན་མཆོག་</span>
+<span class="jy-title-bo">གསུམ་གྱིས་རྗེས་སུ་འཛིན་པའི་སྨོན་ལམ་བཞུགས་སོ།།</span>
 
 <h1 class="intro-title solo">永世三宝随摄发愿文</h1>
 
