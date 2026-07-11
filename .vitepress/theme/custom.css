@@ -644,3 +644,16 @@
   .qtzl-mod .cat-title{font-size:16px}
 }
 
+
+/* ===== 全站兜底：藏文作者行强制居中，不依赖任何 -mod 模块前缀 ===== */
+.jy-page p.intro-author.bo {
+  display: block !important;
+  width: 100% !important;
+  box-sizing: border-box;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+}
