@@ -25,6 +25,6 @@ aside: false
 <p class="v-bo tight">ཀ་བའི་ཁ་དོག་དཀར་བ་འདི། དཀར་པོའི་ཆོས་རྣམས་རྫོགས་པའི་བརྡ།</p>
 <p class="v-zh tight">柱子的颜色为白色，象征圆满一切白(善)法。”</p>
 
-<p class="note bo" style="font-size:17px;">ཞེས་སོགས་གསུངས་པ་ལྟར་རོ།།</p>
+<p class="note bo" style="font-size:17px; text-align:center;">ཞེས་སོགས་གསུངས་པ་ལྟར་རོ།།</p>
 
 </div>
