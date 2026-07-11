@@ -1,395 +1,253 @@
 ---
 layout: page
-aside: false
-title: 大手印前行简修
+title: 竹巴《三猛咒》
 ---
 
-<div class="jy-page dsy-mod">
+<div id="san-meng-zhou-page" class="jy-page">
 
-<p class="jy-title-bo">༄༅། །ཕྱག་ཆེན་གྱི་སྔོན་འགྲོའི་ངག་འདོན་ཤིན་ཏུ་བསྡུས་པར་</p>
-<p class="jy-title-bo">བཀོད་པ་ཐར་འདོད་འཇུག་ངོགས་ཞེས་བྱ་བ་བཞུགས་སོ། །</p>
-<h1 class="intro-title">大手印前行简修念诵文</h1>
-<p class="jy-subtitle">欲解脱者之道</p>
-<p class="intro-author">阿德仁波切 著</p>
-<p class="intro-author last">古普·钦哲  译</p>
+<p class="jy-title-bo" style="font-size:var(--bo-title-size)!important;">༈ དཔལ་འབྲུག་པའི་དྲག་སྔགས་ཚིག་གསུམ་བཞུགས་སོ།།</p>
+<h1 class="intro-title" style="font-size:var(--zh-title-size)!important;">竹巴《三猛咒》</h1>
+<p class="intro-author">藏巴嘉热·益西多杰 著</p>
 
-<p class="bo-verse">ངག་བྱིན་གྱིས་བརླབ་པར།</p>
-<p class="intro-verse">语加持</p>
-<p class="bo-verse">དབྱངས་གསལ་ནི།</p>
-<p class="intro-verse">元辅字母咒：</p>
-<p class="mantra">ཨ་ཨཱ།ཨི་ཨཱི།ཨུ་ཨུ།རྀ་རཱྀ།ལྀ་ལཱྀ།ཨེ་ཨཻ།ཨོ་ཨཽ།ཨཾ་ཨཱ།</p>
-<p class="intro-body center">啊啊 哦哦 偶偶 日日 乐乐 哎哎 澳澳 嗡啊</p>
-<p class="bo-verse">ཀ་ཁ་ག་གྷ་ང༌། ཙ་ཚ་ཛ་ཛྙ་ཉ། ཊ་ཋ་ཌ་ཌྷ་ཎ། ཏ་ཐ་ད་དྷ་ན། པ་ཕ་བ་བྷ་མ།ཡ་ར་ལ་ཝ་ཤ་ཥ་ས་ཧ་ཀྵ།</p>
-<p class="intro-body center">嘎卡呷葛昂 杂擦咋甲尼a 扎查眨札呐 达塔打大哪 吧怕拔把嘛呀冉啦哇夏卡萨哈恰</p>
-<p class="bo-verse">ལན་གསུམ།</p>
-<p class="intro-verse">（念三遍）</p>
-<p class="bo-verse">ཡིག་བརྒྱ།</p>
-<p class="intro-verse">百字明咒</p>
-<p class="mantra">ཨོཾ་བཛྲ་སཏྭ་ས་མ་ཡ་མ་ནུ་པཱ་ལ་ཡ།བཛྲ་སཏྭ་ཏྭེ་ནོ་པ་ཏིཥྛཿདྲྀ་ཌྷོ་མེ་བྷ་ཝ།སུ་ཏོ་ཥྱོ་མེ་བྷ་ཝ།ཨ་ནུ་རཀྟོ་མེ་བྷ་ཝ།སུ་པོ་ཥྱོ་མེ་བྷ་ཝ།སརྦ་སིདྡྷི་མེ་པྲ་ཡཙྪ།སརྦ་ཀརྨ་སུ་ཙ་མེ་ཙིཏྟཾ།ཤྲེ་ཡཿཀུ་རུ་ཧཱུྃ།ཧ་ཧ་ཧ་ཧ་ཧོཿབྷ་ག་ཝན་སརྦ་ཏ་ཐཱ་ག་ཏ་བཛྲ་མ་མེ་མུཉྩ།བཛྲི་བྷ་ཝ་མ་ཧཱ་ས་མ་ཡ་སཏྭ་ཨཱཿ</p>
-<p class="bo-verse">ལན་གསུམ།</p>
-<p class="intro-body center">嗡拜杂萨埵萨玛雅、嘛努巴拉雅、拜杂萨埵底诺巴、底叉知桌美巴哇、苏埵卡约美巴哇、阿努日a埵美巴哇、苏波卡优美把哇、萨哇斯德美扎雅杂、萨r哇嘎r嘛苏赞美则当、协日呀、古如吽、哈哈哈哈吙、班嘎文、萨哇达他嘎达、拜杂嘛麦母杂、班泽叭哇、嘛哈萨玛雅萨埵啊（念三遍）</p>
-<p class="bo-verse">རྟེན་འབྲེལ་སྙིང་པོ།</p>
-<p class="intro-verse">缘起咒</p>
-<p class="mantra">ཨོཾ་ཡེ་དྷརྨཱ་ཧེ་ཏུ་པྲ་བྷ་ཝཱ་ཧེ་ཏུན་ཏེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་ཝ་དཏ་ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མ་ཧཱ་ཤྲ་མ་ཎ་སྭཱ་ཧཱ།ལན་གསུམ།</p>
-<p class="intro-body center">嗡 叶达r嘛 嘿度扎巴哇 嘿敦代堪 哒它嘎埵 哈呀哇得 带啃咋优 呢若哒诶王m瓦得 吗给 夏嘛呐 唆哈 （念三遍）</p>
-<p class="bo-verse">གསོལ་བ་འདེབས་ནི།</p>
-<p class="intro-verse">祈请文</p>
-<p class="bo-verse">འོག་མིན་ཆོས་ཀྱི་དབྱིངས་ཀྱི་ཕོ་བྲང་ནས། །</p>
-<p class="bo-verse">དུས་གསུམ་སངས་རྒྱས་ཀུན་གྱི་ངོ་བོ་ཉིད། །</p>
-<p class="intro-verse">法界密严刹土圣殿中，</p>
-<p class="intro-verse">三世一切诸佛之自性，</p>
-<p class="bo-verse">རང་སེམས་ཆོས་སྐུ་མངོན་གསུམ་སྟོན་མཛད་པ། །</p>
-<p class="bo-verse">རྩ་བའི་བླ་མའི་ཞབས་ལ་གསོལ་བ་འདེབས། །</p>
-<p class="intro-verse">开显自心即是法身者，</p>
-<p class="intro-verse">根本上师足下吾祈祷。</p>
-<p class="bo-verse">ཐུན་མོང་སྔོན་འགྲོ་བློ་ལྡོག་རྣམ་བཞི་ནི།</p>
-<p class="intro-body center">共同外加行––––转心四思维法</p>
-<p class="bo-verse">དལ་འབྱོར་རྟེན་བཟང་ཤིན་ཏུ་རྙེད་པར་དཀའ། །</p>
-<p class="bo-verse">སྲིད་གསུམ་སྣོད་བཅུད་མི་རྟག་ངེས་པར་འཇིག།</p>
-<p class="intro-verse">暇满人身稀有极难得，</p>
-<p class="intro-verse">三有器情无常必坏灭，</p>
-<p class="bo-verse">དགེ་སྡིག་རྒྱུ་འབྲས་ཆུད་མི་ཟ་བར་སྨིན། །</p>
-<p class="bo-verse">འཁོར་བ་སྡུག་བསྔལ་ཁོ་ནར་ཤེས་པར་བྱ། །</p>
-<p class="intro-verse">善恶因果报应真不虚 ，</p>
-<p class="intro-verse">当知轮回一切皆苦痛。</p>
-<p class="bo-verse">སྐྱབས་སེམས་ནི།</p>
-<p class="intro-verse">皈依和发心</p>
-<p class="bo-verse">སངས་རྒྱས་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་རྣམས་ལ། །</p>
-<p class="bo-verse">བྱང་ཆུབ་བར་དུ་བདག་ནི་སྐྱབས་སུ་མཆི། །</p>
-<p class="intro-verse">诸佛正法圣僧众，</p>
-<p class="intro-verse">直至菩提我皈依，</p>
-<p class="bo-verse">བདག་གིས་སྦྱིན་སོགས་བགྱིས་པའི་བསོད་ནམས་ཀྱིས། །</p>
-<p class="bo-verse">འགྲོ་ལ་ཕན་ཕྱིར་སངས་རྒྱས་འགྲུབ་པར་ཤོག</p>
-<p class="intro-verse">以我布施等功德，</p>
-<p class="intro-verse">为利众生愿成佛，</p>
-<p class="bo-verse">ལན་གསུམ།</p>
-<p class="intro-verse">(念三遍)</p>
-<p class="intro-body center">（明观皈依境）</p>
-<p class="bo-verse">མདུན་མཁར་དཔག་བསམ་ལོ་འདབ་རབ་རྒྱས་སྟེང༌། །</p>
-<p class="bo-verse">དབུས་སུ་རིང་བརྒྱུད་རིས་མེད་བླ་མ་དང༌། །</p>
-<p class="intro-verse">自前枝叶繁茂如意树，</p>
-<p class="intro-verse">中枝远近传承诸上师，</p>
-<p class="bo-verse">མདུན་དུ་ཡི་དམ་གཡས་སུ་སངས་རྒྱས་ཚོགས། །</p>
-<p class="bo-verse">རྒྱབ་ཏུ་དམ་ཆོས་གཡོན་དུ་དགེ་འདུན་སྡེ། །</p>
-<p class="intro-verse">前枝本尊右枝诸佛陀，</p>
-<p class="intro-verse">后枝正法左枝圣僧众，</p>
-<p class="bo-verse">བར་མཚམས་མཁའ་འགྲོ་ཆོས་སྐྱོང་ནོར་ལྷ་སོགས། །</p>
-<p class="bo-verse">སྐྱབས་འོས་མ་ཚང་མེད་པར་བཞུགས་པའི་མདུན། །</p>
-<p class="intro-verse">间隔空行护法财神等，</p>
-<p class="intro-verse">所有应皈无余安坐前，</p>
-<p class="bo-verse">བདག་སོགས་འགྲོ་ཀུན་རྩེ་གཅིག་སྐྱབས་སུ་མཆི། །</p>
-<p class="bo-verse">འཁོར་བའི་མཚོ་ལས་མྱུར་དུ་བསྒྲལ་དུ་གསོལ། །</p>
-<p class="intro-verse">我等诸众专心而皈依，</p>
-<p class="intro-verse">祈求轮回苦中速度脱。</p>
-<p class="bo-verse">གྲངས་གསོག་དངོས།</p>
-<p class="intro-verse">计数（皈依偈）</p>
-<p class="bo-verse">མ་ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་ཐམས་ཅད་བླ་མ་སངས་རྒྱས་ཆོས་ཀྱི་སྐུ་ལ་སྐྱབས་སུ་མཆིའོ། །</p>
-<p class="intro-body center">等虚空一切诸母有情皈依上师清净法身佛；</p>
-<p class="bo-verse">མ་ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་ཐམས་ཅད་བླ་མ་ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ་ལ་སྐྱབས་སུ་མཆིའོ</p>
-<p class="intro-body center">等虚空一切诸母有情皈依上师圆满报身佛；</p>
-<p class="bo-verse">མ་ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་ཐམས་ཅད་བླ་མ་ཐུགས་རྗེ་སྤྲུལ་པའི་སྐུ་ལ་སྐྱབས་སུ་མཆིའོ། །</p>
-<p class="intro-body center">等虚空一切诸母有情皈依上师慈悲化身佛；</p>
-<p class="bo-verse">མ་ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་ཐམས་ཅད་བླ་མ་སངས་རྒྱས་རིན་པོ་ཆེ་ལ་སྐྱབས་སུ་མཆིའོ། །</p>
-<p class="intro-body center">等虚空一切诸母有情皈依上师珍宝自性佛。</p>
-<p class="intro-body center">祈请加持我等一切有情心趋入法，</p>
-<p class="bo-verse">ཆོས་ལམ་དུ་འགྲོ་བར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། །</p>
-<p class="intro-body center">祈请加持我等一切有情法趋入道，</p>
-<p class="bo-verse">ལམ་འཁྲུལ་པ་སེལ་བར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། །</p>
-<p class="intro-body center">祈请加持我等一切有情道除迷乱，</p>
-<p class="bo-verse">འཁྲུལ་པ་ཡེ་ཤེས་སུ་འཆར་བར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། །</p>
-<p class="intro-body center">祈请加持我等一切有情迷乱转智。</p>
-<p class="bo-verse">རྩ་བའི་བླ་མ་བརྒྱུད་པ་དང་བཅས་པ་རྣམས་ལ་སྐྱབས་སུ་མཆིའོ། །</p>
-<p class="intro-body center">皈依本师及诸传承上师，</p>
-<p class="bo-verse">མཆེད་གྲོགས་ཆོས་མཛད་དང་བཅས་པ་རྣམས་ལ་སྐྱབས་སུ་མཆིའོ། །</p>
-<p class="intro-body center">皈依诸金刚道友和行者，</p>
-<p class="bo-verse">སྣོད་ཀྱི་འཇིག་རྟེན་དཔལ་ལྡན་བླ་མའི་ཚོགས་ལ་སྐྱབས་སུ་མཆིའོ། །</p>
-<p class="intro-body center">皈依器世间诸具德上师，</p>
-<p class="bo-verse">བཅུད་ཀྱི་སེམས་ཅན་ལྷ་དང་ལྷ་མོའི་ཚོགས་ལ་སྐྱབས་སུ་མཆིའོ། །</p>
-<p class="intro-body center">皈依有情众本尊空行母，</p>
-<p class="bo-verse">སྣང་སྲིད་དཔལ་ལྡན་བླ་མའི་ཚོགས་ལ་སྐྱབས་སུ་མཆིའོ། །</p>
-<p class="intro-body center">皈依万物一切具德上师，</p>
-<p class="bo-verse">རྟོགས་པས་བདག་གྲོལ་བར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། །</p>
-<p class="intro-body center">祈请加持以悟令我得解脱，</p>
-<p class="bo-verse">ཐུགས་རྗེས་གཞན་གྲོལ་བར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། །</p>
-<p class="intro-body center">祈请加持以悲度脱他众生，</p>
-<p class="bo-verse">རྟེན་འབྲེལ་ཐབས་ལ་མཁས་པར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། །</p>
-<p class="intro-body center">祈请加持精通缘起方便法，</p>
-<p class="bo-verse">འབྲེལ་ཚད་དོན་དང་ལྡན་པར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། །</p>
-<p class="intro-body center">祈请加持诸有缘者具利益，</p>
-<p class="bo-verse">ཕྱག་རྒྱ་ཆེན་པོ་མཆོག་གི་དངོས་གྲུབ་ཚེ་འདི་ཉིད་ལ་ཐོབ་པར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ།</p>
-<p class="intro-body center">祈请加持即生证得大手印殊胜之成就。</p>
-<p class="bo-verse">སེམས་བསྐྱེད་ནི།</p>
-<p class="intro-verse">发菩提心</p>
-<p class="bo-verse">ཇི་ལྟར་དུས་གསུམ་མགོན་པོ་རྣམས། །</p>
-<p class="bo-verse">བྱང་ཆུབ་ཏུ་ནི་ངེས་མཛད་ལྟར། །</p>
-<p class="intro-verse">三世一切诸怙主，</p>
-<p class="intro-verse">如何愿行菩提心，</p>
-<p class="bo-verse">བྱང་ཆུབ་སེམས་ནི་བླ་ན་མེད། །</p>
-<p class="bo-verse">དམ་པ་བདག་གིས་བསྐྱེད་པར་བགྱི། །</p>
-<p class="intro-verse">无上胜义菩提心，</p>
-<p class="intro-verse">我亦如实即发心。</p>
-<p class="bo-verse">བསྡུ་རིམ་ནི།</p>
-<p class="intro-verse">融入皈依境</p>
-<p class="bo-verse">སྐྱབས་རྣམས་འོད་ཞུ་བདག་ཐིམ་བྱིན་བརླབ་གྱུར།</p>
-<p class="intro-body center">诸尊化光融入自身获加持。</p>
-<p class="bo-verse">རྡོ་སེམས་བསྒོམ་བཟླས།</p>
-<p class="intro-body center">观修金刚萨埵</p>
-<p class="bo-verse">སྤྱི་བོར་པད་དཀར་ཟླ་སྟེང་རྡོ་རྗེ་ཧཱུྃ། </p>
-<p class="bo-verse">འོད་ཀྱིས་དོན་གཉིས་བྱས་འདུས་ཡོངས་གྱུར་ལས། །</p>
-<p class="intro-verse">头顶白莲月轮金刚“吽”</p>
-<p class="intro-verse">发光两利回收 且化为，</p>
-<p class="bo-verse">བླ་མ་རྡོ་རྗེ་སེམས་དཔའ་ཡབ་ཡུམ་གསལ། །</p>
-<p class="bo-verse">གནས་གསུམ་རྡོ་རྗེའི་འབྲུས་མཚན་འོད་ཟེར་གྱིས། །</p>
-<p class="intro-verse">上师金刚萨埵父母尊，</p>
-<p class="intro-verse">三处金刚种字之光芒，</p>
-<p class="bo-verse">རབ་འབྱམས་ཞིང་གི་སངས་རྒྱས་བྱང་སེམས་རྣམས། །</p>
-<p class="bo-verse">སྤྱན་དྲངས་དབྱེར་མེད་ཐུགས་ཀར་ཟླ་བའི་སྟེང༌། །</p>
-<p class="intro-verse">无边净土诸佛菩萨众，</p>
-<p class="intro-verse">迎请无别心间月轮上，</p>
-<p class="bo-verse">རྡོ་རྗེ་ཧཱུྃ་དང་ཡིག་བརྒྱའི་སྔགས་ཕྲེང་གསལ། །</p>
-<p class="bo-verse">གསོལ་བཏབ་གསང་གསུམ་བདུད་རྩིའི་རྒྱུན་བབ་པ། །</p>
-<p class="intro-verse">金刚吽与咒蔓清晰现，</p>
-<p class="intro-verse">祈请三密甘露水流下，</p>
-<p class="bo-verse">སྤྱི་བོ་ནས་ཞུགས་ལས་ཉོན་བག་ཆགས་ཀྱི། །</p>
-<p class="bo-verse">སྡིག་སྒྲིབ་ནད་གདོན་བཀྲུས་སྦྱང་དག་པར་གྱུར། །</p>
-<p class="intro-verse">入于梵穴烦恼业习气，</p>
-<p class="intro-verse">罪障病魔尽除得清净。</p>
-<p class="bo-verse">ཡིག་བརྒྱ།</p>
-<p class="intro-verse">百字明咒（计数）</p>
-<p class="mantra">ཨོཾ་བཛྲ་སཏྭ་ས་མ་ཡ་མ་ནུ་པཱ་ལ་ཡ།བཛྲ་སཏྭ་ཏྭེ་ནོ་པ་ཏིཥྛཿདྲྀ་ཌྷོ་མེ་བྷ་ཝ།སུ་ཏོ་ཥྱོ་མེ་བྷ་ཝ།ཨ་ནུ་རཀྟོ་མེ་བྷ་ཝ།སུ་པོ་ཥྱོ་མེ་བྷ་ཝ།སརྦ་སིདྡྷི་མེ་པྲ་ཡཙྪ།སརྦ་ཀརྨ་སུ་ཙ་མེ་ཙིཏྟཾ།ཤྲེ་ཡཿཀུ་རུ་ཧཱུྃ།ཧ་ཧ་ཧ་ཧ་ཧོཿབྷ་ག་བན྄་སརྦ་ཏ་ཐཱ་ག་ཏ་བཛྲ་མ་མེ་མུཉྩ།བཛྲི་བྷ་ཝ་མ་ཧཱ་ས་མ་ཡ་སཏྭ་ཨཱཿཨོཾ་བཛྲ་སཏྭ་ཧཱུྃ་ཨཱཿ</p>
-<p class="intro-body center">嗡拜杂萨埵萨玛雅、嘛努巴拉雅、拜杂萨埵底诺巴、底叉知桌美巴哇、苏埵卡约美巴哇、阿努惹埵美巴哇、苏波卡约美巴哇、萨哇斯德美扎雅杂、萨哇嘎嘛苏匝美则当、协日呀、古如吽、哈哈哈哈吙、班嘎哇、萨哇达他嘎达、拜杂嘛麦母杂、呗泽叭哇、嘛哈萨玛雅萨埵啊 （六字咒）“嗡呗杂萨埵吽”。</p>
-<p class="bo-verse">བཤགས་པ་ནི།</p>
-<p class="intro-verse">忏悔文</p>
-<p class="bo-verse">མགོན་པོ་བདག་ནི་མི་ཤེས་རྨོངས་པ་ཡིས། །</p>
-<p class="bo-verse">དམ་ཚིག་ལས་ནི་འགལ་ཞིང་ཉམས། །</p>
-<p class="intro-verse">怙主！我因愚昧无知故，</p>
-<p class="intro-verse">失犯三昧耶誓言，</p>
-<p class="bo-verse">བླ་མ་མགོན་པོས་སྐྱབས་མཛོད་ཅིག ། </p>
-<p class="bo-verse">གཙོ་བོ་རྡོ་རྗེ་འཛིན་པ་ཆེ། །</p>
-<p class="intro-verse">祈求怙主上师护，</p>
-<p class="intro-verse">至尊金刚持大师，</p>
-<p class="bo-verse">ཐུགས་རྗེ་ཆེན་པོའི་བདག་ཉིད་ཅན། །</p>
-<p class="bo-verse">འགྲོ་བའི་གཙོ་ལ་བདག་སྐྱབས་མཆི། །</p>
-<p class="intro-verse">具足大悲大悲者，</p>
-<p class="intro-verse">众生至尊吾皈依。</p>
-<p class="bo-verse">སྐུ་གསུང་ཐུགས་རྩ་བ་དང་ཡན་ལག་གི་དམ་ཚིགས་ཉམས་པ་ཐམས་ཅད་མཐོལ་ལོ་བཤགས་སོ། །</p>
-<p class="intro-body center">忏悔一切失毁身语意根本与支分三昧耶</p>
-<p class="bo-verse">སྡིག་སྒྲིབ་ཉེས་ལྟུང་དྲི་མའི་ཚོགས་ཐམས་ཅད་བྱང་ཞིང་དག་པར་མཛད་དུ་གསོལ།</p>
-<p class="intro-body center">祈求一切罪障堕罪垢染尽清除。</p>
-<p class="bo-verse">གནང་བ་སྩལ་ནས་འོད་ཞུ་བདག་ཐིམ་གྱུར།</p>
-<p class="intro-body center">许后化光融自身。</p>
-<p class="bo-verse">མཎྜལ་ནི།</p>
-<p class="intro-verse">曼茶罗</p>
-<p class="bo-verse">མདུན་མཁར་རིན་ཆེན་རི་རབ་པད་མའི་སྟེང༌། །</p>
-<p class="bo-verse">དབུས་སུ་བླ་མ་མདུན་དུ་ཡི་དམ་ལྷ། །</p>
-<p class="intro-verse">前方须弥宝山莲台上，</p>
-<p class="intro-verse">中央上师前为众本尊，</p>
-<p class="bo-verse">གཡས་སུ་སངས་རྒྱས་རྒྱབ་ཏུ་དམ་ཆོས་དང༌། །</p>
-<p class="bo-verse">གཡོན་དུ་དགེ་འདུན་བར་མཚམས་ཆོས་སྐྱོང་སོགས། །</p>
-<p class="intro-verse">右方诸佛后方诸妙法，</p>
-<p class="intro-verse">左诸僧宝间隅众护法，</p>
-<p class="bo-verse">སྐྱབས་གནས་མཆོད་འོས་རྒྱ་མཚོ་གསལ་བའི་མདུན། །</p>
-<p class="bo-verse">སྟོང་གསུམ་རབ་འབྱམས་ཞིང་གི་མཆོད་པའི་སྤྲིན། །</p>
-<p class="intro-verse">依怙应供海会明观前，</p>
-<p class="intro-verse">三千大千无量界供云，</p>
-<p class="bo-verse">དངོས་འབྱོར་ཡིད་སྤྲུལ་དཔག་མེད་གུས་པས་འབུལ། །</p>
-<p class="intro-body center">实设意幻无量敬供养。</p>
-<p class="bo-verse">ཡན་ལག་འདུན་པ་ནི།</p>
-<p class="intro-verse">七支供</p>
-<p class="bo-verse">ཕྱག་འཚལ་བ་དང་མཆོད་ཅིང་བཤགས་པ་དང༌། །</p>
-<p class="bo-verse">རྗེས་སུ་ཡི་རང་བསྐུལ་ཞིང་གསོལ་བ་ཡི། །</p>
-<p class="intro-verse">礼赞供养与忏悔，</p>
-<p class="intro-verse">随喜请佛住转法，</p>
-<p class="bo-verse">དགེ་བ་ཅུང་ཟད་བདག་གིས་ཅི་བསགས་པ། །</p>
-<p class="bo-verse">ཐམས་ཅད་རྫོགས་པའི་བྱང་ཆུབ་ཕྱིར་བསྔོའོ། །</p>
-<p class="intro-verse">以我所积些许善，</p>
-<p class="intro-verse">圆满菩提而回向。</p>
-<p class="bo-verse">བྱང་ཆུབ་སེམས་མཆོག་རིན་པོ་ཆེ། །</p>
-<p class="bo-verse">མ་སྐྱེས་པ་རྣམས་སྐྱེས་གྱུར་ཅིག།</p>
-<p class="intro-verse">胜宝菩提心，</p>
-<p class="intro-verse">未生愿生起，</p>
-<p class="bo-verse">སྐྱེས་པ་ཉམས་པ་མེད་པ་དང༌། །</p>
-<p class="bo-verse">གོང་ནས་གོང་དུ་འཕེལ་བར་ཤོག །</p>
-<p class="intro-verse">已生不退转，</p>
-<p class="intro-verse">愿其日益增。</p>
-<p class="bo-verse">མཎྜལ་སོ་བདུན་མ།</p>
-<p class="intro-verse">三十七堆曼茶罗</p>
-<p class="bo-verse">ཨོཾ་བཛྲ་བྷུ་མི་ཨཱཿ ཧཱུྃ།</p>
-<p class="intro-body center">嗡班杂布么阿吽</p>
-<p class="bo-verse">གཞི་རྣམ་པར་དག་པ་དབང་ཆེན་གསེར་གྱི་ས་གཞི། ཨོཾ་བཛྲ་རེ་ཥེ་ཨཱཿ ཧཱུྃ།</p>
-<p class="intro-verse">基清净黄金之大地，</p>
-<p class="intro-verse">班杂日客阿吽，</p>
-<p class="bo-verse">ཕྱི་ལྕགས་རིའི་འཁོར་ཡུག་གིས་བསྐོར་བའི་དབུས་སུ་ཧཱུྃ།རིའི་རྒྱལ་པོ་རི་རབ། ཤར་ལུས་འཕགས་པོ།</p>
-<p class="intro-body center">外铁围山环绕中央吽，须弥山王，东胜神洲、</p>
-<p class="bo-verse">ལྷོ་འཛམ་བུའི་གླིང༌། ནུབ་བ་ལང་སྤྱོད། བྱང་སྒྲ་མི་སྙན། ཤར་དུ་ལུས་དང་ལུས་འཕགས།</p>
-<p class="intro-verse">南赡部洲、西牛货洲、北俱卢洲、身洲及胜身洲、</p>
-<p class="bo-verse">ལྷོར་རྔ་ཡབ་དང་རྔ་ཡབ་གཞན། ནུབ་ཏུ་གཡོ་ལྡན་དང་ལམ་མཆོག་འགྲོ།</p>
-<p class="intro-verse">拂洲及妙拂洲、行洲及胜道行洲、</p>
-<p class="bo-verse">བྱང་དུ་སྒྲ་མི་སྙན་དང་སྒྲ་མི་སྙན་གྱི་ཟླ། རིན་པོ་ཆེའི་རི་བོ།དཔག་བསམ་གྱི་ཤིང༌། འདོད་འཇོའི་བ།</p>
-<p class="intro-body center">恶音洲及恶音对洲，珍宝山、如意树、如意牛、</p>
-<p class="bo-verse">མ་རྨོས་པའི་ལོ་ཏོག འཁོར་ལོ་རིན་པོ་ཆེ། ནོར་བུ་རིན་པོ་ཆེ། བཙུན་མོ་རིན་པོ་ཆེ།བློན་པོ་རིན་པོ་ཆེ།</p>
-<p class="intro-verse">自然稻、金轮宝、如意宝、后妃宝、大臣宝、</p>
-<p class="bo-verse">གླང་པོ་རིན་པོ་ཆེ། རྟ་མཆོག་རིན་པོ་ཆེ། དམག་དཔོན་རིན་པོ་ཆེ། གཏེར་ཆེན་པོའི་བུམ་པ།སྒེག་པ་མ།</p>
-<p class="intro-body center">大象宝、绀马宝、将军宝、宝藏瓶，嬉女、</p>
-<p class="bo-verse">ཕྲེང་བ་མ། གླུ་མ། གར་མ། མེ་ཏོག་མ། བདུག་སྤོས་མ། སྣང་གསལ་མ། དྲི་ཆབ་མ།</p>
-<p class="intro-body center">鬘女、歌女、舞女、花女、香女、灯女、涂香女，</p>
-<p class="bo-verse">ཉི་མ།ཟླ་བ།རིན་པོ་ཆེའི་གདུགས།ཕྱོགས་ལས་རྣམ་པར་རྒྱལ་བའི་རྒྱལ་མཚན།</p>
-<p class="intro-body center">日、月、宝幡、威慑十方尊胜幢，</p>
-<p class="bo-verse">དབུས་སུ་ལྷ་དང་མིའི་དཔལ་འབྱོར་ཕུན་སུམ་ཚོགས་པ་མ་ཚང་བ་མེད་པ།ཚང་ཞིང་ཡིད་དུ་འོང་བ།</p>
-<p class="intro-body center">其中央人天受用无不具足、且圆满无不悦意，</p>
-<p class="bo-verse">བདག་གཞན་གྱི་ལུས་ལོངས་སྤྱོད་དུས་གསུམ་གྱི་དགེ་ཚོགས་ཞིང་ཁམས་རྒྱ་མཚོའི་མཆོད་སྤྲིན་</p>
-<p class="intro-body center">自他身财受用三世善业及净土海会云供等皆诚敬供养于</p>
-<p class="bo-verse">དང་བཅས་པ་འདི་རྣམས་དྲིན་ཅན་རྩ་བ་དང་བརྒྱུད་པར་བཅས་པའི་དཔལ་ལྡན་བླ་མ་དམ་པ་རྣམས་དང༌།</p>
-<p class="intro-body center">诸大恩根本与传承上师，</p>
-<p class="bo-verse">ཡི་དམ་དཀྱིལ་འཁོར་གྱི་ལྷ་ཚོགས། དཀོན་མཆོག་རིན་པོ་ཆེ་རྣམ་པ་གསུམ།</p>
-<p class="intro-verse">众圣坛城本尊，佛法僧三宝，</p>
-<p class="bo-verse">མཁའ་འགྲོ་ཆོས་སྐྱོང་ནོར་ལྷ་གཏེར་བདག་འཁོར་དང་བཅས་པ་ཐམས་ཅད་དང༌།</p>
-<p class="intro-body center">空行护法财神伏藏主等诸眷属尽无余，</p>
-<p class="bo-verse">ཕྱོགས་བཅུ་དུས་གསུམ་གྱི་རྒྱལ་བ་སྲས་དང་སློབ་མར་བཅས་པ་མ་ལུས་པར་གུས་པས་</p>
-<p class="intro-body center">以及十方三世一切诸佛佛子及学子尽无余前。</p>
-<p class="bo-verse">འབུལ་བར་བགྱིའོ། །</p>
-<p class="bo-verse">ཐུགས་རྗེས་འགྲོ་བའི་དོན་དུ་བཞེས་སུ་གསོལ། །</p>
-<p class="intro-body center">祈请慈悲为众请受纳，</p>
-<p class="bo-verse">བཞེས་ནས་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། །</p>
-<p class="bo-verse">གུ་རུ་ཨི་དམ་མཎྜལ་ཀཾ་ནིརྻ་ཏ་ཡ་མི།</p>
-<p class="intro-body center">纳己祈请赐加持，一切供品和自己供养于上师及坛城。</p>
-<p class="bo-verse">གྲངས་གསོག་དངོས།</p>
-<p class="intro-body center">计数（曼茶罗）</p>
-<p class="bo-verse">ས་གཞི་སྤོས་ཆུས་བྱུགས་ཤིང་མེ་ཏོག་བཀྲམ། །</p>
-<p class="bo-verse">རི་རབ་གླིང་བཞི་ཉི་ཟླས་བརྒྱན་པ་འདི། །</p>
-<p class="intro-verse">大地涂香花锦簇，</p>
-<p class="intro-verse">须弥四洲日月饰，</p>
-<p class="bo-verse">སངས་རྒྱས་ཞིང་དུ་དམིགས་ཏེ་དབུལ་བ་ཡིས། །</p>
-<p class="bo-verse">འགྲོ་ཀུན་རྣམ་དག་ཞིང་ལ་སྤྱོད་པར་ཤོག།</p>
-<p class="intro-verse">意缘佛刹作供养，</p>
-<p class="intro-verse">愿诸友情行净土。</p>
-<p class="bo-verse">གུ་རུ་ཨི་དམ་མཎྜལ་ཀཾ་ནིརྻ་ཏ་ཡ་མི།</p>
-<p class="intro-body center">一切供品和自己供养于上师及坛城</p>
-<p class="intro-body center">发愿</p>
-<p class="bo-verse">མཉེས་བྱེད་མཎྜལ་བཟང་པོ་འདི་ཕུལ་བས། །</p>
-<p class="bo-verse">བྱང་ཆུབ་ལམ་ལ་བར་ཆད་མི་འབྱུང་ཞིང༌། །</p>
-<p class="intro-verse">因供悦意圣妙曼茶罗，</p>
-<p class="intro-verse">菩提道上障碍悉消除，</p>
-<p class="bo-verse">དུས་གསུམ་བདེ་གཤེགས་དགོངས་པ་རྫོགས་པ་དང༌། །</p>
-<p class="bo-verse">སྲིད་པར་མི་འཁྲུལ་ཞི་བར་མི་གོལ་ཞིང༌། །</p>
-<p class="intro-verse">圆满三世善逝深密意，</p>
-<p class="intro-verse">不迷轮回亦不住涅槃。</p>
-<p class="bo-verse">ནམ་མཁའ་དང་མཉམ་པའི་འགྲོ་རྣམས་སྒྲོལ་བར་ཤོག །</p>
-<p class="intro-body center">祈愿恒度等空诸众生。</p>
-<p class="intro-body center">（融入次第）</p>
-<p class="bo-verse">ཚོགས་ཞིང་འོད་ཞུ་བདག་ཐིམ་བྱིན་བརླབ་གྱུར། །</p>
-<p class="intro-body center">福田化光融入自身获加持。</p>
-<p class="bo-verse">བླ་མའི་རྣལ་འབྱོར་ནི།</p>
-<p class="intro-verse">上师瑜伽</p>
-<p class="bo-verse">རང་ཉིད་རྡོ་རྗེ་རྣལ་འབྱོར་མར་གསལ་བའི། །</p>
-<p class="bo-verse">སྤྱི་བོར་རྩ་བའི་བླ་མ་རྡོ་རྗེ་འཆང༌། །</p>
-<p class="intro-verse">自身观想金刚瑜伽母，</p>
-<p class="intro-verse">于顶根本上师金刚持，</p>
-<p class="bo-verse">དབུ་སྟེང་ཕྱག་ཆེན་བླ་རྒྱུད་ཐོ་བརྩེགས་གསལ། །</p>
-<p class="bo-verse">བདག་ལུས་ལོངས་སྤྱོད་ཕྱི་ནང་གསང་མཆོད་འབུལ། །</p>
-<p class="intro-verse">其上大印传承师明观，</p>
-<p class="intro-verse">自身受用外内密供养，</p>
-<p class="bo-verse">མོས་གུས་གདུང་ཤུགས་དྲག་པོས་གསོལ་བ་འདེབས། །</p>
-<p class="bo-verse">ཐུགས་རྗེས་སྐྱོབས་ལ་བྱིན་རླབས་དངོས་གྲུབ་སྩོལ། །</p>
-<p class="intro-verse">虔敬渴望猛厉而祈请，</p>
-<p class="intro-verse">慈悲怙佑加持赐成就。</p>
-<p class="bo-verse">མཆོད་པ་འབུལ་པ་ནི།</p>
-<p class="intro-verse">供养上师</p>
-<p class="bo-verse">སྐུ་གསུམ་ཡོངས་རྫོགས་བླ་མའི་ཚོགས་རྣམས་ལ། །</p>
-<p class="bo-verse">ཕྱི་ནང་གསང་གསུམ་དེ་བཞིན་ཉིད་ཀྱིས་མཆོད། །</p>
-<p class="intro-verse">三身圆满诸胜上师前，</p>
-<p class="intro-verse">外内秘密真如做供养，</p>
-<p class="bo-verse">བདག་ལུས་ལོངས་སྤྱོད་སྣང་སྲིད་ཡོངས་བཞེས་ལ། །</p>
-<p class="bo-verse">བླ་མེད་མཆོག་གི་དངོས་གྲུབ་བསྩལ་དུ་གསོལ། །</p>
-<p class="intro-verse">受纳己身受用及万物，</p>
-<p class="intro-verse">祈赐无上殊胜之成就。</p>
-<p class="bo-verse">གསོལ་འདེབས་ནི།</p>
-<p class="intro-verse">传承上师祈祷文</p>
-<p class="bo-verse">རྡོ་རྗེ་འཆང་ཆེན་ཏིལ་ལི་ནཱ་རོ་དང༌། །</p>
-<p class="bo-verse">མར་པ་མི་ལ་སྒམ་པོ་མཐའ་རྩ་པ། །</p>
-<p class="intro-verse">金刚总持谛洛那若巴，</p>
-<p class="intro-verse">玛尔巴米拉冈波帕莫竹，</p>
-<p class="bo-verse">སྣ་ཕུ་པ་དང་དཔལ་ལྡན་འབྲུག་པ་སོགས། །</p>
-<p class="bo-verse">བརྒྱུད་པའི་བླ་མ་རྣམས་ལ་གསོལ་བ་འདེབས། །</p>
-<p class="intro-verse">领钦日巴具德竹巴等，</p>
-<p class="intro-verse">传承诸师足下敬祈祷。</p>
-<p class="bo-verse">བླ་རྒྱུད་ཞུ་བསྟིམ་ནི།</p>
-<p class="intro-verse">传承上师化光融入</p>
-<p class="bo-verse">བརྒྱུད་པའི་བླ་མ་འོད་ཞུ་གཙོ་ལ་ཐིམ། །</p>
-<p class="bo-verse">རྒྱལ་ཀུན་འདུས་གཟུགས་རྩ་བའི་བླ་མ་ཉིད། །</p>
-<p class="intro-verse">传承诸师化光入主尊，</p>
-<p class="intro-verse">诸佛化现根本上师尊，</p>
-<p class="bo-verse">ཀུན་འདུས་ཡིད་བཞིན་ནོར་བུར་ངེས་ཤེས་ཀྱིས། །</p>
-<p class="bo-verse">གདུང་བས་གསོལ་འདེབས་ཐུགས་རྗེས་བཟུང་དུ་གསོལ། །</p>
-<p class="intro-verse">坚信三宝总集如意宝，</p>
-<p class="intro-verse">强烈祈祷慈悲随摄受。</p>
-<p class="bo-verse">གྲངས་གསོག་དངོས།</p>
-<p class="intro-verse">计数（上师瑜伽偈颂）</p>
-<p class="bo-verse">སངས་རྒྱས་ཀུན་འདུས་རྩ་བའི་བླ་མ་ལ། །</p>
-<p class="bo-verse">སྒོ་གསུམ་གུས་པ་ཆེ་པོས་གསོལ་བ་འདེབས། །</p>
-<p class="intro-verse">诸佛总集根本师，</p>
-<p class="intro-verse">三门恭敬而祈祷，</p>
-<p class="bo-verse">གདོད་མའི་གནས་ལུགས་རང་ངོ་ཤེས་པ་དང༌། །</p>
-<p class="bo-verse">ཚེ་དང་སྒྲུབ་པ་མཉམ་པར་བྱིན་གྱིས་རློབས། །</p>
-<p class="intro-verse">了悟本来之面目，</p>
-<p class="intro-verse">终生实修祈加持，</p>
-<p class="bo-verse">བླ་མ་སངས་རྒྱས་རིན་པོ་ཆེ་ལ་སྐྱབས་སུ་མཆིའོ། །</p>
-<p class="bo-verse">ཆོས་རྗེ་སངས་རྒྱས་རིན་པོ་ཆེ་ལ་སྐྱབས་སུ་མཆིའོ། །</p>
-<p class="intro-verse">皈依上师佛陀宝，</p>
-<p class="intro-verse">皈依法主佛陀宝。</p>
-<p class="bo-verse">དབང་བཞི་ལེན་པ།</p>
-<p class="intro-verse">摄受四灌顶</p>
-<p class="bo-verse">སྐུ་ཡི་བྱིན་རླབས་ལུས་ལ་ཞུགས། །</p>
-<p class="bo-verse">སྒྱུ་འཕྲུལ་རྡོ་རྗེའི་སྐུ་ཐོབ་ཤོག །</p>
-<p class="intro-verse">尊身加持入我身，</p>
-<p class="intro-verse">愿得幻化金刚身，</p>
-<p class="bo-verse">གསུང་གི་བྱིན་རླབས་ངག་ལ་ཞུགས། །</p>
-<p class="bo-verse">འཇམ་དབྱངས་ཆེན་པོ་འགྲུབ་གྱུར་ཅིག། །</p>
-<p class="intro-verse">尊语加持入我语，</p>
-<p class="intro-verse">愿得成就大文殊，</p>
-<p class="bo-verse">ཐུགས་ཀྱི་བྱིན་རླབས་ཡིད་ལ་ཞུགས། །</p>
-<p class="bo-verse">འཕོ་མེད་བདེ་བ་ཆེ་ཐོབ་ཤོག །</p>
-<p class="intro-verse">尊意加持入我心，</p>
-<p class="intro-verse">愿得无转之大乐。</p>
-<p class="bo-verse">བླ་མ་ཞུ་བསྟིམ་ནི།</p>
-<p class="intro-verse">上师融入自身</p>
-<p class="bo-verse">ཇི་ལྟར་ཆུ་ལ་ཆུ་བཞག་ལྟར། །</p>
-<p class="bo-verse">བདག་དང་གཉིས་མེད་གཅིག་གྱུར་ནས། །</p>
-<p class="intro-verse">犹如水融水之中，</p>
-<p class="intro-verse">与我无二且无别，</p>
-<p class="bo-verse">ས་བཅུའི་མགོན་པོ་འགྲུབ་གྱུར་ཅིག །</p>
-<p class="intro-body center">愿证十地怙主果。</p>
-<p class="bo-verse">དགེ་བསྔོ་ནི།</p>
-<p class="intro-verse">功德回向</p>
-<p class="bo-verse">དགེ་བ་འདི་ཡིས་མྱུར་དུ་བདག ། </p>
-<p class="bo-verse">དཔལ་ལྡན་བླ་མ་འགྲུབ་གྱུར་ནས། །</p>
-<p class="intro-verse">愿我以此善，</p>
-<p class="intro-verse">速成具德师，</p>
-<p class="bo-verse">འགྲོ་བ་གཅིག་ཀྱང་མ་ལུས་པ། །</p>
-<p class="bo-verse">དེ་ཡི་ས་ལ་འགོད་པར་ཤོག། །</p>
-<p class="intro-verse">众生一无余，</p>
-<p class="intro-verse">安置于彼地。</p>
-<p class="bo-verse">སྨོན་ལམ་ནི།</p>
-<p class="intro-verse">发愿</p>
-<p class="bo-verse">སྐྱེ་བ་ཀུན་ཏུ་ཡང་དག་བླ་མ་དང༌། །</p>
-<p class="bo-verse">འབྲལ་མེད་ཆོས་ཀྱི་དཔལ་ལ་ལོངས་སྤྱོད་ཅིང༌། །</p>
-<p class="intro-verse">永世我与清净师，</p>
-<p class="intro-verse">不离安享诸妙法，</p>
-<p class="bo-verse">ས་དང་ལམ་གྱི་ཡོན་ཏན་རབ་རྫོགས་ནས། །</p>
-<p class="bo-verse">རྡོ་རྗེ་འཆང་གི་གོ་འཕང་མྱུར་ཐོབ་ཤོག། །</p>
-<p class="intro-verse">圆满地道之功德，</p>
-<p class="intro-verse">愿得金刚持果位。</p>
-<p class="bo-verse">བཀྲ་ཤིས་བརྗོད་པ་ནི།</p>
-<p class="intro-verse">吉详颂</p>
-<p class="bo-verse">ཉིན་མོ་བདེ་ལེགས་མཚན་བདེ་ལེགས། །</p>
-<p class="bo-verse">ཉི་མའི་གུང་ཡང་བདེ་ལེགས་ཤིང༌། །</p>
-<p class="intro-verse">愿昼吉祥夜吉祥，</p>
-<p class="intro-verse">正午亦愿得吉祥，</p>
-<p class="bo-verse">ཉིན་མཚན་རྟག་ཏུ་བདེ་ལེགས་པ། །</p>
-<p class="bo-verse">དཀོན་མཆོག་གསུམ་གྱིས་བཀྲ་ཤིས་ཤོག །</p>
-<p class="intro-verse">昼夜六时恒吉祥，</p>
-<p class="intro-verse">无上三宝赐吉祥。</p>
-<p class="bo">ཅེས་ཕྱག་ཆེན་གྱི་སྔོན་འགྲོ་བཞི་སྦྱོར་ངག་འདོན་ས་བོན་ཙམ་བཀོད་པ་འདི་ནི་རྒྱ་རིགས་ཀྱི་དགེ་བསྙེན་ཕ་མ་འགའ་ཞིག་གིས་འབུམ་བཞི་བསག་མོས་ཤིན་ཏུ་ཆེ་བར་སྒོམ་དོན་སྐད་བསྒྱུར་གྱིས་ངོ་སྤྲོད་བྱས་རྗེས་མི་བརྗེད་དྲན་སྐུལ་ཙམ་དུ་གྲུབ་རིགས་ཁྱུ་མཆོག་གིས་ལྷག་བསམ་དག་པས་བྲིས་པ་འདིས་ཆོས་ལ་མོས་ལྡན་དང་པོའི་ལས་ཅན་རྣམས་ལ་ཕན་པ་རྒྱ་ཆེར་འབྱུང་བར་གྱུར་ཅིག།།།</p>
-<p class="intro-body">此种子般的大手印四加行念颂文，因多位汉族男女居士强烈要求修持大手印四加行，而且由译师翻译讲解其观修之方法，而后仅仅为了诸修行者便于日常修持，由仲惹却秋（阿德仁波切）以增上意乐心撰著。愿所有初学者均获得广泛利益。古普·钦哲仁波切译汉。愿一切吉祥！</p>
+<p class="m-head-bo">ཅི་ཡོང་བར་ཤོག</p>
+<p class="bo">རྣམ་རྟོག་ཅི་ཡོང་བར་ཤོག་ཅིག ཉོན་མོངས་པ་ཅི་ཡོང་བར་ཤོག་ཅིག ལྷ་འདྲེ་ཅི་ཡོང་བར་ཤོག་ཅིག སྡུག་བསྔལ་ཅི་ཡོང་བར་ཤོག་ཅིག ན་ཚ་ཅི་ཡོང་བར་ཤོག་ཅིག འཆི་རྐྱེན་ཅི་ཡོང་བར་ཤོག་ཅིག མི་རྙེད་པ་ཅི་ཡོང་བར་ཤོག་ཅིག མི་བདེ་བ་ཅི་ཡོང་བར་ཤོག་ཅིག མི་སྙན་པ་ཅི་ཡོང་བར་ཤོག་ཅིག སྨད་པ་ཅི་ཡོང་བར་ཤོག་ཅིག རྐྱེན་ངན་ཅི་ཡོང་བར་ཤོག་ཅིག བར་ཆད་ཅི་ཡོང་བར་ཤོག་ཅིག ལེགས་ཉེས་ཅི་ཡོང་བར་ཤོག་ཅིག །</p>
+<p class="sec-label zh-body-text">【让它来】</p>
+<p class="intro-body zh-body-text">寻思让它来，烦恼让它来，鬼神让它来，痛苦让它来，疾病让它来，死亡让它来，衰败让它来，痛苦让它来，毁谤让它来，讥讽让它来，违缘让它来，障碍让它来，好事坏事让它来。</p>
+
+<p class="m-head-bo">གང་ལྟར་འགྲོ་བར་སོང་</p>
+<p class="bo">རྙེད་པ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། བདེ་བ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། སྙན་པ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། བསྟོད་པ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ལུས་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། སྲོག་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ལང་ཚོ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། མཛའ་བཤེས་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ནོར་རྫས་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ཚེ་འདིར་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ཕྱི་མར་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། རེ་འདོད་ཐམས་ཅད་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། །</p>
+<p class="sec-label zh-body-text">【随它去】</p>
+<p class="intro-body zh-body-text">利益随它去，快乐随它去，赞誉随它去，称赞随它去，身体随它去，寿命随它去，青春随它去，友情随它去，财物随它去，今世随它去，来世随它去，一切期望随它去。</p>
+
+<p class="m-head-bo">ཅིས་ཀྱང་དགོས་པ་མེད</p>
+<p class="bo">ཟས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། གོས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ནོར་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཁང་ཁྱིམ་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཡོ་བྱད་ཀྱིས་ཅི་ཀྱང་དགོས་པ་མེད་དོ། གཉེན་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། གྲོགས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། དགའ་གྲོགས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། འཁོར་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཐོབ་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། སྙན་པས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཐམས་ཅད་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། །</p>
+<p class="sec-label zh-body-text">【无所求】</p>
+<p class="intro-body zh-body-text">饮食无所求，衣物无所求，财富无所求，房屋无所求，器具无所求，亲情无所求，友情无所求，爱情无所求，眷属无所求，权势无所求，名闻无所求，一切无所求。</p>
+
+<p class="bo-verse">བཟང་ངན་ལ་རོ་སྙོམས་པར་ཤོག་ཅིག །<br>རེ་དོགས་ཐམས་ཅད་མེད་པར་ཤོག་ཅིག །<br>བདག་འཛིན་རྩད་ནས་ཆོད་པར་ཤོག་ཅིག །<br>རང་སེམས་ལ་དབང་ཐུབ་པར་ཤོག་ཅིག །</p>
+<p class="m-colo-bo">གུ་ཕུ་མཁྱེན་བརྩེ་ནས།</p>
+<p class="intro-verse zh-body-text">祈愿一味好与坏，<br>祈愿无有希忧心，<br>祈愿根除诸我执，<br>祈愿自心得自在。</p>
+
+<p class="intro-sign first">古普·钦哲仁波切译释</p>
 
 </div>
+
+<style>
+/* 本页独立排版：只作用于《三猛咒》，无需修改 custom.css
+   字号体系已对齐全站标准（参照大手印法等 xxx-mod 模块的通用数值）：
+   藏文正文/偈颂 16px，中文正文/偈颂 18px，标题26px，
+   藏文标题20px，译者落款14px。 */
+.jy-page {
+  --bo-body-size: 16px;   /* 藏文正文/偈颂/小标题，全站统一标准 */
+  --zh-body-size: 18px;   /* 中文正文/偈颂/小标题，全站统一标准 */
+  --bo-title-size: 20px;  /* 顶部藏文标题，全站统一标准 */
+  --zh-title-size: 26px;  /* 顶部中文标题，全站统一标准 */
+  --top-author-size: 16px;
+  --translator-size: 14px; /* 底部译者署名，全站统一标准 */
+  --page-text-color: var(--vp-c-text-1);
+
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 30px 32px 56px;
+  color: var(--page-text-color);
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+@font-face {
+  font-family: "Noto Serif Tibetan Web";
+  src: url('/fonts/NotoSerifTibetan-bo.woff2') format('woff2');
+  font-display: swap;
+  unicode-range: U+0F00-0FFF;
+}
+
+/* 所有藏文统一使用同一字体文件；去掉有歧义的"Noto Serif Tibetan"（无Web后缀）
+   备用字体——那个名字依赖设备本地是否装了同名字体，装了什么版本全看运气，
+   是之前跨设备显示不一致（比如居中失效）的根源，此处强制只走自建字体文件。 */
+.jy-page .bo,
+.jy-page .bo-verse,
+.jy-page .jy-title-bo,
+.jy-page .m-head-bo,
+.jy-page .m-colo-bo {
+  font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base), serif !important;
+  color: var(--page-text-color) !important;
+  -webkit-text-fill-color: var(--page-text-color) !important;
+  opacity: 1 !important;
+  text-shadow: none !important;
+}
+
+/* ==================== 顶部标题区 ==================== */
+.jy-page > .jy-title-bo {
+  display: block !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  margin: 0 0 6px !important;
+  padding: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  font-size: var(--bo-title-size) !important;
+  font-weight: 400 !important;
+  line-height: 1.6 !important;
+}
+
+.jy-page > .intro-title {
+  display: block !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  margin: 3px 0 16px !important;
+  padding: 0 !important;
+  border: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  font-size: var(--zh-title-size) !important;
+  font-weight: 700 !important;
+  line-height: 1.45 !important;
+  color: var(--page-text-color) !important;
+  -webkit-text-fill-color: var(--page-text-color) !important;
+}
+
+.jy-page > .intro-author {
+  margin: 0 0 8px !important;
+  padding: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  font-size: var(--top-author-size) !important;
+  font-weight: 400 !important;
+  line-height: 1.6 !important;
+  color: var(--page-text-color) !important;
+  -webkit-text-fill-color: var(--page-text-color) !important;
+}
+
+/* ==================== 藏文正文 ==================== */
+/* 藏文小标题、散文正文、偈颂、译者藏文行，字号完全相同，
+   跟全站藏文正文标准(16px)一致 */
+.jy-page > .m-head-bo,
+.jy-page > .bo,
+.jy-page > .bo-verse,
+.jy-page > .m-colo-bo {
+  font-size: var(--bo-body-size) !important;
+  font-weight: 400 !important;
+  line-height: 1.9 !important;
+}
+
+.jy-page > .m-head-bo {
+  display: block !important;
+  float: none !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  margin: 34px auto 8px !important;
+  padding: 0 !important;
+  transform: none !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+}
+
+.jy-page > .bo {
+  margin: 0 0 12px !important;
+  padding: 0 !important;
+  text-align: left !important;
+  text-indent: 0 !important;
+}
+
+.jy-page > .bo-verse {
+  margin: 8px 0 12px !important;
+  padding: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+}
+
+.jy-page > .m-colo-bo {
+  margin: 2px 0 16px !important;
+  padding: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+}
+
+/* ==================== 中文正文 ==================== */
+/*
+  以本页唯一 ID 限定 + !important，即使 custom.css 或 VitePress
+  另有同名类，也不会把其中某一类改大或改小。
+*/
+#san-meng-zhou-page > .zh-body-text {
+  font-size: var(--zh-body-size) !important;
+  font-family: inherit !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  font-stretch: normal !important;
+  text-transform: none !important;
+  -webkit-text-size-adjust: 100% !important;
+  text-size-adjust: 100% !important;
+}
+.jy-page > .sec-label,
+.jy-page > .intro-body,
+.jy-page > .intro-verse {
+  font-size: var(--zh-body-size) !important;
+  font-weight: 400 !important;
+  color: var(--page-text-color) !important;
+  -webkit-text-fill-color: var(--page-text-color) !important;
+  opacity: 1 !important;
+  text-shadow: none !important;
+}
+
+/* 中文分类小标题【……】：字号与正文一致，加粗+字距做出层级感，
+   不再用超大字号制造差异 */
+.jy-page > .sec-label {
+  margin: 18px 0 10px !important;
+  padding: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  font-weight: 700 !important;
+  line-height: 1.6 !important;
+  letter-spacing: 2px !important;
+}
+
+.jy-page > .intro-body {
+  margin: 0 0 16px !important;
+  padding: 0 !important;
+  text-align: justify !important;
+  text-indent: 2em !important;
+  line-height: 1.95 !important;
+}
+
+.jy-page > .intro-verse {
+  margin: 6px 0 24px !important;
+  padding: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  line-height: 1.9 !important;
+  letter-spacing: 1px !important;
+}
+
+/* ==================== 底部译者署名 ==================== */
+.jy-page > .intro-sign,
+.jy-page > .intro-sign.first {
+  display: block !important;
+  margin: 34px 0 0 !important;
+  padding: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  font-size: var(--translator-size) !important;
+  font-weight: 400 !important;
+  line-height: 1.8 !important;
+  letter-spacing: 0 !important;
+  color: var(--vp-c-text-2) !important;
+  -webkit-text-fill-color: var(--vp-c-text-2) !important;
+}
+
+@media (max-width: 640px) {
+  .jy-page {
+    --bo-body-size: 15px;
+    --zh-body-size: 17px;
+    --bo-title-size: 18px;
+    --zh-title-size: 22px;
+    --top-author-size: 15px;
+    --translator-size: 14px;
+    padding: 22px 20px 40px;
+  }
+
+  .jy-page > .m-head-bo {
+    margin-top: 28px !important;
+  }
+}
+</style>
