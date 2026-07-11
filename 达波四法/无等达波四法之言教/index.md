@@ -13,7 +13,7 @@ aside: false
 
 <p class="intro-author">嘉旺棍嘎巴觉 著</p>
 
-<p class="bo center">ན་མོ་མ་ཧཱ་མུ་དྲཱ་ཡ།</p>
+<p class="bo center" style="text-align: center !important; text-indent: 0 !important;">ན་མོ་མ་ཧཱ་མུ་དྲཱ་ཡ།</p>
 
 <p class="intro-body center" style="text-align: center !important; text-indent: 0 !important;">顶礼大手印！</p>
 
@@ -102,7 +102,7 @@ aside: false
 .intro-author { text-align: center; font-size: 16px; color: var(--vp-c-text-2); margin: 0 0 36px; }
 .intro-author.bo { font-family: "Noto Serif Tibetan Web","Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya","Kailasa","Jomolhari",serif; text-align: center; font-size: 13px; line-height: 1.4; color: var(--vp-c-text-1); margin: 30px 0 2px; }
 .bo { font-size: 16px; line-height: 2.0; text-align: justify; color: var(--vp-c-text-1); margin: 0 0 6px; }
-.bo.center { text-align: center; }
+.bo.center { text-align: center !important; text-indent: 0 !important; }
 .bo-verse { font-size: 15px; line-height: 2.0; text-align: center; color: var(--vp-c-text-1); margin: 0 0 8px; }
 .intro-body { font-size: 18px; line-height: 1.95; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
 .intro-body.center { text-align: center; text-indent: 0; }
