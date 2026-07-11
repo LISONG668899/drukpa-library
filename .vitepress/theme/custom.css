@@ -100,8 +100,11 @@
 .dsy-mod .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
 
 /* 偈颂（一句一行居中）*/
-.dsy-mod .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 2px}
-.dsy-mod .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 2px}
+.dsy-mod .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.dsy-mod .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.dsy-mod .bo-verse{margin-bottom:0}
+.dsy-mod .intro-verse{margin-bottom:0}
+.dsy-mod .bo-verse + .intro-verse{margin-top:10px}
 .dsy-mod .intro-verse + .bo-verse{margin-top:44px}
 
 /* 咒语（连续无空格、居中）*/
@@ -197,8 +200,11 @@
 .bgyd-mod .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
 
 /* 偈颂（一句一行居中）*/
-.bgyd-mod .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 2px}
-.bgyd-mod .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 2px}
+.bgyd-mod .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.bgyd-mod .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.bgyd-mod .bo-verse{margin-bottom:0}
+.bgyd-mod .intro-verse{margin-bottom:0}
+.bgyd-mod .bo-verse + .intro-verse{margin-top:10px}
 .bgyd-mod .intro-verse + .bo-verse{margin-top:44px}
 
 /* 咒语（连续无空格、居中）*/
@@ -307,8 +313,11 @@
 .zyjf-mod .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
 
 /* 偈颂（一句一行居中）*/
-.zyjf-mod .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 2px}
-.zyjf-mod .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 2px}
+.zyjf-mod .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.zyjf-mod .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.zyjf-mod .bo-verse{margin-bottom:0}
+.zyjf-mod .intro-verse{margin-bottom:0}
+.zyjf-mod .bo-verse + .intro-verse{margin-top:10px}
 .zyjf-mod .intro-verse + .bo-verse{margin-top:44px}
 
 /* 咒语（连续无空格、居中）*/
@@ -413,8 +422,11 @@
 .xfyg-mod .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
 
 /* 偈颂（一句一行居中）*/
-.xfyg-mod .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 2px}
-.xfyg-mod .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 2px}
+.xfyg-mod .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.xfyg-mod .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.xfyg-mod .bo-verse{margin-bottom:0}
+.xfyg-mod .intro-verse{margin-bottom:0}
+.xfyg-mod .bo-verse + .intro-verse{margin-top:10px}
 .xfyg-mod .intro-verse + .bo-verse{margin-top:44px}
 
 /* 咒语（连续无空格、居中）*/
@@ -511,8 +523,11 @@
 .qdfy-mod .bo{font-size:16px;line-height:1.9;text-align:left;text-indent:2em;margin:0 0 15px}
 
 /* 偈颂（一句一行居中）*/
-.qdfy-mod .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 2px}
-.qdfy-mod .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 2px}
+.qdfy-mod .intro-verse{font-size:18px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.qdfy-mod .bo-verse{font-size:16px;line-height:1.85;text-align:center !important;text-indent:0;margin:0 0 6px}
+.qdfy-mod .bo-verse{margin-bottom:0}
+.qdfy-mod .intro-verse{margin-bottom:0}
+.qdfy-mod .bo-verse + .intro-verse{margin-top:10px}
 .qdfy-mod .intro-verse + .bo-verse{margin-top:44px}
 
 /* 咒语（连续无空格、居中）*/
