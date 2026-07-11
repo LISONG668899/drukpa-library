@@ -3,32 +3,32 @@ layout: page
 title: 竹巴《三猛咒》
 ---
 
-<div class="jy-page">
+<div id="san-meng-zhou-page" class="jy-page">
 
-<p class="jy-title-bo">༈ དཔལ་འབྲུག་པའི་དྲག་སྔགས་ཚིག་གསུམ་བཞུགས་སོ།།</p>
-<h1 class="intro-title">竹巴《三猛咒》</h1>
+<p class="jy-title-bo" style="font-size:var(--bo-title-size)!important;">༈ དཔལ་འབྲུག་པའི་དྲག་སྔགས་ཚིག་གསུམ་བཞུགས་སོ།།</p>
+<h1 class="intro-title" style="font-size:var(--zh-title-size)!important;">竹巴《三猛咒》</h1>
 <p class="intro-author">藏巴嘉热·益西多杰 著</p>
 
 <p class="m-head-bo">ཅི་ཡོང་བར་ཤོག</p>
 <p class="bo">རྣམ་རྟོག་ཅི་ཡོང་བར་ཤོག་ཅིག ཉོན་མོངས་པ་ཅི་ཡོང་བར་ཤོག་ཅིག ལྷ་འདྲེ་ཅི་ཡོང་བར་ཤོག་ཅིག སྡུག་བསྔལ་ཅི་ཡོང་བར་ཤོག་ཅིག ན་ཚ་ཅི་ཡོང་བར་ཤོག་ཅིག འཆི་རྐྱེན་ཅི་ཡོང་བར་ཤོག་ཅིག མི་རྙེད་པ་ཅི་ཡོང་བར་ཤོག་ཅིག མི་བདེ་བ་ཅི་ཡོང་བར་ཤོག་ཅིག མི་སྙན་པ་ཅི་ཡོང་བར་ཤོག་ཅིག སྨད་པ་ཅི་ཡོང་བར་ཤོག་ཅིག རྐྱེན་ངན་ཅི་ཡོང་བར་ཤོག་ཅིག བར་ཆད་ཅི་ཡོང་བར་ཤོག་ཅིག ལེགས་ཉེས་ཅི་ཡོང་བར་ཤོག་ཅིག །</p>
-<p class="sec-label">【让它来】</p>
-<p class="intro-body">寻思让它来，烦恼让它来，鬼神让它来，痛苦让它来，疾病让它来，死亡让它来，衰败让它来，痛苦让它来，毁谤让它来，讥讽让它来，违缘让它来，障碍让它来，好事坏事让它来。</p>
+<p class="sec-label zh-body-text" style="font-size:var(--zh-body-size)!important;">【让它来】</p>
+<p class="intro-body zh-body-text" style="font-size:var(--zh-body-size)!important;">寻思让它来，烦恼让它来，鬼神让它来，痛苦让它来，疾病让它来，死亡让它来，衰败让它来，痛苦让它来，毁谤让它来，讥讽让它来，违缘让它来，障碍让它来，好事坏事让它来。</p>
 
 <p class="m-head-bo">གང་ལྟར་འགྲོ་བར་སོང་</p>
 <p class="bo">རྙེད་པ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། བདེ་བ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། སྙན་པ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། བསྟོད་པ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ལུས་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། སྲོག་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ལང་ཚོ་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། མཛའ་བཤེས་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ནོར་རྫས་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ཚེ་འདིར་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། ཕྱི་མར་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། རེ་འདོད་ཐམས་ཅད་གང་ལྟར་འགྲོ་བར་སོང་ངོ་། །</p>
-<p class="sec-label">【随它去】</p>
-<p class="intro-body">利益随它去，快乐随它去，赞誉随它去，称赞随它去，身体随它去，寿命随它去，青春随它去，友情随它去，财物随它去，今世随它去，来世随它去，一切期望随它去。</p>
+<p class="sec-label zh-body-text" style="font-size:var(--zh-body-size)!important;">【随它去】</p>
+<p class="intro-body zh-body-text" style="font-size:var(--zh-body-size)!important;">利益随它去，快乐随它去，赞誉随它去，称赞随它去，身体随它去，寿命随它去，青春随它去，友情随它去，财物随它去，今世随它去，来世随它去，一切期望随它去。</p>
 
 <p class="m-head-bo">ཅིས་ཀྱང་དགོས་པ་མེད</p>
 <p class="bo">ཟས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། གོས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ནོར་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཁང་ཁྱིམ་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཡོ་བྱད་ཀྱིས་ཅི་ཀྱང་དགོས་པ་མེད་དོ། གཉེན་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། གྲོགས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། དགའ་གྲོགས་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། འཁོར་གྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཐོབ་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། སྙན་པས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། ཐམས་ཅད་ཀྱིས་ཅིས་ཀྱང་དགོས་པ་མེད་དོ། །</p>
-<p class="sec-label">【无所求】</p>
-<p class="intro-body">饮食无所求，衣物无所求，财富无所求，房屋无所求，器具无所求，亲情无所求，友情无所求，爱情无所求，眷属无所求，权势无所求，名闻无所求，一切无所求。</p>
+<p class="sec-label zh-body-text" style="font-size:var(--zh-body-size)!important;">【无所求】</p>
+<p class="intro-body zh-body-text" style="font-size:var(--zh-body-size)!important;">饮食无所求，衣物无所求，财富无所求，房屋无所求，器具无所求，亲情无所求，友情无所求，爱情无所求，眷属无所求，权势无所求，名闻无所求，一切无所求。</p>
 
 <p class="bo-verse">བཟང་ངན་ལ་རོ་སྙོམས་པར་ཤོག་ཅིག །<br>རེ་དོགས་ཐམས་ཅད་མེད་པར་ཤོག་ཅིག །<br>བདག་འཛིན་རྩད་ནས་ཆོད་པར་ཤོག་ཅིག །<br>རང་སེམས་ལ་དབང་ཐུབ་པར་ཤོག་ཅིག །</p>
 <p class="m-colo-bo">གུ་ཕུ་མཁྱེན་བརྩེ་ནས།</p>
-<p class="intro-verse">祈愿一味好与坏，<br>祈愿无有希忧心，<br>祈愿根除诸我执，<br>祈愿自心得自在。</p>
+<p class="intro-verse zh-body-text" style="font-size:var(--zh-body-size)!important;">祈愿一味好与坏，<br>祈愿无有希忧心，<br>祈愿根除诸我执，<br>祈愿自心得自在。</p>
 
-<p class="intro-sign first">古普·钦哲仁波切译释</p>
+<p class="intro-sign first" style="font-size:var(--translator-size)!important;">古普·钦哲仁波切译释</p>
 
 </div>
 
@@ -162,6 +162,22 @@ title: 竹巴《三猛咒》
 }
 
 /* ==================== 中文正文 ==================== */
+/*
+  绝对统一锁：以下七处中文（3个小标题、3段正文、末尾四句偈颂）
+  全部读取同一个 --zh-body-size。元素上的内联 !important 再加本页唯一 ID，
+  即使 custom.css 或 VitePress 另有同名类，也不能把其中某一类改大或改小。
+*/
+#san-meng-zhou-page > .zh-body-text {
+  font-size: var(--zh-body-size) !important;
+  font-family: inherit !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  font-stretch: normal !important;
+  text-transform: none !important;
+  -webkit-text-size-adjust: 100% !important;
+  text-size-adjust: 100% !important;
+}
 /* 中文小标题、散文正文、末尾偈颂，字号完全相同 */
 .jy-page > .sec-label,
 .jy-page > .intro-body,
