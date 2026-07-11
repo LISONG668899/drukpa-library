@@ -44,11 +44,11 @@ title: 竹巴《三猛咒》
 .jy-title-bo { text-align: center; font-size: 20px; line-height: 1.7; color: var(--vp-c-text-1); margin: 0 0 6px; }
 .intro-title { text-align: center; border: 0; font-size: 32px; font-weight: 700; color: var(--vp-c-text-1); margin: 0 0 16px; padding: 0; }
 .intro-author { text-align: center; font-size: 19px; color: var(--vp-c-text-1); margin: 0 0 8px; }
-.m-head-bo { text-align: center; font-size: 19px; line-height: 1.8; color: var(--vp-c-text-1); margin: 46px 0 10px; }
+.m-head-bo { text-align: center !important; font-size: 17px; line-height: 2.05; color: var(--vp-c-text-1) !important; margin: 46px 0 8px; }
 .bo { font-size: 17px; line-height: 2.05; text-align: left; color: var(--vp-c-text-1); margin: 0 0 12px; }
 .bo-verse { text-align: center; font-size: 16px; line-height: 2.05; color: var(--vp-c-text-1); margin: 8px 0 12px; }
-.m-colo-bo { text-align: center; font-size: 16px; line-height: 1.8; color: var(--vp-c-text-1); margin: 2px 0 16px; }
-.sec-label { text-align: center; text-indent: 0; font-size: 22px; font-weight: 600; letter-spacing: 2px; color: var(--vp-c-text-1); margin: 18px 0 14px; }
+.m-colo-bo { text-align: center !important; font-size: 17px; line-height: 2.05; color: var(--vp-c-text-1) !important; margin: 2px 0 16px; }
+.sec-label { text-align: center; text-indent: 0; font-size: 22px; font-weight: 600; letter-spacing: 2px; color: var(--vp-c-text-1) !important; margin: 18px 0 14px; }
 .intro-body { font-size: 28px; line-height: 1.9; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
 .intro-verse { text-align: center; font-size: 26px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 6px 0 28px; }
 .intro-sign { text-align: center !important; text-indent: 0; font-size: 19px; line-height: 1.9; color: var(--vp-c-text-2); margin: 8px 0 0; }
@@ -57,10 +57,10 @@ title: 竹巴《三猛咒》
   .jy-page { padding: 22px 20px 40px; }
   .intro-title { font-size: 28px; }
   .jy-title-bo { font-size: 18px; }
-  .m-head-bo { font-size: 18px; margin-top: 38px; }
+  .m-head-bo { font-size: 16px; margin-top: 38px; }
   .bo { font-size: 16px; }
   .bo-verse { font-size: 14px; }
-  .m-colo-bo { font-size: 14px; }
+  .m-colo-bo { font-size: 16px; }
   .intro-body { font-size: 26px; }
   .intro-verse { font-size: 24px; }
 }
