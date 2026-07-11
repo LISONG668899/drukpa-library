@@ -35,14 +35,21 @@ title: 竹巴《三猛咒》
 <style>
 /* 本页独立排版：只作用于《三猛咒》，无需修改 custom.css */
 .jy-page {
-  --bo-copy-size: 17px;
-  --zh-copy-size: 28px;
+  /* 四组字号层级，避免标题、正文、署名互相覆盖 */
+  --bo-body-size: 17px;   /* 藏文正文全部统一 */
+  --zh-body-size: 28px;   /* 中文正文全部统一 */
+  --bo-title-size: 21px;  /* 顶部藏文标题，大于藏文正文 */
+  --zh-title-size: 32px;  /* 顶部中文标题，大于中文正文 */
+  --top-author-size: 19px;
+  --translator-size: 18px; /* 底部译者署名，小于中文正文 */
   --page-text-color: var(--vp-c-text-1);
 
   max-width: 720px;
   margin: 0 auto;
   padding: 30px 32px 56px;
   color: var(--page-text-color);
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 @font-face {
@@ -52,169 +59,176 @@ title: 竹巴《三猛咒》
   unicode-range: U+0F00-0FFF;
 }
 
-/* 藏文统一使用同一字体文件，标题与正文共用同一字号变量 */
+/* 所有藏文统一使用同一字体文件 */
 .jy-page .bo,
 .jy-page .bo-verse,
 .jy-page .jy-title-bo,
 .jy-page .m-head-bo,
 .jy-page .m-colo-bo {
-  font-family: "Noto Serif Tibetan Web", "Noto Serif Tibetan", "Noto Sans Tibetan", "Microsoft Himalaya", "Kailasa", "Jomolhari", serif;
+  font-family: "Noto Serif Tibetan Web", "Noto Serif Tibetan", "Noto Sans Tibetan", "Microsoft Himalaya", "Kailasa", "Jomolhari", serif !important;
   color: var(--page-text-color) !important;
-  -webkit-text-fill-color: var(--page-text-color);
+  -webkit-text-fill-color: var(--page-text-color) !important;
+  opacity: 1 !important;
+  text-shadow: none !important;
 }
 
-/* 标题区 */
-.jy-page .jy-title-bo {
-  margin: 0 0 6px;
-  padding: 0;
+/* ==================== 顶部标题区 ==================== */
+/* 顶部藏文总标题：明确大于藏文正文 */
+.jy-page > .jy-title-bo {
+  display: block !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  margin: 0 0 6px !important;
+  padding: 0 !important;
   text-align: center !important;
   text-indent: 0 !important;
-  font-size: 20px;
-  line-height: 1.7;
+  font-size: var(--bo-title-size) !important;
+  font-weight: 400 !important;
+  line-height: 1.7 !important;
 }
 
-.jy-page .intro-title {
-  margin: 0 0 16px;
-  padding: 0;
-  border: 0;
-  text-align: center !important;
-  font-size: 32px;
-  font-weight: 700;
-  line-height: 1.45;
-  color: var(--page-text-color) !important;
-  -webkit-text-fill-color: var(--page-text-color);
-}
-
-.jy-page .intro-author {
-  margin: 0 0 8px;
-  padding: 0;
+/* 顶部中文总标题：明确大于中文正文 */
+.jy-page > .intro-title {
+  display: block !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  margin: 0 0 16px !important;
+  padding: 0 !important;
+  border: 0 !important;
   text-align: center !important;
   text-indent: 0 !important;
-  font-size: 19px;
-  line-height: 1.6;
+  font-size: var(--zh-title-size) !important;
+  font-weight: 700 !important;
+  line-height: 1.45 !important;
   color: var(--page-text-color) !important;
-  -webkit-text-fill-color: var(--page-text-color);
+  -webkit-text-fill-color: var(--page-text-color) !important;
 }
 
-/* 藏文小标题：彻底清除段落缩进、左右内边距及浮动干扰 */
-.jy-page .m-head-bo {
+/* 顶部作者行不属于正文，保持较小辅助字号 */
+.jy-page > .intro-author {
+  margin: 0 0 8px !important;
+  padding: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  font-size: var(--top-author-size) !important;
+  font-weight: 400 !important;
+  line-height: 1.6 !important;
+  color: var(--page-text-color) !important;
+  -webkit-text-fill-color: var(--page-text-color) !important;
+}
+
+/* ==================== 藏文正文 ==================== */
+/* 藏文小标题、散文正文、偈颂、译者藏文行，字号完全相同 */
+.jy-page > .m-head-bo,
+.jy-page > .bo,
+.jy-page > .bo-verse,
+.jy-page > .m-colo-bo {
+  font-size: var(--bo-body-size) !important;
+  font-weight: 400 !important;
+  line-height: 2.05 !important;
+}
+
+.jy-page > .m-head-bo {
   display: block !important;
   float: none !important;
   width: 100% !important;
-  box-sizing: border-box;
+  box-sizing: border-box !important;
   margin: 46px auto 8px !important;
   padding: 0 !important;
   transform: none !important;
-
   text-align: center !important;
   text-indent: 0 !important;
-  font-size: var(--bo-copy-size) !important;
-  font-weight: 400 !important;
-  line-height: 2.05;
 }
 
-/* 藏文正文：与藏文小标题同字体、同字号、同字重 */
-.jy-page .bo {
-  margin: 0 0 12px;
-  padding: 0;
-  text-align: left;
-  text-indent: 0;
-  font-size: var(--bo-copy-size) !important;
-  font-weight: 400 !important;
-  line-height: 2.05;
+.jy-page > .bo {
+  margin: 0 0 12px !important;
+  padding: 0 !important;
+  text-align: left !important;
+  text-indent: 0 !important;
 }
 
-.jy-page .bo-verse {
-  margin: 8px 0 12px;
-  padding: 0;
+.jy-page > .bo-verse {
+  margin: 8px 0 12px !important;
+  padding: 0 !important;
   text-align: center !important;
   text-indent: 0 !important;
-  font-size: var(--bo-copy-size) !important;
-  font-weight: 400 !important;
-  line-height: 2.05;
 }
 
-.jy-page .m-colo-bo {
-  margin: 2px 0 16px;
-  padding: 0;
+.jy-page > .m-colo-bo {
+  margin: 2px 0 16px !important;
+  padding: 0 !important;
   text-align: center !important;
   text-indent: 0 !important;
-  font-size: var(--bo-copy-size) !important;
-  font-weight: 400 !important;
-  line-height: 2.05;
 }
 
-/* 中文小标题与中文正文使用完全相同的颜色、字重及渲染状态 */
-.jy-page .sec-label,
-.jy-page .intro-body {
+/* ==================== 中文正文 ==================== */
+/* 中文小标题、散文正文、末尾偈颂，字号完全相同 */
+.jy-page > .sec-label,
+.jy-page > .intro-body,
+.jy-page > .intro-verse {
+  font-size: var(--zh-body-size) !important;
+  font-weight: 400 !important;
   color: var(--page-text-color) !important;
-  -webkit-text-fill-color: var(--page-text-color);
+  -webkit-text-fill-color: var(--page-text-color) !important;
   opacity: 1 !important;
   text-shadow: none !important;
+}
+
+.jy-page > .sec-label {
+  margin: 18px 0 14px !important;
+  padding: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  line-height: 1.9 !important;
+  letter-spacing: 2px !important;
+}
+
+.jy-page > .intro-body {
+  margin: 0 0 16px !important;
+  padding: 0 !important;
+  text-align: justify !important;
+  text-indent: 2em !important;
+  line-height: 1.9 !important;
+}
+
+.jy-page > .intro-verse {
+  margin: 6px 0 28px !important;
+  padding: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  line-height: 2.2 !important;
+  letter-spacing: 1px !important;
+}
+
+/* ==================== 底部译者署名 ==================== */
+/* 单独锁定为小于中文正文，不受 intro-body / intro-verse 规则影响 */
+.jy-page > .intro-sign,
+.jy-page > .intro-sign.first {
+  display: block !important;
+  margin: 40px 0 0 !important;
+  padding: 0 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  font-size: var(--translator-size) !important;
   font-weight: 400 !important;
-}
-
-.jy-page .sec-label {
-  margin: 18px 0 14px;
-  padding: 0;
-  text-align: center !important;
-  text-indent: 0 !important;
-  font-size: var(--zh-copy-size);
-  line-height: 1.9;
-  letter-spacing: 2px;
-}
-
-.jy-page .intro-body {
-  margin: 0 0 16px;
-  padding: 0;
-  text-align: justify;
-  text-indent: 2em;
-  font-size: var(--zh-copy-size);
-  line-height: 1.9;
-}
-
-.jy-page .intro-verse {
-  margin: 6px 0 28px;
-  padding: 0;
-  text-align: center !important;
-  text-indent: 0 !important;
-  font-size: var(--zh-copy-size);
-  line-height: 2.2;
-  letter-spacing: 1px;
-  color: var(--page-text-color) !important;
-  -webkit-text-fill-color: var(--page-text-color);
-}
-
-.jy-page .intro-sign {
-  margin: 8px 0 0;
-  padding: 0;
-  text-align: center !important;
-  text-indent: 0 !important;
-  font-size: 19px;
-  line-height: 1.9;
+  line-height: 1.9 !important;
+  letter-spacing: 0 !important;
   color: var(--vp-c-text-2) !important;
-}
-
-.jy-page .intro-sign.first {
-  margin-top: 40px;
+  -webkit-text-fill-color: var(--vp-c-text-2) !important;
 }
 
 @media (max-width: 640px) {
   .jy-page {
-    --bo-copy-size: 16px;
-    --zh-copy-size: 26px;
+    --bo-body-size: 16px;
+    --zh-body-size: 26px;
+    --bo-title-size: 19px;
+    --zh-title-size: 29px;
+    --top-author-size: 17px;
+    --translator-size: 16px;
     padding: 22px 20px 40px;
   }
 
-  .jy-page .jy-title-bo {
-    font-size: 18px;
-  }
-
-  .jy-page .intro-title {
-    font-size: 28px;
-  }
-
-  .jy-page .m-head-bo {
+  .jy-page > .m-head-bo {
     margin-top: 38px !important;
   }
 }
