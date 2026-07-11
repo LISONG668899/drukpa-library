@@ -46,11 +46,11 @@ title: 竹巴《三猛咒》
 .intro-author { text-align: center; font-size: 19px; color: var(--vp-c-text-1); margin: 0 0 8px; }
 .m-head-bo { text-align: center !important; font-size: 17px; line-height: 2.05; color: var(--vp-c-text-1) !important; margin: 46px 0 8px; }
 .bo { font-size: 17px; line-height: 2.05; text-align: left; color: var(--vp-c-text-1); margin: 0 0 12px; }
-.bo-verse { text-align: center; font-size: 16px; line-height: 2.05; color: var(--vp-c-text-1); margin: 8px 0 12px; }
+.bo-verse { text-align: center; font-size: 17px; line-height: 2.05; color: var(--vp-c-text-1); margin: 8px 0 12px; }
 .m-colo-bo { text-align: center !important; font-size: 17px; line-height: 2.05; color: var(--vp-c-text-1) !important; margin: 2px 0 16px; }
-.sec-label { text-align: center; text-indent: 0; font-size: 22px; font-weight: 600; letter-spacing: 2px; color: var(--vp-c-text-1) !important; margin: 18px 0 14px; }
+.sec-label { text-align: center; text-indent: 0; font-size: 28px; font-weight: 600; letter-spacing: 2px; color: var(--vp-c-text-1) !important; margin: 18px 0 14px; }
 .intro-body { font-size: 28px; line-height: 1.9; text-align: justify; text-indent: 2em; color: var(--vp-c-text-1); margin: 0 0 16px; }
-.intro-verse { text-align: center; font-size: 26px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 6px 0 28px; }
+.intro-verse { text-align: center; font-size: 28px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 6px 0 28px; }
 .intro-sign { text-align: center !important; text-indent: 0; font-size: 19px; line-height: 1.9; color: var(--vp-c-text-2); margin: 8px 0 0; }
 .intro-sign.first { margin-top: 40px; }
 @media (max-width: 640px) {
@@ -59,9 +59,10 @@ title: 竹巴《三猛咒》
   .jy-title-bo { font-size: 18px; }
   .m-head-bo { font-size: 16px; margin-top: 38px; }
   .bo { font-size: 16px; }
-  .bo-verse { font-size: 14px; }
+  .bo-verse { font-size: 16px; }
   .m-colo-bo { font-size: 16px; }
   .intro-body { font-size: 26px; }
-  .intro-verse { font-size: 24px; }
+  .intro-verse { font-size: 26px; }
+  .sec-label { font-size: 26px; }
 }
 </style>
