@@ -8,7 +8,7 @@ title: 降雷大手印引导
 
 <p class="jy-title-bo">༄༅། །ཕྱག་རྒྱ་ཆེན་པོ་ཐོག་བབས།།</p>
 <h1 class="intro-title">降雷大手印</h1>
-<p class="intro-author bo">ཀརྨ་པ་དུས་གསུམ་མཁྱེན་པས་མཛད།</p>
+<p class="intro-author bo" style="text-align:center; text-indent:0;">ཀརྨ་པ་དུས་གསུམ་མཁྱེན་པས་མཛད།</p>
 <p class="intro-author last">噶玛巴·杜松虔巴  著</p>
 
 <p class="v-bo">ན་མོ་གུ་རུ།</p>

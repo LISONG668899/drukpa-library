@@ -9,7 +9,7 @@ title: 大手印简易引导
 <p class="jy-title-bo">༄༅། །ཕྱག་ཆེན་ཁྲིད་རིམ་མདོར་བསྡུས་སྔོན་འགྲོ་དངོས་གཞི་ཐམས་ཅད་ཚང་བ་</p>
 <p class="jy-title-bo">སྒོམ་འདོན་བྱ་རྒྱུ་བཞུགས་སོ། །</p>
 <h1 class="intro-title">大手印简易引导次第前行与正行念修文</h1>
-<p class="intro-author bo">མདོ་ཁམས་པ་ཀུན་དགའ་བསྟན་འཛིན་གྱིས་མཛད།</p>
+<p class="intro-author bo" style="text-align:center; text-indent:0;">མདོ་ཁམས་པ་ཀུན་དགའ་བསྟན་འཛིན་གྱིས་མཛད།</p>
 <p class="intro-author last">多康巴·棍嘎定增  著</p>
 
 <p class="bo-verse">སྐྱབས་རྩ་བརྒྱུད་བླ་མ་ཡི་དམ་ལྷ། །</p>

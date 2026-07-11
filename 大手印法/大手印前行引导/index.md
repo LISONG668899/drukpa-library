@@ -8,7 +8,7 @@ title: 大手印前行引导
 
 <p class="jy-title-bo">༄༅། །ཕྱག་ཆེན་སྔོན་འགྲོའི་ཟིན་བྲིས་བཞུགས་སོ།།</p>
 <h1 class="intro-title">大手印前行引导笔记</h1>
-<p class="intro-author bo">ཀུན་མཁྱེན་པདྨ་དཀར་པོ།</p>
+<p class="intro-author bo" style="text-align:center; text-indent:0;">ཀུན་མཁྱེན་པདྨ་དཀར་པོ།</p>
 <p class="intro-author last">遍知·白玛嘎波  著</p>
 
 <p class="bo-verse">དཔལ་ལྡན་བླ་མ་དམ་པའི་ཞབས་ལ་ཕྱག་འཚལ་ལོ། །</p>

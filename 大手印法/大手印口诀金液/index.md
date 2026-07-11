@@ -10,7 +10,7 @@ title: 大手印口诀金液
 <p class="jy-title-bo">ཞལ་གདམས་གསེར་ཞུན་མ་བཞུགས་སོ། །</p>
 <h1 class="intro-title">大手印见修行之实修方法</h1>
 <p class="jy-subtitle">口诀真金液</p>
-<p class="intro-author bo">རྗེ་ངག་དབང་ཀུན་དགའ་བསྟན་འཛིན།</p>
+<p class="intro-author bo" style="text-align:center; text-indent:0;">རྗེ་ངག་དབང་ཀུན་དགའ་བསྟན་འཛིན།</p>
 <p class="intro-author last">昂旺棍嘎定增  著</p>
 
 <p class="bo-verse">ན་མོ་གུ་རུ་པྲ་བྷཀཱ་ར་ཡེ།</p>
