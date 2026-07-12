@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { withPwa } from '@vite-pwa/vitepress'
 
 const SITE_URL = 'https://DrukpaTrove.org'
 const SITE_TITLE = '竹巴噶举妙法宝箧'
@@ -9,7 +10,6 @@ function getPageUrl(relativePath: string) {
   const pagePath = relativePath
     .replace(/(^|\/)index\.md$/, '$1')
     .replace(/\.md$/, '.html')
-
   return encodeURI(`${SITE_URL}/${pagePath}`)
 }
 
@@ -22,68 +22,45 @@ function upsertMeta(
   const existing = head.find((item) => {
     return item[0] === 'meta' && item[1]?.[attrName] === attrValue
   })
-
   if (existing) {
     existing[1].content = content
     return
   }
-
   head.push(['meta', { [attrName]: attrValue, content }])
 }
 
-export default defineConfig({
+export default withPwa(defineConfig({
   base: '/',
   lang: 'zh-CN',
 
   title: SITE_TITLE,
   description: SITE_DESCRIPTION,
 
-  // 让搜索引擎爬虫能一次性找到全站所有页面（不影响读者，纯技术文件）
-  // 构建后会在网站根目录自动生成 sitemap.xml
   sitemap: {
     hostname: SITE_URL
   },
-
-  // 让 sitemap.xml 里的 <lastmod> 标签反映每页最后更新时间
   lastUpdated: true,
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { name: 'twitter:card', content: 'summary_large_image' }]
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' }],
+    ['meta', { name: 'theme-color', content: '#b06a43' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
+    ['meta', { name: 'apple-mobile-web-app-title', content: 'Drukpa Trove' }]
   ],
-
-  transformPageData(pageData) {
-    const rawTitle = pageData.title || SITE_TITLE
-    const pageTitle = rawTitle === SITE_TITLE ? SITE_TITLE : `${rawTitle} | ${SITE_TITLE}`
-    const pageDescription = pageData.description || SITE_DESCRIPTION
-    const pageUrl = getPageUrl(pageData.relativePath)
-
-    const head = Array.isArray(pageData.frontmatter.head)
-      ? pageData.frontmatter.head
-      : []
-
-    pageData.frontmatter.head = head
-
-    upsertMeta(head, 'property', 'og:title', pageTitle)
-    upsertMeta(head, 'property', 'og:description', pageDescription)
-    upsertMeta(head, 'property', 'og:image', OG_IMAGE)
-    upsertMeta(head, 'property', 'og:url', pageUrl)
-    upsertMeta(head, 'name', 'twitter:title', pageTitle)
-    upsertMeta(head, 'name', 'twitter:description', pageDescription)
-    upsertMeta(head, 'name', 'twitter:image', OG_IMAGE)
-  },
 
   themeConfig: {
     siteTitle: SITE_TITLE,
-
     logo: '/logo.png',
-
     nav: [
       { text: '主页', link: '/' },
       { text: '关于我们', link: '/关于我们/' },
       { text: '竹巴噶举', link: '/竹巴噶举简介/' }
     ],
-
     sidebar: [
       {
         text: '内容导航',
@@ -92,15 +69,11 @@ export default defineConfig({
         ]
       }
     ],
-
     search: {
       provider: 'local',
       options: {
         translations: {
-          button: {
-            buttonText: '搜索',
-            buttonAriaLabel: '搜索'
-          },
+          button: { buttonText: '搜索', buttonAriaLabel: '搜索' },
           modal: {
             displayDetails: '显示详细列表',
             resetButtonTitle: '清除查询条件',
@@ -115,5 +88,32 @@ export default defineConfig({
         }
       }
     }
+  },
+
+  // ===== PWA（渐进式网页应用）=====
+  pwa: {
+    registerType: 'autoUpdate',
+    includeAssets: ['favicon-32x32.png', 'favicon-16x16.png', 'apple-touch-icon.png'],
+    manifest: {
+      name: '竹巴噶举妙法宝箧',
+      short_name: 'Drukpa Trove',
+      description: SITE_DESCRIPTION,
+      lang: 'zh-CN',
+      theme_color: '#b06a43',
+      background_color: '#ffffff',
+      display: 'standalone',
+      orientation: 'portrait',
+      start_url: '/',
+      icons: [
+        { src: '/pwa-192x192.png', sizes: '192x192', type: 'image/png' },
+        { src: '/pwa-512x512.png', sizes: '512x512', type: 'image/png' },
+        { src: '/pwa-maskable-512x512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
+      ]
+    },
+    workbox: {
+      globPatterns: ['**/*.{js,css,html,woff2,woff,ttf,png,jpg,jpeg,svg,webp,ico}'],
+      maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
+      cleanupOutdatedCaches: true
+    }
   }
-})
+}))
