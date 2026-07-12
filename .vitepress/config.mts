@@ -4,6 +4,7 @@ import { withPwa } from '@vite-pwa/vitepress'
 const SITE_URL = 'https://DrukpaTrove.org'
 const SITE_TITLE = '竹巴噶举妙法宝箧'
 const SITE_DESCRIPTION = '竹巴噶举 · 藏汉译传法要'
+const APP_NAME = 'Drukpa'
 const OG_IMAGE = `${SITE_URL}/og-cover.png`
 
 function getPageUrl(relativePath: string) {
@@ -46,11 +47,11 @@ export default withPwa(defineConfig({
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
     ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
-    ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
     ['meta', { name: 'theme-color', content: '#b06a43' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
-    ['meta', { name: 'apple-mobile-web-app-title', content: 'Drukpa Trove' }]
+    ['meta', { name: 'apple-mobile-web-app-title', content: APP_NAME }]
   ],
 
   themeConfig: {
@@ -95,8 +96,8 @@ export default withPwa(defineConfig({
     registerType: 'autoUpdate',
     includeAssets: ['favicon-32x32.png', 'favicon-16x16.png', 'apple-touch-icon.png'],
     manifest: {
-      name: '竹巴噶举妙法宝箧',
-      short_name: 'Drukpa Trove',
+      name: APP_NAME,
+      short_name: APP_NAME,
       description: SITE_DESCRIPTION,
       lang: 'zh-CN',
       theme_color: '#b06a43',
