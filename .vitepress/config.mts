@@ -96,6 +96,7 @@ export default withPwa(defineConfig({
     registerType: 'autoUpdate',
     includeAssets: ['favicon-32x32.png', 'favicon-16x16.png', 'apple-touch-icon.png'],
     manifest: {
+      id: '/',
       name: APP_NAME,
       short_name: APP_NAME,
       description: SITE_DESCRIPTION,
@@ -104,10 +105,12 @@ export default withPwa(defineConfig({
       background_color: '#ffffff',
       display: 'standalone',
       orientation: 'portrait',
+      scope: '/',
       start_url: '/',
+      prefer_related_applications: false,
       icons: [
-        { src: '/pwa-192x192.png', sizes: '192x192', type: 'image/png' },
-        { src: '/pwa-512x512.png', sizes: '512x512', type: 'image/png' },
+        { src: '/pwa-192x192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
+        { src: '/pwa-512x512.png', sizes: '512x512', type: 'image/png', purpose: 'any' },
         { src: '/pwa-maskable-512x512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
       ]
     },
