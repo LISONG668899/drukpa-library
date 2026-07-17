@@ -25,7 +25,7 @@ aside: false
     <span class="cat-sub">嘉旺棍嘎巴觉</span>
   </a>
   <a class="cat-card" href="/不共引导/六类一味法实修/">
-    <span class="cat-tib-sm">རོ་སྙོམས་སྐོར་དྲུག་གི་སྒང་དུ་དྲིལ</span>
+    <span class="cat-tib-sm">རོ་སྙོམས་སྐོར་དྲུག་གི་སྒང་དྲིལ</span>
     <span class="cat-title">六类一味法实修</span>
     <span class="cat-sub">遍知白玛嘎波</span>
   </a>

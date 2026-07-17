@@ -22,7 +22,7 @@ title: 祖师教言
   <a class="jy-card" href="/祖师教言/竹巴衮列自传之歌/"><span class="jy-tib">འབྲུག་པ་ཀུན་ལེགས་ཀྱི་མགུར་གླུ</span><span class="jy-name">竹巴衮列道歌</span></a>
   <a class="jy-card" href="/祖师教言/拉泽瓦尊者道歌/"><span class="jy-tib">ལྷ་རྩེ་བ་ངག་དབང་བཟང་པོའི་མགུར</span><span class="jy-name">拉泽瓦尊者道歌</span></a>
   <a class="jy-card" href="/祖师教言/拉泽瓦十二誓言/"><span class="jy-tib">རྗེ་ལྷ་རྩེ་བའི་དམ་བཅའ་བཅུ་གཉིས</span><span class="jy-name">拉泽瓦十二誓言</span></a>
-  <a class="jy-card" href="/祖师教言/仲却上师格言/"><span class="jy-tib">གྲུབ་རིགས་ཁྱུ་མཆོག་ཞལ་གདམས</span><span class="jy-name">仲却上师格言</span></a>
+  <a class="jy-card" href="/祖师教言/仲却上师格言/"><span class="jy-tib">གྲུབ་མཆོག་ལེགས་བཤད</span><span class="jy-name">仲却上师格言</span></a>
   <a class="jy-card" href="/祖师教言/具德上师之言教/"><span class="jy-tib">ཨ་ལྡེའུ་རིན་པོ་ཆེའི་ཞལ་གདམས</span><span class="jy-name">具德上师之言教</span></a>
   <a class="jy-card" href="/祖师教言/阿德仁波切言教/"><span class="jy-tib">ཨ་ལྡེའུ་རིན་པོ་ཆེའི་ཞལ་གདམས</span><span class="jy-name">阿德仁波切言教</span></a>
 </div>
