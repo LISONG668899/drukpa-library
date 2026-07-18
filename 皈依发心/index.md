@@ -16,7 +16,7 @@ aside: false
   </a>
   <a class="cat-card" href="/皈依发心/授皈依戒议轨/">
     <span class="cat-tib-sm">སྐྱབས་འགྲོའི་སྡོམ་པ་འབོགས་ཆོག</span>
-    <span class="cat-title">授皈依戒议轨</span>
+    <span class="cat-title">授皈依戒仪轨</span>
     <span class="cat-sub">昂旺求巴嘉措</span>
   </a>
   <a class="cat-card" href="/皈依发心/受菩萨戒仪轨/">

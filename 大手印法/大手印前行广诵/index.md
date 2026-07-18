@@ -1989,7 +1989,7 @@ title: 大手印前行广诵
 <p class="bo-verse">སྤྱིར་འགྲོ་དྲུག་ཡོངས་ལ་བཀྲ་ཤིས་ཤོག །</p>
 <p class="bo-verse">སྒོས་འདིར་ཚོགས་རྣམས་ལ་བཀྲ་ཤིས་ཤོག །</p>
 <p class="intro-verse">道大手印无拥堵，</p>
-<p class="intro-verse">无赌言语愿吉祥，</p>
+<p class="intro-verse">无堵言语愿吉祥，</p>
 <p class="intro-verse">总六道众愿吉祥，</p>
 <p class="intro-verse">特别此众愿吉祥。</p>
 <p class="bo-verse">འབྲས་བུ་ཕྱག་རྒྱ་ཆེན་པོ་ལ་འཁྲུལ་པ་མེད། །</p>

@@ -177,7 +177,7 @@ aside: false
 
 <p class="v-zh tight">清净九龙水，如是我灌浴。</p>
 
-<p class="v-zh">嗡 萨瓦达它噶达 阿悲肯尕代 萨玛雅 西日耶哄！</p>
+<p class="v-zh">嗡 萨瓦达它噶达 阿悲肯尕代 萨玛雅 西日耶吽！</p>
 
 <p class="v-bo">ཞེས་པས་ཁྲུས་གསོལ་ནས།</p>
 

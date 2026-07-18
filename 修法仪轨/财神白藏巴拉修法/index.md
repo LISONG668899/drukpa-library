@@ -33,9 +33,9 @@ aside: false
 
 <p class="v-zh">第一、自生：</p>
 
-<p class="v-zh tight">诸佛正法圣僧众，直⾄菩提我皈依，</p>
+<p class="v-zh tight">诸佛正法圣僧众，直至菩提我皈依，</p>
 
-<p class="v-zh tight">以我修行之功德，为利众⽣愿成佛。</p>
+<p class="v-zh tight">以我修行之功德，为利众生愿成佛。</p>
 
 <p class="v-zh">如此从内心深处念三遍皈依和发心。</p>
 

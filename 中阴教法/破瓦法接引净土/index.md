@@ -21,7 +21,7 @@ aside: false
 
 <p class="v-zh tight">光体之相中脉内，</p>
 
-<p class="v-zh tight">心识观为红哄字，</p>
+<p class="v-zh tight">心识观为红吽字，</p>
 
 <p class="v-zh">头顶观想上师尊。</p>
 
@@ -81,9 +81,9 @@ aside: false
 
 <p class="v-bo">དེ་བདེ་བ་ཅན་དུ་སོང་བར་འགྱུར། །</p>
 
-<p class="v-zh tight">圣善知识喊哄故，</p>
+<p class="v-zh tight">圣善知识喊吽故，</p>
 
-<p class="v-zh tight">心哄之相逐步升，</p>
+<p class="v-zh tight">心吽之相逐步升，</p>
 
 <p class="v-zh tight">融入上师心间后，</p>
 
