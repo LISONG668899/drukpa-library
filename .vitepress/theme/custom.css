@@ -628,9 +628,11 @@
 .qtzl-mod .v-bo.tight{margin-bottom:3px}
 .qtzl-mod .signoff{font-size:14px;color:var(--vp-c-text-2);text-align:center !important;text-indent:0;margin:18px 0 0}
 
-/* 章节小标题（分类大纲用，居中加粗，段落之间大间距分组）*/
-.qtzl-mod .kp-c{font-size:19px;font-weight:700;line-height:1.7;text-align:center !important;text-indent:0;margin:36px 0 4px;color:var(--vp-c-text-1)}
-.qtzl-mod .kp-c.first{margin-top:0}
+/* 章节小标题（分类大纲用，居中加粗）：紧跟在自己配对的藏文小标题(.v-bo.group-head)后面，
+   只用小间距；真正分隔"新的一组"的大间距，放在 .v-bo.group-head 的 margin-top 上，
+   避免大间距落在同一组的藏文行与中文行之间。*/
+.qtzl-mod .kp-c{font-size:19px;font-weight:700;line-height:1.7;text-align:center !important;text-indent:0;margin:4px 0 4px;color:var(--vp-c-text-1)}
+.qtzl-mod .v-bo.group-head{margin-top:36px}
 
 /* 小字注释（如"均属圆满次第的范畴。"），藏文版复用同一class需要藏文字体 */
 .qtzl-mod .note{font-size:15px;line-height:1.7;color:var(--vp-c-text-2);text-align:center !important;text-indent:0;margin:8px 0 0}

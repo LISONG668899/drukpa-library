@@ -9,7 +9,7 @@ aside: false
 
 <h1 class="intro-title solo">竹巴噶举不共窍诀法类</h1>
 
-<p class="v-bo">སྟོད་འབྲུག་གི་ཁྲིད་ཆེན་བརྒྱད།</p>
+<p class="v-bo group-head">སྟོད་འབྲུག་གི་ཁྲིད་ཆེན་བརྒྱད།</p>
 
 <p class="kp-c first">上竹巴之《八大引导文》</p>
 
@@ -31,7 +31,7 @@ aside: false
 <p class="v-zh tight">8、因果缘起之引导</p>
 <p class="note">均属圆满次第的范畴。</p>
 
-<p class="v-bo">སྨད་འབྲུག་གི་ཐུབ་པ་ལྔ་ལྡན།</p>
+<p class="v-bo group-head">སྨད་འབྲུག་གི་ཐུབ་པ་ལྔ་ལྡན།</p>
 
 <p class="kp-c">下竹巴之《五堪耐引导文》</p>
 
@@ -47,7 +47,7 @@ aside: false
 <p class="v-zh tight">5、对治堪耐诸缘之引导</p>
 <p class="note">均属圆满次第的范畴。</p>
 
-<p class="v-bo">བར་འབྲུག་གི་དགེ་སྦྱོར་བདུན་མ།</p>
+<p class="v-bo group-head">བར་འབྲུག་གི་དགེ་སྦྱོར་བདུན་མ།</p>
 
 <p class="kp-c">中竹巴之《七善行法》</p>
 
@@ -68,7 +68,7 @@ aside: false
 <p class="note">以上各条均包含两种修法，共计十四种修法。</p>
 <p class="note">均属圆满次第的范畴。</p>
 
-<p class="v-bo">གདམ་ངག་བཀའ་རྒྱ་ཅན་ལྔ།</p>
+<p class="v-bo group-head">གདམ་ངག་བཀའ་རྒྱ་ཅན་ལྔ།</p>
 
 <p class="kp-c">竹巴法嗣系《五种秘密窍诀法》</p>
 
@@ -84,7 +84,7 @@ aside: false
 <p class="v-zh tight">5、《上师瑜伽》主要为“总修”</p>
 <p class="note">均属圆满次第的范畴。</p>
 
-<p class="v-bo">སྒྲུབ་ཐབས་སྐོར་ལྔ།</p>
+<p class="v-bo group-head">སྒྲུབ་ཐབས་སྐོར་ལྔ།</p>
 
 <p class="kp-c">竹巴《修法五类》</p>
 
@@ -99,7 +99,7 @@ aside: false
 <p class="v-bo tight">༥༽ བྱ་རོག་མ་བསྟན་སྲུང་གི་སྐོར་རོ། །</p>
 <p class="v-zh tight">5、四臂玛哈嘎拉护法类</p>
 
-<p class="v-bo">འཕྲལ་དགོས་ཆོས་བཞི།</p>
+<p class="v-bo group-head">འཕྲལ་དགོས་ཆོས་བཞི།</p>
 
 <p class="kp-c">竹巴《四部急需实修法》</p>
 
