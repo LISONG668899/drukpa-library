@@ -1,5 +1,4 @@
-\---
-
+---
 layout: page
 title: 祖师简介
 ---
@@ -106,4 +105,4 @@ title: 祖师简介
   .ph-card-tib { font-size: 12px; }
   .ph-card-name { font-size: 17px; }
 }
-
+</style>
