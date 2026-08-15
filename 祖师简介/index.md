@@ -1,11 +1,12 @@
----
+\---
+
 layout: page
 title: 祖师简介
 ---
 
 <div class="patriarch-home">
 
-<p class="ph-tib">བརྒྱུད་པའི་བླ་མ་རྣམས་ཀྱི་ངོ་སྤྲོད་མདོར་བསྡུས</p>
+<p class="ph-tib">བླ་མ་གོང་མའི་མཛད་རྣམ་མདོར་བསྡུས</p>
 <h1 class="ph-title">祖师简介</h1>
 
 <div class="ph-grid">
@@ -105,4 +106,4 @@ title: 祖师简介
   .ph-card-tib { font-size: 12px; }
   .ph-card-name { font-size: 17px; }
 }
-</style>
+
