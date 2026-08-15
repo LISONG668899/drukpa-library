@@ -5,16 +5,32 @@ title: 祖师简介
 
 <div class="patriarch-home">
 
-<p class="ph-tib-head">བླ་མ་གོང་མའི་རྣམ་ཐར</p>
 <h1 class="ph-title">祖师简介</h1>
+<p class="ph-sub">竹巴噶举传承上师简介</p>
 
 <div class="ph-grid">
-  <a class="ph-card" href="/祖师简介/帕摩竹巴/"><span class="ph-tib">ཕག་མོ་གྲུ་པ་རྡོ་རྗེ་རྒྱལ་པོ</span><span class="ph-name">帕摩竹巴</span></a>
-  <a class="ph-card" href="/祖师简介/岭钦日巴/"><span class="ph-tib">གླིང་ཆེན་རས་པ་པདྨ་རྡོ་རྗེ</span><span class="ph-name">岭钦日巴</span></a>
-  <a class="ph-card" href="/祖师简介/藏巴甲热/"><span class="ph-tib">གཙང་པ་རྒྱ་རས་ཡེ་ཤེས་རྡོ་རྗེ</span><span class="ph-name">藏巴甲热</span></a>
-  <a class="ph-card" href="/祖师简介/白玛嘎波/"><span class="ph-tib">ཀུན་མཁྱེན་པདྨ་དཀར་པོ</span><span class="ph-name">白玛嘎波</span></a>
-  <a class="ph-card" href="/祖师简介/郭仓巴/"><span class="ph-tib">རྒོད་ཚང་པ་མགོན་པོ་རྡོ་རྗེ</span><span class="ph-name">郭仓巴</span></a>
-  <a class="ph-card" href="/祖师简介/阿德仁波切/"><span class="ph-tib">ཨ་ལྡེའུ་རིན་པོ་ཆེ</span><span class="ph-name">阿德仁波切</span></a>
+  <a class="ph-card" href="/祖师简介/帝洛巴/"><span class="ph-name">帝洛巴</span><span class="ph-desc">噶举派印度初祖</span></a>
+  <a class="ph-card" href="/祖师简介/那若巴/"><span class="ph-name">那若巴</span><span class="ph-desc">噶举派印度二祖</span></a>
+  <a class="ph-card" href="/祖师简介/玛尔巴/"><span class="ph-name">玛尔巴</span><span class="ph-desc">噶举派雪域初祖</span></a>
+  <a class="ph-card" href="/祖师简介/米拉日巴/"><span class="ph-name">米拉日巴</span><span class="ph-desc">噶举派雪域二祖</span></a>
+  <a class="ph-card" href="/祖师简介/冈波巴/"><span class="ph-name">冈波巴</span><span class="ph-desc">达波噶举创始人</span></a>
+  <a class="ph-card" href="/祖师简介/热穹巴/"><span class="ph-name">热穹巴</span><span class="ph-desc">米拉日巴心子</span></a>
+  <a class="ph-card" href="/祖师简介/帕摩竹巴/"><span class="ph-name">帕摩竹巴</span><span class="ph-desc">帕竹噶举开山祖师</span></a>
+  <a class="ph-card" href="/祖师简介/岭钦日巴/"><span class="ph-name">岭钦日巴</span><span class="ph-desc">岭日噶举创始人</span></a>
+  <a class="ph-card" href="/祖师简介/藏巴甲热/"><span class="ph-name">藏巴甲热</span><span class="ph-desc">第一世嘉旺竹巴法王</span></a>
+  <a class="ph-card" href="/祖师简介/翁惹达玛森格/"><span class="ph-name">翁惹达玛森格</span><span class="ph-desc">竹巴法嗣系传承持有者</span></a>
+  <a class="ph-card" href="/祖师简介/郭仓巴/"><span class="ph-name">郭仓巴</span><span class="ph-desc">上竹巴开创祖师</span></a>
+  <a class="ph-card" href="/祖师简介/嘉瓦洛热巴/"><span class="ph-name">嘉瓦洛热巴</span><span class="ph-desc">下竹巴开创祖师</span></a>
+  <a class="ph-card" href="/祖师简介/嘉旺更嘎巴觉/"><span class="ph-name">嘉旺更嘎巴觉</span><span class="ph-desc">第二世嘉旺竹巴法王</span></a>
+  <a class="ph-card" href="/祖师简介/白玛嘎波/"><span class="ph-name">白玛嘎波</span><span class="ph-desc">第四世嘉旺竹巴法王</span></a>
+  <a class="ph-card" href="/祖师简介/夏仲阿旺南嘉/"><span class="ph-name">夏仲阿旺南嘉</span><span class="ph-desc">不丹立国祖师</span></a>
+  <a class="ph-card" href="/祖师简介/竹巴衮列/"><span class="ph-name">竹巴衮列</span><span class="ph-desc">雪域疯圣</span></a>
+  <a class="ph-card" href="/祖师简介/夏仲确吉恭波/"><span class="ph-name">夏仲确吉恭波</span><span class="ph-desc">第一世穹恭仁波切</span></a>
+  <a class="ph-card" href="/祖师简介/拉泽瓦/"><span class="ph-name">拉泽瓦</span><span class="ph-desc">第一世永增仁波切</span></a>
+  <a class="ph-card" href="/祖师简介/达仓热巴/"><span class="ph-name">达仓热巴</span><span class="ph-desc">拉达克护法大士</span></a>
+  <a class="ph-card" href="/祖师简介/康珠噶玛登佩/"><span class="ph-name">康珠噶玛登佩</span><span class="ph-desc">第一世康珠仁波切</span></a>
+  <a class="ph-card" href="/祖师简介/夏加师利/"><span class="ph-name">夏加师利</span><span class="ph-desc">近代大瑜伽士</span></a>
+  <a class="ph-card" href="/祖师简介/阿德仁波切/"><span class="ph-name">阿德仁波切</span><span class="ph-desc">当代竹巴传承持有者</span></a>
 </div>
 
 </div>
@@ -25,21 +41,19 @@ title: 祖师简介
   margin: 0 auto;
   padding: 40px 20px 64px;
 }
-.ph-tib-head {
-  text-align: center;
-  font-family: "Noto Serif Tibetan Web", "Noto Serif Tibetan", serif;
-  font-size: 18px;
-  line-height: 1.5;
-  color: var(--vp-c-text-2);
-  margin: 0 0 6px;
-}
 .ph-title {
   text-align: center;
   font-size: 30px;
   font-weight: 700;
   border: 0;
-  margin: 0 0 36px;
+  margin: 0 0 6px;
   letter-spacing: 2px;
+}
+.ph-sub {
+  text-align: center;
+  font-size: 15px;
+  color: var(--vp-c-text-2);
+  margin: 0 0 36px;
 }
 .ph-grid {
   display: grid;
@@ -72,22 +86,19 @@ title: 祖师简介
 .ph-card:hover .ph-name {
   color: #b06a43;
 }
-.ph-tib {
-  display: block;
-  font-family: "Noto Serif Tibetan Web", "Noto Serif Tibetan", serif;
+.ph-desc {
+  margin-top: 8px;
   font-size: 13px;
-  line-height: 1.4;
   color: var(--vp-c-text-3);
-  margin-bottom: 4px;
-  letter-spacing: 0;
+  letter-spacing: .5px;
 }
 @media (max-width: 640px) {
   .patriarch-home { padding: 28px 16px 48px; }
-  .ph-tib-head { font-size: 16px; }
   .ph-title { font-size: 25px; }
+  .ph-sub { margin-bottom: 28px; }
   .ph-grid { gap: 12px; }
   .ph-card { padding: 22px 12px; border-radius: 14px; }
   .ph-name { font-size: 18px; }
-  .ph-tib { font-size: 11px; }
+  .ph-desc { font-size: 12px; }
 }
 </style>

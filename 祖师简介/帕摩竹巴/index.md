@@ -15,7 +15,13 @@ layout: page
 
 <p class="intro-body">此后十余年间，他在康区先后追随十六位不同上师系统修学显宗经典，熟读《入行论》《般若经》，未满十九岁便能独立为信众讲经说法，在当地已有不小名望。</p>
 
-<p class="intro-body">十九岁时，他随同富商侍从前往卫藏深造，开启广泛参学之路：在堆隆从格西嘉玛哇、恰巴却吉僧格研习中观、因明，夯实显教义理；专程前往萨迦，拜萨迦初祖萨钦·贡嘎宁布学习萨迦道果教法；同时涉猎宁玛派大圆满、噶当派道次第等多种传承，显密根基极为广博。</p>
+<p class="intro-body">十九岁时，他随同富商侍从前往卫藏深造，开启广泛参学之路：</p>
+
+<p class="intro-body">在堆隆从格西嘉玛哇、恰巴却吉僧格研习中观、因明，夯实显教义理；</p>
+
+<p class="intro-body">专程前往萨迦，拜萨迦初祖萨钦·贡嘎宁布学习萨迦道果教法；</p>
+
+<p class="intro-body">同时涉猎宁玛派大圆满、噶当派道次第等多种传承，显密根基极为广博。</p>
 
 <p class="intro-body">多方学习之后，他虽通晓诸宗，内心却始终期盼求得直指心性的大手印实修法门。四十岁出头，他与向蔡巴结伴前往冈波寺，专程拜见当时已声名远扬的冈波巴大师。</p>
 
@@ -31,11 +37,13 @@ layout: page
 
 <p class="intro-body">他的教法核心特色，是融合噶当派循序渐进的显教道次第，与米拉日巴一脉顿修的大手印密法，走显密双修、戒定慧一体的实修道路，不偏空谈理论，极重视日常实修体验。代表作《午姿论》完整阐释这套融合教法，另有《道歌集》《总持陀罗尼》等数十卷著作流传，民族文化宫至今收藏有其典籍手抄本。</p>
 
+<p class="intro-sign">古普·钦哲仁波切编著。</p>
+
 </div>
 
 <style>
 .intro-page { max-width: 720px; margin: 0 auto; padding: 24px 28px 48px; }
-.intro-title { text-align: center; border: 0; font-size: 26px; margin: 8px 0 34px !important; padding-top: 0; }
+.intro-title { text-align: center; border: 0; font-size: 26px; margin: 8px 0 24px; padding-top: 0; }
 .intro-author { text-align: center; font-size: 15px; color: var(--vp-c-text-2); margin: 0 0 28px; }
 .intro-verse { text-align: center; font-size: 16px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 40px; }
 .intro-sub { font-size: 18px; font-weight: 600; text-indent: 0; color: var(--vp-c-text-1); margin: 28px 0 12px; }
