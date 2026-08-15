@@ -5,6 +5,7 @@ layout: page
 
 <div class="intro-page">
 
+<p class="intro-title-bo">རྗེ་བཙུན་མི་ལ་རས་པ</p>
 <h1 class="intro-title">米拉日巴尊者简介</h1>
 
 <p class="intro-body">米拉日巴（1040‑1123），本名米拉·脱巴噶，尊称米拉日巴，是藏传佛教噶举派雪域第二祖，雪域一代旷世大成就者，最具代表性的实修瑜伽士。承接玛尔巴大译师的清净法脉，以极致苦行、清净实证、道歌弘法闻名于世，是噶举传承中将大手印与那若六法圆满融合修行的典范祖师。</p>
@@ -29,7 +30,8 @@ layout: page
 
 <style>
 .intro-page { max-width: 720px; margin: 0 auto; padding: 24px 28px 48px; }
-.intro-title { text-align: center; border: 0; font-size: 26px; margin: 8px 0 24px; padding-top: 0; }
+.intro-title-bo { text-align: center; font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base), serif; font-size: 18px; line-height: 1.6; color: var(--vp-c-text-2); margin: 0 0 8px; }
+.intro-title { text-align: center; border: 0; font-size: 26px; margin: 0 0 24px; padding-top: 0; }
 .intro-author { text-align: center; font-size: 15px; color: var(--vp-c-text-2); margin: 0 0 28px; }
 .intro-verse { text-align: center; font-size: 16px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 40px; }
 .intro-sub { font-size: 18px; font-weight: 600; text-indent: 0; color: var(--vp-c-text-1); margin: 28px 0 12px; }
@@ -37,6 +39,7 @@ layout: page
 .intro-sign { text-align: right; text-indent: 0; font-size: 15px; color: var(--vp-c-text-2); margin: 36px 0 0; }
 @media (max-width: 640px) {
   .intro-page { padding: 20px 20px 40px; }
+  .intro-title-bo { font-size: 16px; }
   .intro-title { font-size: 22px; }
   .intro-body, .intro-sub { font-size: 17px; }
   .intro-verse { font-size: 16px; }

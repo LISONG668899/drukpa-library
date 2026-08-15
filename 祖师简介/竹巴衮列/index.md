@@ -5,6 +5,7 @@ layout: page
 
 <div class="intro-page">
 
+<p class="intro-title-bo">འབྲུག་པ་ཀུན་ལེགས</p>
 <h1 class="intro-title">竹巴衮列简介</h1>
 
 <p class="intro-body">竹巴衮列，本名衮噶列贝班觉桑波（1455‑1529），是竹巴噶举传承史上最为传奇的大成就瑜伽士，被后世尊为雪域“疯圣”，亦是不丹全境最受尊崇的圣者，千百年来广受藏地与喜马拉雅区域信众敬仰。尊者行持自在不羁、弘法善巧无碍，以超凡的证量与独特的度化方式，破除修行界的形式执着与伪善习气，成为竹巴噶举实修传承中极具代表性的里程碑式祖师。</p>
@@ -25,7 +26,8 @@ layout: page
 
 <style>
 .intro-page { max-width: 720px; margin: 0 auto; padding: 24px 28px 48px; }
-.intro-title { text-align: center; border: 0; font-size: 26px; margin: 8px 0 24px; padding-top: 0; }
+.intro-title-bo { text-align: center; font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base), serif; font-size: 18px; line-height: 1.6; color: var(--vp-c-text-2); margin: 0 0 8px; }
+.intro-title { text-align: center; border: 0; font-size: 26px; margin: 0 0 24px; padding-top: 0; }
 .intro-author { text-align: center; font-size: 15px; color: var(--vp-c-text-2); margin: 0 0 28px; }
 .intro-verse { text-align: center; font-size: 16px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 40px; }
 .intro-sub { font-size: 18px; font-weight: 600; text-indent: 0; color: var(--vp-c-text-1); margin: 28px 0 12px; }
@@ -33,6 +35,7 @@ layout: page
 .intro-sign { text-align: right; text-indent: 0; font-size: 15px; color: var(--vp-c-text-2); margin: 36px 0 0; }
 @media (max-width: 640px) {
   .intro-page { padding: 20px 20px 40px; }
+  .intro-title-bo { font-size: 16px; }
   .intro-title { font-size: 22px; }
   .intro-body, .intro-sub { font-size: 17px; }
   .intro-verse { font-size: 16px; }

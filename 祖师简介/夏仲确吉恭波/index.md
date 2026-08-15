@@ -5,6 +5,7 @@ layout: page
 
 <div class="intro-page">
 
+<p class="intro-title-bo">ཞབས་དྲུང་ཆོས་ཀྱི་མགོན་པོ</p>
 <h1 class="intro-title">夏仲·确吉恭波简介</h1>
 
 <p class="intro-body">夏仲·确吉恭波（1501‑1582），即第一世穹恭仁波切，是十六世纪竹巴噶举极为重要的大成就祖师，穹恭传承的开创者。后世将他与第一世永增仁波切拉泽瓦·昂旺桑波并称为竹巴噶举“夏、永”二大祖师，喻为教派的日月双尊，对竹巴噶举教法的保存与弘扬居功至伟。尊者又享有“扎日圣地金刚持”的美誉，以毕生严谨实修、极高的修证量闻名雪域。</p>
@@ -21,7 +22,8 @@ layout: page
 
 <style>
 .intro-page { max-width: 720px; margin: 0 auto; padding: 24px 28px 48px; }
-.intro-title { text-align: center; border: 0; font-size: 26px; margin: 8px 0 24px; padding-top: 0; }
+.intro-title-bo { text-align: center; font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base), serif; font-size: 18px; line-height: 1.6; color: var(--vp-c-text-2); margin: 0 0 8px; }
+.intro-title { text-align: center; border: 0; font-size: 26px; margin: 0 0 24px; padding-top: 0; }
 .intro-author { text-align: center; font-size: 15px; color: var(--vp-c-text-2); margin: 0 0 28px; }
 .intro-verse { text-align: center; font-size: 16px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 40px; }
 .intro-sub { font-size: 18px; font-weight: 600; text-indent: 0; color: var(--vp-c-text-1); margin: 28px 0 12px; }
@@ -29,6 +31,7 @@ layout: page
 .intro-sign { text-align: right; text-indent: 0; font-size: 15px; color: var(--vp-c-text-2); margin: 36px 0 0; }
 @media (max-width: 640px) {
   .intro-page { padding: 20px 20px 40px; }
+  .intro-title-bo { font-size: 16px; }
   .intro-title { font-size: 22px; }
   .intro-body, .intro-sub { font-size: 17px; }
   .intro-verse { font-size: 16px; }

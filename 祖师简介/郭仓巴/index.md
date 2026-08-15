@@ -5,6 +5,7 @@ layout: page
 
 <div class="intro-page">
 
+<p class="intro-title-bo">རྒྱལ་བ་རྒོད་ཚང་པ</p>
 <h1 class="intro-title">嘉瓦郭仓巴尊者简介</h1>
 
 <p class="intro-body">嘉瓦郭仓巴·衮波多杰（1189—1258），是竹巴噶举著名的大成就苦行尊者，为上竹巴法系的开创祖师。其所创立的上竹巴传承，与热龙寺祖庭主座法嗣系、中竹巴系、下竹巴系，共同构成竹巴噶举四大正统传承体系，教法纯粹、实修殊胜，深远利益雪域无量修行者。</p>
@@ -31,7 +32,8 @@ layout: page
 
 <style>
 .intro-page { max-width: 720px; margin: 0 auto; padding: 24px 28px 48px; }
-.intro-title { text-align: center; border: 0; font-size: 26px; margin: 8px 0 24px; padding-top: 0; }
+.intro-title-bo { text-align: center; font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base), serif; font-size: 18px; line-height: 1.6; color: var(--vp-c-text-2); margin: 0 0 8px; }
+.intro-title { text-align: center; border: 0; font-size: 26px; margin: 0 0 24px; padding-top: 0; }
 .intro-author { text-align: center; font-size: 15px; color: var(--vp-c-text-2); margin: 0 0 28px; }
 .intro-verse { text-align: center; font-size: 16px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 40px; }
 .intro-sub { font-size: 18px; font-weight: 600; text-indent: 0; color: var(--vp-c-text-1); margin: 28px 0 12px; }
@@ -39,6 +41,7 @@ layout: page
 .intro-sign { text-align: right; text-indent: 0; font-size: 15px; color: var(--vp-c-text-2); margin: 36px 0 0; }
 @media (max-width: 640px) {
   .intro-page { padding: 20px 20px 40px; }
+  .intro-title-bo { font-size: 16px; }
   .intro-title { font-size: 22px; }
   .intro-body, .intro-sub { font-size: 17px; }
   .intro-verse { font-size: 16px; }

@@ -5,6 +5,7 @@ layout: page
 
 <div class="intro-page">
 
+<p class="intro-title-bo">གྲུབ་ཆེན་ནཱ་རོ་པཎ་ཆེན</p>
 <h1 class="intro-title">那若巴尊者简介</h1>
 
 <p class="intro-body">那若巴（1016‑1100），印度八十四大成就者之一，藏传佛教噶举派印度第二祖，承接帝洛巴的大手印法脉，是连接印度密教与雪域噶举传承至关重要的一代宗师。尊者出生于东印度孟加拉的婆罗门贵族家庭，自幼天资聪颖，遍学世间典籍，年少便通达五明。成年之后看破世间轮回，放下世俗姻缘，剃度出家受具足戒，深入研习显密教法。他进入当时印度最高学府那烂陀寺修学，学识超群，辩才无碍，被推举为那烂陀寺北门护持大班智达，同时也在超岩寺讲传密续，成为当时印度远近闻名的佛法大师。</p>
@@ -27,7 +28,8 @@ layout: page
 
 <style>
 .intro-page { max-width: 720px; margin: 0 auto; padding: 24px 28px 48px; }
-.intro-title { text-align: center; border: 0; font-size: 26px; margin: 8px 0 24px; padding-top: 0; }
+.intro-title-bo { text-align: center; font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base), serif; font-size: 18px; line-height: 1.6; color: var(--vp-c-text-2); margin: 0 0 8px; }
+.intro-title { text-align: center; border: 0; font-size: 26px; margin: 0 0 24px; padding-top: 0; }
 .intro-author { text-align: center; font-size: 15px; color: var(--vp-c-text-2); margin: 0 0 28px; }
 .intro-verse { text-align: center; font-size: 16px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 40px; }
 .intro-sub { font-size: 18px; font-weight: 600; text-indent: 0; color: var(--vp-c-text-1); margin: 28px 0 12px; }
@@ -35,6 +37,7 @@ layout: page
 .intro-sign { text-align: right; text-indent: 0; font-size: 15px; color: var(--vp-c-text-2); margin: 36px 0 0; }
 @media (max-width: 640px) {
   .intro-page { padding: 20px 20px 40px; }
+  .intro-title-bo { font-size: 16px; }
   .intro-title { font-size: 22px; }
   .intro-body, .intro-sub { font-size: 17px; }
   .intro-verse { font-size: 16px; }

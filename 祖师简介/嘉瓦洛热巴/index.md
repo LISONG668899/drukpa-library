@@ -5,6 +5,7 @@ layout: page
 
 <div class="intro-page">
 
+<p class="intro-title-bo">རྒྱལ་བ་ལོ་རས་པ</p>
 <h1 class="intro-title">嘉瓦洛热巴简介</h1>
 
 <p class="intro-body">洛热巴·旺素尊珠（1187‑1250），为竹巴噶举下竹巴支系的开创祖师，与上竹巴创始人郭仓巴·贡布多杰同为竹巴噶举大宗师藏巴甲热·耶西多杰的两大心子，在早期竹巴噶举传承之中占有极为关键的地位。尊者出身雄地扎钦的洛囊家族，“洛热巴”一名便源自其家族名号，“热巴”是对苦行瑜伽士的尊称，代表他长期修持拙火获得殊胜体验，可以单布衣抵御严寒。</p>
@@ -23,7 +24,8 @@ layout: page
 
 <style>
 .intro-page { max-width: 720px; margin: 0 auto; padding: 24px 28px 48px; }
-.intro-title { text-align: center; border: 0; font-size: 26px; margin: 8px 0 24px; padding-top: 0; }
+.intro-title-bo { text-align: center; font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base), serif; font-size: 18px; line-height: 1.6; color: var(--vp-c-text-2); margin: 0 0 8px; }
+.intro-title { text-align: center; border: 0; font-size: 26px; margin: 0 0 24px; padding-top: 0; }
 .intro-author { text-align: center; font-size: 15px; color: var(--vp-c-text-2); margin: 0 0 28px; }
 .intro-verse { text-align: center; font-size: 16px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 40px; }
 .intro-sub { font-size: 18px; font-weight: 600; text-indent: 0; color: var(--vp-c-text-1); margin: 28px 0 12px; }
@@ -31,6 +33,7 @@ layout: page
 .intro-sign { text-align: right; text-indent: 0; font-size: 15px; color: var(--vp-c-text-2); margin: 36px 0 0; }
 @media (max-width: 640px) {
   .intro-page { padding: 20px 20px 40px; }
+  .intro-title-bo { font-size: 16px; }
   .intro-title { font-size: 22px; }
   .intro-body, .intro-sub { font-size: 17px; }
   .intro-verse { font-size: 16px; }

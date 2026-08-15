@@ -5,6 +5,7 @@ layout: page
 
 <div class="intro-page">
 
+<p class="intro-title-bo">ཏིལླི་པ་ཤེས་རབ་བཟང་པོ</p>
 <h1 class="intro-title">帝洛巴尊者简介</h1>
 
 <p class="intro-body">帝洛巴（988—1069），是印度八十四大成就者之一，为藏传佛教噶举派印度初祖，亦是无上大手印教法的根本源头，被后世尊为“噶举之父”。尊者降生东印度孟加拉地区婆罗门世家，幼年博学多闻，通晓各类世间典籍。成年后深厌轮回、心生出离，于索马普里寺院正式出家受戒，法名般若巴札，精研显教经律论三藏，通达大小乘义理，成为德行与学识兼备的三藏大法师。</p>
@@ -29,7 +30,8 @@ layout: page
 
 <style>
 .intro-page { max-width: 720px; margin: 0 auto; padding: 24px 28px 48px; }
-.intro-title { text-align: center; border: 0; font-size: 26px; margin: 8px 0 24px; padding-top: 0; }
+.intro-title-bo { text-align: center; font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base), serif; font-size: 18px; line-height: 1.6; color: var(--vp-c-text-2); margin: 0 0 8px; }
+.intro-title { text-align: center; border: 0; font-size: 26px; margin: 0 0 24px; padding-top: 0; }
 .intro-author { text-align: center; font-size: 15px; color: var(--vp-c-text-2); margin: 0 0 28px; }
 .intro-verse { text-align: center; font-size: 16px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 40px; }
 .intro-sub { font-size: 18px; font-weight: 600; text-indent: 0; color: var(--vp-c-text-1); margin: 28px 0 12px; }
@@ -37,6 +39,7 @@ layout: page
 .intro-sign { text-align: right; text-indent: 0; font-size: 15px; color: var(--vp-c-text-2); margin: 36px 0 0; }
 @media (max-width: 640px) {
   .intro-page { padding: 20px 20px 40px; }
+  .intro-title-bo { font-size: 16px; }
   .intro-title { font-size: 22px; }
   .intro-body, .intro-sub { font-size: 17px; }
   .intro-verse { font-size: 16px; }
