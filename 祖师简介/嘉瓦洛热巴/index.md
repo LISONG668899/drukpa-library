@@ -24,8 +24,8 @@ layout: page
 
 <style>
 .intro-page { max-width: 720px; margin: 0 auto; padding: 24px 28px 48px; }
-.intro-title-bo { text-align: center; font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base), serif; font-size: 18px; line-height: 1.6; color: var(--vp-c-text-2); margin: 0 0 8px; }
-.intro-title { text-align: center; border: 0; font-size: 26px; margin: 0 0 24px; padding-top: 0; }
+.intro-title-bo { text-align: center; font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base), serif; font-size: 18px; line-height: 1.6; color: var(--vp-c-text-2); margin: 0 0 4px; }
+.intro-title { text-align: center; border: 0; font-size: 26px; margin: 0 0 36px; padding-top: 0; }
 .intro-author { text-align: center; font-size: 15px; color: var(--vp-c-text-2); margin: 0 0 28px; }
 .intro-verse { text-align: center; font-size: 16px; line-height: 2.2; color: var(--vp-c-text-1); letter-spacing: 1px; margin: 0 0 40px; }
 .intro-sub { font-size: 18px; font-weight: 600; text-indent: 0; color: var(--vp-c-text-1); margin: 28px 0 12px; }

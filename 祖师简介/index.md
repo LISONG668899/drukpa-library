@@ -7,7 +7,6 @@ title: 祖师简介
 
 <p class="ph-tib">བརྒྱུད་པའི་བླ་མ་རྣམས་ཀྱི་ངོ་སྤྲོད་མདོར་བསྡུས</p>
 <h1 class="ph-title">祖师简介</h1>
-<p class="ph-sub">竹巴噶举传承上师简介</p>
 
 <div class="ph-grid">
   <a class="ph-card" href="/祖师简介/帝洛巴/"><span class="ph-card-tib">ཏིལླི་པ་ཤེས་རབ་བཟང་པོ</span><span class="ph-card-name">帝洛巴尊者</span></a>
@@ -55,14 +54,8 @@ title: 祖师简介
   font-size: 30px;
   font-weight: 700;
   border: 0;
-  margin: 0 0 6px;
-  letter-spacing: 2px;
-}
-.ph-sub {
-  text-align: center;
-  font-size: 15px;
-  color: var(--vp-c-text-2);
   margin: 0 0 36px;
+  letter-spacing: 2px;
 }
 .ph-grid {
   display: grid;
@@ -107,7 +100,6 @@ title: 祖师简介
   .patriarch-home { padding: 28px 16px 48px; }
   .ph-tib { font-size: 16px; }
   .ph-title { font-size: 25px; }
-  .ph-sub { margin-bottom: 28px; }
   .ph-grid { gap: 12px; }
   .ph-card { padding: 20px 12px; border-radius: 14px; }
   .ph-card-tib { font-size: 12px; }
