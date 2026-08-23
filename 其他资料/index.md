@@ -25,6 +25,14 @@ aside: false
     <span class="cat-tib-sm">འབྲུག་པའི་དར་ཆའི་མཚོན་དོན</span>
     <span class="cat-title">竹巴噶举教旗之象征</span>
   </a>
+  <a class="cat-card" href="/其他资料/竹巴缘起法帽之渊源/">
+    <span class="cat-tib-sm">རྟེན་འབྲེལ་ཞྭ་མོའི་འབྱུང་ཁུངས</span>
+    <span class="cat-title">竹巴缘起法帽之渊源</span>
+  </a>
+  <a class="cat-card" href="/其他资料/闻法与修法相关常识/">
+    <span class="cat-tib-sm">ཆོས་ཉན་སྒྲུབ་སྐབས་ཀྱི་ཤེས་བྱ</span>
+    <span class="cat-title">闻法与修法相关常识</span>
+  </a>
 </div>
 
 </div>
