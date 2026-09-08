@@ -2,6 +2,7 @@ import DefaultTheme from 'vitepress/theme'
 import { h } from 'vue'
 import { withBase } from 'vitepress'
 import BackToHome from './BackToHome.vue'
+import ChineseConvert from './ChineseConvert.vue'
 import './custom.css'
 
 export default {
@@ -9,6 +10,7 @@ export default {
   Layout() {
     return h(DefaultTheme.Layout, null, {
       'layout-bottom': () => [
+        h(ChineseConvert),
         h(BackToHome),
         h('footer', { class: 'site-footer' }, [
           h('img', { class: 'site-footer-icon', src: withBase('/copy.png'), alt: '' }),
