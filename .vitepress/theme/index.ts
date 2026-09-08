@@ -9,8 +9,9 @@ export default {
   extends: DefaultTheme,
   Layout() {
     return h(DefaultTheme.Layout, null, {
+      // 简/繁切换按钮：顶部导航栏右侧（参考藏汉佛教精华）
+      'nav-bar-content-after': () => h(ChineseConvert),
       'layout-bottom': () => [
-        h(ChineseConvert),
         h(BackToHome),
         h('footer', { class: 'site-footer' }, [
           h('img', { class: 'site-footer-icon', src: withBase('/copy.png'), alt: '' }),

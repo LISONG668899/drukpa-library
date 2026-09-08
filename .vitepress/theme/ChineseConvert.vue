@@ -1,12 +1,13 @@
 <script setup>
 import { ref, onMounted, onUnmounted } from 'vue'
-import { withBase } from 'vitepress'
+import { withBase, onContentUpdated } from 'vitepress'
 
-// 简/繁切换：只转换中文汉字，藏文(U+0F00-0FFF)不受影响。
+// 简/繁切换：只转换中文汉字，藏文(U+0F00-0FFF)绝不受影响。
+// 按钮放在顶部导航栏右侧(nav-bar-content-after 插槽)，全站界面+正文一起转。
 // 转换库为同源静态文件 public/opencc/cn2t.js（不走外部 CDN），点按钮时才懒加载。
 const STORE_KEY = 'zh-variant'                 // 's'=简体 | 't'=繁体
 const SCRIPT_SRC = withBase('/opencc/cn2t.js')
-const TARGET = 'tw'                            // 繁体标准：tw=台湾(裡/麵)；如需canonical标准改为 't'
+const TARGET = 'tw'                            // 繁体标准：tw=台湾(裡/麵)；如需 canonical 标准改为 't'
 
 const mode = ref('s')
 let converter = null
@@ -35,9 +36,7 @@ function loadConverter() {
     s.addEventListener('error', () => reject(new Error('opencc load failed')), { once: true })
   })
 }
-
 function root() { return document.getElementById('app') || document.body }
-
 function eachTextNode(fn) {
   const w = document.createTreeWalker(root(), NodeFilter.SHOW_TEXT, {
     acceptNode(n) {
@@ -51,7 +50,6 @@ function eachTextNode(fn) {
   let n
   while ((n = w.nextNode())) fn(n)
 }
-
 function toTraditional() {
   if (!converter) return
   eachTextNode((n) => {
@@ -60,25 +58,17 @@ function toTraditional() {
     if (n.data !== t) n.data = t
   })
 }
-
 function toSimplified() {
-  eachTextNode((n) => {
-    if (orig.has(n)) { const s = orig.get(n); if (n.data !== s) n.data = s }
-  })
+  eachTextNode((n) => { if (orig.has(n)) { const s = orig.get(n); if (n.data !== s) n.data = s } })
 }
-
-function schedule() {
-  cancelAnimationFrame(raf)
-  raf = requestAnimationFrame(() => requestAnimationFrame(toTraditional))
-}
-
+function schedule() { cancelAnimationFrame(raf); raf = requestAnimationFrame(() => requestAnimationFrame(toTraditional)) }
 function startObserver() {
   if (observer) return
   observer = new MutationObserver((muts) => {
     if (mode.value !== 't') return
     for (const m of muts) if (m.addedNodes && m.addedNodes.length) { schedule(); return }
   })
-  observer.observe(root(), { childList: true, subtree: true })   // 只监听新增节点(翻页/动态内容),不监听文本改动,避免死循环
+  observer.observe(root(), { childList: true, subtree: true })   // 只监听新增节点(翻页/动态内容)，不监听文本改动，避免死循环
 }
 
 async function toggle() {
@@ -89,13 +79,11 @@ async function toggle() {
 }
 
 onMounted(async () => {
-  let saved = 's'
-  try { saved = localStorage.getItem(STORE_KEY) || 's' } catch (e) {}
-  mode.value = saved === 't' ? 't' : 's'
+  try { mode.value = localStorage.getItem(STORE_KEY) === 't' ? 't' : 's' } catch (e) { mode.value = 's' }
   startObserver()
   if (mode.value === 't') { await loadConverter(); toTraditional() }
 })
-
+onContentUpdated(() => { if (mode.value === 't') schedule() })   // 翻页后把新页面内容补转为繁体
 onUnmounted(() => { if (observer) { observer.disconnect(); observer = null } })
 </script>
 
