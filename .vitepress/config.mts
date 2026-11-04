@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { withPwa } from '@vite-pwa/vitepress'
+import { fileURLToPath, URL } from 'node:url'
 
 const SITE_URL = 'https://DrukpaTrove.org'
 const SITE_TITLE = '竹巴噶举妙法宝箧'
@@ -41,6 +42,20 @@ export default withPwa(defineConfig({
     hostname: SITE_URL
   },
   lastUpdated: true,
+
+  // 用定制的搜索框替换 VitePress 自带的：输入时不弹出结果，按回车才搜索
+  vite: {
+    resolve: {
+      alias: [
+        {
+          find: /^.*\/VPLocalSearchBox\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./components/DrukpaSearchBox.vue', import.meta.url)
+          )
+        }
+      ]
+    }
+  },
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
