@@ -91,6 +91,25 @@ export default withPwa(defineConfig({
         // 默认展开每条结果的正文摘录，方便确认关键词出现在哪里
         detailedView: true,
 
+        // ===== 让整页正文都进入搜索索引 =====
+        // VitePress 只收录 Markdown 标题（# / ##）之后的文字；
+        // 本站文章正文多用 HTML 书写、没有 Markdown 标题，会被整篇漏掉。
+        // 这里在每页开头补一个以页面标题命名的隐形标题，整页内容就都能搜到。
+        _render: (src, env, md) => {
+          const html = md.render(src, env)
+          if (env.frontmatter?.search === false) return ''
+          // 不收录 VitePress 自带的示例页和说明文件
+          if (/^(README|api-examples|markdown-examples)\.md$/i.test(env.relativePath)) return ''
+          const h1 = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)
+          const title = String(
+            env.frontmatter?.title ||
+              (h1 ? h1[1].replace(/<[^>]+>/g, '') : '') ||
+              env.relativePath.replace(/(^|\/)index\.md$/, '').replace(/\.md$/, '') ||
+              '主页'
+          ).trim()
+          return `<h1>${title}<a class="header-anchor" href="#"></a></h1>\n` + html
+        },
+
         // 每次打开搜索框都是空的，不自动带出上次的关键词和结果
         disableQueryPersistence: true,
 

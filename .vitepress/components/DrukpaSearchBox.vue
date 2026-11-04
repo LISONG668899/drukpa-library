@@ -13,7 +13,7 @@ import {
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
 import Mark from 'mark.js/src/vanilla.js'
 import MiniSearch, { type SearchResult } from 'minisearch'
-import { dataSymbol, inBrowser, useRouter } from 'vitepress'
+import { dataSymbol, inBrowser, useRouter, withBase } from 'vitepress'
 import {
   computed,
   createApp,
@@ -99,17 +99,73 @@ const filterText = disableQueryPersistence.value
   ? ref('')
   : useSessionStorage('vitepress:local-search-filter', '')
 
+// 【竹巴定制】简繁支持：跟随网站顶部“简/繁”按钮（localStorage 'zh-variant'）
+const zhMode = ref<'s' | 't'>('s')
+try {
+  zhMode.value = localStorage.getItem('zh-variant') === 't' ? 't' : 's'
+} catch (e) {}
+const submitLabel = computed(() => (zhMode.value === 't' ? '搜尋' : '搜索'))
+
+// 繁→简转换器（public/opencc/t2cn.js），隔离加载，不覆盖全站已用的 window.OpenCC
+let t2s: ((x: string) => string) | null = null
+let t2sLoading: Promise<void> | null = null
+function loadT2S() {
+  if (t2s) return Promise.resolve()
+  if (!t2sLoading) {
+    t2sLoading = fetch(withBase('/opencc/t2cn.js'))
+      .then((r) => r.text())
+      .then((code) => {
+        const mod: any = { exports: {} }
+        new Function('exports', 'module', 'define', code)(mod.exports, mod, undefined)
+        t2s = mod.exports.Converter({ from: 'tw', to: 'cn' })
+      })
+      .catch(() => {
+        t2sLoading = null
+      })
+  }
+  return t2sLoading
+}
+if (zhMode.value === 't') loadT2S()
+
+// 简→繁：借用网站已加载的 window.OpenCC（繁体模式下顶部按钮已加载过它）
+let s2t: ((x: string) => string) | null = null
+function getS2T() {
+  if (s2t) return s2t
+  try {
+    const O = (window as any).OpenCC
+    if (O?.Converter) s2t = O.Converter({ from: 'cn', to: 'tw' })
+  } catch (e) {}
+  return s2t
+}
+function convertModalToTraditional() {
+  if (zhMode.value !== 't' || !el.value) return
+  const conv = getS2T()
+  if (!conv) return
+  const walker = document.createTreeWalker(el.value, NodeFilter.SHOW_TEXT)
+  let n: Node | null
+  while ((n = walker.nextNode())) {
+    const t = n as Text
+    if (/[\u4e00-\u9fff]/.test(t.data)) {
+      const v = conv(t.data)
+      if (v !== t.data) t.data = v
+    }
+  }
+}
+onMounted(() => nextTick(convertModalToTraditional))
+
 // 【竹巴定制】只有按回车才执行搜索；输入过程中不显示任何结果
 const submittedText = ref('')
+// 用户实际输入的文字（繁体模式下与 submittedText 的简体不同）
+const lastTyped = ref('')
 watch(filterText, (v) => {
-  if (v !== submittedText.value) submittedText.value = ''
+  if (v.trim() !== lastTyped.value) {
+    submittedText.value = ''
+    lastTyped.value = ''
+  }
 })
 
-const showDetailedList = useLocalStorage(
-  'vitepress:local-search-detailed-list',
-  theme.value.search?.provider === 'local' &&
-    theme.value.search.options?.detailedView === true
-)
+// 【竹巴定制】始终显示正文摘录（已去掉“详细列表”切换按钮）
+const showDetailedList = ref(true)
 
 const disableDetailedView = computed(() => {
   return (
@@ -218,6 +274,8 @@ debouncedWatch(
             html += el.outerHTML
           map!.set(anchor, html)
         })
+        // 【竹巴定制】没有 Markdown 标题的页面：摘录取整页正文
+        map.set('__page__', div.innerHTML)
         app.unmount()
       }
       if (canceled) return
@@ -230,7 +288,7 @@ debouncedWatch(
     results.value = results.value.map((r) => {
       const [id, anchor] = r.id.split('#')
       const map = cache.get(id)
-      const text = map?.get(anchor) ?? ''
+      const text = map?.get(anchor ?? '__page__') ?? ''
       for (const term in r.match) {
         terms.add(term)
       }
@@ -254,6 +312,7 @@ debouncedWatch(
         .querySelector('mark[data-markjs="true"]')
         ?.scrollIntoView({ block: 'center' })
     }
+    convertModalToTraditional()
     // FIXME: without this whole page scrolls to the bottom
     resultsEl.value?.firstElementChild?.scrollIntoView({ block: 'start' })
   },
@@ -338,9 +397,9 @@ onKeyStroke('Enter', (e) => {
     return
 
   // 【竹巴定制】在输入框里按回车：关键词有变化就先搜索，不跳转
-  if (e.target instanceof HTMLInputElement && filterText.value.trim() !== submittedText.value) {
+  if (e.target instanceof HTMLInputElement && filterText.value.trim() !== lastTyped.value) {
     e.preventDefault()
-    submittedText.value = filterText.value.trim()
+    commitQuery(filterText.value.trim())
     return
   }
 
@@ -409,11 +468,22 @@ onBeforeUnmount(() => {
 
 // 【竹巴定制】点“搜索”按钮或手机键盘上的“搜索”键时执行搜索，
 // 并收起手机键盘，让结果完整露出来
-function submitSearch() {
+async function submitSearch() {
   const v = filterText.value.trim()
   if (!v) return
-  submittedText.value = v
+  await commitQuery(v)
   searchInput.value?.blur()
+}
+
+async function commitQuery(v: string) {
+  if (!v) return
+  const typed = v
+  if (zhMode.value === 't') {
+    await loadT2S()
+    if (t2s) v = t2s(v)
+  }
+  lastTyped.value = typed
+  submittedText.value = v
 }
 
 function resetSearch() {
@@ -496,20 +566,8 @@ function onMouseMove(e: MouseEvent) {
             type="search"
           />
           <div class="search-actions">
-            <button class="submit-button" type="submit">搜索</button>
+            <button class="submit-button" type="submit">{{ submitLabel }}</button>
 
-            <button
-              v-if="!disableDetailedView"
-              class="toggle-layout-button"
-              type="button"
-              :class="{ 'detailed-list': showDetailedList }"
-              :title="translate('modal.displayDetails')"
-              @click="
-                selectedIndex > -1 && (showDetailedList = !showDetailedList)
-              "
-            >
-              <span class="vpi-layout-list local-search-icon" />
-            </button>
 
             <button
               class="clear-button"
@@ -576,8 +634,11 @@ function onMouseMove(e: MouseEvent) {
               </div>
             </a>
           </li>
+          <li v-if="submittedText && !searchIndex" class="no-results">
+            {{ zhMode === 't' ? '正在載入索引，請稍候……' : '正在加载索引，请稍候……' }}
+          </li>
           <li
-            v-if="submittedText && !results.length && enableNoResults"
+            v-else-if="submittedText && !results.length && enableNoResults"
             class="no-results"
           >
             {{ translate('modal.noResultsText') }} "<strong>{{ submittedText }}</strong
@@ -613,6 +674,13 @@ function onMouseMove(e: MouseEvent) {
 
 <style scoped>
 .VPLocalSearchBox {
+  /* 【竹巴定制】网站主色 */
+  --vp-c-brand-1: #b06a43;
+  --vp-c-brand-2: #9a5a37;
+  --vp-c-brand-3: #b06a43;
+  --vp-local-search-highlight-bg: #b06a43;
+  --vp-local-search-highlight-text: #fff;
+  --vp-local-search-result-selected-border: #b06a43;
   position: fixed;
   z-index: 100;
   inset: 0;
