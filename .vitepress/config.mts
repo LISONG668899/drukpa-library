@@ -76,6 +76,9 @@ export default withPwa(defineConfig({
         // 默认展开每条结果的正文摘录，方便确认关键词出现在哪里
         detailedView: true,
 
+        // 每次打开搜索框都是空的，不自动带出上次的关键词和结果
+        disableQueryPersistence: true,
+
         // ===== 中文/藏文分词 =====
         // VitePress 默认只按空格和标点切词，中文整句连写会变成一个“词”，
         // 所以搜“大手印”往往搜不到。这里改为：汉字切成单字 + 两字组，
