@@ -73,6 +73,67 @@ export default withPwa(defineConfig({
     search: {
       provider: 'local',
       options: {
+        // 默认展开每条结果的正文摘录，方便确认关键词出现在哪里
+        detailedView: true,
+
+        // ===== 中文/藏文分词 =====
+        // VitePress 默认只按空格和标点切词，中文整句连写会变成一个“词”，
+        // 所以搜“大手印”往往搜不到。这里改为：汉字切成单字 + 两字组，
+        // 藏文按音节点（ཙེག་）切成音节。
+        // 注意：这两个函数会被原样送到浏览器执行，函数内部不能引用外部变量。
+        miniSearch: {
+          options: {
+            // 建索引时用：汉字单字 + 相邻两字
+            tokenize: (text) => {
+              const tokens = []
+              const parts = text.split(/[\n\r\s\p{Z}\p{P}]+/u)
+              for (const part of parts) {
+                if (!part) continue
+                const segs = part.match(/[㐀-鿿豈-﫿]+|[^㐀-鿿豈-﫿]+/g) || []
+                for (const seg of segs) {
+                  if (/^[㐀-鿿豈-﫿]/.test(seg)) {
+                    for (let i = 0; i < seg.length; i++) {
+                      tokens.push(seg[i])
+                      if (i + 1 < seg.length) tokens.push(seg.slice(i, i + 2))
+                    }
+                  } else {
+                    tokens.push(seg)
+                  }
+                }
+              }
+              return tokens
+            }
+          },
+          searchOptions: {
+            // 搜索时用：只取相邻两字（单字查询则用单字），
+            // 并要求全部命中，相当于按连续词组查找
+            tokenize: (text) => {
+              const tokens = []
+              const parts = text.split(/[\n\r\s\p{Z}\p{P}]+/u)
+              for (const part of parts) {
+                if (!part) continue
+                const segs = part.match(/[㐀-鿿豈-﫿]+|[^㐀-鿿豈-﫿]+/g) || []
+                for (const seg of segs) {
+                  if (/^[㐀-鿿豈-﫿]/.test(seg)) {
+                    if (seg.length === 1) {
+                      tokens.push(seg)
+                    } else {
+                      for (let i = 0; i + 1 < seg.length; i++) tokens.push(seg.slice(i, i + 2))
+                    }
+                  } else {
+                    tokens.push(seg)
+                  }
+                }
+              }
+              return tokens
+            },
+            combineWith: 'AND',
+            fuzzy: false,
+            prefix: true,
+            boost: { title: 4, text: 2, titles: 1 }
+          }
+        },
+
         translations: {
           button: { buttonText: '搜索', buttonAriaLabel: '搜索' },
           modal: {
