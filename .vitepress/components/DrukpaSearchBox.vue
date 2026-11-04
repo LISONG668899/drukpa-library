@@ -616,7 +616,8 @@ function onMouseMove(e: MouseEvent) {
 .shell {
   position: relative;
   padding: 12px;
-  margin: 64px auto;
+  /* 【竹巴定制】上下居中 */
+  margin: auto;
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -629,11 +630,13 @@ function onMouseMove(e: MouseEvent) {
 
 @media (max-width: 767px) {
   .shell {
-    margin: 0;
-    width: 100vw;
-    height: 100vh;
-    max-height: none;
-    border-radius: 0;
+    /* 【竹巴定制】手机上不再全屏贴顶，改为中间的卡片；
+       放在屏幕约三成高度处，弹出键盘后也不会被挡住 */
+    margin: 28vh auto auto;
+    width: calc(100vw - 24px);
+    height: min-content;
+    max-height: 60vh;
+    border-radius: 10px;
   }
 }
 
@@ -674,6 +677,12 @@ function onMouseMove(e: MouseEvent) {
   .search-icon {
     display: none;
   }
+}
+
+/* 【竹巴定制】隐藏浏览器自带的“×”，避免与右侧清除键重复 */
+.search-input::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  display: none;
 }
 
 .search-input {
