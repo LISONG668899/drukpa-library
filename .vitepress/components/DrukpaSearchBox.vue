@@ -224,6 +224,8 @@ debouncedWatch(
     }
 
     const terms = new Set<string>()
+    // 【竹巴定制】整词高亮：把用户输入的关键词本身也加入，优先整段标亮
+    for (const w of filterTextValue.split(/\s+/)) if (w) terms.add(w)
 
     results.value = results.value.map((r) => {
       const [id, anchor] = r.id.split('#')
@@ -405,6 +407,15 @@ onBeforeUnmount(() => {
   isLocked.value = false
 })
 
+// 【竹巴定制】点“搜索”按钮或手机键盘上的“搜索”键时执行搜索，
+// 并收起手机键盘，让结果完整露出来
+function submitSearch() {
+  const v = filterText.value.trim()
+  if (!v) return
+  submittedText.value = v
+  searchInput.value?.blur()
+}
+
 function resetSearch() {
   filterText.value = ''
   nextTick().then(() => focusSearchInput(false))
@@ -448,7 +459,7 @@ function onMouseMove(e: MouseEvent) {
         <form
           class="search-bar"
           @pointerup="onSearchBarClick($event)"
-          @submit.prevent=""
+          @submit.prevent="submitSearch"
         >
           <label
             :title="buttonText"
@@ -480,11 +491,13 @@ function onMouseMove(e: MouseEvent) {
             id="localsearch-input"
             enterkeyhint="search"
             maxlength="64"
-            placeholder="输入关键词，按回车搜索"
+            placeholder="输入关键词"
             spellcheck="false"
             type="search"
           />
           <div class="search-actions">
+            <button class="submit-button" type="submit">搜索</button>
+
             <button
               v-if="!disableDetailedView"
               class="toggle-layout-button"
@@ -677,6 +690,28 @@ function onMouseMove(e: MouseEvent) {
   .search-icon {
     display: none;
   }
+}
+
+/* 【竹巴定制】“搜索”按钮 */
+.search-actions button.submit-button,
+.search-actions button.submit-button:hover {
+  padding: 0 14px;
+  color: #fff !important;
+}
+
+.submit-button {
+  flex-shrink: 0;
+  margin: 4px 4px 4px 0;
+  height: 32px;
+  border-radius: 4px;
+  background: var(--vp-c-brand-1);
+  font-size: 14px;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.submit-button:hover {
+  background: var(--vp-c-brand-2);
 }
 
 /* 【竹巴定制】隐藏浏览器自带的“×”，避免与右侧清除键重复 */
